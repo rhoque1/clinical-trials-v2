@@ -47,6 +47,7 @@ class WorkflowEngine:
         print(f"\n🔍 Searching trials with {len(patient_profile.get('search_terms', []))} search terms")
         
         # Execute all states
+        # Execute all states
         step_num = 1
         while not agent.is_complete():
             current_state = discovery.get_current_state()
@@ -58,7 +59,7 @@ class WorkflowEngine:
             print(f"   {current_state.description}")
             
             # Build task based on state
-            if current_state.name == "generate_queries":  # Note: name is "generate_queries" not "generate_search_queries"
+            if current_state.name == "generate_queries":
                 # Get the actual diagnosis to pass to LLM
                 diagnoses = patient_profile.get('diagnoses', 'Unknown condition')
                 
@@ -70,25 +71,27 @@ class WorkflowEngine:
                 
                 task = f"""Generate 5 simple, broad clinical trial search queries for this patient.
 
-            PATIENT DIAGNOSIS:
-            {diagnosis_text}
+PATIENT DIAGNOSIS:
+{diagnosis_text}
 
-            INSTRUCTIONS:
-            - Create simple 2-4 word queries
-            - NO specific mutations (like G12D, E545K, R273H)
-            - NO specific biomarker values
-            - Focus on cancer type and general categories
+INSTRUCTIONS:
+- Create simple 2-4 word queries
+- NO specific mutations (like G12D, E545K, R273H)
+- NO specific biomarker values
+- Focus on cancer type and general categories
 
-            Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
-            elif current_state.name == "execute_trial_search":
+Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
+            elif current_state.name == "execute_search":
                 queries = discovery.global_memory.get('search_queries', [])
                 task = f"Execute search for these queries: {queries}"
-            elif current_state.name == "deduplicate_and_filter":
+            elif current_state.name == "deduplicate":
                 task = "Deduplicate trials and filter to active status only"
             elif current_state.name == "rank_trials":
                 trials = discovery.global_memory.get('filtered_trials', [])
-                task = f"Rank {len(trials)} trials against patient profile"
-            elif current_state.name == "prepare_trial_summaries":
+                current_batch = discovery.global_memory.get('current_batch', 0)
+                total_batches = (len(trials) + 9) // 10  # Ceiling division for batches of 10
+                task = f"Rank trials batch {current_batch + 1}/{total_batches} against patient profile"
+            elif current_state.name == "prepare_summaries":
                 task = "Prepare structured summaries of top 10 ranked trials"
             else:
                 task = "Process this state"
@@ -97,19 +100,24 @@ class WorkflowEngine:
             
             # Show progress
             state_result = result.get('state_result', {})
-            if current_state.name == "execute_trial_search":
+            if current_state.name == "execute_search":
                 print(f"   ✅ Found {state_result.get('total_trials_found', 0)} trials")
-            elif current_state.name == "deduplicate_and_filter":
+            elif current_state.name == "deduplicate":
                 print(f"   ✅ {state_result.get('unique_active_trials', 0)} unique active trials")
             elif current_state.name == "rank_trials":
-                print(f"   ✅ Ranked {state_result.get('trials_ranked', 0)} trials")
+                if state_result.get('status') == 'continue':
+                    print(f"   ⏳ Batch {state_result.get('batch_complete')}/{state_result.get('total_batches')} complete...")
+                    # Don't increment step_num, stay on this state
+                    continue  # Skip the step_num increment and loop again
+                else:
+                    print(f"   ✅ Ranked {state_result.get('trials_ranked', 0)} trials")
             else:
                 print(f"   ✅ Completed")
             
             step_num += 1
         
         # Extract results
-        ranked_trials = discovery.global_memory.get('trial_summaries', [])
+            ranked_trials = discovery.global_memory.get('trial_summaries', [])
         
         result = {
             "success": True,

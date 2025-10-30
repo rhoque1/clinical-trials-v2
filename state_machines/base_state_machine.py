@@ -95,7 +95,12 @@ class StateMachine:
         # Update global memory (inheritance)
         self.global_memory.update(result)
         
-        # Determine next state
+        # Check if state wants to continue (for batch processing)
+        if result.get("status") == "continue":
+            # Don't transition - stay on current state for next iteration
+            return result
+        
+        # Determine next state (normal flow)
         next_state = state.get_next_state()
         if next_state:
             self.transition_to(next_state)

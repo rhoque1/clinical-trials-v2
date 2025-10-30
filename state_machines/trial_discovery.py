@@ -11,43 +11,43 @@ class GenerateSearchQueriesState(State):
         
         return """You are a clinical trial search query optimizer for ClinicalTrials.gov.
 
-    You will receive patient diagnosis information in the task.
+You will receive patient diagnosis information in the task.
 
-    YOUR TASK: Generate EXACTLY 5 simple, broad search queries.
+YOUR TASK: Generate EXACTLY 5 simple, broad search queries.
 
-    MANDATORY RULES - NO EXCEPTIONS:
-    1. Use ONLY 2-4 words per query
-    2. NO specific biomarkers (PIK3CA, TP53, KRAS mutation variants like G12D, etc.)
-    3. NO specific mutations or molecular details
-    4. NO virus subtypes (HPV-16, HPV-18) - use "HPV positive" if needed
-    5. NO stage details (IIIB, IVA) - use "advanced" or "locally advanced"
-    6. ALWAYS include the primary cancer type
+MANDATORY RULES - NO EXCEPTIONS:
+1. Use ONLY 2-4 words per query
+2. NO specific biomarkers (PIK3CA, TP53, KRAS mutation variants like G12D, etc.)
+3. NO specific mutations or molecular details
+4. NO virus subtypes (HPV-16, HPV-18) - use "HPV positive" if needed
+5. NO stage details (IIIB, IVA) - use "advanced" or "locally advanced"
+6. ALWAYS include the primary cancer type
 
-    QUERY STRUCTURE:
-    Query 1: "[main cancer type]" (e.g., "cervical cancer", "appendiceal cancer")
-    Query 2: "[broader related cancer]" (e.g., "peritoneal cancer", "colorectal cancer")
-    Query 3: "[cancer type] treatment" (e.g., "cervical cancer treatment")
-    Query 4: "[cancer type] [general category]" (e.g., "cervical cancer HPV", "colorectal cancer")
-    Query 5: "[alternative term]" (e.g., "cervical carcinoma", "gastrointestinal cancer")
+QUERY STRUCTURE:
+Query 1: "[main cancer type]" (e.g., "cervical cancer", "appendiceal cancer")
+Query 2: "[broader related cancer]" (e.g., "peritoneal cancer", "colorectal cancer")
+Query 3: "[cancer type] treatment" (e.g., "cervical cancer treatment")
+Query 4: "[cancer type] [general category]" (e.g., "cervical cancer HPV", "colorectal cancer")
+Query 5: "[alternative term]" (e.g., "cervical carcinoma", "gastrointestinal cancer")
 
-    EXAMPLES:
+EXAMPLES:
 
-    For Cervical Cancer:
-    ["cervical cancer", "gynecologic cancer", "cervical cancer treatment", "cervical cancer HPV", "cervical carcinoma"]
+For Cervical Cancer:
+["cervical cancer", "gynecologic cancer", "cervical cancer treatment", "cervical cancer HPV", "cervical carcinoma"]
 
-    For Appendiceal Cancer / Pseudomyxoma Peritonei:
-    ["appendiceal cancer", "peritoneal cancer", "appendiceal adenocarcinoma", "colorectal cancer", "gastrointestinal cancer"]
+For Appendiceal Cancer / Pseudomyxoma Peritonei:
+["appendiceal cancer", "peritoneal cancer", "appendiceal adenocarcinoma", "colorectal cancer", "gastrointestinal cancer"]
 
-    For Breast Cancer:
-    ["breast cancer", "metastatic breast cancer", "breast cancer treatment", "breast carcinoma", "invasive breast cancer"]
+For Breast Cancer:
+["breast cancer", "metastatic breast cancer", "breast cancer treatment", "breast carcinoma", "invasive breast cancer"]
 
-    For Lung Cancer:
-    ["lung cancer", "advanced lung cancer", "lung cancer treatment", "non-small cell lung cancer", "lung carcinoma"]
+For Lung Cancer:
+["lung cancer", "advanced lung cancer", "lung cancer treatment", "non-small cell lung cancer", "lung carcinoma"]
 
-    Return ONLY a JSON array of exactly 5 strings.
-    Format: ["query1", "query2", "query3", "query4", "query5"]
+Return ONLY a JSON array of exactly 5 strings.
+Format: ["query1", "query2", "query3", "query4", "query5"]
 
-    NO explanations, NO markdown, JUST the JSON array."""
+NO explanations, NO markdown, JUST the JSON array."""
 
     def process_input(self, llm_response: str, global_memory: Dict[str, Any]) -> Dict[str, Any]:
         """Parse LLM response into query list"""
@@ -190,7 +190,7 @@ Keep your response brief (1-2 sentences)."""
                 print(f"    → Error: {error_msg}")
         
         print(f"✓ Total trials retrieved: {len(all_trials)}")
-        return {"raw_trials": all_trials}
+        return {"raw_trials": all_trials, "total_trials_found": len(all_trials)}
     
     def get_next_state(self) -> Optional[str]:
         return "deduplicate"
@@ -234,7 +234,10 @@ This is a pass-through state. Keep your response brief (1-2 sentences)."""
         print(f"📊 Deduplication: {len(raw_trials)} → {len(unique_trials)} unique trials")
         print(f"📊 Filtering: {len(unique_trials)} → {len(filtered_trials)} active trials")
         
-        return {"filtered_trials": filtered_trials}
+        return {
+            "filtered_trials": filtered_trials,
+            "unique_active_trials": len(filtered_trials)
+        }
     
     def get_next_state(self) -> Optional[str]:
         return "rank_trials"
@@ -244,127 +247,163 @@ class RankTrialsState(State):
     """State 4: Score and rank trials by relevance"""
     
     def get_instruction(self, context: Dict[str, Any] = None) -> str:
-        # Extract patient context for scoring - HANDLE BOTH STRING AND DICT FORMATS
-        diagnoses = context.get("diagnoses", "") if context else ""
-        biomarkers = context.get("biomarkers", "") if context else ""
+        patient_profile = context.get("patient_profile", {})
+        trials = context.get("filtered_trials", [])
         
-        # Handle diagnoses (could be string or list)
-        if isinstance(diagnoses, list):
-            diagnosis_str = diagnoses[0] if diagnoses else "cancer"
-        elif isinstance(diagnoses, str):
-            # Extract first meaningful line from string
-            lines = [l.strip() for l in diagnoses.split('\n') if l.strip() and not l.strip().startswith('**')]
-            diagnosis_str = lines[0] if lines else "cancer"
-            # Truncate if too long
-            if len(diagnosis_str) > 150:
-                diagnosis_str = diagnosis_str[:150] + "..."
-        else:
-            diagnosis_str = "cancer"
+        # Get first batch of trials (max 10)
+        batch_size = 10
+        current_batch = context.get("current_batch", 0)
+        start_idx = current_batch * batch_size
+        end_idx = min(start_idx + batch_size, len(trials))
+        batch_trials = trials[start_idx:end_idx]
         
-        # Handle biomarkers (could be string or dict)
-        if isinstance(biomarkers, dict):
-            biomarker_str = ", ".join([f"{k}: {v}" for k, v in biomarkers.items()])
-        elif isinstance(biomarkers, str):
-            # Extract key biomarkers from string
-            lines = [l.strip() for l in biomarkers.split('\n') if l.strip() and not l.strip().startswith('**') and not l.strip().startswith('-')]
-            biomarker_str = "; ".join(lines[:3]) if lines else "None"  # First 3 lines
-            # Truncate if too long
-            if len(biomarker_str) > 200:
-                biomarker_str = biomarker_str[:200] + "..."
-        else:
-            biomarker_str = "None"
+        # Format trial information concisely
+        trial_info = []
+        for i, trial in enumerate(batch_trials, start=start_idx + 1):
+            info = f"""
+Trial {i}:
+- NCT ID: {trial.get('nct_id', 'Unknown')}
+- Title: {trial.get('title', 'Unknown')[:100]}
+- Phase: {trial.get('phase', 'Unknown')}
+- Conditions: {', '.join(trial.get('conditions', [])[:3])}
+- Brief: {trial.get('brief_summary', '')[:200]}
+"""
+            trial_info.append(info)
         
-        return f"""You are a clinical trial relevance scorer.
+        diagnoses = str(patient_profile.get('diagnoses', ''))[:500]
+        biomarkers = str(patient_profile.get('biomarkers', ''))[:300]
+        
+        return f"""
+Score these {len(batch_trials)} clinical trials for relevance to the patient profile.
 
-PATIENT CONTEXT:
-- Primary Diagnosis: {diagnosis_str}
-- Key Biomarkers: {biomarker_str}
+PATIENT PROFILE:
+Diagnoses: {diagnoses}
+Biomarkers: {biomarkers}
 
-You will receive trial information. Score each trial's relevance to this patient (0-100 scale).
+TRIALS TO SCORE:
+{''.join(trial_info)}
 
 SCORING CRITERIA:
-- Exact diagnosis/condition match: +40 points
-- Biomarker relevance (targets patient's mutations): +30 points
-- Appropriate trial phase (Phase 2/3 preferred over Phase 1): +15 points
-- Study status (Recruiting > Not Yet Recruiting): +10 points
-- Treatment approach matches patient needs: +5 points
+- Condition match (0-40 points): How well does trial target patient's condition?
+- Biomarker relevance (0-30 points): Does trial require/target patient's biomarkers?
+- Treatment approach (0-20 points): Is treatment mechanism appropriate?
+- Trial phase (0-10 points): Higher phases = more established
 
-CRITICAL: Return ONLY a valid JSON object with NCT IDs as keys and integer scores as values.
-No explanation, no markdown, just the JSON object.
+OUTPUT FORMAT (CRITICAL - Must be valid JSON):
+{{
+  "scores": [
+    {{"trial_index": 1, "score": 85, "reasoning": "Perfect match for condition and biomarkers"}},
+    {{"trial_index": 2, "score": 72, "reasoning": "Good condition match, phase unclear"}},
+    ...
+  ]
+}}
 
-Example format:
-{{"NCT12345678": 85, "NCT87654321": 72, "NCT11111111": 60}}
-
-If you cannot parse a trial, assign it a score of 50."""
-
+Return ONLY the JSON object, nothing else.
+"""
+    
     def process_input(self, llm_response: str, global_memory: Dict[str, Any]) -> Dict[str, Any]:
-
         """Parse scores and rank trials"""
         filtered_trials = global_memory.get("filtered_trials", [])
-
-        # === DEBUG LOGGING ===
-        print("\n" + "="*60)
-        print("DEBUG: RankTrialsState.process_input()")
-        print("="*60)
-        print(f"Number of trials to score: {len(filtered_trials)}")
-        print(f"LLM Response (first 500 chars):\n{llm_response[:500]}")
-        print("="*60 + "\n")
-        # === END DEBUG ===
+        batch_size = 10
+        current_batch = global_memory.get("current_batch", 0)
+        all_scores = global_memory.get("all_trial_scores", [])
         
         try:
+            # === DEBUG LOGGING ===
+            print("\n" + "="*60)
+            print(f"DEBUG: RankTrialsState.process_input() - Batch {current_batch + 1}")
+            print("="*60)
+            print(f"Total trials: {len(filtered_trials)}")
+            print(f"Current batch: {current_batch + 1} of {(len(filtered_trials) + batch_size - 1) // batch_size}")
+            print(f"LLM Response (first 500 chars):\n{llm_response[:500]}")
+            print("="*60 + "\n")
+            # === END DEBUG ===
+            
             # Extract JSON from response
             llm_response = llm_response.strip()
             
             # Remove markdown code blocks if present
-            if "```json" in llm_response:
-                llm_response = llm_response.split("```json")[1].split("```")[0].strip()
-            elif "```" in llm_response:
-                lines = llm_response.split("\n")
-                llm_response = "\n".join([l for l in lines if not l.startswith("```")])
+            if llm_response.startswith('```'):
+                lines = llm_response.split('\n')
+                llm_response = '\n'.join(lines[1:-1])
             
-            scores = json.loads(llm_response)
+            # Parse JSON
+            import json
+            data = json.loads(llm_response)
+            scores_list = data.get('scores', [])
             
-            # Validate scores are a dictionary
-            if not isinstance(scores, dict):
-                raise ValueError("Response is not a dictionary")
-            
-            # Get trials and add scores
-            ranked_trials = []
-            
-            for trial in filtered_trials:
-                nct_id = trial.get("nct_id", "")
-                score = scores.get(nct_id, 50)  # Default score if not in LLM response
+            # Add scores to this batch of trials
+            start_idx = current_batch * batch_size
+            for score_obj in scores_list:
+                # LLM returns trial_index starting at 1 for each batch
+                # We need to map it to the actual position in filtered_trials
+                batch_trial_idx = score_obj.get('trial_index', 0) - 1  # 0-indexed within batch
+                actual_idx = start_idx + batch_trial_idx  # Actual index in full trial list
                 
-                # Ensure score is an integer
-                try:
-                    score = int(score)
-                except (ValueError, TypeError):
-                    score = 50
+                if 0 <= actual_idx < len(filtered_trials):
+                    filtered_trials[actual_idx]['rank_score'] = score_obj.get('score', 50)
+                    filtered_trials[actual_idx]['rank_reasoning'] = score_obj.get('reasoning', '')
+                    all_scores.append({
+                        'index': actual_idx,
+                        'score': score_obj.get('score', 50)
+                    })
+            
+            # Check if we have more batches to process
+            next_batch = current_batch + 1
+            total_batches = (len(filtered_trials) + batch_size - 1) // batch_size
+            
+            if next_batch < total_batches:
+                # More batches to process
+                global_memory['current_batch'] = next_batch
+                global_memory['all_trial_scores'] = all_scores
+                print(f"✓ Batch {current_batch + 1}/{total_batches} scored, continuing...")
+                return {
+                    "status": "continue",
+                    "batch_complete": current_batch + 1,
+                    "total_batches": total_batches
+                }
+            else:
+                # All batches done - finalize ranking
+                print(f"✓ All {total_batches} batches scored!")
                 
-                trial_with_score = trial.copy()
-                trial_with_score["relevance_score"] = score
-                ranked_trials.append(trial_with_score)
-            
-            # Sort by score descending
-            ranked_trials.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
-            
-            print(f"🏆 Ranked {len(ranked_trials)} trials")
-            if ranked_trials:
-                top_score = ranked_trials[0].get('relevance_score', 0)
-                top_title = ranked_trials[0].get('title', 'N/A')[:60]
-                print(f"   Top score: {top_score} - {top_title}")
-            
-            return {"ranked_trials": ranked_trials}
-            
-        except (json.JSONDecodeError, ValueError) as e:
-            # Fallback: return trials unranked with default scores
+                # Assign default scores to any trials that didn't get scored
+                for i, trial in enumerate(filtered_trials):
+                    if 'rank_score' not in trial or trial['rank_score'] is None:
+                        trial['rank_score'] = 50
+                
+                # Sort by score descending
+                filtered_trials.sort(key=lambda x: x.get('rank_score', 0), reverse=True)
+                
+                # Store results
+                global_memory['ranked_trials'] = filtered_trials
+                global_memory['trials_ranked'] = len(filtered_trials)
+                
+                # Clean up batch tracking
+                if 'current_batch' in global_memory:
+                    del global_memory['current_batch']
+                if 'all_trial_scores' in global_memory:
+                    del global_memory['all_trial_scores']
+                
+                return {
+                    "status": "success",
+                    "trials_ranked": len(filtered_trials),
+                    "top_score": filtered_trials[0].get('rank_score', 0) if filtered_trials else 0
+                }
+        
+        except (json.JSONDecodeError, KeyError, ValueError) as e:
             print(f"⚠ Scoring failed ({str(e)}), assigning default scores")
-            ranked_trials = []
+            
+            # Fallback: assign default scores
             for trial in filtered_trials:
-                trial_with_score = trial.copy()
-                trial_with_score["relevance_score"] = 50  # Default score
-                ranked_trials.append(trial_with_score)
-            return {"ranked_trials": ranked_trials}
+                trial['rank_score'] = 50
+            
+            global_memory['ranked_trials'] = filtered_trials
+            
+            return {
+                "status": "error",
+                "error": str(e),
+                "trials_ranked": 0
+            }
     
     def get_next_state(self) -> Optional[str]:
         return "prepare_summaries"
@@ -388,7 +427,7 @@ class PrepareTrialSummariesState(State):
                 print(f"\n{i}. NCT ID: {trial.get('nct_id', 'MISSING')}")
                 print(f"   Title: {trial.get('title', 'MISSING')[:80]}")
                 print(f"   Status: {trial.get('status', 'MISSING')}")
-                print(f"   Score: {trial.get('relevance_score', 'MISSING')}")
+                print(f"   Score: {trial.get('rank_score', 'MISSING')}")
         else:
             print("NO TRIALS FOUND!")
         print("="*80 + "\n")
@@ -412,38 +451,40 @@ class PrepareTrialSummariesState(State):
                 phase = phase[0] if phase else "Unknown"
             
             trial_data_text += f"""Trial {i}:
-    NCT ID: {trial.get('nct_id', 'Unknown')}
-    Title: {trial.get('title', 'No title')}
-    Phase: {phase}
-    Status: {trial.get('status', 'Unknown')}
-    Location: {location_str}
-    Brief Summary: {trial.get('brief_summary', 'Not available')[:200]}
+NCT ID: {trial.get('nct_id', 'Unknown')}
+Title: {trial.get('title', 'No title')}
+Phase: {phase}
+Status: {trial.get('status', 'Unknown')}
+Location: {location_str}
+Rank Score: {trial.get('rank_score', 0)}
+Brief Summary: {trial.get('brief_summary', 'Not available')[:200]}
 
-    """
+"""
         
         return f"""{trial_data_text}
 
-    CRITICAL INSTRUCTIONS:
-    1. You MUST use the EXACT NCT IDs listed above
-    2. You MUST use the EXACT titles listed above
-    3. DO NOT create, invent, or modify any NCT IDs
-    4. DO NOT create fictional trial information
+CRITICAL INSTRUCTIONS:
+1. You MUST use the EXACT NCT IDs listed above
+2. You MUST use the EXACT titles listed above
+3. DO NOT create, invent, or modify any NCT IDs
+4. DO NOT create fictional trial information
 
-    Create a JSON array summarizing these trials. Use ONLY the data provided above.
+Create a JSON array summarizing these trials. Use ONLY the data provided above.
 
-    Return format:
-    [
-    {{
-        "nct_id": "<EXACT NCT ID from above>",
-        "title": "<EXACT title from above, truncated to 80 chars>",
-        "phase": "<phase from above>",
-        "status": "<status from above>",
-        "location": "<location from above>",
-        "key_criteria": ["See ClinicalTrials.gov for full criteria"]
-    }}
-    ]
+Return format:
+[
+{{
+    "nct_id": "<EXACT NCT ID from above>",
+    "title": "<EXACT title from above, truncated to 80 chars>",
+    "phase": "<phase from above>",
+    "status": "<status from above>",
+    "location": "<location from above>",
+    "rank_score": <score from above>,
+    "key_criteria": ["See ClinicalTrials.gov for full criteria"]
+}}
+]
 
-    Return ONLY valid JSON. No explanation, no markdown."""
+Return ONLY valid JSON. No explanation, no markdown."""
 
     def process_input(self, llm_response: str, global_memory: Dict[str, Any]) -> Dict[str, Any]:
         """Parse summaries"""
@@ -498,6 +539,7 @@ class PrepareTrialSummariesState(State):
                     "phase": phase,
                     "status": trial.get("status", "Unknown"),
                     "location": location_str,
+                    "rank_score": trial.get("rank_score", 0),
                     "key_criteria": ["See full eligibility criteria on ClinicalTrials.gov"]
                 })
             
