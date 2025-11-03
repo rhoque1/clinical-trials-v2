@@ -13,6 +13,7 @@ from tools.pdf_extractor import extract_medical_report
 
 from state_machines.trial_discovery import TrialDiscoveryStateMachine
 from state_machines.eligibility_analyzer import EligibilityAnalyzer
+from state_machines.knowledge_enhanced_ranking import KnowledgeEnhancedRankingMachine
 import json
 from datetime import datetime
 
@@ -139,6 +140,72 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
                 print(f"     {i}. {trial.get('nct_id')} (Score: {trial.get('rank_score')})")
         
         self.session_data['trial_discovery'] = result
+        return result
+    
+    async def run_knowledge_enhancement(self,
+                                        patient_profile: Dict[str, Any],
+                                        ranked_trials: list) -> Dict[str, Any]:
+        """
+        Run knowledge-enhanced ranking using RAG
+        Phase 2.5: Between Trial Discovery and Eligibility Analysis
+        
+        Args:
+            patient_profile: Patient profile from run_patient_profiling
+            ranked_trials: Ranked trials from run_trial_discovery
+            
+        Returns:
+            Dictionary with knowledge-enhanced trial rankings
+        """
+        print("\n" + "="*70)
+        print("STEP 2.5: KNOWLEDGE-ENHANCED RANKING (RAG)")
+        print("="*70)
+        
+        # Create knowledge enhancement state machine
+        enhancer = KnowledgeEnhancedRankingMachine()
+        agent = StateMachineAgent(enhancer, model="gpt-4o")
+        
+        # Store required data
+        enhancer.global_memory['patient_profile'] = patient_profile
+        enhancer.global_memory['ranked_trials'] = ranked_trials[:10]  # Top 10 only
+        
+        print(f"\n🧠 Enhancing rankings with clinical guidelines")
+        
+        # Execute enhancement state
+        current_state = enhancer.get_current_state()
+        
+        if current_state:
+            print(f"\n⚙️  State: {current_state.name}")
+            print(f"   {current_state.description}")
+            
+            task = "Enhance trial rankings using clinical guideline context"
+            result = await agent.execute_state(task)
+            
+            print(f"   ✅ Completed")
+        
+        # Extract results
+        enhanced_trials = enhancer.global_memory.get('ranked_trials', ranked_trials)
+        
+        result = {
+            "success": True,
+            "knowledge_enhanced": enhancer.global_memory.get('knowledge_enhanced', False),
+            "ranked_trials": enhanced_trials[:10],
+            "enhancement_count": enhancer.global_memory.get('enhancement_count', 0)
+        }
+        
+        print("\n" + "="*70)
+        print("✅ KNOWLEDGE ENHANCEMENT COMPLETE")
+        print("="*70)
+        print(f"\n📊 Enhancement Summary:")
+        print(f"   Trials enhanced: {result['enhancement_count']}")
+        print(f"   Top 3 after RAG:")
+        for i, trial in enumerate(enhanced_trials[:3], 1):
+            orig_score = trial.get('original_score', 'N/A')
+            new_score = trial.get('score', 'N/A')
+            guideline_score = trial.get('guideline_score', 'N/A')
+            print(f"     {i}. {trial.get('nct_id')}")
+            print(f"        Original: {orig_score} → Adjusted: {new_score} (Guideline: {guideline_score})")
+        
+        self.session_data['knowledge_enhancement'] = result
         return result
     
     async def run_eligibility_analysis(self, 
@@ -299,14 +366,23 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
                 return profile_result
             
             # Step 2: Trial Discovery
+            # Step 2: Trial Discovery
             discovery_result = await self.run_trial_discovery(profile_result)
             if not discovery_result["success"]:
                 return discovery_result
             
-            # Step 3: Eligibility Analysis
-            analysis_result = await self.run_eligibility_analysis(
+            # Step 2.5: Knowledge-Enhanced Ranking (RAG)
+            enhancement_result = await self.run_knowledge_enhancement(
                 profile_result,
                 discovery_result['ranked_trials']
+            )
+            if not enhancement_result["success"]:
+                return enhancement_result
+            
+            # Step 3: Eligibility Analysis (use RAG-enhanced trials)
+            analysis_result = await self.run_eligibility_analysis(
+                profile_result,
+                enhancement_result['ranked_trials']  # Use enhanced rankings
             )
             if not analysis_result["success"]:
                 return analysis_result
@@ -322,6 +398,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
                 "pdf_source": pdf_path,
                 "patient_profile": profile_result,
                 "trial_discovery": discovery_result,
+                "knowledge_enhancement": enhancement_result,  # NEW
                 "eligibility_analysis": analysis_result
             }
             

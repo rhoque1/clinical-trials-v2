@@ -28,17 +28,17 @@ class ExtractDemographicsState(State):
     
     def process_input(self, user_input: Any, context: Dict[str, Any]) -> Dict[str, Any]:
         """Extract demographics from LLM response"""
-        
-        # === DEBUG LOGGING ===
-        print("\n" + "="*60)
-        print("DEBUG: ExtractDemographicsState.process_input()")
-        print("="*60)
-        print(f"LLM Response (first 500 chars):\n{str(user_input)[:500]}")
-        print("="*60 + "\n")
-        # === END DEBUG ===
+
         
         # Initialize demographics dict
         demographics = {}
+
+        if isinstance(user_input, dict):
+            data = user_input
+            response_text = str(user_input)
+        else:
+            response_text = str(user_input)
+            data = None
         
         # Convert to string for processing
         response_text = str(user_input)
@@ -48,26 +48,41 @@ class ExtractDemographicsState(State):
         import re
         
         try:
-            # Remove markdown code blocks if present
-            json_text = response_text.strip()
-            if json_text.startswith('```'):
-                # Extract JSON from code block
-                json_match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', json_text, re.DOTALL)
-                if json_match:
-                    json_text = json_match.group(1)
+            # If already a dict, skip JSON parsing
+            if data is None:
+                # Remove markdown code blocks if present
+                json_text = response_text.strip()
+                if json_text.startswith('```'):
+                    # Extract JSON from code block
+                    json_match = re.search(r'```(?:json)?\s*(\{.*?\})\s*```', json_text, re.DOTALL)
+                    if json_match:
+                        json_text = json_match.group(1)
+                
+                # Parse JSON
+                data = json.loads(json_text)
             
-            # Parse JSON
-            data = json.loads(json_text)
+
+
+            if "Patient Demographics" in data:
+                data = data["Patient Demographics"]
             
             # Extract from JSON structure
+            # Look for age in various keys
+            # Look for age in various keys
             # Look for age in various keys
             for key in ['age', 'Age', 'patient age', 'Patient Age', 'patient_age']:
                 if key in data and data[key]:
                     age_val = data[key]
+                    
                     if isinstance(age_val, int):
                         demographics['age'] = age_val
-                    elif isinstance(age_val, str) and age_val.isdigit():
-                        demographics['age'] = int(age_val)
+                    elif isinstance(age_val, str):
+                        # Extract numeric age from string (handles "62", "62 years", etc.)
+                        import re
+                        age_match = re.search(r'(\d+)', str(age_val))
+                        if age_match:
+                            demographics['age'] = int(age_match.group(1))
+                            
                     break
             
             # Look for sex/gender in various keys
@@ -239,12 +254,14 @@ class GenerateSearchTermsState(State):
         )
     
     def get_instruction(self, context: Dict[str, Any]) -> str:
+        demographics = context.get("demographics", {})
         diagnoses = context.get("diagnoses", "")
         biomarkers = context.get("biomarkers", "")
         
         return f"""
 Based on the patient's medical profile, generate clinical trial search terms.
 
+Demographics: Age {demographics.get('age', 'unknown')}, {demographics.get('sex', 'unknown')}
 Diagnoses: {diagnoses}
 Biomarkers: {biomarkers}
 

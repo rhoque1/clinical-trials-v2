@@ -23,7 +23,7 @@ async def run_complete_pipeline():
     engine = WorkflowEngine(mode=WorkflowMode.WIZARD)
     
     # Path to test PDF (adjust if needed)
-    pdf_path = "../tap.pdf"
+    pdf_path = "tccr.pdf"
     
     # Check if PDF exists
     if not os.path.exists(pdf_path):
@@ -84,6 +84,7 @@ async def run_complete_pipeline():
         print(f"    Examples: {search_terms[:3]}")
     
     # Phase 2 Results
+    # Phase 2 Results
     trial_discovery = results.get('trial_discovery', {})
     ranked_trials = trial_discovery.get('ranked_trials', [])
     
@@ -93,11 +94,40 @@ async def run_complete_pipeline():
     print(f"  Top match score: {trial_discovery.get('top_score', 0)}")
     
     if ranked_trials:
-        print(f"\n  Top 5 Trials:")
+        print(f"\n  Top 5 Trials (before RAG):")
         for i, trial in enumerate(ranked_trials[:5], 1):
             print(f"    {i}. {trial.get('nct_id', 'Unknown')} (Score: {trial.get('rank_score', 0)})")
             print(f"       {trial.get('title', 'No title')[:70]}...")
             print(f"       Phase: {trial.get('phase', 'Unknown')}")
+    
+    # Phase 2.5 Results (RAG Enhancement)
+    knowledge_enhancement = results.get('knowledge_enhancement', {})
+    enhanced_trials = knowledge_enhancement.get('ranked_trials', [])
+    
+    print(f"\n🧠 PHASE 2.5 - KNOWLEDGE-ENHANCED RANKING (RAG):")
+    print(f"  Knowledge enhancement: {'✓ Applied' if knowledge_enhancement.get('knowledge_enhanced') else '✗ Not applied'}")
+    print(f"  Trials enhanced: {knowledge_enhancement.get('enhancement_count', 0)}")
+    
+    if enhanced_trials:
+        print(f"\n  Top 5 Trials (after RAG):")
+        for i, trial in enumerate(enhanced_trials[:5], 1):
+            orig_score = trial.get('original_score', trial.get('rank_score', 'N/A'))
+            new_score = trial.get('score', trial.get('rank_score', 'N/A'))
+            guideline_score = trial.get('guideline_score', 'N/A')
+            
+            score_change = ""
+            if orig_score != 'N/A' and new_score != 'N/A' and orig_score != new_score:
+                diff = new_score - orig_score
+                score_change = f" (Δ{diff:+.0f})"
+            
+            print(f"    {i}. {trial.get('nct_id', 'Unknown')} (Score: {new_score}{score_change})")
+            print(f"       Original: {orig_score} | Guideline: {guideline_score}")
+            
+            rationale = trial.get('guideline_rationale', '')
+            if rationale:
+                print(f"       Rationale: {rationale[:100]}...")
+    
+    # Phase 3 Results
     
     # Phase 3 Results
     eligibility_analysis = results.get('eligibility_analysis', {})
@@ -169,7 +199,7 @@ async def run_quick_test():
     print("="*80)
     
     engine = WorkflowEngine(mode=WorkflowMode.WIZARD)
-    pdf_path = "../tap.pdf"
+    pdf_path = "tccr.pdf"
     
     if not os.path.exists(pdf_path):
         print(f"\n❌ ERROR: PDF not found at {pdf_path}")
