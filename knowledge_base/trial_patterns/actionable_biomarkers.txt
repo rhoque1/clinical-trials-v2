@@ -1,0 +1,449 @@
+# Actionable Biomarkers and Targeted Therapy Mapping
+# Generated for Clinical Trial Matching RAG System
+# Last Updated: 2025-11-06
+
+This document provides comprehensive biomarker-to-therapy mappings for precision oncology.
+Used to enhance trial matching by identifying biomarker-driven therapeutic opportunities.
+
+================================================================================
+## PIK3CA MUTATIONS
+================================================================================
+
+**Mutation Types:**
+- Hotspot mutations: E542K, E545K, H1047R, H1047L, E726K
+- Pathogenic across multiple cancer types
+- Activates PI3K/AKT/mTOR pathway
+
+**Approved Targeted Therapies:**
+- Alpelisib (Piqray) + fulvestrant: HR+ HER2- breast cancer with PIK3CA mutation
+  - FDA approved 2019
+  - Requires documented PIK3CA mutation by FDA-approved test
+
+**Active Clinical Trial Landscape:**
+- Phase 2/3 trials: GDC-0077, LOXO-783 (next-generation PI3K inhibitors)
+- Combination trials: PI3K inhibitor + endocrine therapy
+- Basket trials: Multiple solid tumors with PIK3CA mutations
+- Common eligibility: Prior systemic therapy, ECOG 0-2, measurable disease
+
+**Cancer Types with PIK3CA-Directed Trials:**
+- Breast cancer (most common, ~40% HR+ tumors)
+- Cervical cancer (15-30% harbor PIK3CA mutations)
+- Endometrial cancer (30-50% mutation rate)
+- Head and neck squamous cell (10-15%)
+- Colorectal cancer (10-20%)
+
+**Typical Trial Eligibility Criteria:**
+- Documented PIK3CA mutation (E542K, E545K, or H1047R preferred)
+- Prior standard therapy completion/progression
+- ECOG performance status 0-2
+- Adequate organ function (hyperglycemia monitoring required)
+- Exclusion: Uncontrolled diabetes (PI3K inhibitors cause hyperglycemia)
+
+**Key Trials to Reference:**
+- SOLAR-1: Alpelisib + fulvestrant in HR+ breast cancer
+- BYLieve: Alpelisib in PIK3CA-mutant breast cancer
+- NCT02437318: Alpelisib basket trial in solid tumors
+
+================================================================================
+## PD-L1 EXPRESSION
+================================================================================
+
+**Testing Methods:**
+- Combined Positive Score (CPS): (PD-L1+ cells / total tumor cells) × 100
+- Tumor Proportion Score (TPS): % of tumor cells with PD-L1 expression
+- Different cutoffs for different indications
+
+**Approved Immunotherapy by PD-L1 Status:**
+
+**CPS ≥1:**
+- Pembrolizumab: Cervical cancer (2nd line)
+- Pembrolizumab: Gastric/GEJ cancer (1st line + chemotherapy)
+- Pembrolizumab: HNSCC (1st line monotherapy or + chemo)
+
+**CPS ≥10:**
+- Pembrolizumab: Cervical cancer (1st line + chemotherapy or bevacizumab)
+- Pembrolizumab: HNSCC (1st line monotherapy)
+
+**TPS ≥50%:**
+- Pembrolizumab: NSCLC (1st line monotherapy)
+- Cemiplimab: NSCLC (1st line monotherapy)
+
+**TPS ≥1%:**
+- Pembrolizumab: NSCLC (1st line + chemotherapy)
+- Atezolizumab: NSCLC (various combinations)
+
+**Clinical Trial Landscape:**
+- Combination trials: PD-1/PD-L1 inhibitor + chemotherapy
+- Dual checkpoint blockade: PD-1 + CTLA-4 (ipilimumab)
+- Novel combinations: PD-1 + targeted therapy (VEGF, PARP, etc.)
+
+**Common Eligibility Patterns:**
+- PD-L1 CPS ≥1 (more permissive trials)
+- PD-L1 CPS ≥10 (enriched populations)
+- Some trials are PD-L1 unselected (basket approach)
+- ECOG 0-1 (occasionally 0-2 for later-line trials)
+- No active autoimmune disease (relative contraindication)
+
+================================================================================
+## EGFR MUTATIONS (Non-Small Cell Lung Cancer)
+================================================================================
+
+**Common Activating Mutations:**
+- Exon 19 deletions (~45% of EGFR mutations)
+- L858R point mutation (~40% of EGFR mutations)
+- Exon 20 insertions (~5%, historically resistant)
+- Uncommon mutations: G719X, L861Q, S768I
+
+**Resistance Mutations:**
+- T790M: Most common acquired resistance to 1st/2nd gen EGFR TKIs
+- C797S: Resistance to osimertinib (3rd gen)
+
+**FDA-Approved Targeted Therapies:**
+
+**1st Line EGFR+ NSCLC:**
+- Osimertinib (Tagrisso): Preferred, covers T790M
+- Erlotinib, gefitinib, afatinib, dacomitinib (alternative options)
+
+**T790M+ After 1st/2nd Gen TKI:**
+- Osimertinib
+
+**Exon 20 Insertions:**
+- Amivantamab (bispecific antibody)
+- Mobocertinib (oral TKI)
+
+**Clinical Trial Landscape:**
+- 4th generation EGFR TKIs (C797S resistance)
+- EGFR TKI + chemotherapy combinations
+- EGFR TKI + antiangiogenic therapy
+- Novel exon 20 insertion inhibitors
+
+**Typical Eligibility:**
+- Documented EGFR mutation (specific variants required)
+- Treatment-naive OR progression on prior EGFR TKI
+- ECOG 0-1 (occasionally 0-2)
+- Brain metastases: Often allowed if treated and stable
+- Prior treatment lines: Varies by trial design
+
+================================================================================
+## BRCA1/BRCA2 Mutations
+================================================================================
+
+**Germline vs Somatic:**
+- Germline: Hereditary breast/ovarian cancer syndrome
+- Somatic: Tumor-acquired mutations
+- Both qualify for PARP inhibitor trials
+
+**FDA-Approved PARP Inhibitors:**
+
+**Ovarian Cancer:**
+- Olaparib (Lynparza): Germline or somatic BRCA, maintenance and treatment
+- Rucaparib (Rubraca): BRCA-mutant, 2nd line maintenance
+- Niraparib (Zejula): Maintenance regardless of BRCA status
+
+**Breast Cancer:**
+- Olaparib: Germline BRCA, HER2- metastatic breast cancer
+- Talazoparib: Germline BRCA, HER2- metastatic breast cancer
+
+**Prostate Cancer:**
+- Olaparib: mCRPC with HRR gene alterations (BRCA1/2, ATM, etc.)
+- Rucaparib: mCRPC with BRCA mutations
+
+**Pancreatic Cancer:**
+- Olaparib: Germline BRCA-mutant, maintenance after platinum
+
+**Clinical Trial Landscape:**
+- PARP inhibitor combinations (+ immunotherapy, + antiangiogenics)
+- Novel PARP inhibitors
+- DNA damage response pathway inhibitors (ATR, CHK1)
+- Platinum chemotherapy trials (BRCA-mutant tumors are platinum-sensitive)
+
+**Eligibility Patterns:**
+- Documented germline or somatic BRCA1/2 mutation
+- Prior platinum exposure (sometimes required, sometimes excluded)
+- HRD testing (homologous recombination deficiency) increasingly used
+- ECOG 0-2 typical
+
+================================================================================
+## KRAS Mutations
+================================================================================
+
+**Mutation Landscape:**
+- Most common oncogene in cancer (~30% of all cancers)
+- Historically "undruggable" - changed in 2021
+
+**KRAS G12C Specific:**
+- ~13% of NSCLC
+- ~3-5% of colorectal cancer
+- Target of covalent inhibitors
+
+**FDA-Approved Therapies:**
+- Sotorasib (Lumakras): KRAS G12C+ NSCLC, 2nd line
+- Adagrasib (Krazati): KRAS G12C+ NSCLC, 2nd line
+
+**Clinical Trial Landscape:**
+- KRAS G12C inhibitors: Sotorasib, adagrasib, JDQ443
+- Combination trials: KRAS G12C inhibitor + chemotherapy, + immunotherapy, + targeted therapy
+- Pan-KRAS inhibitors (G12D, G12V, etc.) - early phase
+- KRAS G12D inhibitors: MRTX1133 (preclinical/phase 1)
+
+**Eligibility for KRAS G12C Trials:**
+- Documented KRAS G12C mutation (specific variant)
+- Prior platinum-based chemotherapy (NSCLC)
+- ECOG 0-1
+- Brain metastases: Often allowed if stable
+- No prior KRAS G12C inhibitor (for first-line G12C trials)
+
+**Other KRAS Mutations:**
+- G12D, G12V: Pan-KRAS trials, investigational
+- Usually treated with standard chemotherapy in practice
+- Clinical trials exploring indirect KRAS pathway inhibition (SHP2 inhibitors, etc.)
+
+================================================================================
+## HER2 (ERBB2) Alterations
+================================================================================
+
+**Types of HER2 Alterations:**
+- Amplification (most common in breast, gastric cancer)
+- Overexpression (IHC 3+)
+- Mutations (point mutations, exon 20 insertions in lung cancer)
+
+**HER2-Positive Breast Cancer (IHC 3+ or ISH+):**
+- Trastuzumab + chemotherapy (1st line standard)
+- Pertuzumab + trastuzumab + chemo (neoadjuvant/metastatic)
+- T-DM1 (trastuzumab emtansine): ADC for 2nd line
+- T-DXd (trastuzumab deruxtecan): ADC for 3rd line
+- Tucatinib + trastuzumab + capecitabine (brain mets)
+- Neratinib, lapatinib (TKI options)
+
+**HER2-Low Breast Cancer (IHC 1+ or 2+/ISH-):**
+- T-DXd: Recently approved for HER2-low metastatic breast cancer
+
+**HER2+ Gastric/GEJ Cancer:**
+- Trastuzumab + chemotherapy (1st line)
+- T-DXd (2nd line and beyond)
+
+**HER2 Mutations (NSCLC):**
+- Exon 20 insertions: Similar to EGFR exon 20
+- T-DXd: Active in HER2-mutant NSCLC
+- Poziotinib: Investigational
+
+**Clinical Trial Landscape:**
+- Novel ADCs (antibody-drug conjugates)
+- TKIs for HER2 mutations
+- Bispecific antibodies (HER2-targeted)
+- Combinations: HER2 therapy + immunotherapy
+
+**Eligibility Patterns:**
+- HER2 status required (IHC, ISH, or NGS)
+- Prior HER2-directed therapy (for later-line trials)
+- LVEF monitoring (cardiac toxicity risk)
+- ECOG 0-2 typical
+
+================================================================================
+## MSI-H / dMMR (Microsatellite Instability)
+================================================================================
+
+**Definition:**
+- MSI-H: Microsatellite instability-high
+- dMMR: Deficient mismatch repair
+- Caused by loss of MLH1, MSH2, MSH6, PMS2 proteins
+
+**Prevalence:**
+- Colorectal cancer: ~15% (sporadic and Lynch syndrome)
+- Endometrial cancer: ~30%
+- Gastric cancer: ~10%
+- Other solid tumors: 1-5%
+
+**FDA-Approved Immunotherapy:**
+- Pembrolizumab: MSI-H/dMMR solid tumors (tumor-agnostic, 2017)
+- Nivolumab: MSI-H/dMMR colorectal cancer (2nd line)
+- Nivolumab + ipilimumab: MSI-H/dMMR colorectal cancer
+
+**Why Immunotherapy Works:**
+- High tumor mutational burden (TMB)
+- Neoantigen generation
+- Highly immunogenic tumors
+
+**Clinical Trial Landscape:**
+- Checkpoint inhibitors in earlier lines (neoadjuvant, adjuvant)
+- Dual checkpoint blockade optimization
+- Chemotherapy-free regimens
+
+**Eligibility:**
+- Documented MSI-H or dMMR status (IHC or PCR)
+- ECOG 0-1 typically
+- Prior treatment varies (1st line trials emerging)
+- Often tumor-agnostic basket trials
+
+================================================================================
+## BRAF V600E Mutations
+================================================================================
+
+**Prevalence:**
+- Melanoma: ~50%
+- Colorectal cancer: ~10%
+- Thyroid cancer (papillary): ~45%
+- NSCLC: ~2%
+- Hairy cell leukemia: >95%
+
+**FDA-Approved Targeted Therapies:**
+
+**Melanoma:**
+- Dabrafenib + trametinib (BRAF + MEK inhibitor combination)
+- Vemurafenib + cobimetinib
+- Encorafenib + binimetinib
+
+**BRAF V600E Colorectal Cancer:**
+- Encorafenib + cetuximab (± binimetinib)
+
+**BRAF V600E NSCLC:**
+- Dabrafenib + trametinib
+
+**Thyroid Cancer:**
+- Dabrafenib + trametinib (anaplastic, V600E+)
+
+**Clinical Trials:**
+- BRAF + MEK + immunotherapy (triplet combinations)
+- Novel BRAF inhibitors (class II, paradox breakers)
+- BRAF V600K and non-V600 mutations (investigational)
+
+**Eligibility:**
+- Documented BRAF V600E (or V600K for some trials)
+- ECOG 0-1
+- Brain metastases: Often allowed in melanoma trials
+- Prior immunotherapy: May be required for melanoma trials
+
+================================================================================
+## ALK Rearrangements (NSCLC)
+================================================================================
+
+**Prevalence:**
+- NSCLC: ~5% (enriched in never/light smokers, adenocarcinoma)
+- Mutually exclusive with EGFR, KRAS
+
+**FDA-Approved ALK TKIs (chronological order):**
+1. Crizotinib (1st gen, 2011)
+2. Ceritinib (2nd gen)
+3. Alectinib (2nd gen, now preferred 1st line)
+4. Brigatinib (2nd gen)
+5. Lorlatinib (3rd gen, brain penetrant)
+
+**Resistance Patterns:**
+- ALK mutations: G1202R, L1196M, etc.
+- Bypass pathways: EGFR, KIT, IGF-1R activation
+- Histologic transformation
+
+**Clinical Trial Landscape:**
+- Next-generation ALK inhibitors
+- ALK TKI + chemotherapy combinations
+- Brain metastasis-focused trials (CNS penetration)
+
+**Eligibility:**
+- ALK rearrangement by FISH, IHC, or NGS
+- Treatment-naive OR progression on prior ALK TKI
+- ECOG 0-2
+- Brain metastases: Commonly allowed
+- Prior lines: Varies by trial
+
+================================================================================
+## ROS1 Rearrangements
+================================================================================
+
+**Prevalence:**
+- NSCLC: ~1-2%
+- Similar patient population to ALK+ (never-smokers, adenocarcinoma)
+
+**FDA-Approved Therapies:**
+- Crizotinib (ALK/ROS1 dual inhibitor)
+- Entrectinib (ROS1/NTRK/ALK multi-kinase inhibitor)
+- Repotrectinib (recently approved, 2023)
+
+**Clinical Trials:**
+- Novel ROS1 inhibitors (lorlatinib, taletrectinib)
+- Brain metastasis trials
+
+**Eligibility:**
+- ROS1 rearrangement documented
+- Similar to ALK trials
+- Small patient population → often included in basket trials
+
+================================================================================
+## NTRK Fusions (Tumor-Agnostic)
+================================================================================
+
+**Prevalence:**
+- Overall: <1% of solid tumors
+- Enriched in: Secretory breast carcinoma, infantile fibrosarcoma, some thyroid cancers
+
+**FDA-Approved TRK Inhibitors:**
+- Larotrectinib (Vitrakvi): Tumor-agnostic, 2018
+- Entrectinib (Rozlytrek): Tumor-agnostic, 2019
+
+**Clinical Trials:**
+- Next-generation TRK inhibitors (resistance mutations)
+- Pediatric trials (higher prevalence)
+
+**Eligibility:**
+- NTRK1, NTRK2, or NTRK3 fusion
+- Tumor-agnostic: Any solid tumor
+- Prior treatment required in most cases
+- ECOG 0-2
+
+================================================================================
+## Tumor Mutational Burden (TMB-H)
+================================================================================
+
+**Definition:**
+- TMB: Number of mutations per megabase
+- TMB-H: ≥10 mutations/Mb (FDA cutoff for pembrolizumab approval)
+
+**FDA Approval:**
+- Pembrolizumab: TMB-H solid tumors (2020, tumor-agnostic)
+- Controversial approval (withdrawn in some regions due to limited benefit)
+
+**Clinical Trials:**
+- Checkpoint inhibitor combinations
+- TMB as enrichment biomarker
+
+**Eligibility:**
+- TMB ≥10 mut/Mb (or trial-specific cutoff)
+- Comprehensive genomic profiling required
+- Prior treatment typically required
+
+================================================================================
+## Summary: Common Eligibility Themes Across Biomarker Trials
+================================================================================
+
+**General Patterns:**
+
+1. **Biomarker Documentation Requirements:**
+   - CLIA-certified lab testing
+   - Specific assay platforms may be required (FoundationOne, Guardant360, etc.)
+   - Fresh vs archival tissue specifications
+
+2. **Performance Status:**
+   - Early phase (Phase 1): ECOG 0-1
+   - Later phase (Phase 2/3): ECOG 0-2 (occasionally)
+
+3. **Brain Metastases:**
+   - Increasingly allowed if treated and stable
+   - Targeted therapy trials more permissive than chemotherapy trials
+
+4. **Prior Treatment:**
+   - 1st line trials: Treatment-naive
+   - 2nd line+: Progression on standard therapy
+   - Basket trials: Often later-line, heavily pretreated
+
+5. **Organ Function:**
+   - Adequate bone marrow (ANC >1.5, platelets >100k typical)
+   - Hepatic function (bilirubin <1.5x ULN, AST/ALT <3x ULN)
+   - Renal function (CrCl >30-60 mL/min depending on drug)
+
+6. **Exclusions:**
+   - Active untreated brain metastases
+   - Uncontrolled intercurrent illness
+   - Prior therapy with same class (for targeted trials)
+   - Pregnancy/nursing
+
+This document serves as a knowledge base for the RAG system to match patients with
+biomarker-selected trials more accurately.

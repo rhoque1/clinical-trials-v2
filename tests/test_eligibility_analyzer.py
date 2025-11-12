@@ -148,8 +148,8 @@ async def run_eligibility_analyzer():
     sm.global_memory["patient_profile"] = mock_patient_profile
     sm.global_memory["ranked_trials"] = mock_ranked_trials
     
-    print(f"\n✓ Loaded patient profile: {mock_patient_profile['demographics']['age']}F, Stage {mock_patient_profile['diagnoses'][0]['stage']}")
-    print(f"✓ Loaded {len(mock_ranked_trials)} ranked trials for eligibility analysis")
+    print(f"\n[+] Loaded patient profile: {mock_patient_profile['demographics']['age']}F, Stage {mock_patient_profile['diagnoses'][0]['stage']}")
+    print(f"[+] Loaded {len(mock_ranked_trials)} ranked trials for eligibility analysis")
     
     # Execute state machine
     # Execute state machine
@@ -261,7 +261,7 @@ Return comprehensive report in specified JSON format."""
         # Execute state
         # Execute state
         # Execute state (agent handles LLM call, process_input, and transition internally)
-        print(f"\n→ Executing LLM agent...")
+        print(f"\n-> Executing LLM agent...")
         agent_result = await agent.execute_state(task)
         
         # Extract the processed result
@@ -269,7 +269,7 @@ Return comprehensive report in specified JSON format."""
         llm_response = agent_result.get('llm_response', '')
         
         # Print result summary
-        print(f"\n✓ State completed:")
+        print(f"\n[+] State completed:")
         print(f"  Status: {state_result.get('status', 'unknown')}")
         
         if current_state.name == "extract_criteria":
@@ -285,7 +285,7 @@ Return comprehensive report in specified JSON format."""
         
         # Check if state was successful
         if state_result.get('status') != 'success':
-            print(f"\n⚠️ Warning: State returned status '{state_result.get('status')}'")
+            print(f"\n[!] Warning: State returned status '{state_result.get('status')}'")
             if 'error' in state_result:
                 print(f"   Error: {state_result['error']}")
             # Continue anyway for debugging
@@ -301,7 +301,7 @@ Return comprehensive report in specified JSON format."""
     # Print final summary
     final_recs = sm.global_memory.get("final_recommendations", {})
     if final_recs:
-        print(f"\n📊 FINAL RESULTS:")
+        print(f"\n[CHART] FINAL RESULTS:")
         print(f"\nTop Matches: {len(final_recs.get('top_matches', []))}")
         for match in final_recs.get('top_matches', [])[:3]:
             print(f"\n  {match.get('rank')}. {match.get('nct_id')} (Score: {match.get('match_score')})")

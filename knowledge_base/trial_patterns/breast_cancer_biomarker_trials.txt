@@ -1,0 +1,1416 @@
+# Biomarker-Specific Trials: Breast Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 130
+
+
+======================================================================
+## ALK (13 trials)
+======================================================================
+
+**NCT01276041** - Paclitaxel, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pertuzumab in combination with trastuzumab and paclitaxel
+
+Biomarker Criteria:
+  - 5 x upper limit of normal (ULN), alkaline phosphatase ≤ 5 x ULN
+
+----------------------------------------------------------------------
+
+**NCT00001269** - Phase I Trial of FLAC (5-Fluorouracil, Leucovorin, Adriamycin, Cytoxan) Plus GM-CSF (Granulocyte-Macrophage Colony Stimulating Factor) Plus Dose Escal
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IL-3
+
+Biomarker Criteria:
+  - Liver function tests (SCOT, Alk, Phosph
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Cohort 1: NSCLC; EGFR wild-type and negative for ALK or ROS1 fusion genes
+
+----------------------------------------------------------------------
+
+**NCT00201760** - Gemcitabine/ Trastuzumab and Gemcitabine/ Cisplatin/ Trastuzumab in Patients With Metastatic Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Gemcitabine, Trastuzumab
+
+Biomarker Criteria:
+  - 5 x ULN and liver enzymes (AST, ALT, or alkaline phosphatase) \< 2 x ULN (\< 5 x ULN if hepatic metastasis) within 21 days prior to registration
+
+----------------------------------------------------------------------
+
+**NCT00194727** - Weekly Vinorelbine and Oral Capecitabine as Treatment for Stage IV Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Vinorelbine, Capecitabine
+
+Biomarker Criteria:
+  - * Subject must not have alkaline phosphatase greater than 2
+
+----------------------------------------------------------------------
+
+**NCT01950182** - Trastuzumab Combined With Chemotherapy or Endocrine Therapy to Treat Metastatic Luminal B2 Breast Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Endocrine therapy combined with trastuzumab, Chemotherapy combined with trastuzumab
+
+Biomarker Criteria:
+  - 0, alanine transaminase(ALT) \< 3 times the upper limit of normal, and alkaline phosphatase \< 5 times the upper limit of normal
+
+----------------------------------------------------------------------
+
+**NCT02101970** - Weight Loss Plus Omega-3 Fatty Acids or Placebo in High Risk Women
+Phase: NA | Status: COMPLETED
+Interventions: Omega-3 Fatty Acids, Placebo Capsule
+
+Biomarker Criteria:
+  - * Need for chronic use of aspirin, nonsteroidal anti-inflamatory drug (NSAID) or other anti-inflammatory agents
+* Taking metformin, or other diabetes medications
+* Taking statins
+* Unable to participate in moderate intensity exercise (walking, treadmill, elliptical, water aerobics)
+* Would be unable to participate, by phone, in weekly phone call sessions
+* Cells suspicious for malignancy as assessed by cytotechnologist or cytopathologist
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT00107510** - Docetaxel, Carboplatin, and Pegfilgrastim in Treating Patients Who Are Undergoing Surgery for Stage II or Stage III Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pegfilgrastim, carboplatin
+
+Biomarker Criteria:
+  - 0 g/dL
+
+Hepatic
+
+* Bilirubin normal
+* Meets 1 of the following criteria:
+
+  * AST or ALT ≤ 5 times upper limit of normal (ULN) AND alkaline phosphatase normal
+  * AST or ALT ≤ 1
+  - 5 times ULN AND alkaline phosphatase ≤ 2
+  - 5 times ULN
+  * AST or ALT normal AND alkaline phosphatase ≤ 5 times ULN
+
+Renal
+
+* Creatinine clearance ≥ 30 mL/min
+
+Other
+
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception during and for 30 days after study treatment
+* No active unresolved infection
+* No history of severe hypersensitivity reaction to docetaxel, carboplatin, or any other drug formulated with polysorbate 80
+* No known hypersensitivity to E
+
+----------------------------------------------------------------------
+
+**NCT01720602** - Vorinostat in Treating Patients With Stage IV Breast Cancer Receiving Hormone Therapy
+Phase: NA | Status: COMPLETED
+Interventions: vorinostat, anastrozole
+
+Biomarker Criteria:
+  - 5 x ULN
+* Alkaline phosphatase =\< 2
+
+----------------------------------------------------------------------
+
+**NCT01565200** - HER2 Imaging Study to Identify HER2 Positive Metastatic Breast Cancer Patient Unlikely to Benefit From T-DM1
+Phase: PHASE2 | Status: COMPLETED
+Interventions: T-DM1, 89Zr-trastuzumab
+
+Biomarker Criteria:
+  - * Serum alkaline phosphatase ≤ 2
+  - Patients with bone metastases: alkaline phosphatase ≤ 5 x ULN
+   * Serum creatinine \< 2
+
+----------------------------------------------------------------------
+
+**NCT03125928** - Clinical Trial of Atezolizumab With Paclitaxel, Trastuzumab, and Pertuzumab in Patients With Metastatic HER-2 Positive Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Atezolizumab, Paclitaxel
+
+Biomarker Criteria:
+  - Serum alkaline phosphatase (ALP) ≤ UNL or ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT01441011** - Rural Women Connecting for Better Health
+Phase: NA | Status: COMPLETED
+Interventions: Group phone counseling, Newsletter
+
+Biomarker Criteria:
+  - , be able to walk briskly unassisted and without serious medical risk
+* Weight stable within ten pounds three months prior to entry
+
+Exclusion Criteria:
+
+* Women with insulin-dependent diabetes
+* Ongoing participation in a formal weight loss program
+* Ongoing use of pharmacotherapy for weight loss
+* Ongoing use of medications that seriously affect weight and metabolism (e
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (118 trials)
+======================================================================
+
+**NCT00616135** - Study of Autologous Fat Enhanced w/ Regenerative Cells Transplanted to Reconstruct Breast Deformities After Lumpectomy
+Phase: PHASE4 | Status: COMPLETED
+Interventions: ADRC-Enhanced Autologous Fat Transplant
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Females with a history of T2N0M0 breast carcinoma (tumor ≤3 cm in largest dimension)
+* Surgical or endoscopic segmental mastectomy or quadrantectomy (lumpectomy)
+* Clean surgical margins
+* No prosthesis in breast(s) to undergo treatment
+* Ability to undergo lipoaspiration
+* Last treatment for breast cancer ≥ 12 months prior to enrollment with absence of recurrence (patients on anti-estrogen adjuvant therapy are NOT excluded)
+* No evidence of recurrence of cancer based on mammogram or breast exam prior to enrollment
+* Objective signs of mild breast damage post Breast Conservation Therapy
+* Type I Cosmetic Sequelae Classification
+* A minimum of 1 cm of soft tissue (e
+  - breast or fat) is available between the skin and chest wall at the recipient site
+* A minimum of two-thirds of the breast is remaining post Breast Conservation Therapy
+* No continuous adhesion of skin to bone \>3 cm in diameter
+* The volume and shape of the defect(s) must be conducive to correction during a single treatment session (maximum defect volume ≤150 mL in breast(s) to undergo treatment)
+
+Exclusion Criteria:
+
+* History of autoimmune disorder (e
+  - , Systemic Lupus Erythematosus \[SLE\])
+* History of connective, metabolic or atrophic skin disease
+* History of keloid scarring
+* Chronic use (\>7 consecutive days) of anticoagulants (such as aspirin) or NSAIDs within 15 days prior to enrollment
+* Life expectancy ≤ 2 years
+* Recurrence or active malignancy requiring radiation or surgical treatment ≤12 months prior to enrollment
+* Presence of any other known malignancy
+* Body Mass Index (BMI) \>30
+* Plan to undergo weight reduction surgery or foresee any significant weight changes during the study (defined as changes in BMI \>5 compared to baseline
+* Presence of contraindications to MRI
+
+----------------------------------------------------------------------
+
+**NCT06749210** - DAANCE FOR CHEMOTHERAPY-INDUCED NEUROPATHY
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Tango
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Breast Cancer (BC) diagnosis of Stage I-IV including metastatic disease
+* completed taxane-based chemotherapy for BC at least 3 months ago (no limit on how long ago)
+* symptomatic for chemotherapy-induced neuropathy (self-report)
+* postural control score that indicates potential fall-risk
+* able to understand and comply with directions associated with testing and study treatments
+
+Exclusion Criteria:
+
+* pre-existing vestibular dysfunction
+* poorly controlled diabetes (hgA1C\>=8)
+* non-ambulatory (assistive and prosthetic devices allowed)
+* hearing impairment resulting in less than 10% hearing bilaterally
+* contraindication to participate in the experimental physical activity per the treating oncologist due to additional condition (e
+
+----------------------------------------------------------------------
+
+**NCT02545023** - Supportive Care Questionnaires in Gathering Data on Unmet Needs and Health-Related Quality of Life in Latina Breast Cancer Survivors After Surgery, Ch
+Phase: Not specified | Status: COMPLETED
+Interventions: Quality-of-Life Assessment, Questionnaire Administration
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients receiving ongoing care, including routine follow-up, at LAC+USC
+* Diagnosis of breast cancer
+* Completed primary surgical treatment, chemotherapy, and/or radiation
+* Ability to understand and the willingness to sign a written informed consent
+
+Exclusion Criteria:
+
+* Inability to sign written informed consent or to complete questionnaires/surveys
+* Diagnosis of metastatic cancer
+
+----------------------------------------------------------------------
+
+**NCT04705883** - Vaginal Prasterone In Vaginal Atrophy In Breast Cancer Survivors
+Phase: PHASE4 | Status: COMPLETED
+Interventions: Prasterone (DHEA), Micronized
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Breast cancer treated with anti-hormonal therapy based on inhibitors of aromatase (IA) (letrozole, anastrozole or exemestane) ± analogues of the GnRH (aGnRH)
+* Menopause (natural or induced) and signs / symptoms of vulvovaginal atrophy
+* Cytology and / or determination of Human Papillomavirus (HPV) negative
+* Intention or willingness to have sex
+
+Exclusion Criteria:
+
+* To have received topical hormonal treatment in the last 6 months or Have used vaginal moisturizers and / or lubricants during the 30 days prior to the study treatment
+* To have received treatment with laser, radiofrequency, hyaluronic acid, etc
+
+----------------------------------------------------------------------
+
+**NCT01276041** - Paclitaxel, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pertuzumab in combination with trastuzumab and paclitaxel
+
+Biomarker Criteria:
+  - * ECOG performance 0 -1 (Appendix A)
+* 0-1 prior treatment in the metastatic setting (ie: hormone, chemotherapy, biologic, targeted agents)
+  - If the patient has one trastuzumab-based treatment in the metastatic setting and is given a break (even intermittently) from the partner drug given with trastuzumab and is continued on trastuzumab alone, this would still be considered as one treatment
+  - For example, if the patient was given paclitaxel + trastuzumab and was later continued on trastuzumab alone or then restarted on paclitaxel + trastuzumab (at the physician's discretion for any reason), the regimen paclitaxel + trastuzumab followed by trastuzumab alone (or followed by paclitaxel + trastuzumab again) may be considered as one treatment
+
+----------------------------------------------------------------------
+
+**NCT03796845** - Limited Versus No-limited Shoulder Movement in Breast Cancer Surgery
+Phase: NA | Status: COMPLETED
+Interventions: No limited movement after surgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Women aged 18 and over;
+* Indication of curative surgical treatment for breast cancer axillary approach at Hospital do Câncer III / INCA
+  - Exclusion Criteria:
+
+* Bilateral breast cancer;
+* Surgical treatment and / or previous radiotherapy for breast cancer;
+* Reconstruction surgery;
+* Functional alteration in upper limbs prior to diagnosis of breast cancer;
+* Illiterate women who are not able to read and complete the protocol of adhesion;
+* Women who are not able to answer questions clearly;
+* Age over 80
+
+----------------------------------------------------------------------
+
+**NCT00106145** - A Notch Signalling Pathway Inhibitor for Patients With Advanced Breast Cancer (0752-014)
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Comparator: MK0752, Notch Inhibitor, Comparator: MK0752, Notch Inhibitor - 450 mg
+
+Biomarker Criteria:
+  - There is no limit on the number of prior treatment regimens
+* In Part II, only breast cancer patients are eligible
+* In Part V, only patients with Numb negative breast cancer (i
+  - , tumor shows Numb immunoreactivity in less than 10% of the neoplastic cells assessed) are eligible
+* Patient has recovered from and is at least 2 weeks from previous antineoplastic therapy, including chemotherapy, biological therapy (including Herceptin), hormonal therapy, radiotherapy, or surgery
+
+Exclusion Criteria:
+
+* Patient has had an investigational treatment in the preceding 21 days
+* Uncontrolled congestive heart failure or myocardial infarction (heart attack) within 3 months of study start
+* History of hepatitis B or C or HIV
+* Patient has the presence of clinically apparent central nervous system metastases or carcinomatous meningitis
+
+----------------------------------------------------------------------
+
+**NCT05736367** - Investigating the Metabolic Pathways in Hormone Receptor Positive/HER2 Negative Breast Cancer
+Phase: NA | Status: RECRUITING
+Interventions: U-13C-glucose
+
+Biomarker Criteria:
+  - , as part of standard preparation for diagnosis and treatment for her cancer)
+
+----------------------------------------------------------------------
+
+**NCT06452394** - NEODOXy: Targeting Breast Cancer Stem Cells With Doxycycline
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Doxycyclin
+
+Biomarker Criteria:
+  - * Patients with a prior malignancy and treated with curative intention are eligible if all treatment of that malignancy was completed at least 2 years before registration in this trial and the patient has no evidence of disease at registration
+  - * Women of childbearing potential must use highly effective, are not pregnant or lactating and agree not to become pregnant during trial treatment and until 12 months after the last dose of investigational drug
+  - * Men agree not to donate sperm or to father a child during trial treatment and until 12 months after the last dose of investigational drug
+
+----------------------------------------------------------------------
+
+**NCT05817175** - International Prospective REgistry on Pre-pectorAl Breast REconstruction
+Phase: Not specified | Status: RECRUITING
+Interventions: pre-pectoral breast reconstruction
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female patients older than 18 years old
+* Signed informed consent form
+* Patients undergoing mono or bilateral therapeutic mastectomy
+* Patients undergoing pre-pectoral implant-based breast reconstruction with implant or expander with or without mesh
+
+Exclusion Criteria:
+
+* Male patients
+* Patients not suitable for surgical treatment
+* Patients undergoing subpectoral reconstruction
+* Patients undergoing breast reconstruction with autologous tissue
+
+----------------------------------------------------------------------
+
+**NCT01806181** - NEXT (Nutrition and EXercise During Adjuvant Treatment) Study
+Phase: NA | Status: COMPLETED
+Interventions: Exercise
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* female;
+* aged 19 years and older;
+* newly diagnosed with early stage (I-IIIA) breast cancer;
+* prescribed adjuvant chemotherapy (with or without radiation) as part of curative treatment for breast cancer; and
+* good comprehension of English
+
+Exclusion Criteria:
+
+* contraindications for entry into an exercise program (i
+
+----------------------------------------------------------------------
+
+**NCT03820141** - Durvalumab with Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Durvalumab, Trastuzumab
+
+Biomarker Criteria:
+  - Negative serum beta-human chorionic gonadotropin pregnancy test within 7 days prior to the first dose of study treatment for premenopausal patients
+  - Willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow-up
+  - Participation in another clinical study with an investigational product within 28 days prior to the first dose of study treatment
+
+----------------------------------------------------------------------
+
+**NCT02513394** - PALbociclib CoLlaborative Adjuvant Study
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Palbociclib, Standard Adjuvant Endocrine Therapy
+
+Biomarker Criteria:
+  - -Patients must either be initiating or have already started adjuvant hormonal treatment
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - 1 or Cheson 2016 criteria
+* Dose Escalation/Confirmation:
+
+  o Has disease progression after adequate standard of care therapies for metastatic disease that are known to confer clinical benefit, is intolerant to treatment, or refuses standard treatment (no limit to prior lines of therapy)
+* Dose Expansion:
+
+  * Group 1 Triple negative breast cancer: Must have objective evidence of disease progression during or following at least one prior line of therapy for metastatic or locally advanced disease
+  - * Has a tumor lesion amenable to biopsy and must be willing to provide the baseline and on-treatment tumor biopsy samples if medically feasible
+  - * Has a body weight of \>30 kilograms (kg)
+* Adequate hematological and biological function
+* Has evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal participants
+* Treatment Arm B and Arm C: Clinical euthyroid status
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with progression or intolerance to already approved and accessible treatments for the specific neoplasm and population
+  - Documented disease progression radiologically after the last routine treatment
+  - Previous treatment lines with immunotherapy (immune checkpoint inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT03106077** - Mirvetuximab Soravtansine as First Line in Treating Patients With Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Mirvetuximab Soravtansine
+
+Biomarker Criteria:
+  - \> 30% of marrow-bearing bones) completed at least four weeks, or focal radiation completed at least two weeks, prior to starting study treatment
+* (For cohort B only): Patients must have at least 3 and no more than 5 weeks between anthracycline-based therapy and start of treatment with mirvetuximab soravtansine
+* (For both cohorts A and B): Patients must have resolution of toxic effect(s) of the most recent prior chemotherapy to grade 1 or less (except alopecia)
+* (For both cohorts A and B): Women of child-hearing potential (WCBP) must have a negative pregnancy test within 3 days prior to the first dose of study treatment
+
+Exclusion Criteria:
+
+* Pregnant or lactating women
+* Patients with a history of non-compliance to medical regimens or who are considered potentially unreliable or will not be able to complete the entire study
+* (For Cohort B only): Presence of metastatic disease or prior radiation therapy of the primary breast carcinoma or axillary lymph nodes
+* Women of child-bearing potential (WCBP), defined as all women capable of becoming pregnant, won't use highly effective methods of contraception during the study and 12 weeks after
+  - In the case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment is she considered not of childbearing potential
+* Male patients whose sexual partner(s) are WCBP who are not willing to use adequate contraception, during the study and for 12 weeks after the end of treatment
+* Patients with \> grade 1 peripheral neuropathy
+* Active or chronic corneal disorder, including but not limited to the following: Sjogren's syndrome, Fuchs corneal dystrophy (requiring treatment), history of corneal transplantation, active herpetic keratitis, and also active ocular conditions requiring on-going treatment/monitoring such as wet age-related macular degeneration requiring intravitreal injections, active diabetic retinopathy with macular edema, presence of papilledema, and acquired monocular vision
+* Serious concurrent illness or clinically-relevant active infection, including, but not limited to the following:
+
+  * Known active hepatitis B or C
+  * Known human immunodeficiency virus (HIV) infection
+  * Varicella-zoster virus (shingles)
+  * Cytomegalovirus infection
+  * Any other known concurrent infectious disease, requiring IV antibiotics within 2 weeks of study enrollment
+* Clinically-significant cardiac disease:
+
+  * Recent myocardial infarction (=\< 6 months prior to day 1)
+  * Unstable angina pectoris
+  * Uncontrolled congestive heart failure (New York Heart Association \> class II)
+  * Uncontrolled hypertension (\>= Common Terminology Criteria for Adverse Events \[CTCAE\] version \[v\]4
+  - aortic aneurysm, or dissecting aneurysm)
+  * Severe aortic stenosis
+  * Clinically significant peripheral vascular disease
+  * \>= Grade 3 cardiac toxicity following prior chemotherapy
+  * Corrected QT interval (QTc) \> 470 for females and \> 450 for males
+* History of neurological conditions that would confound assessment of treatment-emergent neuropathy
+* History of hemorrhagic or ischemic stroke within the last 6 months
+* History of cirrhotic liver disease
+* Previous clinical diagnosis of non-infectious pneumonitis or non-infectious interstitial lung disease
+* Prior hypersensitivity to monoclonal antibodies
+* Patients who have a history of another primary malignancy, with the exceptions of: non-melanoma skin cancer, and carcinoma in situ of the cervix, uteri, or breast from which the patient has been disease free for \>= 3 years
+* Carcinomatous meningitis, untreated central nervous system (CNS) disease or symptomatic CNS metastasis
+
+----------------------------------------------------------------------
+
+**NCT04176757** - A Study of ZN-c5 in Participants With Breast Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: ZN-c5
+
+Biomarker Criteria:
+  - Treatment with another investigational drug or other intervention within 28 days before the first administration of study drug
+3
+
+----------------------------------------------------------------------
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - in patients with metastatic disease, metastases samples are preferred over archival primary tumor and in patients with local recurrences a biopsy of the recurrence is preferred over archival primary tumor); NOTE: PIK3CA or Akt mutation status can be determined on fine needle aspirate (FNA) samples, but PTEN status cannot as stroma and endothelial cells are used as internal controls and PTEN testing has not been validated on FNA samples; thus patients with only FNA samples and no tissue blocks available will be considered to be eligible for screening for PIK3CA/Akt mutations and will be enrolled onto the study only if they are found to have PIK3CA mutations or Akt mutations; patients whose tumors have already been tested in the Clinical Laboratory Improvement Amendments (CLIA) environment and have been found to have a PIK3CA mutation or Akt mutation or PTEN loss by immunohistochemistry (IHC) or PTEN mutation will be eligible for treatment; patients whose tumors have been tested in the research environment and found to have a PIK3CA mutation or Akt mutation or PTEN loss or PTEN mutation will have their marker status confirmed in the CLIA environment
+* Patients whose tumors have already been tested in the CLIA environment and have been found to have a PIK3CA mutation or Akt mutation or PTEN loss or mutation will be eligible for treatment; patients whose tumors have been tested in the research environment and found to have a PIK3CA mutation or Akt mutation or PTEN loss or mutation will have their marker status confirmed in the CLIA environment
+  - 5 X ULN
+* Patients of childbearing potential must have a negative serum or urine pregnancy test beta-human chorionic gonadotropin (hCG) within 72 hours prior to study registration
+* Women of childbearing potential and men must use two forms of contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation and also for 4 weeks after the end of therapy; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, the patient should inform the treating physician immediately
+* Patient must have completed any systemic therapy regimens and therapeutic radiation a minimum of 21 days prior to initiation of study therapy
+* Ability to understand and the willingness to sign a written informed consent document
+* \>= 6 months life expectancy as documented in patient records
+
+Exclusion Criteria:
+
+* Patients who have had chemotherapy or radiotherapy within 3 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events to grade 1 or less due to agents administered more than 3 weeks earlier
+* Patients may have received prior investigational therapies; however, they not be receiving any other investigational agents concurrent with MK2206; patients must have completed therapy a minimum of 21 days prior to initiation of study therapy
+* Patients may not have received treatment with another inhibitor of phosphatidylinositol 3 kinase (PI3K), Akt or mammalian target of rapamycin (mTOR) in the neoadjuvant, adjuvant or metastatic setting with the exception of rapalogs; patients with metastatic breast cancer, who received PI3K/Akt/mTOR inhibitors on short preoperative window trials (treatment for 4 weeks or less), will be eligible if the treatment was over 6 months prior to registration; patients must have completed therapies a minimum of 21 days prior to initiation of study therapy
+* Patients with known brain metastases should be excluded from this clinical trial; patients will not undergo pre-treatment imaging of the brain, unless clinically indicated
+* History of allergic reactions attributed to compounds of similar chemical or biologic composition to MK2206 or other agents used in the study
+* Patients receiving any medications or substances that are potent inhibitors or inducers of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP 450 3A4) are ineligible; however, patients will be permitted regular dietary consumption of caffeine; glyburide will be allowed for the treatment of hyperglycemia
+* Patients with diabetes or in risk for hyperglycemia should not be excluded, but patients with poorly controlled diabetes (glycated hemoglobin \[HBA1C\] \> 8%) should be excluded
+* Baseline corrected QT by Fridericia's formula (QTcF) \> 450 msec (male) or QTcF \>b470 msec (female) will exclude patients from entry on study
+* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements
+* Baseline bradycardia related to cardiac disease, or significant bundle branch block
+* Pregnant women are excluded from this study; breastfeeding should be discontinued if the mother is treated with MK2206
+* Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral therapy are ineligible
+* Patients at high risk for coagulopathy
+* Liver disease burden greater or equal to 50 percent
+* Need for blood or platelet transfusion within one month from baseline laboratory testing as well as within treatment initiation
+
+----------------------------------------------------------------------
+
+**NCT01205503** - Trial of Mesna to Prevent Doxorubicin-induced Plasma Protein Oxidation and Tumor Necrosis Factor Alpha (TNF-α) Release
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Mesna, Saline
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+Participants must have histologically or cytologically confirmed breast cancer or non-hodgkin lymphoma and independent of protocol eligibility be determined to require one of the chemotherapy regimens listed below
+
+Participants must require as standard-of-care treatment a chemotherapy regimen that includes one of the following combinations:
+
+* doxorubicin 60 mg/m2 and cyclophosphamide 600 mg/m2;
+* doxorubicin 50 mg/m2, cyclophosphamide 500 mg/m2, and docetaxel 75 mg/m2;
+* doxorubicin 50 mg/m2, cyclophosphamide 750 mg/m2, vincristine 1
+  - Because these treatment regimens are rarely used in pediatric oncology, children are excluded from this study but will be eligible for future pediatric phase 2 trials
+  - Patients requiring ongoing pharmacologic treatment of dementia are excluded
+
+----------------------------------------------------------------------
+
+**NCT05190770** - A Study of Oleogel-S10 Gel for the Treatment of Radiation Dermatitis in People With Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Triamcinolone Acetonide, Oleogel-S10
+
+Biomarker Criteria:
+  - Once patient is enrolled on study (on or before Day 1), patient must be able to discontinue other topicals (including topical steroids, Silvadene, calcineurin inhibitors) to the treatment area
+* Patients have completed surgery or chemotherapy ≥ 4 weeks prior to start of radiation therapy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (2 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - * Dose Exploration:
+
+  o Newly diagnosed resectable, BRAF wild-type, Stage IIIB/C/D and Stage IV cutaneous melanoma with clinically evident lymph node involvement in the neoadjuvant setting
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (6 trials)
+======================================================================
+
+**NCT00783822** - Effects of Rapid Genetic Counseling and Testing in Newly Diagnosed Breast Cancer Patients
+Phase: NA | Status: COMPLETED
+Interventions: RGCT
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* newly diagnosed breast cancer
+* 10% or higher chance of carrying BRCA1/2 gene mutation
+
+Exclusion Criteria:
+
+* age \<18 years
+* does not speak Dutch
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GRPR+, ER+, HER2- Metastatic Bre
+Phase: PHASE1 | Status: RECRUITING
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+
+Biomarker Criteria:
+  - In addition:
+
+* in case of confirmed presence of deleterious or suspected deleterious germline BRCA1 or BRCA2 mutation, the participant may also have received a PARP inhibitor-based therapy
+
+----------------------------------------------------------------------
+
+**NCT04987931** - Real-World Outcomes of US Talazoparib-Treated Patients With Locally Advanced or Metastatic Breast Cancer
+Phase: Not specified | Status: COMPLETED
+Interventions: Talazoparib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Diagnosed with HER2-negative ABC
+* gBRCA1/2 mutation(s)
+* Treatment with talazoparib monotherapy initiated on or after October 16, 2018
+
+  -≥18 years of age at initiation of talazoparib
+* A minimum of 6 months follow-up time after initiation of talazoparib unless the patient died within this follow-up period
+
+Exclusion Criteria:
+
+* Participation in any BC clinical trial after initiation of talazoparib
+* Treatment with a PARP inhibitor as neoadjuvant/adjuvant therapy
+* gBRCA1/2 or HER2 status unknown
+* Diagnosis of any other malignancy, except carcinoma in situ or nonmelanoma skin cancer, within the 5 years prior to data collection
+
+----------------------------------------------------------------------
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Interventions: Genetic testing
+
+Biomarker Criteria:
+  - Inclusion criteria:
+
+Index case eligibility:
+
+Any person with an indication for a BRCA1/BRCA2 gene analysis and who has been offered TUMOSPEC panel screening
+
+----------------------------------------------------------------------
+
+**NCT00620373** - Molecular Breast Imaging as a Screening Tool for Women With Dense Breasts
+Phase: NA | Status: COMPLETED
+Interventions: Molecular Breast Imaging, Conventional Mammography
+
+Biomarker Criteria:
+  - Known mutation in breast cancer susceptibility gene 1 (BRCA1) or breast cancer susceptibility gene 2 (BRCA2)
+   2
+
+----------------------------------------------------------------------
+
+**NCT00923377** - Breast Stem Cells in Women at Average Risk and Increased Risk for Breast Cancer
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - * BRCAPro and Couch model less than 10% of being a BRCA mutation carrier OR tested negative for documented deleterious BRCA1/2 mutation in family
+  - * Deleterious mutations in BRCA1/2, PTEN or P53
+  - * Greater than or equal to 10% chance of carrying BRCA1/2 gene mutation as assessed by BRCAPro and Couch model (22, 23)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (3 trials)
+======================================================================
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GRPR+, ER+, HER2- Metastatic Bre
+Phase: PHASE1 | Status: RECRUITING
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+
+Biomarker Criteria:
+  - In addition:
+
+* in case of confirmed presence of deleterious or suspected deleterious germline BRCA1 or BRCA2 mutation, the participant may also have received a PARP inhibitor-based therapy
+
+----------------------------------------------------------------------
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Interventions: Genetic testing
+
+Biomarker Criteria:
+  - Inclusion criteria:
+
+Index case eligibility:
+
+Any person with an indication for a BRCA1/BRCA2 gene analysis and who has been offered TUMOSPEC panel screening
+
+----------------------------------------------------------------------
+
+**NCT00620373** - Molecular Breast Imaging as a Screening Tool for Women With Dense Breasts
+Phase: NA | Status: COMPLETED
+Interventions: Molecular Breast Imaging, Conventional Mammography
+
+Biomarker Criteria:
+  - Known mutation in breast cancer susceptibility gene 1 (BRCA1) or breast cancer susceptibility gene 2 (BRCA2)
+   2
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (7 trials)
+======================================================================
+
+**NCT06452394** - NEODOXy: Targeting Breast Cancer Stem Cells With Doxycycline
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Doxycyclin
+
+Biomarker Criteria:
+  - * Adequate renal function: estimated glomerular filtration rate (eGFR) ≥ 50 mL/min/1
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GRPR+, ER+, HER2- Metastatic Bre
+Phase: PHASE1 | Status: RECRUITING
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+
+Biomarker Criteria:
+  - 5
+* Estimated glomerular filtration rate (eGFR) ≥ 60 ml/min/1
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Cohort 1: NSCLC; EGFR wild-type and negative for ALK or ROS1 fusion genes
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in Patients With HER3-Expressing 
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ENV-501
+
+Biomarker Criteria:
+  - Locally advanced or metastatic mutated EGFR (mEGFR) NSCLC (HER3+)
+  3
+
+----------------------------------------------------------------------
+
+**NCT03089918** - A Study to Investigate the Regional Brain Kinetics of Brain Drug Transporters Using P-glycoprotein and Breast Cancer Resistance Protein Substrates and
+Phase: PHASE1 | Status: COMPLETED
+Interventions: 11C-JNJ-63779586
+
+Biomarker Criteria:
+  - The matched control participants will be amyloid negative and have a MMSE \>= 26, respectively
+
+Exclusion Criteria:
+
+* History of or current clinically significant medical illness including (but not limited to) cardiac arrhythmias or other cardiac disease, hematologic disease, coagulation disorders (including any abnormal bleeding or blood dyscrasias), lipid abnormalities, significant pulmonary disease, including bronchospastic respiratory disease, diabetes mellitus, hepatic or renal insufficiency (estimated glomerular filtration rate \[eGFR\] within the screening period of less than 60 milliLitre per minute per 1
+
+----------------------------------------------------------------------
+
+**NCT01234337** - Phase III Trial Comparing Capecitabine in Combination With Sorafenib or Placebo in the Treatment of Locally Advanced or Metastatic HER2-Negative Breas
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Sorafenib (Nexavar, BAY43-9006), Placebo
+
+Biomarker Criteria:
+  - Further therapy with the agent(s) for a subsequent regimen must have been considered and ruled out, for example due to prior toxicity or intolerance, or based on the local standard of practice
+* Prior experimental chemotherapy treatment is allowed, provided it is given in combination with at least one drug approved for the treatment of breast cancer (excluding drugs that target VEGF \[Vascular Endothelial Growth Factor\] or VEGFR \[Vascular Endothelial Growth Factor Receptor\], eg, bevacizumab, brivanib, sunitinib, vatalinib)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (2 trials)
+======================================================================
+
+**NCT03820141** - Durvalumab with Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Durvalumab, Trastuzumab
+
+Biomarker Criteria:
+  - Histologically confirmed HER2-enriched (by BluePrint) and HER2-amplified (ERBB2 mRNA \>7
+
+----------------------------------------------------------------------
+
+**NCT01050322** - Safety Study in Subjects With Metastatic Breast Cancer Who Progressed After Taxanes Treatment.
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Lapatinib Vinorelbine, Lapatinib Capecitabine
+
+Biomarker Criteria:
+  - Documented progression after taxane based treatment for ErbB2 positive patients for 1st line metastatic breast cancer or documented progression after taxane based regimens as adjuvant or neo-adjuvant therapy
+  - Prior therapy with other anti Erbb1 or antiErbB2 targeted agent rather than Trastuzumab only limited to 1st line treatment of metastatic disease OR as adjuvant/neoadjuvant therapy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (52 trials)
+======================================================================
+
+**NCT01276041** - Paclitaxel, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pertuzumab in combination with trastuzumab and paclitaxel
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18
+* Stage IV HER2 (+) breast cancer
+  - * Histologically documented HER2 (+) breast cancer as defined as IHC 3+ or FISH amplification of ≥ 2
+  - (Optional tumor sample collection from primary or metastatic site may be obtained for HER2 testing at MSKCC)
+
+----------------------------------------------------------------------
+
+**NCT05736367** - Investigating the Metabolic Pathways in Hormone Receptor Positive/HER2 Negative Breast Cancer
+Phase: NA | Status: RECRUITING
+Interventions: U-13C-glucose
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Have hormone receptor (HR) positive \[estrogen receptor( ER)+/progesterone receptor (PR)+, ER+/PR- or ER-/PR+)/Her2 negative breast cancer previously diagnosed by biopsy
+  - * Has triple negative (ER-/PR-/Her2-) or HER2+ breast cancer
+
+----------------------------------------------------------------------
+
+**NCT06452394** - NEODOXy: Targeting Breast Cancer Stem Cells With Doxycycline
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Doxycyclin
+
+Biomarker Criteria:
+  - * Histologically confirmed ER+/HER2- primary invasive breast cancer, according to ASCO/CAP Guideline1,2, defined as ER expression rate ≥ 1%
+  - * Patients with multiple synchronous ipsilateral tumors are allowed, as long as all lesions are ER+/HER2-
+  - Exclusion Criteria:
+
+* Patients with 2 synchronous breast cancers or more of different subtypes (other than ER+/HER2-)
+
+----------------------------------------------------------------------
+
+**NCT03820141** - Durvalumab with Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Durvalumab, Trastuzumab
+
+Biomarker Criteria:
+  - Histologically confirmed HER2-enriched (by BluePrint) and HER2-amplified (ERBB2 mRNA \>7
+
+----------------------------------------------------------------------
+
+**NCT02513394** - PALbociclib CoLlaborative Adjuvant Study
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Palbociclib, Standard Adjuvant Endocrine Therapy
+
+Biomarker Criteria:
+  - 1000 patients) or Stage III early invasive breast cancer
+* Patients with multicentric and/or multifocal and/or bilateral early invasive breast cancer are eligible if all histopathologically examined tumors meet pathologic criteria for ER+ and/or PR+ and HER2-
+  - * Patients must have histologically confirmed ER+ and/or PR+, HER2-, early invasive breast cancer
+
+----------------------------------------------------------------------
+
+**NCT03106077** - Mirvetuximab Soravtansine as First Line in Treating Patients With Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Mirvetuximab Soravtansine
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+* Confirmed invasive triple-negative breast cancer defined as estrogen receptor (ER) \< 10%; progesterone receptor (PR) \< 10% by immunohistochemistry (IHC) and HER2 0-1+ by IHC or 2+, fluorescence in situ hybridization (FISH) \< 2, gene copy number \< 4
+* (For Cohort A) - Archived tissue available at pre-screening to confirm FR alpha+ breast cancer
+* (For Cohort A) Archived tissue available pre-screening to confirm FR alpha+ breast cancer
+
+----------------------------------------------------------------------
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed breast cancer, with diagnosed or suspected metastatic, inoperable locally advanced breast cancer, or inoperable locally recurrent breast cancer
+* Patients must have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \> 20 mm with conventional techniques or as \> 10 mm with spiral computed tomography (CT) scan
+* Patients who have failed to respond to at least one line of systemic therapy are eligible for MK2206 therapy; if the patient has a human epidermal growth factor receptor 2 (HER2) positive tumor, it is expected that they will have received at least one HER2-targeted therapy in the metastatic setting; if the patient has an estrogen receptor positive (ER+) tumor, it is expected that they will have received at least one ER-targeted therapy in the metastatic setting; patients can be enrolled for molecular screening while on another therapy if the patient is interested in MK2206 therapy upon progression
+* Archived primary tumor biopsies or surgical specimens, or biopsies of recurrence or metastasis, will be available for PIK3CA/Akt mutational analysis and PTEN analysis; patients with surgical samples, or core/punch biopsies available, will be eligible for testing for PIK3CA/Akt status as well as PTEN testing; the most recent sample will be preferred (i
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - For HER2 IHC 0 breast cancer subjects, it is highly recommended to collect additional tumor sample (Refer to Lab Manual)
+  - Prior treatment with antibody drug conjugate with topoisomerase I inhibitor (except trastuzumab deruxtecantopoisomerase I inhibitor HER2 ADC for backfilled subjects in Combo A of Phase 1 and subjects in Cohort 2e of Phase 2a, and not applicable for subjects enrolled for DLT observation in Phase 1)
+
+----------------------------------------------------------------------
+
+**NCT00593827** - Phase II Trial of Weekly or Every 3-week Ixabepilone for Patients With Metastatic Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Ixabepilone, Ixabepilone
+
+Biomarker Criteria:
+  - 3) ≥ 50
+* Has Human Epidermal Growth Factor Receptor 2 (HER2) negative breast cancer
+* Prior chemotherapy is permitted with no limit on the number of prior regimens
+* Two weeks or more have elapsed since last chemotherapy or radiation treatment
+* Has an Eastern Cooperative Oncology Group (ECOG) Performance Status (PS) of 0-2
+* Is female, ≥ 18 yrs of age
+* Protocol defined appropriate laboratory values
+* Negative pregnancy test within 7 calendar days prior to registration
+* Has signed a patient informed consent
+
+Exclusion Criteria:
+
+* Had prior treatment with ixabepilone or other epothilones
+* Has HER2+ disease
+* Has a known, prior, severe (National Cancer Institute Common Terminology Criteria Adverse Events \[NCI CTCAE\] Grade 3-4) history of hypersensitivity reaction to a drug formulated in Cremophor ® EL (polyoxyethylated castor oil)
+* Is receiving concurrent immunotherapy, hormonal therapy or radiation therapy
+* Is receiving concurrent investigational therapy or has received such therapy within the past 30 days
+* Has peripheral neuropathy \> Grade 1
+* Has evidence of central nervous system (CNS) involvement requiring radiation or steroid treatment
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Histologically or cytologically confirmed metastatic or advanced-stage solid malignant tumor or HR+/HER2- breast cancer
+  - Participants with solid tumors or HR+/HER2- breast cancer with AKT1 E17K mutations
+
+----------------------------------------------------------------------
+
+**NCT01920061** - A Study Of PF-05212384 In Combination With Other Anti-Tumor Agents and in Combination With Cisplatin in Patients With Triple Negative Breast Cancer in
+Phase: PHASE1 | Status: COMPLETED
+Interventions: PF-05212384 (gedatolisib), Docetaxel
+
+Biomarker Criteria:
+  - * Arm C: Her2+ breast cancer refractory to prior herceptin or lapatinib, her2+ esophagal-gastric cancer, head and neck squamous cell cancer, or non small cell lunch cancer that are candidates for treatment with a dacomitinib-based combination
+
+----------------------------------------------------------------------
+
+**NCT00689156** - Epirubicin or Not in Patients With TOP2A (Topoisomerase (DNA) II Alpha (170kD)) Normal Early Breast Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Epirubicin, cyclophosphamide and docetaxel, docetaxel, cyclophosphamide
+
+Biomarker Criteria:
+  - Hormone receptor-positive tumor, 35 to 59 years of age and presenting at least one of the following characteristics: spread to lymph nodes, tumor \> 2 cm, degree of malignancy II-III or HER2-positive
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GRPR+, ER+, HER2- Metastatic Bre
+Phase: PHASE1 | Status: RECRUITING
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+
+Biomarker Criteria:
+  - Participant has HER2-negative (as per ASCO-CAP guidelines Wolff et al 2018) breast cancer defined as a negative in situ hybridization test (ISH) or an IHC status of 0, 1+ or 2+
+  - * In case of HER2-low breast cancer (IHC 1+ or IHC 2+ with ISH negative as per ASCO-CAP guidelines Wolff et al 2023), the participant may also have received trastuzumab deruxtecan \[Enhertu®\])
+
+----------------------------------------------------------------------
+
+**NCT04987931** - Real-World Outcomes of US Talazoparib-Treated Patients With Locally Advanced or Metastatic Breast Cancer
+Phase: Not specified | Status: COMPLETED
+Interventions: Talazoparib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Diagnosed with HER2-negative ABC
+* gBRCA1/2 mutation(s)
+* Treatment with talazoparib monotherapy initiated on or after October 16, 2018
+
+  -≥18 years of age at initiation of talazoparib
+* A minimum of 6 months follow-up time after initiation of talazoparib unless the patient died within this follow-up period
+
+Exclusion Criteria:
+
+* Participation in any BC clinical trial after initiation of talazoparib
+* Treatment with a PARP inhibitor as neoadjuvant/adjuvant therapy
+* gBRCA1/2 or HER2 status unknown
+* Diagnosis of any other malignancy, except carcinoma in situ or nonmelanoma skin cancer, within the 5 years prior to data collection
+
+----------------------------------------------------------------------
+
+**NCT05315154** - Sentinel Lymph Node Biopsy Versus No Axillary Surgery in Early Breast Cancer
+Phase: NA | Status: RECRUITING
+Interventions: No axillary surgery, SLNB
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Women
+* Aged 18 years or older
+* Histologically confirmed invasive breast carcinoma (core or open biopsy), independent of hormone receptor and HER2 status
+* Tumor smaller than 5 cm (T1 or T2) in clinical and radiological exams
+* Clinically negative axilla
+* Sonographically negative axilla or negative core biopsy/ fine needle biopsy (FNB) when ultrasound is suspect (lymph node tissue is required in core/FNB sample)
+* Planned breast conservative surgery or mastectomy
+* Written informed consent
+
+Exclusion Criteria:
+
+* Previous diagnostic of any invasive neoplasia (excluded skin cancer no melanoma)
+* Metastatic disease in biopsy or image before treatment
+* Withdrawal from participating of the study
+* Initiated treatment for current breast cancer prior to study enrollment
+* Pregnancy
+* Breastfeed
+
+----------------------------------------------------------------------
+
+**NCT06693024** - Adjuvant Therapy With Neratinib in HER2 Positive Early Breast Cancer
+Phase: Not specified | Status: RECRUITING
+Interventions: neratinib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* 1\) Patients with HER2 positive breast cancer who were diagnosed by core needle biopsy/operation in Peking University People's hospital;
+* 2\) The patients were treated in our hospital and underwent radical resection with hospitalization records;
+* 3\) Received standard anti-HER2 neoadjuvant/adjuvant therapy (trastuzumab, trastuzumab combined with pertuzumab, T-DM1)
+* 4\) Has signed and agreed to participate in the PKUPH breast disease cohort study
+
+----------------------------------------------------------------------
+
+**NCT02167854** - Open-Label Study Evaluating the Safety and Tolerability of LJM716, BYL719 and Trastuzumab in Patients With Metastatic HER2+ Breast Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: BYL719, LJM716
+
+Biomarker Criteria:
+  - Patients must have metastatic HER2+ disease
+  - * Documented HER2+ breast cancer defined as: 3+ by IHC or with amplification by in situ hybridization with ratio ≥ 2
+  - \- HER2+ patients must have received pertuzumab and TDM-1 (ado-trastuzumab emtansine) prior to trial enrollment
+
+----------------------------------------------------------------------
+
+**NCT05766410** - A Randomized Study Comparing the Immune Modulation Effect of Ribociclib, Palbociclib, and Abemaciclib in ER+/HER2- EBC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Palbociclib, Ribociclib
+
+Biomarker Criteria:
+  - with estrogen receptor positive (\>10%) on IHC staining and HER2 negative (IHC 0+/1+, or IHC 2+ plus FISH negative)
+* Stage II to III
+* With adequate organ function
+* ECOG 0-1
+
+Exclusion Criteria:
+
+* Pregnant or nursing (lactating) women
+* Women of child-bearing potential unless using highly effective methods of contraception during study drug dosing and for 12 months post-dosing
+* Patients with active systemic infections or known to have AIDS or to test positive for HIV antibody at Screening
+* Any other disease or condition that could interfere with participation in the study according to the study protocol, or with the ability of the patients to cooperate and comply with the study procedures
+
+----------------------------------------------------------------------
+
+**NCT06462079** - Sacituzumab Govitecan Combined With Head Radiotherapy for Her2-negative Breast Cancer Brain Metastases
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Sacituzumab Govitecan, Radiotherapy
+
+Biomarker Criteria:
+  - Have a definitive pathologic diagnosis of breast cancer with subtype Her2- (including IHC 0, IHC 1+ or IHC 2+ and ISH negative);
+2
+
+----------------------------------------------------------------------
+
+**NCT01895491** - Safety Study of VM206RY in Subjects With Expression of HER2 in Breast Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: VM206DNA, VM206Ad
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Women, 20 years of age
+* Stage 3 or 4 breast cancer
+* Unresectable breast cancer with Expression of Her2 and one of the following criteria including
+
+  * Prior use of Her2-targeted therapies(Herceptin, Tykerb, taxane and capecitabine) but it was not responding, with Immunohistochemistry (IHC) 3+, or IHC 2+ and FISH+, or SISH+
+  * Patients received treatment that three times continuously Different chemotherapies but it was not responding, with Immunohistochemistry (IHC) 2+ and FISH- or SISH-, or Immunohistochemistry (IHC) 1+
+  * Prior use of six chemotherapies(Anthracycline, Taxane, Gemcitabine, Capecitabine, Vinorelbine, Cyclophosphamide) but it was not responding, with Immunohistochemistry (IHC) 2+ and FISH or SISH-, or Immunohistochemistry (IHC) 1+
+* One or more measurable(or assessable) lesion of breast or metastatic site
+
+  * Spiral CT: ≥ 10mm diameter
+  * general measurement methods (CT, X-ray, MRI): ≥ 20mm diameter
+* Life expectancy 6 months
+* Signed informed consent
+
+Exclusion Criteria:
+
+* Prior use of breast cancer vaccine
+* Active or history of cardiovascular diseases within the past 3 months: Active uncontrolled cardiac disease, including cardiomyopathy, CHF(NYHA Class III\~IV), and unstable angina, family history of congenital long QT syndrome or QT/QTc interval \>0
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (8 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - Enrollment to Stage 3 of this cohort will include participants who have previously progressed on prior immune checkpoint blockade or participants with programmed death-ligand 1 (PD-L1) negative tumor based on archival tissue (if available)
+  - * Group 4 Urothelial cancer, first line: Must be cisplatin ineligible and PD-L1 negative
+  * Group 5 Urothelial cancer: Must have objective evidence of disease progression during or following platinum-containing chemotherapy
+  * Group 6 Cutaneous melanoma: Must be refractory to immune checkpoint blockade in the primary or secondary acquired resistance setting
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with immunohistochemistry for PD-L1 with a combined positive score (CPS) of 10 or higher
+
+----------------------------------------------------------------------
+
+**NCT02447003** - Study of Pembrolizumab (MK-3475) Monotherapy for Metastatic Triple-Negative Breast Cancer (MK-3475-086/KEYNOTE-086)
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Pembrolizumab
+
+Biomarker Criteria:
+  - For second line plus monotherapy (Parts 1 and 2):
+
+* Has received at least one systemic treatment for metastatic breast cancer
+* Has documented disease progression on or after the most recent therapy
+* Prior treatment must include an anthracycline and a taxane in the neoadjuvant, adjuvant, or metastatic setting
+
+For first line monotherapy (Part 1):
+
+* Has received no prior systemic treatment for metastatic breast cancer
+* Has PD-L1-positive mTNBC
+  - For second line plus monotherapy (Part 2):
+
+\- Has PD-L1 strong positive mTNBC
+
+For all parts:
+
+* Has mTNBC confirmed by a central laboratory
+* For biomarker analysis, adequate newly obtained core or excisional biopsy of a not-previously-irradiated metastatic tumor lesion (mandatory)
+* Has measurable metastatic disease
+* Has Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+* Female participants of childbearing potential should be willing to use 2 methods of birth control or be surgically sterile, or abstain from heterosexual activity for the course of the study through 120 days after the last dose of study treatment
+* Male participants should agree to use an adequate method of contraception starting with the first dose of study treatment through 120 days after the last dose of study treatment
+* Has adequate organ function
+
+Exclusion Criteria:
+
+* Is currently participating and receiving study treatment, or has participated in a study of an investigational agent and received study therapy or used an investigational device within 4 weeks prior to study Day 1
+* Has received prior anti-cancer monoclonal antibody (mAb) therapy for direct anti-neoplastic treatment within 4 weeks prior to study Day 1
+* Has received prior chemotherapy, targeted small molecule therapy, or radiation therapy within at least 2 weeks prior to study Day 1
+* Has not recovered (i
+  - Exceptions include basal cell carcinoma of the skin, squamous cell carcinoma of the skin that has undergone potentially curative therapy, or in situ cervical cancer
+* Has radiographically-detectable central nervous system (CNS) metastases and/or carcinomatous meningitis
+* Has a history of (non-infectious) pneumonitis that required steroids or current pneumonitis or a history of interstitial lung disease
+* Has an active infection requiring systemic therapy
+* Has known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the study
+* Is pregnant, breastfeeding, or expecting to conceive or father children within the projected duration of the study, starting with the screening visit through 120 days after the last dose of study treatment
+* Has received prior therapy with an anti-programmed cell death protein-1 (anti-PD-1), anti-PD-L1, anti-PD-L2 agent or with an agent directed to another co-inhibitory T-cell receptor (e
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Provide archival tumor tissue samples or newly obtained needle biopsy or surgical resection samples of tumor lesions (previously unirradiated) for central PD-L1 and other biomarker tests
+  - Previously received any antibody or inhibitor targeting PD-1/PD-L1 or VEGF;
+4
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+  - Progression after PD-1/PD-L1 inhibitor therapy (defined as:
+
+   * ≥2 doses administred
+  - * Progression within 12 weeks of last PD-1/PD-L1 dose
+
+----------------------------------------------------------------------
+
+**NCT03594396** - Window of Opportunity Trial of Neoadjuvant Olaparib and Durvalumab for Triple Negative or Low ER+ Breast Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Olaparib, Durvalumab
+
+Biomarker Criteria:
+  - * Any previous treatment with a PD1 or PD-L1 inhibitor, including durvalumab
+* Is currently participating and receiving study therapy, or has participated in a study of an investigational agent and received study therapy or used an investigational device within 4 weeks of the first dose of study drug
+
+----------------------------------------------------------------------
+
+**NCT06731153** - JAK1 Inhibitor Ivarmacitinib Reversing Immunotherapy Resistance in TNBC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Ivarmacitinib, Camrelizumab (SHR-1210)
+
+Biomarker Criteria:
+  - Radiologic/objective evidence of recurrence or disease progression after immunotherapy (anti-PD-1/PD-L1 antibodies) for metastatic breast cancer (MBC);
+6
+  - For patients refractory/resistant to anti-PD-1/PD-L1 antibodies, there should be no anti-PD-1/PD-L1 treatment-related toxicity from prior therapies;
+7
+
+----------------------------------------------------------------------
+
+**NCT03807765** - Stereotactic Radiation and Nivolumab in the Management of Metastatic Breast Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Nivolumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - * Prior therapy with antiPD-1, antiPD-L1, antiPD-L2, antiCD137, or antiCTLA-4 antibody (including ipilimumab or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways)
+* Interstitial lung disease that is symptomatic or may interfere with the detection or management of suspected drug-related pulmonary toxicity
+* Any patient requiring supplemental oxygen therapy
+* Patients with prior history of non-breast cancer malignancies are excluded except in the case of adequately treated basal cell cancer, squamous cell skin cancer, chronic lymphocytic leukemia, or other indolent diseases not requiring therapy
+* Known medical condition that, in the investigator's opinion, would increase the risk associated with study participation or study drug(s) administration or that would interfere with the interpretation of safety results
+* Major surgery or significant traumatic injury that has not been recovered from by 14 days before the initiation of study drug
+* Current or prior participation in a study of an investigational agent or investigational device within 2 weeks of first dose of study treatment
+* Positive test for: a
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (4 trials)
+======================================================================
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed breast cancer, with diagnosed or suspected metastatic, inoperable locally advanced breast cancer, or inoperable locally recurrent breast cancer
+* Patients must have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \> 20 mm with conventional techniques or as \> 10 mm with spiral computed tomography (CT) scan
+* Patients who have failed to respond to at least one line of systemic therapy are eligible for MK2206 therapy; if the patient has a human epidermal growth factor receptor 2 (HER2) positive tumor, it is expected that they will have received at least one HER2-targeted therapy in the metastatic setting; if the patient has an estrogen receptor positive (ER+) tumor, it is expected that they will have received at least one ER-targeted therapy in the metastatic setting; patients can be enrolled for molecular screening while on another therapy if the patient is interested in MK2206 therapy upon progression
+* Archived primary tumor biopsies or surgical specimens, or biopsies of recurrence or metastasis, will be available for PIK3CA/Akt mutational analysis and PTEN analysis; patients with surgical samples, or core/punch biopsies available, will be eligible for testing for PIK3CA/Akt status as well as PTEN testing; the most recent sample will be preferred (i
+  - in patients with metastatic disease, metastases samples are preferred over archival primary tumor and in patients with local recurrences a biopsy of the recurrence is preferred over archival primary tumor); NOTE: PIK3CA or Akt mutation status can be determined on fine needle aspirate (FNA) samples, but PTEN status cannot as stroma and endothelial cells are used as internal controls and PTEN testing has not been validated on FNA samples; thus patients with only FNA samples and no tissue blocks available will be considered to be eligible for screening for PIK3CA/Akt mutations and will be enrolled onto the study only if they are found to have PIK3CA mutations or Akt mutations; patients whose tumors have already been tested in the Clinical Laboratory Improvement Amendments (CLIA) environment and have been found to have a PIK3CA mutation or Akt mutation or PTEN loss by immunohistochemistry (IHC) or PTEN mutation will be eligible for treatment; patients whose tumors have been tested in the research environment and found to have a PIK3CA mutation or Akt mutation or PTEN loss or PTEN mutation will have their marker status confirmed in the CLIA environment
+* Patients whose tumors have already been tested in the CLIA environment and have been found to have a PIK3CA mutation or Akt mutation or PTEN loss or mutation will be eligible for treatment; patients whose tumors have been tested in the research environment and found to have a PIK3CA mutation or Akt mutation or PTEN loss or mutation will have their marker status confirmed in the CLIA environment
+
+----------------------------------------------------------------------
+
+**NCT02167854** - Open-Label Study Evaluating the Safety and Tolerability of LJM716, BYL719 and Trastuzumab in Patients With Metastatic HER2+ Breast Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: BYL719, LJM716
+
+Biomarker Criteria:
+  - * For the dose-escalation phase, a PIK3CA mutation is also required
+
+----------------------------------------------------------------------
+
+**NCT06764186** - A Phase IIIB Study to Evaluate the Use of Capivasertib in Combination With Fulvestrant in Patients With Advanced Breast Cancer Who Have Relapsed/Progr
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Fulvestrant, Capivasertib
+
+Biomarker Criteria:
+  - Key Inclusion Criteria
+
+Histologically confirmed HR+/HER2- breast cancer (primary or metastatic):
+
+* HR+ defined as ER+ with or without PRg+
+* HER2- defined as IHC 0 or 1+, or IHC 2+/ISH-
+
+Patient with tumours harbouring at least one PIK3CA/AKT1/PTEN qualifying alteration detected by a validated test (including NGS on tissue, cell block, or if tissue/cell block is not available, on ctDNA, as per protocol requirements
+  - Unknown or non-altered PIK3CA/AKT1/PTEN-status
+  - AKT1, PIK3CA and mTOR inhibitors not allowed
+
+----------------------------------------------------------------------
+
+**NCT05894239** - A Study to Evaluate the Efficacy and Safety of Inavolisib in Combination With Phesgo Versus Placebo in Combination With Phesgo in Participants With PI
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Inavolisib, Phesgo
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Eastern Cooperative Oncology Group (ECOG) Performance Status 0 or 1
+* Histologically or cytologically confirmed and documented adenocarcinoma of the breast with metastatic or locally advanced disease not amenable to curative resection
+* Confirmation of HER2 biomarker eligibility based on valid results from central testing of tumor tissue documenting HER2-positivity
+* Confirmation of PIK3CA-mutation biomarker eligibility based on valid results from central testing of tumor tissue documenting PIK3CA-mutated tumor status
+* Disease-free interval from completion of adjuvant or neoadjuvant systemic non-hormonal treatment to recurrence of \>= 6 months
+* LVEF (left ventricular ejection fraction) of at least 50% measured by echocardiogram (ECHO) or multiple-gated acquisition scan (MUGA)
+* Adequate hematologic and organ function prior to initiation of study treatment
+
+Exclusion Criteria:
+
+* Prior treatment in the locally advanced or metastatic setting with any PI3K, AKT, or mTOR inhibitor or any agent whose mechanism of action is to inhibit the PI3K-AKT-mTOR pathway
+* Any prior systemic non-hormonal anti-cancer therapy for locally advanced or metastatic HER2-positive breast cancer prior to initiation of induction therapy
+* History or active inflammatory bowel disease
+* Disease progression within 6 months of receiving any HER2-targeted therapy
+* Type 2 diabetes requiring ongoing systemic treatment at the time of study entry; or any history of Type 1 diabetes
+* Participants with active HBV infection
+* Clinically significant and active liver disease, including severe liver impairment, viral or other hepatitis, current alcohol abuse, or cirrhosis
+* Symptomatic active lung disease, including pneumonitis or interstitial lung disease
+* Any history of leptomeningeal disease or carcinomatous meningitis
+* Serious infection requiring IV antibiotics within 7 days prior to Day 1 of Cycle 1
+* Any concurrent ocular or intraocular condition that, in the opinion of the investigator, would require medical or surgical intervention during the study period to prevent or treat vision loss that might result from that condition
+* Active inflammatory or infectious conditions in either eye or history of idiopathic or autoimmune-associated uveitis in either eye
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (3 trials)
+======================================================================
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed breast cancer, with diagnosed or suspected metastatic, inoperable locally advanced breast cancer, or inoperable locally recurrent breast cancer
+* Patients must have measurable disease, defined as at least one lesion that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \> 20 mm with conventional techniques or as \> 10 mm with spiral computed tomography (CT) scan
+* Patients who have failed to respond to at least one line of systemic therapy are eligible for MK2206 therapy; if the patient has a human epidermal growth factor receptor 2 (HER2) positive tumor, it is expected that they will have received at least one HER2-targeted therapy in the metastatic setting; if the patient has an estrogen receptor positive (ER+) tumor, it is expected that they will have received at least one ER-targeted therapy in the metastatic setting; patients can be enrolled for molecular screening while on another therapy if the patient is interested in MK2206 therapy upon progression
+* Archived primary tumor biopsies or surgical specimens, or biopsies of recurrence or metastasis, will be available for PIK3CA/Akt mutational analysis and PTEN analysis; patients with surgical samples, or core/punch biopsies available, will be eligible for testing for PIK3CA/Akt status as well as PTEN testing; the most recent sample will be preferred (i
+  - in patients with metastatic disease, metastases samples are preferred over archival primary tumor and in patients with local recurrences a biopsy of the recurrence is preferred over archival primary tumor); NOTE: PIK3CA or Akt mutation status can be determined on fine needle aspirate (FNA) samples, but PTEN status cannot as stroma and endothelial cells are used as internal controls and PTEN testing has not been validated on FNA samples; thus patients with only FNA samples and no tissue blocks available will be considered to be eligible for screening for PIK3CA/Akt mutations and will be enrolled onto the study only if they are found to have PIK3CA mutations or Akt mutations; patients whose tumors have already been tested in the Clinical Laboratory Improvement Amendments (CLIA) environment and have been found to have a PIK3CA mutation or Akt mutation or PTEN loss by immunohistochemistry (IHC) or PTEN mutation will be eligible for treatment; patients whose tumors have been tested in the research environment and found to have a PIK3CA mutation or Akt mutation or PTEN loss or PTEN mutation will have their marker status confirmed in the CLIA environment
+* Patients whose tumors have already been tested in the CLIA environment and have been found to have a PIK3CA mutation or Akt mutation or PTEN loss or mutation will be eligible for treatment; patients whose tumors have been tested in the research environment and found to have a PIK3CA mutation or Akt mutation or PTEN loss or mutation will have their marker status confirmed in the CLIA environment
+
+----------------------------------------------------------------------
+
+**NCT06764186** - A Phase IIIB Study to Evaluate the Use of Capivasertib in Combination With Fulvestrant in Patients With Advanced Breast Cancer Who Have Relapsed/Progr
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Fulvestrant, Capivasertib
+
+Biomarker Criteria:
+  - Key Inclusion Criteria
+
+Histologically confirmed HR+/HER2- breast cancer (primary or metastatic):
+
+* HR+ defined as ER+ with or without PRg+
+* HER2- defined as IHC 0 or 1+, or IHC 2+/ISH-
+
+Patient with tumours harbouring at least one PIK3CA/AKT1/PTEN qualifying alteration detected by a validated test (including NGS on tissue, cell block, or if tissue/cell block is not available, on ctDNA, as per protocol requirements
+  - Unknown or non-altered PIK3CA/AKT1/PTEN-status
+
+----------------------------------------------------------------------
+
+**NCT00923377** - Breast Stem Cells in Women at Average Risk and Increased Risk for Breast Cancer
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - * Deleterious mutations in BRCA1/2, PTEN or P53
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (1 trials)
+======================================================================
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Cohort 1: NSCLC; EGFR wild-type and negative for ALK or ROS1 fusion genes
+
+----------------------------------------------------------------------
+

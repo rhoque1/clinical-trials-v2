@@ -1,0 +1,1063 @@
+# Biomarker-Specific Trials: Cervical Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 121
+
+
+======================================================================
+## ALK (9 trials)
+======================================================================
+
+**NCT00909402** - A Study of BMS-833923 With Cisplatin and Capecitabine in Inoperable, Metastatic Gastric, Gastroesophageal, or Esophageal Adenocarcinomas
+Phase: PHASE1 | Status: COMPLETED
+Interventions: BMS-833923, Cisplatin
+
+Biomarker Criteria:
+  - * Individuals with spread of their cancer to the brain are permitted in certain circumstances - talk with your doctor
+
+----------------------------------------------------------------------
+
+**NCT00040859** - Oxaliplatin and Capecitabine in Treating Patients With Advanced Esophageal Cancer or Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: capecitabine, oxaliplatin
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically or cytologically confirmed adenocarcinoma of the esophagus, gastroesophageal junction, or gastric cardia for which no potentially curative or significant palliative therapy exists
+
+  * Unresectable disease
+  * Gastric cardia is defined as no more than 5 cm from the gastroesophageal junction into the stomach
+* Measurable disease
+* No known CNS metastases
+
+PATIENT CHARACTERISTICS:
+
+Age:
+
+* 18 and over
+
+Performance status:
+
+* ECOG 0-2
+
+Life expectancy:
+
+* At least 12 weeks
+
+Hematopoietic:
+
+* Absolute neutrophil count at least 1,500/mm\^3
+* Platelet count at least 100,000/mm\^3
+
+Hepatic:
+
+* Bilirubin no greater than upper limit of normal (ULN)
+* AST no greater than 3 times ULN
+* Alkaline phosphatase no greater than 2 times ULN
+
+Renal:
+
+* Creatinine no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT01289522** - Chemotherapy With Cetuximab in Treating Patients With Recurrent or Metastatic Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cetuximab IV, Biopsies
+
+Biomarker Criteria:
+  - 5 X institutional upper limit of normal
+* Alkaline phosphatase \< 2
+
+----------------------------------------------------------------------
+
+**NCT01064479** - Combination Chemotherapy With or Without Erlotinib Hydrochloride in Treating Patients With Metastatic or Recurrent Squamous Cell Carcinoma of the Head
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Carboplatin, Cisplatin
+
+Biomarker Criteria:
+  - 5 x ULN
+* Alkaline phosphatase =\< 2
+
+----------------------------------------------------------------------
+
+**NCT00721513** - Docetaxel, Cisplatin, and Fluorouracil Followed By Cetuximab and Radiation Therapy in Treating Patients With Locally Advanced Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cetuximab, cisplatin
+
+Biomarker Criteria:
+  - , Gilbert syndrome), in which case a total bilirubin ≤ 2 times upper limit of normal (ULN) is allowed provided direct bilirubin is ≤ ULN
+* AST, ALT, and alkaline phosphate (AP) meeting the following criteria:
+
+  * AP normal AND AST or ALT ≤ 5 times upper limit of normal (ULN)
+  * AP ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00087113** - Pemetrexed Disodium in Treating Patients With Recurrent Cancer of the Cervix
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pemetrexed disodium
+
+Biomarker Criteria:
+  - , any active phase III GOG protocol for the same patient population)
+
+PATIENT CHARACTERISTICS:
+
+Age
+
+* Any age
+
+Performance status
+
+* GOG 0-2
+
+Life expectancy
+
+* Not specified
+
+Hematopoietic
+
+* Absolute neutrophil count ≥ 1,500/mm\^3
+* Platelet count ≥ 100,000/mm\^3
+* Hemoglobin ≥ 9 g/dL
+
+Hepatic
+
+* AST and ALT ≤ 3 times upper limit of normal (ULN)\*
+* Alkaline phosphatase ≤ 3 times ULN\*
+* Bilirubin ≤ 1
+
+----------------------------------------------------------------------
+
+**NCT00005837** - Oxaliplatin in Treating Patients With Recurrent or Refractory Cervical Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: oxaliplatin
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN) SGOT no greater than 3 times ULN Alkaline phosphatase no greater than 3 times ULN Renal: Creatinine normal Cardiovascular: No symptomatic congestive heart failure No unstable angina pectoris No cardiac arrhythmia Other: Not pregnant or nursing Fertile patients must use effective contraception No evidence of preexisting peripheral sensory neuropathy greater than CTC grade 1, including residual neuropathy attributed to prior chemotherapy and other chronic conditions (e
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+
+Biomarker Criteria:
+  - Aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase (ALP) \< 3 x ULN (or \< 5 x ULN for subjects with liver involvement) ii
+
+----------------------------------------------------------------------
+
+**NCT00474903** - Esomeprazole Magnesium With or Without Aspirin in Preventing Esophageal Cancer in Patients With Barrett Esophagus
+Phase: PHASE2 | Status: COMPLETED
+Interventions: acetylsalicylic acid, esomeprazole magnesium
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (116 trials)
+======================================================================
+
+**NCT00003076** - Eflornithine to Prevent Cancer in Patients With Barrett's Esophagus
+Phase: PHASE2 | Status: COMPLETED
+Interventions: eflornithine
+
+Biomarker Criteria:
+  - 5 mg/dL Urinalysis: less than 1+ protein, 0-3 urinary casts, 0-5 white blood cells and red blood cells Cardiovascular: No severe dyspnea at rest, orthopnea, edema, history of congestive heart failure requiring continued treatment, or unstable angina Neurologic: No severe degenerative neurologic disease Pulmonary: No requirement of supplemental oxygen for exertion or rest Other: No prior malignancy within 5 years No active rheumatoid arthritis, lupus or other rheumatologic autoimmune disease (no less than 2 years of quiescence if inactive) No history of abnormal wound healing No history of esophageal varices or variceal bleeding Not pregnant or nursing Negative pregnancy test Adequate contraception required of all fertile patients
+
+PRIOR CONCURRENT THERAPY: No regular, scheduled use of antiinflammatory medications, steroids, or anticoagulants No nutritional supplements other than two multivitamins per day or four single nutrient vitamin supplements per day
+
+----------------------------------------------------------------------
+
+**NCT03476018** - Trial to Optimally Show the Pharmacological Action of Z-100
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Z-100, Placebos
+
+Biomarker Criteria:
+  - Subjects with treatment-naive cervical cancer
+4
+  - Subjects for whom it is considered possible to carry out concurrent cisplatin treatment with radiotherapy
+8
+
+----------------------------------------------------------------------
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Pembrolizumab
+
+Biomarker Criteria:
+  - * Rare malignant neuroendocrine tumour: poorly differentiated tumours refractory after 2 lines of chemotherapy, well differentiated tumours refractory after 4 lines of treatment, carcinoid tumours after 2 lines of treatment
+  - Patients must have a mandatory treatment-free interval of at least 21 days following previous systemic anti-cancer treatments
+  - Patients who have received previous systemic anticancer treatment and/or radiotherapy should have recovered from any treatment related toxicity, to a level of ≤ grade 1 (according to NCI-CTCAE criteria, v 4
+
+----------------------------------------------------------------------
+
+**NCT06618703** - Brain Irradiation for Childhood Cancer - Endocrine Monitoring During the First Years
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: Blood sample, urine sample, osteodensitometry
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patient aged 4 years or more (≥4) and less than 18 years (\<18) at inclusion
+* Treated with radiotherapy to part or all of the brain for cancer or hematological malignancy before age 16 (≤15)
+* Post-radiotherapy time less than or equal to 5 years (≤5)
+* In remission of this pathology at the end of oncological treatments, or, with stable residual disease without treatment for 2 years or more (≥2)
+* Signature of informed consent from parents or legal guardian
+* Patient affiliated to the social security system or beneficiary of such a system
+
+Exclusion Criteria:
+
+* Patients who have relapsed or developed a second cancer with a post-treatment delay of \< 1 year
+* Patient in palliative situation
+* Brain irradiation with dosimetric data showing sparing of the hypothalamic-pituitary axis (Dmax hypothalamic-pituitary axis \< 15 Gy)
+* Patient with a known hypothalamic-pituitary axis endocrine deficit prior to radiotherapy
+* Refusal of child or parents
+
+----------------------------------------------------------------------
+
+**NCT06009861** - Neoadjuvant Tislelizumab Plus Chemotherapy for Locally Advanced Oral/Oropharyngeal Cancer (NeoSPOT)
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Tislelizumab, Albumin-Bound Paclitaxel
+
+Biomarker Criteria:
+  - * No prior anti-cancer treatment (include surgery, radiotherapy and systemic therapy) for oral/oropharyngeal squamous cell carcinoma
+  - * For male and female subjects of childbearing age must agree to use adequate contraception throughout the study period and for 6 months after the end of treatment
+
+----------------------------------------------------------------------
+
+**NCT06819228** - Window Trial of Fluorescently Labeled Panitumumab (Panitumumab-IRDye800) in Head and Neck Cancer
+Phase: EARLY_PHASE1 | Status: RECRUITING
+Interventions: Panitumumab IRDye 800
+
+Biomarker Criteria:
+  - Laboratory results that will need to be obtained within 30 days prior to initiation of study treatment: Magnesium, Phosphorus, serum pregnancy test (for females of childbearing age)
+  - Post-menarchal is defined as either:
+  * age \>55 years old
+  * age \<55 years or less and
+* at least 12 months since last menstrual period,
+* at least 6 months since last menstrual period and FSH \> 40 IU
+
+  * Women of childbearing potential must have a negative pregnancy test result within 14 days prior to initiation of study treatment
+  - * Women must remain abstinent or use effective contraceptive methods during the treatment period and for 5 months after the final dose of panitumumab
+
+----------------------------------------------------------------------
+
+**NCT06184841** - HAIC Combined Sintilimab for Liver Metastasis From Esophageal Squamous Cell Carcinoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: HAIC combined with intravenous PD-1
+
+Biomarker Criteria:
+  - Metachronous liver metastasis after esophagectomy, especially when liver was the only metastatic organ, or synchronous liver metastasis progressed after first-line medical treatment; Or liver metastasis is currently the main threat, and control of liver metastasis should be the main goal
+5
+  - HBV infection, should have effective antiviral treatment, HBV DNA \< 100IU/ml
+  - Female subjects of childbearing age or male subjects whose sexual partner is a female of childbearing age should use effective contraception during the entire treatment period and for 6 months after the treatment period
+
+----------------------------------------------------------------------
+
+**NCT02567422** - Testing the Addition of M6620 (VX-970, Berzosertib) to Usual Chemotherapy and Radiation for Head and Neck Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Berzosertib, Cisplatin
+
+Biomarker Criteria:
+  - 73 m\^2 for patients with creatinine levels above institutional normal
+* The effects of M6620 (VX-970, berzosertib) on the developing human fetus are unknown; for this reason and because DNA-damage response (DDR) inhibitors as well as other therapeutic agents used in this trial may have teratogenic potential, women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately; men treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and for 6 months after completion of M6620 (VX-970, berzosertib) administration
+* Ability to understand and the willingness to sign a written informed consent document
+* Women of childbearing potential who are sexually active should be willing and able to use medically acceptable forms of contraception throughout the treatment phase of the trial and for up to 6 months following the last administration of study treatment; men who are sexually active must be willing and able to use medically acceptable forms of contraception throughout the treatment phase of the trial and for 6 months after completion of M6620 (VX-970, berzosertib) administration
+
+Exclusion Criteria:
+
+* Patients with nasopharyngeal carcinoma, skin squamous cell carcinoma (SCC), and salivary gland carcinomas are not eligible
+* Patients who are receiving adjuvant chemoradiation after surgical resection of the primary site of disease
+* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) prior to entering the study or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier
+* Patients who are receiving any other investigational agents
+* Patients on tacrolimus or any other immunosuppressants with significant interaction with cisplatin
+* Patient who requires live vaccine administration
+* Patients with known brain metastases should be excluded from this clinical trial because of their poor prognosis and because they often develop progressive neurologic dysfunction that would confound the evaluation of neurologic and other adverse events
+* History of allergic reactions attributed to compounds of similar chemical or biologic composition to M6620 (VX-970, berzosertib) or cisplatin
+* Prior systemic chemotherapy for the current cancer (prior chemotherapy for a different cancer is allowed)
+* Prior receipt of radiotherapy that would result in overlap of the new and old radiation therapy fields
+* Uncontrolled intercurrent illness including, but not limited to:
+
+  * Ongoing or active infection requiring intravenous antibiotics at the time of treatment initiation
+  * Symptomatic congestive heart failure (requiring hospital stay within the last 6 months)
+  * Myocardial infarction within the last 6 months
+  * Unstable angina pectoris, cardiac arrhythmia
+  * Psychiatric illness/social situations that would limit compliance with study requirements
+* Pregnant women are excluded from this study because M6620 (VX-970, berzosertib) as a DNA-damage response (DDR) inhibitor may have the potential for teratogenic or abortifacient effects; because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with M6620 (VX-970, berzosertib), breastfeeding should be discontinued if the mother is treated with M6620 (VX-970, berzosertib); these potential risks may also apply to other agents used in this study
+* Human immunodeficiency virus (HIV)-positive patients with well-controlled disease, as determined by CD4 count and viral load, who are on antiretroviral therapy that does not contain a strong inducer or inhibitor of CYP3A4 are allowed on trial; HIV-positive patients on combination antiretroviral therapy with strong inducers or inhibitors of CYP3A4 are ineligible because of the potential for pharmacokinetic interactions; patients with poorly controlled HIV are not eligible due to the increased risk of lethal infections when treated with marrow-suppressive therapy
+* Definitive clinical or radiographic evidence of distant metastasis or adenopathy below the clavicles
+* M6620 (VX-970, berzosertib) is primarily metabolized by CYP3A4; therefore, concomitant administration with strong inhibitors or inducers of CYP3A4 should be avoided; because the lists of these agents are constantly changing, it is important to regularly consult a frequently-updated medical reference for a list of drugs to avoid or minimize use of; as part of the enrollment/informed consent procedures, the patient will be counseled on the risk of interactions with other agents, and what to do if new medications need to be prescribed or if the patient is considering a new over-the-counter medicine or herbal product
+
+----------------------------------------------------------------------
+
+**NCT05775939** - PET/CT Imaging to Evaluate Cardiac Radiation Damage in Patients With Lung or Esophageal Cancer, EUCLID Trial
+Phase: NA | Status: RECRUITING
+Interventions: Fludeoxyglucose F-18, Positron Emission Tomography
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Provide signed and dated informed consent form
+* Willing to comply with all study procedures and be available for the duration of the study
+* Male or female, aged \>= 18
+* Life expectancy \>= 3 months as assessed by Radiation Oncologist
+* Mean heart dose estimated by Radiation Oncologist to be \>= 5 Gy (physics dose or biologically equivalent dose)
+* Pathologically proven (either histologic or cytologic) proven lung cancer or esophageal cancer
+* Planned radiation treatment course for management of lung or esophageal cancer \* Both standard and hypofractionation schedules are permitted
+
+Exclusion Criteria:
+
+* Contraindication for FDG PET-CT scans as assessed by the radiation oncologist or nuclear medicine radiologist
+* Palliative radiation doses defined as 20 Gy in 5 fractions
+
+----------------------------------------------------------------------
+
+**NCT06198465** - Perioperative Adebrelimab and Chemotherapy in Esophageal and Esophagogastric Junction Carcinoma
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: adebrelimab,Paclitaxel,Lobaplatin,Fluorouracil
+
+Biomarker Criteria:
+  - Without prior treatments including surgery, chemotherapy, radiotherapy, and targeting treatment for esophageal and esophagogastric junction cancer;
+4
+  - For females of child bearing potential, a negative serum/urine pregnancy test result within 72h before study treatment
+  - Suffering from any active autoimmune disease or history of autoimmune disease (such as interstitial pneumonia, uveitis, enteritis, hepatitis, hypophysitis, vasculitis, myocarditis, nephritis, hyperthyroidism, hypothyroidism (hormone replacement) can be included after treatment); subjects with childhood asthma that has completely resolved and do not require any intervention in adulthood or vitiligo can be included, but subjects who require medical intervention with bronchodilators are not included;
+2
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - 1 or Cheson 2016 criteria
+* Dose Escalation/Confirmation:
+
+  o Has disease progression after adequate standard of care therapies for metastatic disease that are known to confer clinical benefit, is intolerant to treatment, or refuses standard treatment (no limit to prior lines of therapy)
+* Dose Expansion:
+
+  * Group 1 Triple negative breast cancer: Must have objective evidence of disease progression during or following at least one prior line of therapy for metastatic or locally advanced disease
+  - * Has a tumor lesion amenable to biopsy and must be willing to provide the baseline and on-treatment tumor biopsy samples if medically feasible
+  - * Has a body weight of \>30 kilograms (kg)
+* Adequate hematological and biological function
+* Has evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal participants
+* Treatment Arm B and Arm C: Clinical euthyroid status
+
+----------------------------------------------------------------------
+
+**NCT01173172** - Boron Neutron Capture Therapy (BNCT) for Locally Recurrent Head and Neck Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Boron Neutron Capture Therapy
+
+Biomarker Criteria:
+  - * Patients who had an effective standard treatment option available
+  - * Concurrent systemic cancer treatment including chemotherapy or target therapy
+
+----------------------------------------------------------------------
+
+**NCT05795595** - A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: CTX131
+
+Biomarker Criteria:
+  - Prior treatment with anti-CD70 targeting agents
+2
+
+----------------------------------------------------------------------
+
+**NCT06810739** - The Women's Screening and Self-Testing Program (PROMETA) Study
+Phase: Not specified | Status: NOT_YET_RECRUITING
+Interventions: Cervical Cancer Screen-Triage-Treat Care Cascade
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Women 25-49 years
+* Accessing HIV care and treatment services
+* Not being pregnant
+* Patients with a cervix
+
+Exclusion Criteria:
+
+* Physical or mental impairment that inhibits participation in the study
+* Pregnant women or \<6 weeks post-partum
+* Women who have undergone a total hysterectomy with removal of the cervix
+
+----------------------------------------------------------------------
+
+**NCT06064877** - A Study of Ficlatuzumab in Combination With Cetuximab in Participants With Recurrent or Metastatic (R/M) HPV Negative Head and Neck Squamous Cell Carc
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Ficlatuzumab, Cetuximab
+
+Biomarker Criteria:
+  - Failure of prior treatment may be due to progression of disease or intolerance to treatment
+* Patient's tumor must be considered inoperable and incurable
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1 with a life expectancy of at least 12 weeks
+* For women of childbearing potential (WOCBP), documentation of negative serum pregnancy test within 30 days of randomization
+* For WOCBP and male participants whose sexual partners are of childbearing potential, agreement to use an effective method of contraception during the study and for at least 5 months after the last dose of study treatment
+  - * Archived tissue sample must be submitted to the Sponsor-designated laboratory within 60 days of randomization for c-Met analysis (if a tissue sample is not available, a fresh biopsy may be required prior to enrollment)
+
+Exclusion Criteria:
+
+* Participants who have received \> 2 prior lines of anticancer therapy or prior treatment with cetuximab/alternative EGFR inhibitors for the treatment of R/M HNSCC
+* History of severe allergic or anaphylactic reactions or hypersensitivity to recombinant proteins or excipients in the investigational agent or cetuximab
+* Known or suspected untreated and uncontrolled brain metastases or leptomeningeal carcinomatosis Note: Participants with locally treated brain metastases are eligible provided 2 weeks have elapsed since local therapy
+  - Participants are allowed to continue steroid taper during the start of study treatment
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with progression or intolerance to already approved and accessible treatments for the specific neoplasm and population
+  - Documented disease progression radiologically after the last routine treatment
+  - Previous treatment lines with immunotherapy (immune checkpoint inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT01036412** - Chlorhexidine Gel Therapy for Cariogenic Oral Microflora
+Phase: PHASE1 | Status: COMPLETED
+Interventions: 1% Chlorhexidine Gluconate Gel, Surveys
+
+Biomarker Criteria:
+  - Patients who have undergone radiation treatment to the head and neck at U
+
+----------------------------------------------------------------------
+
+**NCT06980103** - Use of a Decision Aid to Resolve Uncertainty About Radioactive Iodine Treatment in Patients With Intermediate Risk Thyroid Cancer
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: Decision Aid, Usual Care
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients aged 18 and older
+* Patients diagnosed with intermediate risk DTC \< 6 months ago and who are making a decision about RAI treatment
+* Ability to understand the information conveyed in the informed consent form, pose questions and process answers (e
+
+----------------------------------------------------------------------
+
+**NCT07141186** - QL1706 in Patients With Recurrent and Metastatic Cervical Cancer Resistant to Prior PD-1/PD-L1 Antibody Therapy
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: QL1706 (bispecific antibody targeting PD-1 and CLTA-4)
+
+Biomarker Criteria:
+  - Adequate organ function within 14 days prior to treatment:
+
+   1
+  - Women of childbearing potential:
+
+   Negative serum pregnancy test within 7 days prior to enrollment Commitment to use double-barrier contraception throughout the study and for 180 days post-treatment
+7
+  - Ability to comply with scheduled visits, treatment plans, and laboratory tests;
+8
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - Have relapsed or progressed on or after standard systemic treatments, or intolerable with standard treatment, or for which no standard treatment is available
+  - Documented radiological disease progression during/after most recent treatment regimen for advanced/unresectable, or metastatic disease
+  - Has adequate treatment washout period prior to Day 1 of Cycle 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (4 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - * Dose Exploration:
+
+  o Newly diagnosed resectable, BRAF wild-type, Stage IIIB/C/D and Stage IV cutaneous melanoma with clinically evident lymph node involvement in the neoadjuvant setting
+
+----------------------------------------------------------------------
+
+**NCT01811212** - Cabozantinib-S-Malate in Treating Patients With Refractory Thyroid Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Cabozantinib S-malate, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - 1 within 12 months of prior RAI therapy
+  * One or more measurable lesion present after cumulative RAI dose of \>= 600 mCi
+* Patients must have "progressed on" up to 2 lines of prior vascular endothelial growth factor receptor (VEGFR)-targeted therapy (including but not limited to sorafenib, sunitinib, vandetanib, pazopanib, or lenvatinib) as defined by progressive disease per RECIST while receiving VEGFR-targeted therapy; Note: patients who progressed on kinase inhibitor that target VEGFR and MET will not be eligible
+* Prior external beam radiation, systemic cytotoxic chemotherapy or BRAF- or non-VEGFR-targeted therapies will be allowed, provided that \>= 4 weeks has elapsed since receiving prior treatment and they have recovered to =\< grade 1 treatment-related toxicities
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+* Absolute neutrophil count \>= 1,500/mcL
+* Platelet count \>= 100,000/mcL
+* Hemoglobin \>= 9 g/dL
+* Thyroid stimulating hormone (TSH) \< lower limit of normal (LLN) (patients not able to tolerate TSH suppression can be granted an exception)
+* Total bilirubin =\< 1
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Interventions: LGK974, PDR001
+
+Biomarker Criteria:
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with BRAF V600 inhibitor, with or without a MEK inhibitor
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with a BRAF V600 inhibitor, with or without a MEK inhibitor
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (12 trials)
+======================================================================
+
+**NCT06064877** - A Study of Ficlatuzumab in Combination With Cetuximab in Participants With Recurrent or Metastatic (R/M) HPV Negative Head and Neck Squamous Cell Carc
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Ficlatuzumab, Cetuximab
+
+Biomarker Criteria:
+  - * Archived tissue sample must be submitted to the Sponsor-designated laboratory within 60 days of randomization for c-Met analysis (if a tissue sample is not available, a fresh biopsy may be required prior to enrollment)
+
+Exclusion Criteria:
+
+* Participants who have received \> 2 prior lines of anticancer therapy or prior treatment with cetuximab/alternative EGFR inhibitors for the treatment of R/M HNSCC
+* History of severe allergic or anaphylactic reactions or hypersensitivity to recombinant proteins or excipients in the investigational agent or cetuximab
+* Known or suspected untreated and uncontrolled brain metastases or leptomeningeal carcinomatosis Note: Participants with locally treated brain metastases are eligible provided 2 weeks have elapsed since local therapy
+
+----------------------------------------------------------------------
+
+**NCT07040956** - A Clinical Trial Comparing Low-Dose RT + Targeted Therapy+ Immunotherapy vs Targeted Therapy+ Immunotherapy Alone as Neoadjuvant Therapy in Operable H
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Tislelizumab, Afatinib
+
+Biomarker Criteria:
+  - Any of prior therapy with:
+
+   ①anti-PD-1, anti-PD-L1/2, anti-CTLA-4 antibody, anti-EGFR antibody or EGFR-TKIs； ②antitumor vaccine; ③any active vaccine against an infectious disease within 4 weeks before the first dose or planned during the study period; ④major surgery or serious trauma within 4 weeks before the first dose; ⑤toxicity from prior antitumor therapy has not recovered to ≤ CTCAE Version 5
+
+----------------------------------------------------------------------
+
+**NCT01811212** - Cabozantinib-S-Malate in Treating Patients With Refractory Thyroid Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Cabozantinib S-malate, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - 1 within 12 months of prior RAI therapy
+  * One or more measurable lesion present after cumulative RAI dose of \>= 600 mCi
+* Patients must have "progressed on" up to 2 lines of prior vascular endothelial growth factor receptor (VEGFR)-targeted therapy (including but not limited to sorafenib, sunitinib, vandetanib, pazopanib, or lenvatinib) as defined by progressive disease per RECIST while receiving VEGFR-targeted therapy; Note: patients who progressed on kinase inhibitor that target VEGFR and MET will not be eligible
+* Prior external beam radiation, systemic cytotoxic chemotherapy or BRAF- or non-VEGFR-targeted therapies will be allowed, provided that \>= 4 weeks has elapsed since receiving prior treatment and they have recovered to =\< grade 1 treatment-related toxicities
+* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1
+* Absolute neutrophil count \>= 1,500/mcL
+* Platelet count \>= 100,000/mcL
+* Hemoglobin \>= 9 g/dL
+* Thyroid stimulating hormone (TSH) \< lower limit of normal (LLN) (patients not able to tolerate TSH suppression can be granted an exception)
+* Total bilirubin =\< 1
+
+----------------------------------------------------------------------
+
+**NCT04091867** - sEphB4-HSA With RT+Chemo or Cetux in Patients With Intermediate to High Risk LAHNSCC
+Phase: PHASE1 | Status: COMPLETED
+Interventions: sEphB4-HSA with chemotherapy, Cetuximab
+
+Biomarker Criteria:
+  - Concomitant use of EGFR-directed therapies (besides cetuximab given as part of this trial), including erlotinib, gefitinib
+
+----------------------------------------------------------------------
+
+**NCT03212157** - GlucoCEST MRI in Oncology
+Phase: NA | Status: COMPLETED
+Interventions: Glucose infusion, Magnetic Resonance Imaging (MRI)
+
+Biomarker Criteria:
+  - No known renal impairment or an eGFR within a standard reference value if there is a history of renal disease
+  - No known renal impairment or an eGFR within a standard reference value if there is a history of renal disease
+  3
+  - Deranged renal function with eGFR
+
+----------------------------------------------------------------------
+
+**NCT00049166** - Erlotinib and Radiation Therapy With or Without Cisplatin in Treating Patients With Mouth or Throat Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: erlotinib hydrochloride, cisplatin
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients with clinical findings consistent with a diagnosis of squamous cell carcinoma of the OC or OP, as determined by the head and neck surgeon, may be recruited to the study prior to diagnostic biopsy; patients must have a histologically confirmed diagnosis of squamous cell carcinoma of OC or OP prior to proceeding with treatment
+* Oropharyngeal sites include base of tongue, tonsil, soft palate, and oropharyngeal wall
+* Oral cavity sites include oral tongue, buccal mucosa, floor of mouth, retromolar trigone, alveolar ridge, hard palate and mucosal lip
+* Patients must be AJCC stage II (T2N0) or III (T1-2N1) (AJCC fifth edition, 1997) for part A of the study, and must be AJCC stage III (T3N 0-1) or IV (T1-4N2-3M0, T4N0-1M0) for part B of the study
+* Priority for study entry will be given to patients with easily accessible tumor and who consent to repeat biopsy; study entry will not be restricted to patients who agree to further biopsies; if a patient enrolls on study and later refuses biopsy (excluding diagnostic), he/she may remain on study
+* Patients with operable or inoperable tumors will be eligible
+* No prior therapy for the tumor, including chemotherapy, radiation therapy, immunotherapy, EGFR targeted therapies, or any other investigational agents
+* Prior malignancies of sites other than the head and neck are allowed if disease free interval \>= 3 years; basal cell carcinomas of the skin and in situ cervical dysphagias are allowed within this three year interval if completely resected
+* Documentation of evaluable tumor less than or equal to four weeks before treatment start
+* ECOG performance status = 0, 1 or 2 (Karnofsky \>= 60%)
+* Life expectancy of greater than or equal to 6 months
+* Leukocytes \>= 3,000
+* Absolute neutrophil count \>= 1,500
+* Platelets \>= 100,000
+* Total bilirubin within normal institutional limits unless due to hemolysis or Gilbert's syndrome
+* AST(SGOT)/ALT(SGPT) =\< 2
+  - , fluorescein, Bengal Rose), and/or an abnormal corneal sensitivity test (Schirmer test or similar tear production test)
+* Gastrointestinal tract disease resulting in an inability to take oral or enteral medication or a requirement for IV alimentation, prior surgical procedures affecting absorption, or active peptic ulcer disease
+* Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, untreated or new cardiac arrhythmia, or psychiatric illness/social situations that would limit compliance with study requirements
+* Pregnant women are excluded from this study because OSI-774 is an epidermal growth factor inhibitor with the potential for teratogenic or abortifacient effects based on the data suggesting that EGFR expression is important for normal organ development; because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with OSI-774, breastfeeding should be discontinued if the mother is treated with OSI-774
+* Because patients with immune deficiency are at increased risk of lethal infections when treated with marrow-suppressive therapy, HIV-positive patients receiving combination anti-retroviral therapy are excluded from the study because of possible pharmacokinetic interactions with OSI-774; appropriate studies will be undertaken in patients receiving combination anti-retroviral therapy when indicated
+* Patients on Coumadin are excluded from the study because of reports of interactions between the study drug and Coumadin
+
+----------------------------------------------------------------------
+
+**NCT01289522** - Chemotherapy With Cetuximab in Treating Patients With Recurrent or Metastatic Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cetuximab IV, Biopsies
+
+Biomarker Criteria:
+  - Chemotherapy given as part of initial curative therapy and completed more than 6 months before inclusion is allowed
+* Previous treatment with total doses of cisplatin \> 300 mg/ m2
+* Patients must not have any co-existing disease that would preclude cisplatin administration, such as peripheral neuropathy or renal failure
+* Surgery (excluding biopsy) or radiotherapy within 4 weeks prior to study entry
+* Nasopharyngeal carcinoma, or cancer of sinusal cavities
+* Active infection including tuberculosis or HIV positive patient
+* Other malignancy within last 5 years except for non-melanoma skin cancer
+* No other investigational agent within 30 days prior to study entry
+* No other concurrent chemotherapy, immunotherapy, antitumor hormonal therapy (excluding contraceptives and replacement steroids), radiotherapy, or experimental medications
+* No prior anti EGFR therapy
+* No known brain metastases
+* Uncontrolled intercurrent illness that would prevent delivery of protocol therapy
+* Patients with a prior history of basal cell carcinoma of the skin or in situ carcinoma of the cervix must have been curatively treated and must have remained disease free for 5 years post diagnosis
+* No history of hypersensitivity reaction to drugs on study
+* No unstable angina or myocardial infarction within the past 12 months
+* No symptomatic congestive heart failure or New York Heart Association (NYHA) class II-IV heart disease
+* No serious uncontrolled cardiac arrhythmia
+* No other prior or concomitant squamous cell carcinoma
+* No other prior or concomitant cancer, except curatively treated basal carcinoma of the skin or in situ cervical cancer, for which the patient has been curatively treated and remains disease-free for the past 5 years
+* Patient is pregnant or lactating
+* Patients must not have any co-existing condition that would preclude full compliance with the study
+
+----------------------------------------------------------------------
+
+**NCT06912074** - Hypofractionated vs. Conventional Chemoradiotherapy After Induction Chemo-immunotherapy for Unresectable Esophageal Squamous Cell Carcinoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Induction chemoimmunotherapy, Hypofractionated Radiation Therapy
+
+Biomarker Criteria:
+  - 5 × 10\^9/L; Platelets ≥100 × 10\^9/L; Hemoglobin ≥90 g/L; Estimated glomerular filtration rate (eGFR) ≥50 mL/min based on the Cockcroft-Gault formula (Cockcroft and Gault, 1976); Serum bilirubin ≤1
+
+----------------------------------------------------------------------
+
+**NCT00265941** - Radiation Therapy and Cisplatin With or Without Cetuximab in Treating Patients With Stage III or Stage IV Head and Neck Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: cetuximab, cisplatin
+
+Biomarker Criteria:
+  - * Prior allergic reaction to the study drug(s) involved in this protocol;
+* Prior therapy that specifically and directly targets the EGFR pathway;
+* Prior severe infusion reaction to a monoclonal antibody
+
+----------------------------------------------------------------------
+
+**NCT00721513** - Docetaxel, Cisplatin, and Fluorouracil Followed By Cetuximab and Radiation Therapy in Treating Patients With Locally Advanced Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cetuximab, cisplatin
+
+Biomarker Criteria:
+  - , pneumonitis or pulmonary fibrosis) or evidence of interstitial lung disease on screening chest CT scan
+* HIV positivity
+* Pregnant or nursing
+* Prior chemotherapy for the study cancer
+* Prior radiotherapy to the region of the study cancer that would result in overlap of radiotherapy fields
+* Prior chemotherapy, biological therapy, or hormone therapy within the last one year
+* Prior initial surgical treatment, except diagnostic biopsy of the primary site or nodal sampling of neck disease
+* Prior radical or modified neck dissection
+* Prior therapy that specifically and directly targets the EGFR pathway
+* Concurrent investigational agents
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+
+Biomarker Criteria:
+  - Estimated glomerular filtration rate (eGFR) based on Modification of Diet in Renal Disease (MDRD) calculation \> 30 mL/min/1
+
+----------------------------------------------------------------------
+
+**NCT00468169** - Cetuximab (ERBITUX®) Added to Two Concurrent Chemoradiotherapy Platforms in Locally Advanced Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Cetuximab, 5-FU
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age 18 or older
+* Stage III and IV head and neck cancer
+* Patients with squamous cell carcinoma of unknown primary and suspected origin in the head and neck area
+* No prior chemotherapy or radiotherapy
+* Prior surgical therapy of incisional or excisional biopsy and organ-sparing procedures only
+* Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 2
+* Normal organ and marrow function
+
+Exclusion Criteria:
+
+* Unequivocal demonstration of metastatic disease
+* Known severe hypersensitivity to drugs used in the study
+* Treatment with a non-approved or investigational drug within 30 days before Day 1
+* Incomplete healing from previous surgery
+* Pregnancy or breast feeding
+* Uncontrolled intercurrent illness including
+* Patients with clinically significant pulmonary dysfunction, cardiomyopathy, or any history of clinically significant CHF
+* Acute hepatitis or known HIV
+* Severe baseline neurologic deficits
+* Prior therapy which specifically and directly targets the EGFR pathway
+* Prior severe infusion reaction to a monoclonal antibody
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (5 trials)
+======================================================================
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - For HER2 IHC 0 breast cancer subjects, it is highly recommended to collect additional tumor sample (Refer to Lab Manual)
+  - Prior treatment with antibody drug conjugate with topoisomerase I inhibitor (except trastuzumab deruxtecantopoisomerase I inhibitor HER2 ADC for backfilled subjects in Combo A of Phase 1 and subjects in Cohort 2e of Phase 2a, and not applicable for subjects enrolled for DLT observation in Phase 1)
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Histologically or cytologically confirmed metastatic or advanced-stage solid malignant tumor or HR+/HER2- breast cancer
+  - Participants with solid tumors or HR+/HER2- breast cancer with AKT1 E17K mutations
+
+----------------------------------------------------------------------
+
+**NCT06063018** - RC48 Combined With Tislelizumab for Second-line Treatment of HER2 Expression in Recurrent Cervical Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: RC48 + Tislelizumab
+
+Biomarker Criteria:
+  - Adequate haematological, hepatic and renal functions defined by the protocol； Pathologically diagnosed patients with HER2 expression （defined as: IHC 3+ or IHC 2+ or HC 1+）advanced cervical cancer ；Note：It is also acceptable if the subject has previous test results (confirmed by the investigator)；
+7
+
+----------------------------------------------------------------------
+
+**NCT06155396** - A Study of RC48-ADC Combination With Zimberelimab Injection Therapies at Least First-line Platinum-containing Standard Therapy Failed With Recurrent o
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Disitamab Vedotin, Zimberelimab
+
+Biomarker Criteria:
+  - a)Patients with histologically confirmed HER2-expressing recurrent or metastatic cervical cancer who have failed at least 1 line of standard platinum-containing therapy ; b) Not suitable for surgery or radiotherapy;
+2
+  - Central laboratory confirmation of HER2 expression: IHC 1+, 2+, or 3+; subjects with IHC 2+ require testing for FISH
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (1 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - Malignant melanoma, NSCLC and MSI-H/dMMR solid cancers: Prior response to ICI is allowed only if PD under ICI has been documented \<9 months before enrolment and without subsequent lines of anti-cancer therapy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (19 trials)
+======================================================================
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Pembrolizumab
+
+Biomarker Criteria:
+  - Prior treatment with an anti-PD1 or anti-PD-L1 antibody
+2
+
+----------------------------------------------------------------------
+
+**NCT06009861** - Neoadjuvant Tislelizumab Plus Chemotherapy for Locally Advanced Oral/Oropharyngeal Cancer (NeoSPOT)
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Tislelizumab, Albumin-Bound Paclitaxel
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Previous therapy with anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 or any other antibody targeting T cell co-regulatory pathways
+
+----------------------------------------------------------------------
+
+**NCT06184841** - HAIC Combined Sintilimab for Liver Metastasis From Esophageal Squamous Cell Carcinoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: HAIC combined with intravenous PD-1
+
+Biomarker Criteria:
+  - patients had received previous immunotherapy, such as PD-1 antibody, PD-L1 antibody, CTLA4 antibody
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - Enrollment to Stage 3 of this cohort will include participants who have previously progressed on prior immune checkpoint blockade or participants with programmed death-ligand 1 (PD-L1) negative tumor based on archival tissue (if available)
+  - * Group 4 Urothelial cancer, first line: Must be cisplatin ineligible and PD-L1 negative
+  * Group 5 Urothelial cancer: Must have objective evidence of disease progression during or following platinum-containing chemotherapy
+  * Group 6 Cutaneous melanoma: Must be refractory to immune checkpoint blockade in the primary or secondary acquired resistance setting
+
+----------------------------------------------------------------------
+
+**NCT06064877** - A Study of Ficlatuzumab in Combination With Cetuximab in Participants With Recurrent or Metastatic (R/M) HPV Negative Head and Neck Squamous Cell Carc
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Ficlatuzumab, Cetuximab
+
+Biomarker Criteria:
+  - Such lesions must not have been previously irradiated; if the measurable lesion(s) has been irradiated, clear progression must be documented
+* Participants must have failed prior therapy with an anti-PD-1/PD-L1 ICI and with platinum-based chemotherapy administered in combination or sequentially, in either the locally advanced or R/M setting
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with immunohistochemistry for PD-L1 with a combined positive score (CPS) of 10 or higher
+
+----------------------------------------------------------------------
+
+**NCT07040956** - A Clinical Trial Comparing Low-Dose RT + Targeted Therapy+ Immunotherapy vs Targeted Therapy+ Immunotherapy Alone as Neoadjuvant Therapy in Operable H
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Tislelizumab, Afatinib
+
+Biomarker Criteria:
+  - Any of prior therapy with:
+
+   ①anti-PD-1, anti-PD-L1/2, anti-CTLA-4 antibody, anti-EGFR antibody or EGFR-TKIs； ②antitumor vaccine; ③any active vaccine against an infectious disease within 4 weeks before the first dose or planned during the study period; ④major surgery or serious trauma within 4 weeks before the first dose; ⑤toxicity from prior antitumor therapy has not recovered to ≤ CTCAE Version 5
+
+----------------------------------------------------------------------
+
+**NCT05025813** - Neoadjuvant Pembrolizumab in Cutaneous Squamous Cell Carcinoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Pembrolizumab
+
+Biomarker Criteria:
+  - * Participant has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (eg, CTLA-4, OX-40, CD137)
+
+----------------------------------------------------------------------
+
+**NCT06155396** - A Study of RC48-ADC Combination With Zimberelimab Injection Therapies at Least First-line Platinum-containing Standard Therapy Failed With Recurrent o
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Disitamab Vedotin, Zimberelimab
+
+Biomarker Criteria:
+  - Central laboratory confirmation of PD-L1 expression
+7
+
+----------------------------------------------------------------------
+
+**NCT06914011** - Circulating Tumor DNA MRD-Guided Adjuvant Therapy for Curatively Resected Locally Advanced Esophageal Squamous Cell Carcinoma
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Interventions: Tislelizumab
+
+Biomarker Criteria:
+  - Prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, or anti-cytotoxic T-lymphocyte-associated antigen-4 (CTLA-4) inhibitor, or any other drug targeting T-cell co-stimulation or checkpoint pathways
+
+----------------------------------------------------------------------
+
+**NCT04895345** - A Study of TQB2450 in Combination With Intensity-modulated Radiotherapy in Patients With Inoperable Locally Recurrent Nasopharyngeal Carcinoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: TQB2450, Intensity modulated radiotherapy
+
+Biomarker Criteria:
+  - Has received relevant immunotherapy drugs for PD-1, PD-L1, CTLA-4, etc
+
+----------------------------------------------------------------------
+
+**NCT02319044** - Phase II Study of MEDI4736, Tremelimumab, and MEDI4736 in Combination w/ Tremelimumab Squamous Cell Carcinoma of the Head and Neck
+Phase: PHASE2 | Status: COMPLETED
+Interventions: MEDI4736, Tremelimumab
+
+Biomarker Criteria:
+  - * Written consent to provide newly acquired tumor tissue (preferred) or archival tissue for the purpose of establishing PD-L1 status
+  - * Confirmed PD-L1-negative SCCHN by Ventana SP263;
+* WHO/ECOG performance status of 0 or 1;
+* At least 1 measurable lesion at baseline;
+* No prior exposure to immune-mediated therapy;
+* Adequate organ and marrow function; Evidence of post-menopausal status or negative urinary or serum pregnancy test
+
+----------------------------------------------------------------------
+
+**NCT06912074** - Hypofractionated vs. Conventional Chemoradiotherapy After Induction Chemo-immunotherapy for Unresectable Esophageal Squamous Cell Carcinoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Induction chemoimmunotherapy, Hypofractionated Radiation Therapy
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+Exclusion Criteria for Induction Treatment:
+
+* Participation in another clinical trial, unless it is an observational (non-interventional) study;
+* Use of immunosuppressive drugs within 28 days prior to the first infusion of Toripalimab, excluding physiological doses of intranasal inhaled corticosteroids, prednisone ≤10 mg/day, or equivalent systemic corticosteroids;
+* Prior use of any anti-PD-1 or anti-PD-L1 antibody;
+* Major surgery within 4 weeks prior to entering the study (excluding vascular access procedures);
+* A history of autoimmune disease within the past 2 years;
+* Active or a history of inflammatory bowel disease (e
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - PD-L1 positivity is required for subjects with HNSCC (\>20% combined positive score) and NSCLC (\>20% PD-L1 expression)
+5
+  - Progressive disease, as considered by the treating physician, on therapy with PD1/PD-L1 blockers and/or CTLA4-blockers and/or LAG-3 blockers, or combinations regimes comprising any of these agents
+
+----------------------------------------------------------------------
+
+**NCT04396886** - Bintrafusp Alfa in Previously Treated Patients With R/M Non-keratinizing NPC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Bintrafusp Alfa
+
+Biomarker Criteria:
+  - * Prior treatment with any other anti-programmed cell death protein-1 (anti-PD-1), or PD Ligand-1 (PD-L1) or PD Ligand-2 (PD-L2) agent or an antibody targeting other immuno-regulatory receptors or mechanisms
+* Irritable bowel syndrome or other serious gastrointestinal chronic conditions associated with diarrhea within the past 3 years prior to the start of treatment
+* Known history of testing positive for HIV or known acquired immunodeficiency syndrome
+
+----------------------------------------------------------------------
+
+**NCT04380805** - A Study of AK104, a PD-1/CTLA-4 Bispecific Antibody in Subjects With Recurrent/Metastatic Cervical Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: AK104
+
+Biomarker Criteria:
+  - Prior exposure to any experimental antitumor vaccines, or any agent targeting T-cell costimulation or immune checkpoint pathways (eg, anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4, anti-CD137 or anti-OX40 antibody, etc)
+
+----------------------------------------------------------------------
+
+**NCT03381183** - IRX-2 Regimen and Durvalumab, for Incurable H&N Squamous Cell Carcinoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Durvalumab, IRX-2 Regimen
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior exposure to a combination of IRX-2 regimen, and PD-1/PD-L1 inhibitors
+* Radiation therapy with a curable intent within 30 days of first dose of study treatment is excluded
+
+----------------------------------------------------------------------
+
+**NCT04428151** - Lenvatinib (E7080/MK-7902) in Combination With Pembrolizumab (MK-3475) vs. Standard Chemotherapy and Lenvatinib Monotherapy in Participants With Recur
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Lenvatinib, Pembrolizumab
+
+Biomarker Criteria:
+  - , carboplatin or cisplatin) regimen
+* Disease progression on or after treatment with a programmed cell death protein 1/programmed death-ligand 1 monoclonal antibody (anti-PD-1/PD-L1 mAb)
+* Pre-study imaging that demonstrates evidence of disease progression based on investigator review of at least 2 pre-study images per RECIST 1
+  - 1, following initiation of treatment with a PD-1/PD-L1 inhibitor
+* Measurable disease by computed tomography scan (CT) or magnetic resonance imaging (MRI) based on Response Criteria in Solid Tumors Version 1
+
+----------------------------------------------------------------------
+
+**NCT02841748** - A Randomized, Double-Blind Phase II Study of Adjuvant Pembrolizumab Versus Placebo in Head and Neck Cancers at High Risk for Recurrence- the PATHWay S
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Pembrolizumab, Placebo
+
+Biomarker Criteria:
+  - * Availability of tumor tissue (≥ 10 slides) for PD-L1, gene expression profiling (GEP), and additional testing
+  - Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (1 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - Malignant melanoma, NSCLC and MSI-H/dMMR solid cancers: Prior response to ICI is allowed only if PD under ICI has been documented \<9 months before enrolment and without subsequent lines of anti-cancer therapy
+
+----------------------------------------------------------------------
+

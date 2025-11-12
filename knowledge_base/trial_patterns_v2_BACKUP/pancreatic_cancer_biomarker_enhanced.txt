@@ -1,0 +1,1004 @@
+# Enhanced Biomarker-Specific Trials: Pancreatic Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 171
+
+
+======================================================================
+## ALK (15 trials)
+======================================================================
+
+**NCT00033241** - Erlotinib Combined With Gemcitabine in Treating Patients With Newly Diagnosed Locally Advanced or Metastatic Pancreatic 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: erlotinib hydrochloride, gemcitabine hydrochloride
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+**NCT01303029** - Safety and Efficacy Study of Gemcitabine-erlotinib Versus Gemcitabine-erlotinib-capecitabine in Patients With Metastatic
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Gemcitabine+erlotinib, Gemcitabine+erlotinib+capecitabine
+Locations: 1 sites
+Primary Outcome: Progression free survival
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 108
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+Locations: 2 sites
+Primary Outcome: Tumor tissue and normal tissue distribution of colloidal gold-bound tumor necrosis factor
+
+----------------------------------------------------------------------
+
+**NCT00331682** - Docetaxel and Flavopiridol in Treating Patients With Refractory Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 10
+Interventions: alvocidib, docetaxel
+Locations: 1 sites
+Primary Outcome: Objective Response Rate as Measured by RECIST Criteria
+
+----------------------------------------------------------------------
+
+**NCT00577889** - Gemcitabine Hydrochloride and Tanespimycin in Treating Patients With Stage IV Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 21
+Interventions: gemcitabine hydrochloride, tanespimycin
+Locations: 1 sites
+Primary Outcome: Six Month Survival Rate
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem C
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Melphalan, BCNU
+Locations: 2 sites
+Primary Outcome: Rate of Sinusoidal obstruction syndrome
+
+----------------------------------------------------------------------
+
+**NCT00002955** - Combination Chemotherapy in Treating Patients With Advanced Cancer of the Pancreas
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 21
+Interventions: fluorouracil, leucovorin calcium
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT05088889** - Maintenance Ipilimumab + Nivolumab Post Induction Chemotherapy + SBRT for First Line Treatment Stage IV Pancreatic Cance
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Nivolumab, ipilimumab
+Locations: 1 sites
+Primary Outcome: Objective tumor response rate1 (ORR1) in study patients, assessed by RECIST v1.1
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 20
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT00620295** - Bortezomib and Gemcitabine in Treating Older Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 17
+Interventions: bortezomib, gemcitabine hydrochloride
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose of bortezomib and gemcitabine
+
+----------------------------------------------------------------------
+
+**NCT01189929** - A Study of Gemcitabine and Demcizumab (OMP-21M18) With or Without Abraxane® as 1st-line Treatment in Subjects With Local
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 57
+Interventions: Demcizumab, Abraxane®
+Locations: 6 sites
+Primary Outcome: To determine the maximum tolerated dose of demcizumab (OMP-21M18) when combined with gemcitabine +/-
+
+----------------------------------------------------------------------
+
+**NCT03340974** - Pilot Dose Escalation Trial of Stereotactic Body Radiation Therapy (SBRT) in Combination With GC4419 in Pancreatic Cance
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 42
+Interventions: GC4419, Placebo
+Locations: 6 sites
+Primary Outcome: CTCAE Grade 3 or 4 Gastro-intestinal (GI) Toxicities or Death Within 90 Days From the Start of Thera
+
+----------------------------------------------------------------------
+
+**NCT04241276** - A Randomised Trial of ATRA in a Novel Drug Combination for Pancreatic Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 170
+Interventions: ATRA, Gemcitabine
+Locations: 1 sites
+Primary Outcome: To assess the efficacy of ATRA when given in combination with gemcitabine and nab-paclitaxel based o
+
+----------------------------------------------------------------------
+
+**NCT01770132** - Ultrasound-Guided Photodynamic Therapy With Photofrin & Gemcitabine for Patients With Locally Advanced Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 12
+Interventions: porfimer sodium, endoscopic ultrasonography
+Locations: 1 sites
+Primary Outcome: Evaluate the number of subjects with adverse events which occur when up to 3 sites within the pancre
+
+----------------------------------------------------------------------
+
+**NCT02022033** - BrUOG 295: Adjuvant FOLFOX-A For Resected Pancreatic Cancer: A Phase II Brown University Oncology Research Group Trial
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: FOLFOXA
+Locations: 2 sites
+Primary Outcome: Feasibility of Adjuvant FOLFOX-A
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (165 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pa
+Phase: NA | Status: RECRUITING
+Purpose: SCREENING | Enrollment: 419
+Interventions: software Lipidica, endoscopic ultrasonography
+Locations: 16 sites
+Primary Outcome: The primary objective is to verify that the investigational IVDSW can discriminate between results o
+
+----------------------------------------------------------------------
+
+**NCT04239573** - Comparing Two Methods to Follow Patients With Pancreatic Cysts
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: SUPPORTIVE_CARE | Enrollment: 4606
+Interventions: Computed Tomography, Endoscopic Ultrasound
+Locations: 352 sites
+Primary Outcome: Occurrence of an "unfavorable" outcome
+
+----------------------------------------------------------------------
+
+**NCT07166601** - M0324 as Monotherapy and in Combination With Pembrolizumab or Chemotherapy in Participants With Selected Advanced Solid 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 77
+Interventions: M0324, M0324
+Locations: 5 sites
+Primary Outcome: Parts 1 and 2: Number of Participants With Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT04888312** - Safety and Efficacy of Mitazalimab in Combination With Chemotherapy in Pancreatic Cancer Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: CD40 agonist mitazalimab in combination with chemotherapy
+Locations: 14 sites
+Primary Outcome: Incidence of Dose Limiting Toxicities (DLTs) (Part 1: Phase 1b Dose escalation)
+
+----------------------------------------------------------------------
+
+**NCT04469556** - Pancreatic Adenocarcinoma Signature Stratification for Treatment
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 150
+Interventions: Folfirinox, Gemcitabine/nab-paclitaxel
+Locations: 6 sites
+Primary Outcome: Progression free survival(PFS) in mFFX and GA arms pancreatic ductal adenocarcinoma (PDAC) in a rand
+
+----------------------------------------------------------------------
+
+**NCT05795595** - A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 250
+Interventions: CTX131
+Locations: 7 sites
+Primary Outcome: Phase 1 (Dose Escalation): Incidence of adverse events
+
+----------------------------------------------------------------------
+
+**NCT06492941** - A Study of Docetaxel for Injection (Albumin Bound) in Patients With Advanced Pancreatic Cancer
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 142
+Interventions: Docetaxel for Injection (Albumin bound), Placebo
+Primary Outcome: OS
+
+----------------------------------------------------------------------
+
+**NCT00109941** - Opioid Growth Factor in Treating Patients With Advanced Pancreatic Cancer That Cannot Be Removed By Surgery
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: opioid growth factor, metenkephalin, OGF-opioid growth factor
+Locations: 1 sites
+Primary Outcome: Survival
+
+----------------------------------------------------------------------
+
+**NCT05685602** - CA-4948 Added to Standard Chemotherapy to Treat Metastatic or Unresectable Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 36
+Interventions: Biopsy Procedure, Biospecimen Collection
+Locations: 26 sites
+Primary Outcome: Dose limiting toxicity rate
+
+----------------------------------------------------------------------
+
+**NCT03154190** - Health Care Coach Support in Reducing Acute Care Use and Cost in Patients With Cancer
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 128
+Interventions: Best Practice, Laboratory Biomarker Analysis
+Locations: 1 sites
+Primary Outcome: Number of Emergency Department Visits (Chart Review)
+
+----------------------------------------------------------------------
+
+**NCT02089269** - Tumor Registry Pancreatic Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 2325
+Locations: 1 sites
+Primary Outcome: Treatment reality in Germany
+
+----------------------------------------------------------------------
+
+**NCT06384560** - Neoadjuvant Triple Treatment for Borderline Resectable Pancreatic Cancer (PREOPANC-5)
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 66
+Interventions: Pembrolizumab, Folfirinox
+Locations: 4 sites
+Primary Outcome: Percentage of patients with progression free survival at 18 months (RECIST 1.1)
+
+----------------------------------------------------------------------
+
+**NCT00504361** - Blood Collection From Individuals With Lung Disease for Genetic Studies (Qatar)
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 600
+Locations: 1 sites
+Primary Outcome: Genomic DNA will be extracted, and genome wide SNP analysis and promoter sequences for genes will be
+
+----------------------------------------------------------------------
+
+**NCT06375473** - Treatment of Irinotecan Hydrochloride Liposome Injection II in China: a Real World Study of Pancreatic Cancer Patients
+Phase: Not specified | Status: NOT_YET_RECRUITING
+Purpose:  | Enrollment: 3000
+Interventions: Irinotecan liposome II combination therapy regimen
+Locations: 1 sites
+Primary Outcome: rwTEAE
+
+----------------------------------------------------------------------
+
+**NCT06316466** - Lipoprotein a is an Independent Risk Factor for Overall Survival in Patients With Pancreatic Cancer: a Propensity Score 
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 360
+Interventions: Lp(a)
+Locations: 1 sites
+Primary Outcome: OS
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastat
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 130
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+Locations: 9 sites
+Primary Outcome: Number of Patients with Dose-limiting Toxicities
+
+----------------------------------------------------------------------
+
+**NCT02330497** - Efficacy and Safety of Radiofrequency Ablation in Pancreatic Neuroendocrine and Cystic Tumor
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Radiofrequency Ablation under EUS
+Locations: 1 sites
+Primary Outcome: Safety of the pancreatic radiofrequency ablation under EUS guidance
+
+----------------------------------------------------------------------
+
+**NCT01896869** - FOLFIRINOX Followed by Ipilimumab With Pancreatic Tumor Vaccine in Treatment of Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 83
+Interventions: Ipilimumab, Vaccine
+Locations: 3 sites
+Primary Outcome: Overall Survival (OS)
+
+----------------------------------------------------------------------
+
+**NCT05957250** - [68Ga]Ga-FAPI-46 Positron Emission Tomography (PET) Scan to Improve the Imaging of Pancreatic and Bile Duct Cancer
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 63
+Interventions: [68Ga]Ga-FAPI-46 PET/CT
+Locations: 1 sites
+Primary Outcome: Semi quantitative measurements of [68Ga]Ga-FAPI-46 tracer
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (3 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT06534762** - Milaberon in Advanced Solid Tumors: an Open, Multicenter Clinical Study
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 260
+Interventions: Mirabegron
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 185
+Interventions: LGK974, PDR001
+Locations: 20 sites
+Primary Outcome: Incidence of dose limiting toxicities (DLTs) during the first cycle of LGK974 treatment and during t
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (6 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pa
+Phase: NA | Status: RECRUITING
+Purpose: SCREENING | Enrollment: 419
+Interventions: software Lipidica, endoscopic ultrasonography
+Locations: 16 sites
+Primary Outcome: The primary objective is to verify that the investigational IVDSW can discriminate between results o
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT01489865** - ABT-888 With Modified FOLFOX6 in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 64
+Interventions: ABT-888, mFOLFOX-6
+Locations: 1 sites
+Primary Outcome: Phase 1: Number of Dose Limiting Toxicities
+
+----------------------------------------------------------------------
+
+**NCT05827796** - IN10018+ Standard Chemotherapy (+KN046) in Subjects With Advanced Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 70
+Interventions: IN10018, Albumin-Bound Paclitaxel
+Locations: 1 sites
+Primary Outcome: Incidence of Treatment-Related Adverse Events （AEs）
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem C
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Melphalan, BCNU
+Locations: 2 sites
+Primary Outcome: Rate of Sinusoidal obstruction syndrome
+
+----------------------------------------------------------------------
+
+**NCT05334836** - Determination of Pancreatic Steatosis Prevalence and Correlation With High-risk Cyst Features
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 236
+Interventions: MRI for pancreatic fat and liver fat quantitation
+Locations: 1 sites
+Primary Outcome: Prevalence of pancreatic steatosis determined by fat quantitation on MRI
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (4 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pa
+Phase: NA | Status: RECRUITING
+Purpose: SCREENING | Enrollment: 419
+Interventions: software Lipidica, endoscopic ultrasonography
+Locations: 16 sites
+Primary Outcome: The primary objective is to verify that the investigational IVDSW can discriminate between results o
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT01489865** - ABT-888 With Modified FOLFOX6 in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 64
+Interventions: ABT-888, mFOLFOX-6
+Locations: 1 sites
+Primary Outcome: Phase 1: Number of Dose Limiting Toxicities
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem C
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Melphalan, BCNU
+Locations: 2 sites
+Primary Outcome: Rate of Sinusoidal obstruction syndrome
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (15 trials)
+======================================================================
+
+**NCT00033241** - Erlotinib Combined With Gemcitabine in Treating Patients With Newly Diagnosed Locally Advanced or Metastatic Pancreatic 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: erlotinib hydrochloride, gemcitabine hydrochloride
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+**NCT00177242** - Study of Gefitinib and Docetaxel as Salvage Therapy in Advanced Pancreatic Carcinoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 45
+Interventions: Gefitinib
+Locations: 1 sites
+Primary Outcome: Ascertain the median survival of advanced pancreatic cancer patients treated with Gefitinib and doce
+
+----------------------------------------------------------------------
+
+**NCT00962312** - Lapatinib Ditosylate and Capecitabine in Treating Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 9
+Interventions: capecitabine, lapatinib ditosylate
+Locations: 9 sites
+Primary Outcome: 6-month survival rate
+
+----------------------------------------------------------------------
+
+**NCT01077986** - Everolimus, Cetuximab and Capecitabine in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 35
+Interventions: Capecitabine, Cetuximab
+Locations: 1 sites
+Primary Outcome: phase I part: assessment of the dose limiting toxicity
+
+----------------------------------------------------------------------
+
+**NCT00551096** - Gemcitabine/Capecitabine/ZD6474 in Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 23
+Interventions: Gemcitabine, Capecitabine
+Locations: 1 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) of ZACTIMA (ZD6474) in combination with Gemcitabine and Capecitabine
+
+----------------------------------------------------------------------
+
+**NCT01303029** - Safety and Efficacy Study of Gemcitabine-erlotinib Versus Gemcitabine-erlotinib-capecitabine in Patients With Metastatic
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Gemcitabine+erlotinib, Gemcitabine+erlotinib+capecitabine
+Locations: 1 sites
+Primary Outcome: Progression free survival
+
+----------------------------------------------------------------------
+
+**NCT00497224** - Phase II Trial of Erlotinib in Advanced Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 51
+Interventions: Erlotinib
+Locations: 5 sites
+Primary Outcome: Objective Response Rate
+
+----------------------------------------------------------------------
+
+**NCT00331682** - Docetaxel and Flavopiridol in Treating Patients With Refractory Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 10
+Interventions: alvocidib, docetaxel
+Locations: 1 sites
+Primary Outcome: Objective Response Rate as Measured by RECIST Criteria
+
+----------------------------------------------------------------------
+
+**NCT00439179** - A Trial of GW572016, Gemcitabine and Oxaliplatin for Metastatic Pancreaticobiliary Cancer Schema
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: cohort 1, cohort 2
+Locations: 1 sites
+Primary Outcome: Toxicity (Number of Patients Who Experiened DLTs)
+
+----------------------------------------------------------------------
+
+**NCT05841420** - Gemcitabine Versus Reduced-dose Combination Chemotherapy in Fragile Patients with Non-resectable Pancreatic Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 98
+Interventions: Gemcitabine, Nab paclitaxel
+Locations: 1 sites
+Primary Outcome: PFS (Progression Free Survival)
+
+----------------------------------------------------------------------
+
+**NCT05927142** - Combining Anti-PD-L1 Immune Checkpoint Inhibitor Durvalumab With TLR-3 Agonist Rintatolimod in Patients With Metastatic 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: OTHER | Enrollment: 43
+Interventions: Durvalumab, Rintatolimod
+Locations: 1 sites
+Primary Outcome: Phase Ib: Determine safety of combination therapy with durvalumab and rintatolimod
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TU
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 273
+Interventions: No Interventions
+Locations: 1 sites
+Primary Outcome: disease free survival
+
+----------------------------------------------------------------------
+
+**NCT00427349** - AMG 706 and Octreotide in Treating Patients With Low-Grade Neuroendocrine Tumors
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 46
+Interventions: AMG 706, octreotide
+Locations: 112 sites
+Primary Outcome: Four-month Progression-free Survival Rate
+
+----------------------------------------------------------------------
+
+**NCT03937453** - A Pancreatic Cancer Screening Study in Individuals With New-Onset or Deteriorating Diabetes Mellitus
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 800
+Interventions: MRI/MRCP
+Locations: 1 sites
+Primary Outcome: Early Stage Pancreatic Cancer or Precursor Lesions
+
+----------------------------------------------------------------------
+
+**NCT01420874** - Anti-CD3 x Anti-Erbitux® Armed Activated T Cells (Phase Ib) for Gastrointestinal (GI Cancer)
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 15
+Interventions: FOLFOX6, EGFRBi armed ATC Infusions
+Locations: 1 sites
+Primary Outcome: Determining in a dose-escalation phase Ib trial the safety of 3 infusions of EGFR2Bi aATC, and a boo
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (1 trials)
+======================================================================
+
+**NCT00962312** - Lapatinib Ditosylate and Capecitabine in Treating Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 9
+Interventions: capecitabine, lapatinib ditosylate
+Locations: 9 sites
+Primary Outcome: 6-month survival rate
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (9 trials)
+======================================================================
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+**NCT00962312** - Lapatinib Ditosylate and Capecitabine in Treating Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 9
+Interventions: capecitabine, lapatinib ditosylate
+Locations: 9 sites
+Primary Outcome: 6-month survival rate
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 318
+Interventions: HS-10502
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) of HS-10502（Stage 1）
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 24
+Interventions: trastuzumab, tipifarnib
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem C
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Melphalan, BCNU
+Locations: 2 sites
+Primary Outcome: Rate of Sinusoidal obstruction syndrome
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TU
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 273
+Interventions: No Interventions
+Locations: 1 sites
+Primary Outcome: disease free survival
+
+----------------------------------------------------------------------
+
+**NCT00034281** - Safety and Tolerability Study of TAK-165 in Subjects With Tumors Expressing HER2
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 16
+Interventions: TAK-165
+Locations: 4 sites
+Primary Outcome: Dose Limiting Toxicity
+
+----------------------------------------------------------------------
+
+**NCT05365581** - A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 398
+Interventions: ASP2138, Pembrolizumab
+Locations: 43 sites
+Primary Outcome: Incidence of Dose Limiting Toxicities (DLTs) (Phase 1 Dose Escalation)
+
+----------------------------------------------------------------------
+
+**NCT00004074** - Interleukin-12 and Trastuzumab in Treating Patients With Cancer That Has High Levels of HER2/Neu
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 15
+Interventions: recombinant interleukin-12, ABI-007/carboplatin/trastuzumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) determined according to dose-limiting toxicities (DLTs) graded using Co
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (10 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT00497224** - Phase II Trial of Erlotinib in Advanced Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 51
+Interventions: Erlotinib
+Locations: 5 sites
+Primary Outcome: Objective Response Rate
+
+----------------------------------------------------------------------
+
+**NCT01506973** - A Study of Hydroxychloroquine in Combination With Gemcitabine/Abraxane in Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 119
+Interventions: Hydroxychloroquine (HCQ), Gemcitabine
+Locations: 1 sites
+Primary Outcome: Overall survival
+
+----------------------------------------------------------------------
+
+**NCT06179160** - A Study to Evaluate INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 710
+Interventions: INCB161734, Cetuximab
+Locations: 34 sites
+Primary Outcome: Number of participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT06008288** - A Phase II Study Evaluating JAB-21822 Monotherapy in Adult Patients With Pancreatic Cancer and Other Solid Tumors Harbor
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 88
+Interventions: JAB-21822
+Locations: 31 sites
+Primary Outcome: Objective response rate (ORR) by independent central radiological review (IRC) according to RECIST 1
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TU
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 273
+Interventions: No Interventions
+Locations: 1 sites
+Primary Outcome: disease free survival
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 20
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT05379985** - Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 614
+Interventions: RMC-6236
+Locations: 16 sites
+Primary Outcome: Incidence and severity of treatment-emergent Adverse Events (AEs) and serious AEs, including inciden
+
+----------------------------------------------------------------------
+
+**NCT06147154** - Microbiota and Metabolites Alterations in Pancreatic Head and Body/Tail Cancer Patients
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 23
+Interventions: 16S rRNA amplicon sequencing and untargeted metabolomics
+Locations: 1 sites
+Primary Outcome: the abundance of changed microorganisms of PHC and PBTC
+
+----------------------------------------------------------------------
+
+**NCT06586515** - MOONRAY-01, A Study of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 630
+Interventions: LY3962673, Cetuximab
+Locations: 52 sites
+Primary Outcome: Number of Participants with One or More Treatment Emergent Adverse Events (TEAEs) and Serious Advers
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (1 trials)
+======================================================================
+
+**NCT05088889** - Maintenance Ipilimumab + Nivolumab Post Induction Chemotherapy + SBRT for First Line Treatment Stage IV Pancreatic Cance
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Nivolumab, ipilimumab
+Locations: 1 sites
+Primary Outcome: Objective tumor response rate1 (ORR1) in study patients, assessed by RECIST v1.1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (3 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 20
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT05379985** - Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 614
+Interventions: RMC-6236
+Locations: 16 sites
+Primary Outcome: Incidence and severity of treatment-emergent Adverse Events (AEs) and serious AEs, including inciden
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PALB2 (3 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pa
+Phase: NA | Status: RECRUITING
+Purpose: SCREENING | Enrollment: 419
+Interventions: software Lipidica, endoscopic ultrasonography
+Locations: 16 sites
+Primary Outcome: The primary objective is to verify that the investigational IVDSW can discriminate between results o
+
+----------------------------------------------------------------------
+
+**NCT04469556** - Pancreatic Adenocarcinoma Signature Stratification for Treatment
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 150
+Interventions: Folfirinox, Gemcitabine/nab-paclitaxel
+Locations: 6 sites
+Primary Outcome: Progression free survival(PFS) in mFFX and GA arms pancreatic ductal adenocarcinoma (PDAC) in a rand
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem C
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Melphalan, BCNU
+Locations: 2 sites
+Primary Outcome: Rate of Sinusoidal obstruction syndrome
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (10 trials)
+======================================================================
+
+**NCT06384560** - Neoadjuvant Triple Treatment for Borderline Resectable Pancreatic Cancer (PREOPANC-5)
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 66
+Interventions: Pembrolizumab, Folfirinox
+Locations: 4 sites
+Primary Outcome: Percentage of patients with progression free survival at 18 months (RECIST 1.1)
+
+----------------------------------------------------------------------
+
+**NCT03095781** - Pembrolizumab and XL888 in Patients With Advanced Gastrointestinal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 49
+Interventions: XL888, Pembrolizumab
+Locations: 3 sites
+Primary Outcome: Recommended phase II dose of the combination of XL888 and pembrolizumab as assessed by National Canc
+
+----------------------------------------------------------------------
+
+**NCT02705196** - LOAd703 Oncolytic Virus Therapy for Pancreatic Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 51
+Interventions: delolimogene mupadenorepvec, gemcitabine
+Locations: 2 sites
+Primary Outcome: Number of patient with dose-limiting toxicities (DLTs) as evaluated accordingly to CTCAE 4.0
+
+----------------------------------------------------------------------
+
+**NCT03257761** - Guadecitabine and Durvalumab in Treating Patients With Advanced Liver, Pancreatic, Bile Duct, or Gallbladder Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 55
+Interventions: Durvalumab, Guadecitabine
+Locations: 3 sites
+Primary Outcome: Incidence of adverse events
+
+----------------------------------------------------------------------
+
+**NCT05827796** - IN10018+ Standard Chemotherapy (+KN046) in Subjects With Advanced Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 70
+Interventions: IN10018, Albumin-Bound Paclitaxel
+Locations: 1 sites
+Primary Outcome: Incidence of Treatment-Related Adverse Events （AEs）
+
+----------------------------------------------------------------------
+
+**NCT05927142** - Combining Anti-PD-L1 Immune Checkpoint Inhibitor Durvalumab With TLR-3 Agonist Rintatolimod in Patients With Metastatic 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: OTHER | Enrollment: 43
+Interventions: Durvalumab, Rintatolimod
+Locations: 1 sites
+Primary Outcome: Phase Ib: Determine safety of combination therapy with durvalumab and rintatolimod
+
+----------------------------------------------------------------------
+
+**NCT05293496** - A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 31
+Interventions: vobramitamab duocarmazine, lorigerlimab
+Locations: 10 sites
+Primary Outcome: Number of participants with adverse events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT05365581** - A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 398
+Interventions: ASP2138, Pembrolizumab
+Locations: 43 sites
+Primary Outcome: Incidence of Dose Limiting Toxicities (DLTs) (Phase 1 Dose Escalation)
+
+----------------------------------------------------------------------
+
+**NCT05028933** - IMC001 for Clinical Research on Advanced Digestive System Malignancies
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: EPCAM CAR-T
+Locations: 2 sites
+Primary Outcome: Dose limited toxicity （DLT）
+
+----------------------------------------------------------------------
+
+**NCT02807844** - Phase Ib/II Study of MCS110 in Combination With PDR001 in Patients With Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 141
+Interventions: MCS110, PDR001
+Locations: 20 sites
+Primary Outcome: Phase Ib: Percentage of Participants With Adverse Events, as a Measure of Safety
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT03065062** - Study of the CDK4/6 Inhibitor Palbociclib (PD-0332991) in Combination With the PI3K/mTOR Inhibitor Gedatolisib (PF-05212
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 96
+Interventions: Palbociclib, Gedatolisib
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose and Recommended Phase 2 Dose
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT03065062** - Study of the CDK4/6 Inhibitor Palbociclib (PD-0332991) in Combination With the PI3K/mTOR Inhibitor Gedatolisib (PF-05212
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 96
+Interventions: Palbociclib, Gedatolisib
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose and Recommended Phase 2 Dose
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TP53 (1 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pa
+Phase: NA | Status: RECRUITING
+Purpose: SCREENING | Enrollment: 419
+Interventions: software Lipidica, endoscopic ultrasonography
+Locations: 16 sites
+Primary Outcome: The primary objective is to verify that the investigational IVDSW can discriminate between results o
+
+----------------------------------------------------------------------
+

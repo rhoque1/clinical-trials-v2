@@ -16,21 +16,37 @@ class KnowledgeEnhancedRankingState(State):
     Inserts between Trial Discovery and Eligibility Analysis
     """
     
-    def __init__(self):
+    def __init__(self, disable_rag_for_experiment: bool = False):
         super().__init__(
             name="knowledge_enhanced_ranking",
             description="Enrich trial rankings with clinical guideline context"
         )
+        
+        # === EXPERIMENT CONTROL: Toggle RAG for causation testing ===
+        # Set to True to disable RAG and test baseline (control group)
+        # Set to False for normal RAG-enhanced operation (treatment group)
+        if disable_rag_for_experiment:
+            print("\n" + "="*70)
+            print("[!]  EXPERIMENT MODE: RAG DISABLED (Control Group)")
+            print("="*70 + "\n")
+            self.rag = None
+            return
+        # === END EXPERIMENT CONTROL ===
+        
         # Initialize RAG system (loads existing vectorstore)
         self.rag = ClinicalRAG()
         try:
             self.rag.build_vectorstore(force_rebuild=False)
-            print("✓ RAG system loaded for knowledge enhancement")
+            print("[+] RAG system loaded for knowledge enhancement")
         except Exception as e:
-            print(f"⚠️  RAG system not available: {e}")
+            print(f"[!]  RAG system not available: {e}")
             self.rag = None
     
     def get_instruction(self, context: Dict[str, Any]) -> str:
+# === EXPERIMENT: Skip instruction if RAG disabled ===
+        if self.rag is None:
+            return "RAG is disabled. Return the original trial rankings unchanged."
+        # === END EXPERIMENT ===
         patient = context.get("patient_profile", {})
         diagnoses = patient.get("diagnoses", "")
         biomarkers = patient.get("biomarkers", "")
@@ -46,7 +62,7 @@ class KnowledgeEnhancedRankingState(State):
 
             # === DEBUG: Show what RAG retrieved ===
             print("\n" + "="*70)
-            print("🔍 RAG RETRIEVAL DEBUG")
+            print("[SEARCH] RAG RETRIEVAL DEBUG")
             print("="*70)
             print(f"Query: {query[:100]}...")
             print(f"\nRetrieved {len(results)} guideline chunks:")
@@ -106,6 +122,18 @@ Return as JSON array:
     
     def process_input(self, llm_response: str, context: Dict[str, Any]) -> Dict[str, Any]:
         """Parse LLM's guideline-enhanced scores"""
+
+        # === EXPERIMENT: Return original scores if RAG disabled ===
+        if self.rag is None:
+            print("[+] RAG disabled - returning original trial scores (no enhancement)")
+            ranked_trials = context.get("ranked_trials", [])
+            return {
+                "knowledge_enhanced": False,
+                "ranked_trials": ranked_trials,
+                "enhancement_count": 0
+            }
+        # === END EXPERIMENT ===
+        
         import json
         import re
         
@@ -147,7 +175,7 @@ Return as JSON array:
             # Re-sort by new adjusted scores
             ranked_trials.sort(key=lambda x: x.get("score", 0), reverse=True)
             
-            print(f"✓ Knowledge-enhanced ranking complete")
+            print(f"[+] Knowledge-enhanced ranking complete")
             print(f"  Top 3 trials after guideline enrichment:")
             for i, trial in enumerate(ranked_trials[:3], 1):
                 print(f"    {i}. {trial['nct_id']} (Score: {trial.get('score', 'N/A')}, "
@@ -160,7 +188,7 @@ Return as JSON array:
             }
             
         except Exception as e:
-            print(f"⚠️  Error in knowledge enhancement: {e}")
+            print(f"[!]  Error in knowledge enhancement: {e}")
             # Return original rankings if enhancement fails
             return {
                 "knowledge_enhanced": False,
@@ -175,6 +203,6 @@ Return as JSON array:
 class KnowledgeEnhancedRankingMachine(StateMachine):
     """Single-state machine for guideline enrichment"""
     
-    def __init__(self):
+    def __init__(self, disable_rag_for_experiment: bool = False):
         super().__init__("knowledge_enhanced_ranking")
-        self.add_state(KnowledgeEnhancedRankingState(), is_entry=True)
+        self.add_state(KnowledgeEnhancedRankingState(disable_rag_for_experiment), is_entry=True)

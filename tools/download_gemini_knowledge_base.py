@@ -157,10 +157,10 @@ class GeminiKnowledgeBaseDownloader:
             
             if success:
                 results["success"].append(description)
-                print(f"    ✅ {message}")
+                print(f"    [OK] {message}")
             else:
                 results["failed"].append((description, message))
-                print(f"    ❌ {message}")
+                print(f"    [X] {message}")
             
             time.sleep(1)  # Be respectful to servers
         
@@ -197,10 +197,10 @@ class GeminiKnowledgeBaseDownloader:
             
             if success:
                 results["success"].append(description)
-                print(f"    ✅ {message}")
+                print(f"    [OK] {message}")
             else:
                 results["failed"].append((description, message))
-                print(f"    ❌ {message}")
+                print(f"    [X] {message}")
             
             time.sleep(1)
         
@@ -246,10 +246,10 @@ class GeminiKnowledgeBaseDownloader:
             
             if success:
                 results["success"].append(description)
-                print(f"    ✅ {message}")
+                print(f"    [OK] {message}")
             else:
                 results["failed"].append((description, message))
-                print(f"    ❌ {message}")
+                print(f"    [X] {message}")
             
             time.sleep(1)
         
@@ -284,25 +284,25 @@ class GeminiKnowledgeBaseDownloader:
         
         # Print summary
         print("\n" + "="*70)
-        print("📊 DOWNLOAD SUMMARY")
+        print("[CHART] DOWNLOAD SUMMARY")
         print("="*70)
-        print(f"✅ Successfully Downloaded: {total_success}")
+        print(f"[OK] Successfully Downloaded: {total_success}")
         print(f"   - Treatment Guidelines: {len(all_results['treatment_guidelines']['success'])}")
         print(f"   - Biomarker Guidelines: {len(all_results['biomarker_guidelines']['success'])}")
         print(f"   - FDA Drug Labels: {len(all_results['fda_drug_labels']['success'])}")
         
         if total_failed > 0:
-            print(f"\n❌ Failed Downloads: {total_failed}")
+            print(f"\n[X] Failed Downloads: {total_failed}")
             for category in all_results.values():
                 for doc, reason in category["failed"]:
                     print(f"   - {doc}: {reason}")
         
         print("\n" + "="*70)
         if total_success >= 20:
-            print("✅ KNOWLEDGE BASE DOWNLOAD COMPLETE!")
+            print("[OK] KNOWLEDGE BASE DOWNLOAD COMPLETE!")
             print(f"   {total_success} documents ready for RAG system")
         else:
-            print("⚠️  PARTIAL SUCCESS")
+            print("[!]  PARTIAL SUCCESS")
             print(f"   Only {total_success} documents downloaded (expected ~32)")
             print("   This may still be sufficient for proof-of-concept")
         print("="*70)

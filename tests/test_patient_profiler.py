@@ -18,7 +18,7 @@ def test_patient_profiler_workflow():
     # Verify initial state
     current = profiler.get_current_state()
     assert current.name == "extract_demographics", "Should start with demographics"
-    print(f"✅ Step 1: {current.name}")
+    print(f"[OK] Step 1: {current.name}")
     print(f"   Instruction: {current.get_instruction({})[:80]}...")
     
     # Simulate state 1: Demographics
@@ -28,12 +28,12 @@ def test_patient_profiler_workflow():
         "performance_status": "ECOG 1"
     }
     result1 = profiler.execute_current_state(demo_data)
-    print(f"✅ Demographics extracted: {result1['demographics']}")
+    print(f"[OK] Demographics extracted: {result1['demographics']}")
     
     # Check transition to state 2
     current = profiler.get_current_state()
     assert current.name == "extract_diagnoses", "Should transition to diagnoses"
-    print(f"\n✅ Step 2: {current.name}")
+    print(f"\n[OK] Step 2: {current.name}")
     
     # Simulate state 2: Diagnoses
     diagnosis_data = {
@@ -42,17 +42,17 @@ def test_patient_profiler_workflow():
         "status": "Newly diagnosed"
     }
     result2 = profiler.execute_current_state(diagnosis_data)
-    print(f"✅ Diagnoses extracted: {result2['diagnoses']}")
+    print(f"[OK] Diagnoses extracted: {result2['diagnoses']}")
     
     # Check memory inheritance
     assert "demographics" in profiler.global_memory, "Should have demographics in memory"
     assert "diagnoses" in profiler.global_memory, "Should have diagnoses in memory"
-    print(f"\n✅ Memory inheritance working - Total memory keys: {list(profiler.global_memory.keys())}")
+    print(f"\n[OK] Memory inheritance working - Total memory keys: {list(profiler.global_memory.keys())}")
     
     # Simulate state 3: Biomarkers
     current = profiler.get_current_state()
     assert current.name == "extract_biomarkers", "Should transition to biomarkers"
-    print(f"\n✅ Step 3: {current.name}")
+    print(f"\n[OK] Step 3: {current.name}")
     
     biomarker_data = {
         "EGFR": "Exon 19 deletion",
@@ -60,12 +60,12 @@ def test_patient_profiler_workflow():
         "ALK": "Negative"
     }
     result3 = profiler.execute_current_state(biomarker_data)
-    print(f"✅ Biomarkers extracted: {result3['biomarkers']}")
+    print(f"[OK] Biomarkers extracted: {result3['biomarkers']}")
     
     # Simulate state 4: Treatment history
     current = profiler.get_current_state()
     assert current.name == "extract_treatment_history", "Should transition to treatment history"
-    print(f"\n✅ Step 4: {current.name}")
+    print(f"\n[OK] Step 4: {current.name}")
     
     treatment_data = {
         "current": "None (newly diagnosed)",
@@ -73,18 +73,18 @@ def test_patient_profiler_workflow():
         "surgeries": "Biopsy 2 weeks ago"
     }
     result4 = profiler.execute_current_state(treatment_data)
-    print(f"✅ Treatment history extracted: {result4['treatment_history']}")
+    print(f"[OK] Treatment history extracted: {result4['treatment_history']}")
     
     # Simulate state 5: Generate search terms
     current = profiler.get_current_state()
     assert current.name == "generate_search_terms", "Should transition to search terms"
-    print(f"\n✅ Step 5: {current.name}")
+    print(f"\n[OK] Step 5: {current.name}")
     
     # The instruction should now have access to all previous memory
     instruction = current.get_instruction(profiler.global_memory)
     assert "Demographics:" in instruction, "Should include demographics in context"
     assert "Diagnoses:" in instruction, "Should include diagnoses in context"
-    print(f"✅ Search term generation has full context")
+    print(f"[OK] Search term generation has full context")
     
     search_terms = [
         "EGFR positive non-small cell lung cancer",
@@ -93,23 +93,23 @@ def test_patient_profiler_workflow():
         "stage III lung cancer"
     ]
     result5 = profiler.execute_current_state(search_terms)
-    print(f"✅ Search terms generated: {result5['search_terms'][:2]}...")
+    print(f"[OK] Search terms generated: {result5['search_terms'][:2]}...")
     
     # Verify completion
     assert profiler.is_complete(), "Workflow should be complete"
-    print(f"\n✅ Workflow complete!")
+    print(f"\n[OK] Workflow complete!")
     
     # Show execution history
-    print(f"\n📋 Execution History:")
+    print(f"\n[LIST] Execution History:")
     for i, step in enumerate(profiler.execution_history, 1):
         print(f"   {i}. {step['state']}")
     
     # Show final memory
-    print(f"\n💾 Final Global Memory Keys: {list(profiler.global_memory.keys())}")
+    print(f"\n[DISK] Final Global Memory Keys: {list(profiler.global_memory.keys())}")
     print(f"   - Contains {len(profiler.global_memory)} pieces of information")
     
     print("\n" + "=" * 60)
-    print("✅ ALL PATIENT PROFILER TESTS PASSED!")
+    print("[OK] ALL PATIENT PROFILER TESTS PASSED!")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,825 @@
+# Enhanced Biomarker-Specific Trials: Ovarian Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 161
+
+
+======================================================================
+## ALK (13 trials)
+======================================================================
+
+**NCT01551745** - Salvage Ovarian FANG™ Vaccine + Bevacizumab
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 5
+Interventions: Vigil™ Vaccine, Bevacizumab
+Locations: 1 sites
+Primary Outcome: Time to Progression
+
+----------------------------------------------------------------------
+
+**NCT00004082** - Combination Chemotherapy in Treating Patients With Previously Untreated, Newly Diagnosed Epithelial Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: carboplatin, docetaxel
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT07030907** - A Study to Evaluate the Safety and Efficacy of OPB-101 in Platinum-resistant Ovarian Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: OPB-101
+Locations: 3 sites
+Primary Outcome: Safety
+
+----------------------------------------------------------------------
+
+**NCT06626282** - Fertility and Ovarian Reserve in Female Childhood Cancer Survivors
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 340
+Locations: 3 sites
+Primary Outcome: The index of fertility
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 108
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+Locations: 2 sites
+Primary Outcome: Tumor tissue and normal tissue distribution of colloidal gold-bound tumor necrosis factor
+
+----------------------------------------------------------------------
+
+**NCT01995188** - A Study to Evaluate the Safety and Pharmacology of DNIB0600A in Participants With Platinum-Sensitive Ovarian Cancer or N
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 41
+Interventions: Bevacizumab, Carboplatin
+Locations: 4 sites
+Primary Outcome: Number of Participants with Dose-limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT01639885** - Chemo-immunotherapy (Gemcitabine, Interferon-alpha 2b and p53 SLP) in Patients With Platinum-resistant Ovarian Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 15
+Interventions: Interferon Alfa-2b, Interferon Alfa-2b
+Locations: 1 sites
+Primary Outcome: Feasibility (change in grade III and IV toxicity) and change in immunogenicity of the triple combina
+
+----------------------------------------------------------------------
+
+**NCT00008359** - Caspofungin Acetate Compared With Amphotericin B Liposomal in Treating Patients With Persistent Fever and Neutropenia Fo
+Phase: PHASE3 | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 0
+Interventions: caspofungin acetate, liposomal amphotericin B
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT00043082** - S0200 Carboplatin With or Without Doxil in Patients With Recurrent Ovarian Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 61
+Interventions: carboplatin, pegylated liposomal doxorubicin hydrochloride
+Locations: 91 sites
+Primary Outcome: overall survival
+
+----------------------------------------------------------------------
+
+**NCT03917043** - APG-2449 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 165
+Interventions: APG-2449
+Locations: 9 sites
+Primary Outcome: Maximum Tolerated Dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT00620295** - Bortezomib and Gemcitabine in Treating Older Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 17
+Interventions: bortezomib, gemcitabine hydrochloride
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose of bortezomib and gemcitabine
+
+----------------------------------------------------------------------
+
+**NCT04906395** - Ovarian Suppression Evaluating Subcutaneous Leuprolide Acetate in Breast Cancer
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 250
+Interventions: TOL2506, Tamoxifen
+Locations: 59 sites
+Primary Outcome: Suppression of ovarian function
+
+----------------------------------------------------------------------
+
+**NCT02195973** - Phase IB Trial of LDE225 and Paclitaxel in Recurrent Ovarian Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 15
+Interventions: LDE225
+Locations: 1 sites
+Primary Outcome: Safety of weekly paclitaxel + LDE225 treatment
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (156 trials)
+======================================================================
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 334
+Interventions: Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT00004230** - Captopril in Treating Patients Undergoing Bone Marrow or Stem Cell Transplantation
+Phase: PHASE3 | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 35
+Interventions: captopril, cyclophosphamide
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT00659373** - Brain Function in Premenopausal Women Receiving Tamoxifen With or Without Ovarian Function Suppression for Early-Stage B
+Phase: PHASE3 | Status: COMPLETED
+Purpose:  | Enrollment: 86
+Interventions: Tamoxifen, triptorelin
+Locations: 15 sites
+Primary Outcome: Change in Cognitive Function Over 1 Year in Premenopausal Breast Cancer Patients Who Receive Adjuvan
+
+----------------------------------------------------------------------
+
+**NCT06917469** - Use of New MolEcular MarkErs for a persoNalized Therapy in Ovarian Cancer-MEMENTO
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 140
+Locations: 1 sites
+Primary Outcome: To assess DNA-PK as a potential predictive biomarker for distinguishing patients who will benefit fr
+
+----------------------------------------------------------------------
+
+**NCT04701645** - Microdevice In Ovarian, Fallopian Tube, And Peritoneal Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 20
+Interventions: Microdevice
+Locations: 2 sites
+Primary Outcome: Number of participants with adverse events as defined in the CTCAE v5.0
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Nivolumab
+Locations: 8 sites
+Primary Outcome: Primary Objective
+
+----------------------------------------------------------------------
+
+**NCT01940172** - Study of Birinapant in Combination With Conatumumab in Subjects With Relapsed Ovarian Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Birinapant, Conatumumab
+Locations: 9 sites
+Primary Outcome: Determination of Maximum Tolerated Dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT06527001** - Mesenteric Lymph Node Metastasis and Nutritional Status After Bowel Resection for Ovarian Cancer
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 300
+Interventions: No intervention
+Locations: 1 sites
+Primary Outcome: PFS
+
+----------------------------------------------------------------------
+
+**NCT00102973** - TLK286 (Telcyta) in Combination With Carboplatin (Paraplatin) Versus Doxil in Platinum Refractory or Resistant Ovarian C
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 244
+Interventions: TLK286 in Combination with Carboplatin, Doxorubicin HCl Liposome Injection
+Locations: 222 sites
+Primary Outcome: Study Objectives
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT06800105** - Dysregulation of Whole-body Metabolism in Ovarian Cancer: A Longitudinal Study
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 10
+Interventions: High fat smoothie
+Locations: 1 sites
+Primary Outcome: Feasibility assessed by attrition
+
+----------------------------------------------------------------------
+
+**NCT00003345** - Cisplatin Plus Irinotecan in Treating Patients With Ovarian, Fallopian Tube, or Peritoneal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 35
+Interventions: cisplatin, irinotecan hydrochloride
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT03154190** - Health Care Coach Support in Reducing Acute Care Use and Cost in Patients With Cancer
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 128
+Interventions: Best Practice, Laboratory Biomarker Analysis
+Locations: 1 sites
+Primary Outcome: Number of Emergency Department Visits (Chart Review)
+
+----------------------------------------------------------------------
+
+**NCT00679679** - Metformin and Lifestyle Intervention in Women With Polycystic Ovary Syndrome
+Phase: PHASE4 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Metformin, Placebo
+Locations: 1 sites
+Primary Outcome: Body mass index,Normalization of menses,Pregnancy,Hirsutism,Waist to hip ratio, Testosterone, Andros
+
+----------------------------------------------------------------------
+
+**NCT07148141** - Impact of Breast Cancer on Human Folliculogenesis
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 100
+Interventions: Ovarian stimulation
+Locations: 1 sites
+Primary Outcome: Fertility preservation for patients with breast cancer: Altered response to ovarian stimulation and 
+
+----------------------------------------------------------------------
+
+**NCT06428786** - The Effect of Polycystic Ovary Syndrome Phenotypes on Quality of Life and Sexual Function
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 176
+Interventions: Female Sexual Function Index
+Locations: 1 sites
+Primary Outcome: Effect of PCOS phenotypes on SF-36.
+
+----------------------------------------------------------------------
+
+**NCT04892186** - Effects of Myo-inositol in Women With Polycystic Ovary Syndrome
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 60
+Interventions: Myo-inositol, Metformin
+Locations: 2 sites
+Primary Outcome: Menstrual cycle
+
+----------------------------------------------------------------------
+
+**NCT00889382** - A Study Evaluating Intermittent and Continuous OSI-906 and Weekly Paclitaxel in Patients With Recurrent Epithelial Ovari
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 152
+Interventions: OSI-906, Paclitaxel
+Locations: 46 sites
+Primary Outcome: Determine Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (RP2D)
+
+----------------------------------------------------------------------
+
+**NCT06329323** - SerUm and Plasma MicroRNAs in Malignant Ovarian gERm Cell Tumours
+Phase: Not specified | Status: NOT_YET_RECRUITING
+Purpose:  | Enrollment: 24
+Interventions: Blood test, Pathology specimen miRNA expression
+Primary Outcome: Difference in microRNA expression (plasma) between benign and malignant masses
+
+----------------------------------------------------------------------
+
+**NCT07214779** - Study to Evaluate INCB123667 Versus Investigator's Choice of Chemotherapy in Participants With Platinum-Resistant Ovaria
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 466
+Interventions: INCB123667, Investigator's choice of chemotherapy
+Primary Outcome: Progression-Free Survival (PFS) by BICR
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (3 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT06533059** - A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 110
+Interventions: ALTA2618
+Locations: 49 sites
+Primary Outcome: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT02142803** - TORC1/2 Inhibitor MLN0128 and Bevacizumab in Treating Patients With Recurrent Glioblastoma or Advanced Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (R2PD) of Daily Oral MLN0128 When Administ
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (8 trials)
+======================================================================
+
+**NCT06917469** - Use of New MolEcular MarkErs for a persoNalized Therapy in Ovarian Cancer-MEMENTO
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 140
+Locations: 1 sites
+Primary Outcome: To assess DNA-PK as a potential predictive biomarker for distinguishing patients who will benefit fr
+
+----------------------------------------------------------------------
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: PREVENTION | Enrollment: 7274
+Interventions: Genetic testing
+Locations: 2 sites
+Primary Outcome: Penetrance estimation of the mutations identified in the gene panel
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT07030907** - A Study to Evaluate the Safety and Efficacy of OPB-101 in Platinum-resistant Ovarian Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: OPB-101
+Locations: 3 sites
+Primary Outcome: Safety
+
+----------------------------------------------------------------------
+
+**NCT02502266** - Testing the Combination of Cediranib and Olaparib in Comparison to Each Drug Alone or Other Chemotherapy in Recurrent Pl
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 582
+Interventions: Cediranib, Cediranib Maleate
+Locations: 398 sites
+Primary Outcome: Progression-free Survival (PFS) (Phase II Only)
+
+----------------------------------------------------------------------
+
+**NCT00757952** - Early Detection of Ovarian Cancer: GC/FT-ICR Mass Spectrometry and Canine Olfaction
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 109
+Interventions: Fourier transform ion cyclotron resonance mass spectrometry, chromatography
+Locations: 4 sites
+Primary Outcome: Identification of patterns of exhaled compounds in breath samples using gas chromatography Fourier t
+
+----------------------------------------------------------------------
+
+**NCT04274426** - Mirvetuximab Soravtansine (IMGN853), in Folate Receptor Alpha (FRα) High Recurrent Ovarian Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 136
+Interventions: Carboplatin, Pegylated liposomal doxorubicin (PLD)
+Locations: 19 sites
+Primary Outcome: Progression free survival (PFS) defined as the time from randomization to progressive disease (PD) o
+
+----------------------------------------------------------------------
+
+**NCT06084416** - A Study of Sovilnesib in Subjects With Ovarian Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Sovilnesib
+Locations: 13 sites
+Primary Outcome: Determination of the Recommended Phase 2 Dose (RP2D) of Sovilnesib
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (5 trials)
+======================================================================
+
+**NCT06917469** - Use of New MolEcular MarkErs for a persoNalized Therapy in Ovarian Cancer-MEMENTO
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 140
+Locations: 1 sites
+Primary Outcome: To assess DNA-PK as a potential predictive biomarker for distinguishing patients who will benefit fr
+
+----------------------------------------------------------------------
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: PREVENTION | Enrollment: 7274
+Interventions: Genetic testing
+Locations: 2 sites
+Primary Outcome: Penetrance estimation of the mutations identified in the gene panel
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT02502266** - Testing the Combination of Cediranib and Olaparib in Comparison to Each Drug Alone or Other Chemotherapy in Recurrent Pl
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 582
+Interventions: Cediranib, Cediranib Maleate
+Locations: 398 sites
+Primary Outcome: Progression-free Survival (PFS) (Phase II Only)
+
+----------------------------------------------------------------------
+
+**NCT00757952** - Early Detection of Ovarian Cancer: GC/FT-ICR Mass Spectrometry and Canine Olfaction
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 109
+Interventions: Fourier transform ion cyclotron resonance mass spectrometry, chromatography
+Locations: 4 sites
+Primary Outcome: Identification of patterns of exhaled compounds in breath samples using gas chromatography Fourier t
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (4 trials)
+======================================================================
+
+**NCT02502266** - Testing the Combination of Cediranib and Olaparib in Comparison to Each Drug Alone or Other Chemotherapy in Recurrent Pl
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 582
+Interventions: Cediranib, Cediranib Maleate
+Locations: 398 sites
+Primary Outcome: Progression-free Survival (PFS) (Phase II Only)
+
+----------------------------------------------------------------------
+
+**NCT01995188** - A Study to Evaluate the Safety and Pharmacology of DNIB0600A in Participants With Platinum-Sensitive Ovarian Cancer or N
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 41
+Interventions: Bevacizumab, Carboplatin
+Locations: 4 sites
+Primary Outcome: Number of Participants with Dose-limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT02179515** - Safety and Tolerability of a Modified Vaccinia Ankara (MVA)-Based Vaccine Modified to Express Brachyury and T-cell Costi
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 38
+Interventions: MVA-brachyury- TRICOM
+Locations: 1 sites
+Primary Outcome: Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminolog
+
+----------------------------------------------------------------------
+
+**NCT02142803** - TORC1/2 Inhibitor MLN0128 and Bevacizumab in Treating Patients With Recurrent Glioblastoma or Advanced Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (R2PD) of Daily Oral MLN0128 When Administ
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (10 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT07148141** - Impact of Breast Cancer on Human Folliculogenesis
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 100
+Interventions: Ovarian stimulation
+Locations: 1 sites
+Primary Outcome: Fertility preservation for patients with breast cancer: Altered response to ovarian stimulation and 
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+**NCT05333328** - OFS in Premenopausal Node+ Breast Cancer With Low Genomic Risk
+Phase: PHASE4 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 418
+Interventions: Ovarian function suppression with endocrine treatments
+Locations: 2 sites
+Primary Outcome: Distant recurrence-free survival
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 318
+Interventions: HS-10502
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) of HS-10502（Stage 1）
+
+----------------------------------------------------------------------
+
+**NCT00698451** - A Study of Carboplatin and DOXIL Plus Bevacizumab in Patients With Platinum Sensitive Recurrent Ovarian, Fallopian Tube 
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 54
+Interventions: doxorubicin HCL liposome; bevacizumab; carboplatin
+Locations: 1 sites
+Primary Outcome: The Primary Efficacy End Point is the Number of Patients With an Objective Response.
+
+----------------------------------------------------------------------
+
+**NCT00028535** - Interleukin-12, Paclitaxel, and Trastuzumab in Treating Patients With Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 18
+Interventions: trastuzumab, paclitaxel
+Locations: 1 sites
+Primary Outcome: MTD of IL-12, defined as the dose level one level beneath that dose at which 2 or more of 6 patients
+
+----------------------------------------------------------------------
+
+**NCT02179515** - Safety and Tolerability of a Modified Vaccinia Ankara (MVA)-Based Vaccine Modified to Express Brachyury and T-cell Costi
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 38
+Interventions: MVA-brachyury- TRICOM
+Locations: 1 sites
+Primary Outcome: Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminolog
+
+----------------------------------------------------------------------
+
+**NCT00034281** - Safety and Tolerability Study of TAK-165 in Subjects With Tumors Expressing HER2
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 16
+Interventions: TAK-165
+Locations: 4 sites
+Primary Outcome: Dose Limiting Toxicity
+
+----------------------------------------------------------------------
+
+**NCT04906395** - Ovarian Suppression Evaluating Subcutaneous Leuprolide Acetate in Breast Cancer
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 250
+Interventions: TOL2506, Tamoxifen
+Locations: 59 sites
+Primary Outcome: Suppression of ovarian function
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (4 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT06533059** - A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 110
+Interventions: ALTA2618
+Locations: 49 sites
+Primary Outcome: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT02142803** - TORC1/2 Inhibitor MLN0128 and Bevacizumab in Treating Patients With Recurrent Glioblastoma or Advanced Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (R2PD) of Daily Oral MLN0128 When Administ
+
+----------------------------------------------------------------------
+
+**NCT06253520** - Autologous T-cells Genetically Engineered to Express Receptors Reactive Against KRAS Mutations in Conjunction With a Vac
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 210
+Interventions: Aldesleukin, Fludarabine
+Locations: 1 sites
+Primary Outcome: Complete response (CR) and/ or partial response (PR)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (2 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 170
+Interventions: vudalimab
+Locations: 17 sites
+Primary Outcome: PSA50 is the primary endpoint for the mCRPC cohort. Objective Response Rate (ORR) as assessed by Res
+
+----------------------------------------------------------------------
+
+**NCT06084416** - A Study of Sovilnesib in Subjects With Ovarian Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Sovilnesib
+Locations: 13 sites
+Primary Outcome: Determination of the Recommended Phase 2 Dose (RP2D) of Sovilnesib
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (2 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT06533059** - A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 110
+Interventions: ALTA2618
+Locations: 49 sites
+Primary Outcome: Adverse Events
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (8 trials)
+======================================================================
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 334
+Interventions: Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Nivolumab
+Locations: 8 sites
+Primary Outcome: Primary Objective
+
+----------------------------------------------------------------------
+
+**NCT05116189** - Pembrolizumab/Placebo Plus Paclitaxel With or Without Bevacizumab for Platinum-resistant Recurrent Ovarian Cancer (MK-34
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 643
+Interventions: Pembrolizumab, Paclitaxel
+Locations: 187 sites
+Primary Outcome: Progression-free Survival (PFS) per Response Evaluation Criteria in Solid Tumors 1.1 (RECIST 1.1) by
+
+----------------------------------------------------------------------
+
+**NCT03275506** - PEMBRO With Chemo in Neo Adj Treatment of Ovarian Cancer .
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 91
+Interventions: Pembrolizumab Injectable Product - Chemotherapy - Bevacizumab, Chemotherapy - Bevacizumab
+Locations: 22 sites
+Primary Outcome: Primary objective
+
+----------------------------------------------------------------------
+
+**NCT04644289** - WoO: Window of Opportunity Trial of Olaparib and Durvalumab in Histologically Proven EOC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 60
+Interventions: olaparib, durvalumab
+Locations: 6 sites
+Primary Outcome: Feasibility of the WoO procedure for olaparib alone (cohort a) & olaparib in combination with durval
+
+----------------------------------------------------------------------
+
+**NCT05293496** - A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 31
+Interventions: vobramitamab duocarmazine, lorigerlimab
+Locations: 10 sites
+Primary Outcome: Number of participants with adverse events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT05075993** - Study of LVGN3616 and LVGN6051±LVGN7409 in Combination With Nab-Paclitaxel or Bevacizumab and Cyclophosphamide in Metast
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 352
+Interventions: LVGN3616 + LVGN6051 + Nab-Paclitaxel, LVGN3616 + LVGN6051 + Bevacizumab + Cyclophosphamide
+Locations: 1 sites
+Primary Outcome: To establish the maximum tolerated dose (MTD)/recommended.
+
+----------------------------------------------------------------------
+
+**NCT04834544** - A Study of Maintenance DCVAC/OvCa After First-line Chemotherapy Added Standard of Care
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 75
+Interventions: DCVAC/OvCa, Placebo
+Locations: 1 sites
+Primary Outcome: Progress Free Survival
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT02142803** - TORC1/2 Inhibitor MLN0128 and Bevacizumab in Treating Patients With Recurrent Glioblastoma or Advanced Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (R2PD) of Daily Oral MLN0128 When Administ
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT02142803** - TORC1/2 Inhibitor MLN0128 and Bevacizumab in Treating Patients With Recurrent Glioblastoma or Advanced Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+Locations: 3 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) and Recommended Phase 2 Dose (R2PD) of Daily Oral MLN0128 When Administ
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (1 trials)
+======================================================================
+
+**NCT03917043** - APG-2449 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 165
+Interventions: APG-2449
+Locations: 9 sites
+Primary Outcome: Maximum Tolerated Dose (MTD)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (2 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 170
+Interventions: vudalimab
+Locations: 17 sites
+Primary Outcome: PSA50 is the primary endpoint for the mCRPC cohort. Objective Response Rate (ORR) as assessed by Res
+
+----------------------------------------------------------------------
+
+**NCT06084416** - A Study of Sovilnesib in Subjects With Ovarian Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Sovilnesib
+Locations: 13 sites
+Primary Outcome: Determination of the Recommended Phase 2 Dose (RP2D) of Sovilnesib
+
+----------------------------------------------------------------------
+

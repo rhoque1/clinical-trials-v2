@@ -97,7 +97,7 @@ Be concise and accurate. Focus only on what's asked.
         
         # DEBUG: Show what we're passing to the LLM
         if current_state.name == "generate_search_terms":
-            print(f"\n🔍 DEBUG - Search Terms State:")
+            print(f"\n[SEARCH] DEBUG - Search Terms State:")
             print(f"   Task input: {input_data[:200]}...")
             print(f"   Memory keys: {list(self.state_machine.global_memory.keys())}")
             print(f"   Diagnoses: {str(self.state_machine.global_memory.get('diagnoses', ''))[:100]}...")

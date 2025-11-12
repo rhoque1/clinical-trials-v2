@@ -1,0 +1,1110 @@
+# Biomarker-Specific Trials: Ovarian Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 120
+
+
+======================================================================
+## ALK (12 trials)
+======================================================================
+
+**NCT01551745** - Salvage Ovarian FANG™ Vaccine + Bevacizumab
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Vigil™ Vaccine, Bevacizumab
+
+Biomarker Criteria:
+  - AST(SGOT)/ALT(SGPT)/alkaline phosphatase ≤2
+
+----------------------------------------------------------------------
+
+**NCT00004082** - Combination Chemotherapy in Treating Patients With Previously Untreated, Newly Diagnosed Epithelial Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: carboplatin, docetaxel
+
+Biomarker Criteria:
+  - , malignant pleural effusion) AND/OR Parenchymal liver, spleen, or lung metastases
+
+PATIENT CHARACTERISTICS: Age: 18 and over Performance status: ECOG 0-2 Life expectancy: More than 2 months Hematopoietic: WBC at least 3,000/mm3 Absolute neutrophil count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than upper limit of normal (ULN) Alkaline phosphatase no greater than 2
+
+----------------------------------------------------------------------
+
+**NCT07030907** - A Study to Evaluate the Safety and Efficacy of OPB-101 in Platinum-resistant Ovarian Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: OPB-101
+
+Biomarker Criteria:
+  - Alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+
+Biomarker Criteria:
+  - 5 mg/dL
+* ALT and AST ≤ 3 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3 times ULN
+* Hemoglobin ≥ 9
+
+----------------------------------------------------------------------
+
+**NCT01995188** - A Study to Evaluate the Safety and Pharmacology of DNIB0600A in Participants With Platinum-Sensitive Ovarian Cancer or Non-Squamous Non-small Cell Lun
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Bevacizumab, Carboplatin
+
+Biomarker Criteria:
+  - * For participants with a documented epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) rearrangement, one additional line of non-cytotoxic prior treatment will be permitted provided the therapy is a targeted agent against the EGFR mutation or ALK rearrangement
+
+----------------------------------------------------------------------
+
+**NCT01639885** - Chemo-immunotherapy (Gemcitabine, Interferon-alpha 2b and p53 SLP) in Patients With Platinum-resistant Ovarian Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Interferon Alfa-2b, Interferon Alfa-2b
+
+Biomarker Criteria:
+  - 5 x UNL, Alkaline Phosphatase ≤5 x UNL
+* Adequate renal function: the calculated creatinine clearance should be ≥ 50 mL/min
+* Survival expectation \> 3 months
+* Patients must be accessible for treatment and follow-up
+* Written informed consent according to the local Ethics Committee requirements
+
+Exclusion Criteria:
+
+* Previous malignancy within 5 years, with exception of a history of a previous basal cell carcinoma of the skin or pre-invasive carcinoma of the cervix
+
+----------------------------------------------------------------------
+
+**NCT00008359** - Caspofungin Acetate Compared With Amphotericin B Liposomal in Treating Patients With Persistent Fever and Neutropenia Following Cancer Treatment
+Phase: PHASE3 | Status: COMPLETED
+Interventions: caspofungin acetate, liposomal amphotericin B
+
+Biomarker Criteria:
+  - 0 if receiving anticoagulants)
+
+Hepatic:
+
+* Bilirubin no greater than 3 times upper limit of normal (ULN)
+* AST or ALT no greater than 5 times ULN
+* Alkaline phosphatase no greater than 3 times ULN
+* No acute hepatitis or cirrhosis
+
+Renal:
+
+* Not specified
+
+Other:
+
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective barrier contraception
+* No allergy, hypersensitivity, or prior serious reaction to any echinocandin antifungal or amphotericin B formulation
+* No other condition or illness that would preclude study participation
+
+PRIOR CONCURRENT THERAPY:
+
+Biologic therapy:
+
+* See Disease Characteristics
+
+Chemotherapy:
+
+* See Disease Characteristics
+* No concurrent investigational antineoplastic therapy
+
+Endocrine therapy:
+
+* Not specified
+
+Radiotherapy:
+
+* Not specified
+
+Surgery:
+
+* Not specified
+
+Other:
+
+* At least 10 days since prior parenteral amphotericin B
+* At least 14 days since prior investigational antibiotic, antifungal, or immunosuppressive drug
+* No concurrent rifampin or cyclosporine
+* No other concurrent investigational antibiotic, antifungal, or immunosuppressive drug
+* No concurrent alcohol
+
+----------------------------------------------------------------------
+
+**NCT00043082** - S0200 Carboplatin With or Without Doxil in Patients With Recurrent Ovarian Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: carboplatin, pegylated liposomal doxorubicin hydrochloride
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically confirmed ovarian epithelial carcinoma
+
+  * Stage III or IV disease at time of initial staging laparotomy
+* Primary peritoneal and mixed Mullerian tumors allowed
+* No borderline ovarian tumors
+* Disease progression or recurrence after a progression-free and platinum-free interval of 6-24 months after completion of first-line platinum-based chemotherapy (either single agent or combination therapy)
+* Disease progression or recurrence based solely on CA 125 elevation allowed, provided that one of the following is true:
+
+  * Prior baseline CA 125 greater than 35 U/mL and subsequent normalization of no greater than 35 U/mL must have CA 125 greater than 2 times upper limit of normal (ULN) on 2 occasions at least 1 week apart
+  * Prior baseline CA 125 greater than 35 U/mL that never normalized must have CA 125 greater than 2 times the nadir value on 2 occasions at least 1 week apart
+  * Prior normal baseline CA 125 (no greater than 35 U/mL) must show CA 125 greater than 2 times ULN on 2 occasions at least 1 week apart
+* No known brain metastases
+
+PATIENT CHARACTERISTICS:
+
+Age
+
+* Not specified
+
+Performance status
+
+* Zubrod 0-1
+
+Life expectancy
+
+* Not specified
+
+Hematopoietic
+
+* Absolute neutrophil count at least 1,500/mm\^3
+* Platelet count at least 100,000/mm\^3
+* Hemoglobin at least 10 g/dL
+
+Hepatic
+
+* SGOT and/or SGPT no greater than 2 times upper limit of normal (ULN)
+* Alkaline phosphatase no greater than 2 times ULN
+* Bilirubin no greater than ULN
+
+Renal
+
+* Creatinine no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT03917043** - APG-2449 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: APG-2449
+
+Biomarker Criteria:
+  - Dose exploration stage: non-small cell lung cancer diagnosed by histology and/or cytology and positive for ALK/ROS1 gene fusion (molecular diagnosis confirmed by the investigator) and malignant pleural mesothelioma, esophageal cancer and ovarian cancer
+  - Expansion stage: cohort 1, patients with non-small cell lung cancer who have progressed or are intolerant to TKI therapy, including patients with second-generation ALK TKI, or either ROS1 TKI, or third-generation ALK inhibitor (lorlatinib, etc
+  - ) with pFAK expression (pFAK expression is subject to central laboratory results) of about 10 or above; Cohort 2, TKI-naïve patients with ALK/ROS1 fusion gene positive NSCLC
+
+----------------------------------------------------------------------
+
+**NCT00620295** - Bortezomib and Gemcitabine in Treating Older Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: bortezomib, gemcitabine hydrochloride
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3
+
+----------------------------------------------------------------------
+
+**NCT04906395** - Ovarian Suppression Evaluating Subcutaneous Leuprolide Acetate in Breast Cancer
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: TOL2506, Tamoxifen
+
+Biomarker Criteria:
+  - Alkaline phosphatase ≥ 2X ULN
+   5
+
+----------------------------------------------------------------------
+
+**NCT02195973** - Phase IB Trial of LDE225 and Paclitaxel in Recurrent Ovarian Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: LDE225
+
+Biomarker Criteria:
+  - 5 x ULN and ALT, SGOT and alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (113 trials)
+======================================================================
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Pembrolizumab
+
+Biomarker Criteria:
+  - * Rare malignant neuroendocrine tumour: poorly differentiated tumours refractory after 2 lines of chemotherapy, well differentiated tumours refractory after 4 lines of treatment, carcinoid tumours after 2 lines of treatment
+  - Patients must have a mandatory treatment-free interval of at least 21 days following previous systemic anti-cancer treatments
+  - Patients who have received previous systemic anticancer treatment and/or radiotherapy should have recovered from any treatment related toxicity, to a level of ≤ grade 1 (according to NCI-CTCAE criteria, v 4
+
+----------------------------------------------------------------------
+
+**NCT04701645** - Microdevice In Ovarian, Fallopian Tube, And Peritoneal Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Microdevice
+
+Biomarker Criteria:
+  - 5x control
+  * Women of childbearing potential must have negative pregnancy test (urine or serum) \*\*Cohort 4 patients should undergo laboratory testing within 7 days prior to the microdevice placement
+* Participants must be evaluated by a surgical gynecologic oncologist who will determine the clinically appropriate treatment strategy (primary surgery or neoadjuvant chemotherapy) based on clinical history and extent of disease
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with progression or intolerance to already approved and accessible treatments for the specific neoplasm and population
+  - Documented disease progression radiologically after the last routine treatment
+  - Previous treatment lines with immunotherapy (immune checkpoint inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT01940172** - Study of Birinapant in Combination With Conatumumab in Subjects With Relapsed Ovarian Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Birinapant, Conatumumab
+
+Biomarker Criteria:
+  - Exclusion Criteria-If subject:
+
+* Has symptomatic or uncontrolled brain metastases requiring current treatment (\<8 weeks from last cranial radiation treatment or \<4 weeks from last steroid treatment)
+
+----------------------------------------------------------------------
+
+**NCT06527001** - Mesenteric Lymph Node Metastasis and Nutritional Status After Bowel Resection for Ovarian Cancer
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Interventions: No intervention
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Combination of malignant tumors in other parts of the body not in remission or under treatment; ②Having an infectious disease in the infectious or active stage;
+
+  * Unknown status of visits to other hospitals and loss of visits; ④Not considered by the investigator to be suitable for enrollment or incomplete baseline information
+
+----------------------------------------------------------------------
+
+**NCT00102973** - TLK286 (Telcyta) in Combination With Carboplatin (Paraplatin) Versus Doxil in Platinum Refractory or Resistant Ovarian Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: TLK286 in Combination with Carboplatin, Doxorubicin HCl Liposome Injection
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Are a woman 18 years of age or older
+* Have histologically or cytologically confirmed epithelial cancer of the ovary or fallopian tube, or primary peritoneal cancer
+* Have platinum refractory or resistant cancer
+* Measurable disease according to radiographic RECIST criteria with documented tumor progression
+
+Exclusion Criteria:
+
+* Had treatment with first-line chemotherapy other than platinum-based regimens (carboplatin or cisplatin)
+* Have clinically significant cardiac disease
+* Have any sign of intestinal obstruction interfering with nutrition at the time of study entry
+* Are pregnant or lactating
+* Had prior treatment with liposomal doxorubicin for ovarian cancer
+* Had prior treatment with TLK286
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Have progressed on, were intolerant to, or experienced disease recurrence after standard therapy and have no available effective or tolerable treatment options to derive clinically meaningful benefit
+  - Requires treatment with certain medications
+
+----------------------------------------------------------------------
+
+**NCT06800105** - Dysregulation of Whole-body Metabolism in Ovarian Cancer: A Longitudinal Study
+Phase: Not specified | Status: RECRUITING
+Interventions: High fat smoothie
+
+Biomarker Criteria:
+  - those being clinically evaluated for suspicion of ovary cancer)
+* Planned treatment course for ovarian cancer involving cytoreductive surgery followed by chemotherapy
+* Availability to commit to attending all study visits
+* Internet access and consistent access to phone/email/text communication
+
+Exclusion Criteria:
+
+* Pregnancy
+* Inability to provide voluntary informed consent
+* Inability to consume the pre-study visit meal/snack and/or the study visit meal due to strict dietary restrictions
+* Illicit substance use (e
+
+----------------------------------------------------------------------
+
+**NCT00003345** - Cisplatin Plus Irinotecan in Treating Patients With Ovarian, Fallopian Tube, or Peritoneal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cisplatin, irinotecan hydrochloride
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS: Histologically confirmed epithelial carcinoma of the ovary, fallopian tube, or peritoneum At least 3 prior courses of standard platinum-paclitaxel regimen Patients with taxane allergy may enter this study after 3 courses of platinum based treatment CA125 at least 35 measured within 30 days of commencement of treatment Measurable disease not required No CNS metastases, carcinomatous meningitis or interstitial pulmonary fibrosis
+
+PATIENT CHARACTERISTICS: Age: 18 and over Performance status: Karnofsky 60-100% Life expectancy: Not specified Hematopoietic: Neutrophil count at least 1,500/mm3 Platelet count at least 100,000/mm3 Hepatic: Bilirubin no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT07148141** - Impact of Breast Cancer on Human Folliculogenesis
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Interventions: Ovarian stimulation
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Women above 18 years old and below 38 years old
+* First hormonal stimulation cycle
+* No dysovulation
+* No cancer treatments prior fertility preservation (tumour resection, chemotherapy, radiotherapy)
+* Women capable of giving written informed consent to participate in the research study
+* Affiliated to social welfare service
+
+Exclusion Criteria:
+
+* Women below 18 years old and above 38 years old
+* Endocrine disease
+* Endometriosis
+* Any cancer treatments prior fertility preservation (tumour resection, chemotherapy, radiotherapy)
+* Previous hormonal stimulation cycle of less than six months
+
+----------------------------------------------------------------------
+
+**NCT04892186** - Effects of Myo-inositol in Women With Polycystic Ovary Syndrome
+Phase: NA | Status: COMPLETED
+Interventions: Myo-inositol, Metformin
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Previous use of any hormonal treatment in the past three months;
+* Other causes of anovulation;
+* Gynecological or other associated conditions (endometriosis, adenomyosis or diabetes mellitus);
+* FSH (Follicle Stimulating Hormone) \> 15 Ul / L (2nd to 5th day of the cycle);
+* Beta-hcG (human chorionic gonadotropin) positive (pregnancy)
+
+----------------------------------------------------------------------
+
+**NCT00889382** - A Study Evaluating Intermittent and Continuous OSI-906 and Weekly Paclitaxel in Patients With Recurrent Epithelial Ovarian Cancer (and Other Solid Tum
+Phase: PHASE1 | Status: COMPLETED
+Interventions: OSI-906, Paclitaxel
+
+Biomarker Criteria:
+  - Significant cardiac diseases includes second/third degree heart block; significant ischemic heart disease; poorly controlled hypertension; congestive heart failure of New York Heart Association (NYHA) Class II or worse (slight limitation of physical activity; comfortable at rest, but ordinary physical activity results in fatigue, palpitation, or dyspnea)
+* History of cerebrovascular accident (CVA) within 6 months prior to registration/randomization or that is not stable
+* Prior therapy with an insulin-like growth factor (IGF-1R) inhibitor
+* Use of drugs that have a risk of causing QT interval prolongation within 14 days prior to Day 1 dosing
+* Known or prior hypersensitivity to taxanes in spite of premedication or drugs containing Cremophor
+* Gastro-intestinal abnormalities, including bowel obstruction, inability to take oral medication, requirement for intravenous (IV) alimentation,active peptic ulcer or prior surgical procedures or bowel resection affecting absorption
+* Active infection or serious underlying medical condition (including any type of active seizure disorder within 12 months prior to registration/randomization) that would impair the ability of the patient to receive protocol treatment
+* History of any psychiatric condition that might impair the patient's ability to understand or to comply with the requirements of the study or to provide informed consent
+* Pregnancy or breast-feeding
+* Symptomatic brain metastases that are not stable, require steroids, are potentially life threatening, or that have required radiation within 28 days prior to registration/randomization
+* History of allergic reactions attributed to compounds of similar chemical or biologic composition to the study drug
+* History of arrhythmia (multifocal premature ventricular contractions \[PVCs\], bigeminy, trigeminy, ventricular tachycardia, or uncontrolled atrial fibrillation) that is symptomatic or requires treatment (≥ grade 3), left bundle branch block (LBBB), or asymptomatic sustained ventricular tachycardia are not allowed
+
+----------------------------------------------------------------------
+
+**NCT07214779** - Study to Evaluate INCB123667 Versus Investigator's Choice of Chemotherapy in Participants With Platinum-Resistant Ovarian Cancer With Cyclin E1 Overex
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Interventions: INCB123667, Investigator's choice of chemotherapy
+
+Biomarker Criteria:
+  - If not available, participant must be willing to undergo a pretreatment tumor biopsy
+  - * Should have received prior treatment with bevacizumab unless there was a contraindication for its use
+  - * Should have received prior treatment with mirvetuximab soravtansine if the tumor is positive for FRα, unless there is an exception for its use on medical grounds
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment targeting ILT3
+  - * Prior treatment targeting LAIR1
+
+----------------------------------------------------------------------
+
+**NCT02272790** - Adavosertib Plus Chemotherapy in Platinum-Resistant Epithelial Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Adavosertib, Paclitaxel
+
+Biomarker Criteria:
+  - * No more than 2-4 prior treatment regimens for Stage III/IV disease, defined as investigational, chemotherapy, hormonal, biologic, or targeted therapy
+  - * Any prior palliative radiation therapy must be completed at least 7 days prior to start of study treatment and patients must have recovered from any acute adverse effects prior to start of study treatment
+  - * Female patients, ≥18, (not of childbearing potential and fertile female patients of childbearing potential) who agree to use adequate contraceptive measures from 2 weeks prior to the study and until 1 month after study treatment discontinuation, who are not breastfeeding, and who have a negative serum or urine pregnancy test within 72 hours prior to start
+
+----------------------------------------------------------------------
+
+**NCT02954120** - Chronic Periodontitis and Polycystic Ovary Syndrome
+Phase: Not specified | Status: COMPLETED
+Interventions: no intervention provided
+
+Biomarker Criteria:
+  - 5%
+* 2-h oral glucose tolerance test (OGTT-2h) ≥200
+* Cushing syndrome, non-classic congenital adrenal hyperplasia, hyperprolactinemia, thyroid dysfunction, and androgen-secreting tumors
+* Any drug use within the past 6 months
+* Periodontal treatment within the past 6 months
+
+----------------------------------------------------------------------
+
+**NCT02385396** - Myo-inositol Therapy on the Dynamics of Embryo Development in Patients Suffering From PCOS Undergoing ICSI Treatment
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Inofolic: myo-inositol and folic acid
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+ICSI treatment due to infertility
+
+PCOS patients enrolled according to the criteria established by representatives of the American Society of Reproductive Medicine (ASRM) and the European Society of Human Reproduction and Embryology (ESHRE)
+
+Exclusion Criteria:
+
+Severe endometriosis BMI \<17 and \>30 Metabolic diseases Lowered ovarian reserve
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or High Grade Serous Ovarian, Fal
+Phase: PHASE1 | Status: COMPLETED
+Interventions: ABT-767
+
+Biomarker Criteria:
+  - Women of childbearing potential must have a negative serum pregnancy test within 21 days prior to initiation of treatment and a negative urine pregnancy test on the first day of study drug administration
+
+----------------------------------------------------------------------
+
+**NCT01332656** - Study of Ombrabulin in Patients With Platinum-Sensitive Recurrent Ovarian Cancer Treated With Carboplatin/Paclitaxel
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Ombrabulin (AVE8062), Placebo
+
+Biomarker Criteria:
+  - Neoadjuvant/adjuvant treatment that include a surgical procedure will be considered as one line if platinum-based
+  - Participation in another clinical trial and any concurrent treatment with any investigational drug or anti-tumor therapy or radiotherapy within 21 days prior to randomization (or 28 days for those therapies with a schedule of administration every 4 weeks and except for nitrosoureas, mitomycin which may not be used up to 6 weeks prior to the first cycle provided that patients do not have residual signs of any toxicity)
+  - Patient with reproductive potential who do not agree to use accepted and effective method of contraception during the study treatment period and for at least 6 months after the completion of the study treatment
+
+----------------------------------------------------------------------
+
+**NCT00515372** - Depression Treatment and Screening in Ovarian Cancer Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Telephone Counseling, Usual Care
+
+Biomarker Criteria:
+  - Women are eligible if they a) are on active treatment, but not at the end of a treatment regimen) for newly diagnosed, recurrent, or persistent ovarian cancer or peritoneal cancer or fallopian tube cancer (any stage) c) are at least 18 years of age; d) speak and read English at a 7th grade level; e) are oriented to time, person, and place; g) have a Zubrod performance status (49) of 0-2; and h) provide informed consent
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (2 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+**NCT06533059** - A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ALTA2618
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment with PI3K and/or mTOR inhibitors
+* Patients known to have KRAS, NRAS, HRAS, or BRAF genomic alterations in their tumor
+* Known condition that prohibits ability to swallow or absorb an oral medication
+
+Other inclusion/exclusion criteria may apply
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (6 trials)
+======================================================================
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Interventions: Genetic testing
+
+Biomarker Criteria:
+  - Inclusion criteria:
+
+Index case eligibility:
+
+Any person with an indication for a BRCA1/BRCA2 gene analysis and who has been offered TUMOSPEC panel screening
+
+----------------------------------------------------------------------
+
+**NCT07030907** - A Study to Evaluate the Safety and Efficacy of OPB-101 in Platinum-resistant Ovarian Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: OPB-101
+
+Biomarker Criteria:
+  - Received prior therapy with a PARP inhibitor if the subject has a known germline or somatic BRCA1/2 mutation
+
+----------------------------------------------------------------------
+
+**NCT02502266** - Testing the Combination of Cediranib and Olaparib in Comparison to Each Drug Alone or Other Chemotherapy in Recurrent Platinum-Resistant Ovarian Cance
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cediranib, Cediranib Maleate
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed ovarian cancer, peritoneal cancer or fallopian tube cancer and must have a histological diagnosis of either serous or endometrioid cancer based on local histopathological findings; both endometrioid and serous histology should be high-grade for eligibility of non-mutation carriers; patients with clear cell, mixed epithelial, undifferentiated carcinoma, or transitional cell carcinoma histologies are also eligible, provided that the patient has a known deleterious germline BRCA1 or BRCA2 mutation identified through testing at a clinical laboratory
+
+  * Note: Due to the long acceptance of BRCA testing through Myriad, Myriad testing will be accepted; if testing for BRCA is done by other organizations, documentation from a qualified medical professional (e
+
+----------------------------------------------------------------------
+
+**NCT00757952** - Early Detection of Ovarian Cancer: GC/FT-ICR Mass Spectrometry and Canine Olfaction
+Phase: Not specified | Status: COMPLETED
+Interventions: Fourier transform ion cyclotron resonance mass spectrometry, chromatography
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Meets one of the following criteria:
+
+  * Histologically confirmed ovarian epithelial cancer
+
+    * Newly diagnosed disease
+  * Diagnosis of polycystic ovarian syndrome or endometriosis
+  * Healthy volunteer meeting all of the following criteria:
+
+    * No prior ovarian cancer (including invasive ovarian epithelial cancer, fallopian tube cancer, or primary papillary serous carcinoma of the peritoneum)
+    * No prior breast cancer (including ductal carcinoma in situ \[DCIS\])
+    * No prior ovarian or breast cancer (including DCIS) in any first- or second-degree relative
+    * BRCA1 or BRCA2 mutation negative (if known) OR no first- or second-degree relative with a BRCA1 or BRCA2 mutation (if known)
+* No prior diagnosis of cancer
+
+PATIENT CHARACTERISTICS:
+
+* Lives in California and close to the study sampling centers
+* Reads and writes English, Spanish, or Chinese
+* Non-smoker
+* Willing to provide breath samples
+* No alcohol intake within the past 3 days
+
+PRIOR CONCURRENT THERAPY:
+
+* At least 3 days since prior Cox-2 inhibitors, vitamin E, omega-3 fatty acids, antioxidants, bromelain, coenzyme Q10, curcumin, or vitamin A
+
+----------------------------------------------------------------------
+
+**NCT04274426** - Mirvetuximab Soravtansine (IMGN853), in Folate Receptor Alpha (FRα) High Recurrent Ovarian Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Carboplatin, Pegylated liposomal doxorubicin (PLD)
+
+Biomarker Criteria:
+  - Patients with wildtype BRCA1/2 mutation status or with a deleterious BRCA1/2 mutation in germline or somatic testing if they underwent PARP inhibitor therapy in previous treatment line
+
+----------------------------------------------------------------------
+
+**NCT06084416** - A Study of Sovilnesib in Subjects With Ovarian Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Sovilnesib
+
+Biomarker Criteria:
+  - 1, able to take oral medication without alteration
+* High Grade Serous Ovarian Cancer, Fallopian Tube or Primary Peritoneal Cancer - histologically or cytologically confirmed; metastatic or unresectable; platinum resistant (defined as recurrence within 6 months of platinum containing therapy) or platinum refractory; prior bevacizumab treatment, or ineligible or intolerant to bevacizumab, or did not receive bevacizumab based on Investigator judgement; if germline and/or somatic BRCA1/2 mutation, previously treated with PARP-inhibitor or ineligible or intolerant
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (3 trials)
+======================================================================
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Interventions: Genetic testing
+
+Biomarker Criteria:
+  - Inclusion criteria:
+
+Index case eligibility:
+
+Any person with an indication for a BRCA1/BRCA2 gene analysis and who has been offered TUMOSPEC panel screening
+
+----------------------------------------------------------------------
+
+**NCT02502266** - Testing the Combination of Cediranib and Olaparib in Comparison to Each Drug Alone or Other Chemotherapy in Recurrent Platinum-Resistant Ovarian Cance
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cediranib, Cediranib Maleate
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have histologically or cytologically confirmed ovarian cancer, peritoneal cancer or fallopian tube cancer and must have a histological diagnosis of either serous or endometrioid cancer based on local histopathological findings; both endometrioid and serous histology should be high-grade for eligibility of non-mutation carriers; patients with clear cell, mixed epithelial, undifferentiated carcinoma, or transitional cell carcinoma histologies are also eligible, provided that the patient has a known deleterious germline BRCA1 or BRCA2 mutation identified through testing at a clinical laboratory
+
+  * Note: Due to the long acceptance of BRCA testing through Myriad, Myriad testing will be accepted; if testing for BRCA is done by other organizations, documentation from a qualified medical professional (e
+
+----------------------------------------------------------------------
+
+**NCT00757952** - Early Detection of Ovarian Cancer: GC/FT-ICR Mass Spectrometry and Canine Olfaction
+Phase: Not specified | Status: COMPLETED
+Interventions: Fourier transform ion cyclotron resonance mass spectrometry, chromatography
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Meets one of the following criteria:
+
+  * Histologically confirmed ovarian epithelial cancer
+
+    * Newly diagnosed disease
+  * Diagnosis of polycystic ovarian syndrome or endometriosis
+  * Healthy volunteer meeting all of the following criteria:
+
+    * No prior ovarian cancer (including invasive ovarian epithelial cancer, fallopian tube cancer, or primary papillary serous carcinoma of the peritoneum)
+    * No prior breast cancer (including ductal carcinoma in situ \[DCIS\])
+    * No prior ovarian or breast cancer (including DCIS) in any first- or second-degree relative
+    * BRCA1 or BRCA2 mutation negative (if known) OR no first- or second-degree relative with a BRCA1 or BRCA2 mutation (if known)
+* No prior diagnosis of cancer
+
+PATIENT CHARACTERISTICS:
+
+* Lives in California and close to the study sampling centers
+* Reads and writes English, Spanish, or Chinese
+* Non-smoker
+* Willing to provide breath samples
+* No alcohol intake within the past 3 days
+
+PRIOR CONCURRENT THERAPY:
+
+* At least 3 days since prior Cox-2 inhibitors, vitamin E, omega-3 fatty acids, antioxidants, bromelain, coenzyme Q10, curcumin, or vitamin A
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (4 trials)
+======================================================================
+
+**NCT02502266** - Testing the Combination of Cediranib and Olaparib in Comparison to Each Drug Alone or Other Chemotherapy in Recurrent Platinum-Resistant Ovarian Cance
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cediranib, Cediranib Maleate
+
+Biomarker Criteria:
+  - * Adequately controlled blood pressure (systolic blood pressure \[SBP\] =\< 140; diastolic blood pressure \[DBP\] =\< 90 mmHg) on maximum of three antihypertensive medications; patients must have a BP of =\< 140/90 mmHg taken in the clinic setting by a medical professional within 2 weeks prior to starting study; it is strongly recommended that patients who are on three antihypertensive medications be followed by a cardiologist or a primary care physician for management of BP while on protocol; patients must be willing and able to check and record daily blood pressure readings; blood pressure cuffs will be provided to patients randomized to cediranib alone and the combination of olaparib and cediranib arms (12/05/2016)
+* Adequately controlled thyroid function, with no symptoms of thyroid dysfunction and thyroid-stimulating hormone (TSH) within normal limits (12/05/2016)
+* Able to swallow and retain oral medications and without gastrointestinal (GI) illnesses that would preclude absorption of cediranib or olaparib
+* Age \>= 18 years
+* Cediranib has been shown to terminate fetal development in the rat, as expected for a process dependent on VEGF signaling; for this reason, women of child-bearing potential must have a negative pregnancy test prior to study entry; women of child-bearing potential must agree to use two reliable forms of contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 6 weeks after cediranib discontinuation; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately
+* Olaparib adversely affects embryofetal survival and development in the rat; for this reason, women of child-bearing potential must have a negative pregnancy test prior to study entry; women of child-bearing potential must agree to use must agree to use two reliable forms of contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, for the duration of study participation, and for 3 months after the last dose of olaparib; should a woman become pregnant or suspect she is pregnant while participating in this study, she should inform her treating physician immediately
+
+Exclusion Criteria:
+
+* Patients who have had chemotherapy or radiotherapy within 4 weeks (6 weeks for nitrosoureas or mitomycin C) of starting treatment or those who have not recovered from adverse events due to agents administered more than 4 weeks earlier; patients may not have had hormonal therapy within 2 weeks prior to entering the study; patients receiving raloxifene for bone health as per Food and Drug Administration (FDA) indication may remain on raloxifene absent other drug interactions (12/05/2016)
+* Any other investigational agents within the past 4 weeks
+* Prior treatment affecting the VEGF/VEGFR pathway or the angiopoietin pathway in the recurrent setting, including but not limited to thalidomide, bevacizumab, sunitinib, sorafenib, pazopanib, cediranib, nintedanib, and trebananib; bevacizumab used in the upfront setting in conjunction with chemotherapy and/or as maintenance to treat newly diagnosed disease will be allowed
+* Prior use of PARP-inhibitors
+* CA-125 only disease without Response Evaluation Criteria in Solid Tumors (RECIST) 1
+
+----------------------------------------------------------------------
+
+**NCT01995188** - A Study to Evaluate the Safety and Pharmacology of DNIB0600A in Participants With Platinum-Sensitive Ovarian Cancer or Non-Squamous Non-small Cell Lun
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Bevacizumab, Carboplatin
+
+Biomarker Criteria:
+  - * For participants with a documented epidermal growth factor receptor (EGFR) mutation or anaplastic lymphoma kinase (ALK) rearrangement, one additional line of non-cytotoxic prior treatment will be permitted provided the therapy is a targeted agent against the EGFR mutation or ALK rearrangement
+
+----------------------------------------------------------------------
+
+**NCT02179515** - Safety and Tolerability of a Modified Vaccinia Ankara (MVA)-Based Vaccine Modified to Express Brachyury and T-cell Costimulatory Molecules (MVA-Brachy
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MVA-brachyury- TRICOM
+
+Biomarker Criteria:
+  - There should be a minimum of 4 weeks from any prior chemotherapy, immunotherapy and/or radiation, with the exception of hormonal therapy for prostate and breast cancers, human epidermal growth factor receptor 2 (HER2)-directed therapy for HER2+ breast cancer (3+ immunohistochemistry (IHC) or fluorescence in situ hybridization (FISH+), and erlotinib in epidermal growth factor receptor (EGFR)-mutated lung cancer in the expansion cohort as detailed in section
+  - Subjects with epidermal growth factor receptor (EGFR)-mutated lung cancer may continue erlotinib if they have been on the drug for greater than or equal to 3 months with stable disease or a response
+
+----------------------------------------------------------------------
+
+**NCT02142803** - TORC1/2 Inhibitor MLN0128 and Bevacizumab in Treating Patients With Recurrent Glioblastoma or Advanced Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - 73 m\^2 for patients with creatinine level above institutional normal based either on Cockroft-Gault estimate or based on urine collection (12 or 24 hour)
+* Metabolic: fasting serum glucose (=\< 130 mg/dL) and fasting triglycerides =\< 300 mg/dL
+* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry, the duration of study participation and 6 months after completion of MLN 0128 or bevacizumab administration; should a woman become pregnant or suspect she is pregnant while she or her partner is participating in this study, she should inform her treating physician immediately; men treated or enrolled on this protocol must also agree to use adequate contraception prior to the study, for the duration of study participation, and 6 months after completion of MLN0128 or bevacizumab administration
+* Patients must have no concurrent malignancy except curatively treated basal or squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or bladder; patients with prior malignancies must be disease-free for \>= three years prior to registration
+* Solid tumor patients must be off corticosteroids prior to registration; if GBM patient is receiving corticosteroids, patient must be on a stable or decreasing dose of corticosteroids for at least 5 days prior to baseline magnetic resonance imaging (MRI) or computed tomography (CT); if steroids are added or the steroids dose is increased between the date of the screening MRI or CT and the start of treatment, a new baseline MRI or CT is required
+* Patients must be able to swallow whole capsules
+* Ability to understand and the willingness to sign a written informed consent document
+* For stage 2 GBM participants, a block of paraffin embedded tissue or 30 unstained slides at standard 4-5 um thickness from any prior surgery demonstrating GBM pathology must be available for submission
+* Stage 2 endometrial and ovarian cancer patients must have at least one lesion amenable to biopsy; this determination will be made by a member of the interventional radiology team or surgical associate investigator and an associate investigator; this requirement is not necessary for patients in stage 1
+* Solid tumor patients in stage 2 must have a diagnosis of papillary serous, endometrioid or clear cell endometrial carcinoma or, high grade serous, clear cell, endometrioid or mucinous ovarian, fallopian or primary peritoneal carcinoma
+
+Exclusion Criteria:
+
+* Concurrent administration of any other investigational agents
+* History of allergic reactions attributed to compounds of similar chemical or biologic composition to MLN0128 or bevacizumab
+* For all stage 2 participants, no prior treatment with mTOR, PI3 kinase or Akt inhibitors; prior treatment with mTOR, PI3 kinase or Akt inhibitors allowed in stage 1 only
+* For stage 2 GBM participants, no prior treatment with bevacizumab/vascular endothelial growth factor receptor (VEGFR) inhibitors; prior treatment with bevacizumab/VEGFR inhibitors is allowed in stage 1 for all participants, as well as stage 2 endometrial and ovarian cancer participants
+* Stage 1 solid tumor and stage 2 endometrial and ovarian cancer participants with known central nervous system (CNS) metastatic lesions which are symptomatic and/or growing; patients previously treated for these conditions that are asymptomatic in the absence of corticosteroid therapy are allowed to enroll; brain metastasis must be stable for 1 month with verification by imaging (brain MRI completed at screening demonstrating no current evidence of progressive brain metastases); CNS imaging will not be mandated for asymptomatic patients with no history of CNS metastases
+* Concurrent use of enzyme-inducing anti-epileptic drugs (EIAED); patients may be on non-enzyme inducing anti-epileptic drugs or not be taking any anti-epileptic drugs; patients previously treated with EIAED may be enrolled if they have been off the EIAED for 10 days or more prior to the first dose of MLN0128
+* Subjects taking strong cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) and cytochrome P450, family 2, subfamily C, polypeptide 19 (CYP2C19) inhibitors and/or inducers should be considered with caution; alternative treatments that are less likely to affect MLN0128 metabolism, if available, should be considered; if a subject requires treatment with 1 or more of the strong CYP3A4 and CYP2C19 inhibitors and/or inducers, the principal investigator should be consulted
+* Concurrent use of herbal supplements and other non-traditional medications; all herbal supplements and other non-traditional medications must be stopped before time of registration
+* Concurrent use of anti-coagulants (warfarin, etc
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (8 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Histologically or cytologically confirmed metastatic or advanced-stage solid malignant tumor or HR+/HER2- breast cancer
+  - Participants with solid tumors or HR+/HER2- breast cancer with AKT1 E17K mutations
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+**NCT05333328** - OFS in Premenopausal Node+ Breast Cancer With Low Genomic Risk
+Phase: PHASE4 | Status: RECRUITING
+Interventions: Ovarian function suppression with endocrine treatments
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* ER+HER2- breast cancer
+* Premenopausal and age \<=50
+* T1 or T2
+* N1 including micrometastasis
+* Genomic Low Risk by OncoFREE test® (1-20)
+
+Exclusion Criteria:
+
+* Postmenopausal women
+* ER-negative breast cancer
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: HS-10502
+
+Biomarker Criteria:
+  - For the phase Ib study:
+
+   Cohort B: patients with HRD positive recurrent ovarian cancer with failure or intolerance or not available to SoC Cohort C: patients with HRR gene mutation advanced Human epidermal growth factor receptor 2 (HER2)-negative breast cancer with failure or intolerance or not available to SoC Cohort D: patients with HRR gene mutation advanced pancreatic cancer with failure or intolerance or not available to SoC Cohort E: patients with HRR gene mutation mCRPC with failure or intolerance or not available to SoC Cohort F: patients with HRR gene mutation colorectal cancer with failure or intolerance or not available to SoC Cohort G: patients with other HRR gene mutation or HRD positive advanced solid tumors with failure or intolerance or not available to SoC
+5
+
+----------------------------------------------------------------------
+
+**NCT00028535** - Interleukin-12, Paclitaxel, and Trastuzumab in Treating Patients With Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: trastuzumab, paclitaxel
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically confirmed HER2/neu-overexpressing (2+ or 3+) malignancy by any standardized assay (fluorescence in-situ hybridization allowed)
+* Measurable or evaluable disease
+* Failed standard curative therapy
+* No brain or CNS metastasis
+* Hormone receptor status:
+
+  * Not specified
+* Male or female
+* Performance status - Karnofsky 70-100%
+* At least 6 months
+* Absolute neutrophil count at least 1,500/mm\^3
+* Hemoglobin at least 8 g/dL (transfusion or epoetin alfa allowed)
+* Platelet count at least 100,000/mm\^3
+* Bilirubin no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT02179515** - Safety and Tolerability of a Modified Vaccinia Ankara (MVA)-Based Vaccine Modified to Express Brachyury and T-cell Costimulatory Molecules (MVA-Brachy
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MVA-brachyury- TRICOM
+
+Biomarker Criteria:
+  - There should be a minimum of 4 weeks from any prior chemotherapy, immunotherapy and/or radiation, with the exception of hormonal therapy for prostate and breast cancers, human epidermal growth factor receptor 2 (HER2)-directed therapy for HER2+ breast cancer (3+ immunohistochemistry (IHC) or fluorescence in situ hybridization (FISH+), and erlotinib in epidermal growth factor receptor (EGFR)-mutated lung cancer in the expansion cohort as detailed in section
+  - Patients with Her2+ breast cancer receiving Her2-directed therapy (e
+
+----------------------------------------------------------------------
+
+**NCT00034281** - Safety and Tolerability Study of TAK-165 in Subjects With Tumors Expressing HER2
+Phase: PHASE1 | Status: COMPLETED
+Interventions: TAK-165
+
+Biomarker Criteria:
+  - * Have a histologically or cytologically proven diagnosis of a solid tumor known to express HER2
+
+----------------------------------------------------------------------
+
+**NCT04906395** - Ovarian Suppression Evaluating Subcutaneous Leuprolide Acetate in Breast Cancer
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: TOL2506, Tamoxifen
+
+Biomarker Criteria:
+  - Diagnosis of Stage I, II, or III HR+, HER2-negative breast cancer (ER\>1% and/or, PR\>1%, HER2-negative per ASCO CAP guidelines)
+4
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (3 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+**NCT06533059** - A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ALTA2618
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment with PI3K and/or mTOR inhibitors
+* Patients known to have KRAS, NRAS, HRAS, or BRAF genomic alterations in their tumor
+* Known condition that prohibits ability to swallow or absorb an oral medication
+
+Other inclusion/exclusion criteria may apply
+
+----------------------------------------------------------------------
+
+**NCT06253520** - Autologous T-cells Genetically Engineered to Express Receptors Reactive Against KRAS Mutations in Conjunction With a Vaccine Directed Against These An
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Aldesleukin, Fludarabine
+
+Biomarker Criteria:
+  - * INCLUSION CRITERIA:
+* Participants with an appropriate HLA match for available Surgery Branch KRAS TCRs with evaluable metastatic solid cancer (e
+  - , gastrointestinal, genitourinary, breast, ovarian, non-small cell lung cancer (NSCLC) and other solid cancers) with known KRAS G12V or G12D mutation
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (2 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: vudalimab
+
+Biomarker Criteria:
+  - Advanced endometrial carcinoma that is not microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) in patients who are not candidates for curative surgery or radiation, and that has progressed following treatment with no more than one prior line of systemic therapy and prior treatment with FDA-approved combination therapy consisting of a checkpoint inhibitor and a targeted agent
+  5
+
+----------------------------------------------------------------------
+
+**NCT06084416** - A Study of Sovilnesib in Subjects With Ovarian Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Sovilnesib
+
+Biomarker Criteria:
+  - Key Exclusion Criteria:
+
+* MSI-H, dMMR, POLE gene hotspot mutated, or known hypermutator phenotype
+* Endometrioid, clear cell, mucinous, sarcomatoid, low-grade/borderline ovarian tumor or mixed tumors containing any of the above histologies
+* Previously received KIF18A inhibitor
+* Current CNS metastases or leptomeningeal disease
+* Cardiac parameters: MI or stroke ≤ 6 months, unstable angina/PE/DVT/CABG ≤ 6 months, NYHA Class ≥ II, LVEF \< 50%
+* Any gastrointestinal condition (e
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (2 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+**NCT06533059** - A Study to Learn About Study Medicine ALTA2618 in Adults With AKT1 E17K-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ALTA2618
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment with PI3K and/or mTOR inhibitors
+* Patients known to have KRAS, NRAS, HRAS, or BRAF genomic alterations in their tumor
+* Known condition that prohibits ability to swallow or absorb an oral medication
+
+Other inclusion/exclusion criteria may apply
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (8 trials)
+======================================================================
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Pembrolizumab
+
+Biomarker Criteria:
+  - Prior treatment with an anti-PD1 or anti-PD-L1 antibody
+2
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with immunohistochemistry for PD-L1 with a combined positive score (CPS) of 10 or higher
+
+----------------------------------------------------------------------
+
+**NCT05116189** - Pembrolizumab/Placebo Plus Paclitaxel With or Without Bevacizumab for Platinum-resistant Recurrent Ovarian Cancer (MK-3475-B96/KEYNOTE-B96/ENGOT-ov65)
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Pembrolizumab, Paclitaxel
+
+Biomarker Criteria:
+  - Participants may have received a prior poly (ADP-ribose) polymerase inhibitor (PARPi), anti-PD-1/anti-PD-L1 therapy, bevacizumab, or hormonal therapy; these will not be considered a separate line of therapy
+
+----------------------------------------------------------------------
+
+**NCT03275506** - PEMBRO With Chemo in Neo Adj Treatment of Ovarian Cancer .
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Pembrolizumab Injectable Product - Chemotherapy - Bevacizumab, Chemotherapy - Bevacizumab
+
+Biomarker Criteria:
+  - Prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent
+
+----------------------------------------------------------------------
+
+**NCT04644289** - WoO: Window of Opportunity Trial of Olaparib and Durvalumab in Histologically Proven EOC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: olaparib, durvalumab
+
+Biomarker Criteria:
+  - Patients who have received prior anti-programmed cell death-protein 1(PD-1), anti PD-L1 or anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4):
+
+    1
+
+----------------------------------------------------------------------
+
+**NCT05293496** - A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: vobramitamab duocarmazine, lorigerlimab
+
+Biomarker Criteria:
+  - * Participants who have a history of severe adverse events (AEs) from immune checkpoint inhibitors (anti-PD-1, anti-PD-L1, or CTLA-4 inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT05075993** - Study of LVGN3616 and LVGN6051±LVGN7409 in Combination With Nab-Paclitaxel or Bevacizumab and Cyclophosphamide in Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: LVGN3616 + LVGN6051 + Nab-Paclitaxel, LVGN3616 + LVGN6051 + Bevacizumab + Cyclophosphamide
+
+Biomarker Criteria:
+  - However, prior immunotherapy with anti-PD1/PD-L1 plus a CD137 agonist or a CD40 agonist is not allowed
+
+----------------------------------------------------------------------
+
+**NCT04834544** - A Study of Maintenance DCVAC/OvCa After First-line Chemotherapy Added Standard of Care
+Phase: PHASE2 | Status: RECRUITING
+Interventions: DCVAC/OvCa, Placebo
+
+Biomarker Criteria:
+  - , anti-PD-1/PD-L1 or other immune checkpoint inhibitors, therapeutic vaccines, adoptive cell therapy, cytokines); in case of uncertainty, discuss with the medical monitor
+9
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (1 trials)
+======================================================================
+
+**NCT03917043** - APG-2449 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: APG-2449
+
+Biomarker Criteria:
+  - Dose exploration stage: non-small cell lung cancer diagnosed by histology and/or cytology and positive for ALK/ROS1 gene fusion (molecular diagnosis confirmed by the investigator) and malignant pleural mesothelioma, esophageal cancer and ovarian cancer
+  - Expansion stage: cohort 1, patients with non-small cell lung cancer who have progressed or are intolerant to TKI therapy, including patients with second-generation ALK TKI, or either ROS1 TKI, or third-generation ALK inhibitor (lorlatinib, etc
+  - ) with pFAK expression (pFAK expression is subject to central laboratory results) of about 10 or above; Cohort 2, TKI-naïve patients with ALK/ROS1 fusion gene positive NSCLC
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (2 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: vudalimab
+
+Biomarker Criteria:
+  - Advanced endometrial carcinoma that is not microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) in patients who are not candidates for curative surgery or radiation, and that has progressed following treatment with no more than one prior line of systemic therapy and prior treatment with FDA-approved combination therapy consisting of a checkpoint inhibitor and a targeted agent
+  5
+
+----------------------------------------------------------------------
+
+**NCT06084416** - A Study of Sovilnesib in Subjects With Ovarian Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Sovilnesib
+
+Biomarker Criteria:
+  - Key Exclusion Criteria:
+
+* MSI-H, dMMR, POLE gene hotspot mutated, or known hypermutator phenotype
+* Endometrioid, clear cell, mucinous, sarcomatoid, low-grade/borderline ovarian tumor or mixed tumors containing any of the above histologies
+* Previously received KIF18A inhibitor
+* Current CNS metastases or leptomeningeal disease
+* Cardiac parameters: MI or stroke ≤ 6 months, unstable angina/PE/DVT/CABG ≤ 6 months, NYHA Class ≥ II, LVEF \< 50%
+* Any gastrointestinal condition (e
+
+----------------------------------------------------------------------
+

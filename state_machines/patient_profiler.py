@@ -142,7 +142,7 @@ class ExtractDemographicsState(State):
             if ecog_match:
                 demographics['ecog'] = int(ecog_match.group(1))
         
-        print(f"✓ Extracted demographics: {demographics}")
+        print(f"[+] Extracted demographics: {demographics}")
         
         return {
             "demographics": demographics,

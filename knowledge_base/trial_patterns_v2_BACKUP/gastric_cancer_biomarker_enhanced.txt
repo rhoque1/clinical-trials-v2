@@ -1,0 +1,981 @@
+# Enhanced Biomarker-Specific Trials: Gastric Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 165
+
+
+======================================================================
+## ALK (15 trials)
+======================================================================
+
+**NCT00909402** - A Study of BMS-833923 With Cisplatin and Capecitabine in Inoperable, Metastatic Gastric, Gastroesophageal, or Esophageal
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 39
+Interventions: BMS-833923, Cisplatin
+Locations: 6 sites
+Primary Outcome: Use National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) to establ
+
+----------------------------------------------------------------------
+
+**NCT00040859** - Oxaliplatin and Capecitabine in Treating Patients With Advanced Esophageal Cancer or Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 48
+Interventions: capecitabine, oxaliplatin
+Locations: 6 sites
+Primary Outcome: Objective tumor response rate
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT00192088** - A Study of Pemetrexed Plus Oxaliplatin as First Line Therapy in Advanced Gastric Carcinoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 43
+Interventions: pemetrexed, oxaliplatin
+Locations: 13 sites
+Primary Outcome: The primary objective of this study is to determine the response rate of Pemetrexed plus oxaliplatin
+
+----------------------------------------------------------------------
+
+**NCT00004873** - Combination Chemotherapy in Treating Patients With Advanced Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: cisplatin, docetaxel
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT00525005** - Docetaxel, Oxaliplatin and S-1 (DOS) for Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 44
+Interventions: DOS (Docetaxel, Oxaliplatin and S-1)
+Locations: 2 sites
+Primary Outcome: overall response rate
+
+----------------------------------------------------------------------
+
+**NCT05029102** - TAS-102 and Anlotinib in ≥3 Lines mGC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 45
+Interventions: TAS 102, Anlotinib
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT06419140** - Multimodal Rehabilitation on Gastric Adenocarcinoma Patients Following Radical D2 Gastrectomy
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Standard SOX/XELOX adjuvant chemotherapy plus multimodal rehabilitation
+Locations: 1 sites
+Primary Outcome: Adjuvant chemotherapy completion rate
+
+----------------------------------------------------------------------
+
+**NCT01471470** - Efficacy of Docetaxel, Capecitabine, Cisplatin, and Bevacizumab in Patients With Unresectable Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 31
+Interventions: Docetaxel, Capecitabine, Cisplatin, Bevacizumab
+Locations: 1 sites
+Primary Outcome: R0 resection rate
+
+----------------------------------------------------------------------
+
+**NCT01045538** - Study of Vorinostat Plus Capecitabine (X) and Cisplatin (P) for 1st Line Treatment of Metastatic or Recurrent Gastric Ca
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 45
+Interventions: Vorinostat, capecitabine, and cisplatin
+Locations: 1 sites
+Primary Outcome: Phase 1 - maximum tolerated dose, Phase 2 - response rate
+
+----------------------------------------------------------------------
+
+**NCT00533533** - A Phase I/II Trial of Docetaxel and Oxaliplatin in Patients With Advanced Gastric Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 68
+Interventions: docetaxel, oxaliplatin
+Locations: 1 sites
+Primary Outcome: To define the dose-limiting toxicity and maximum tolerated dose in phase I study To evaluate the ove
+
+----------------------------------------------------------------------
+
+**NCT04223401** - Prehabilitation for Gastrectomy
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 128
+Interventions: Prehabilitation
+Locations: 2 sites
+Primary Outcome: Postoperative morbidity rate by Clavien-Dindo
+
+----------------------------------------------------------------------
+
+**NCT00811447** - Taxotere New Indication - Gastric Cancer Treatment Registration Trial
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 243
+Interventions: 5-fluorouracil, Cisplatin
+Locations: 1 sites
+Primary Outcome: Time to progression
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 497
+Interventions: APL-101 Oral Capsules
+Locations: 35 sites
+Primary Outcome: Objective response rate (ORR = CR + PR) per IRC committee (BIRC) based on RECIST v1.1 (or relevant c
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (163 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 67
+Interventions: SHR-1210, Capecitabine
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR) Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1
+
+----------------------------------------------------------------------
+
+**NCT00003237** - Combination Chemotherapy After Surgery in Treating Patients With Cancer of the Esophagus or Stomach
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 55
+Interventions: cisplatin, paclitaxel
+Locations: 30 sites
+
+----------------------------------------------------------------------
+
+**NCT06940102** - Real-World Study on Nano-Crystalline Megestrol Acetate for Cachexia in TKI-Treated Advanced Digestive Tumors
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 120
+Interventions: Nano-crystalline Megestrol Acetate Oral Suspension, TKI-Based Therapy
+Locations: 2 sites
+Primary Outcome: Appetite improvement level
+
+----------------------------------------------------------------------
+
+**NCT00596401** - The Preventive Effect of Helicobacter Pylori Eradication on the Development of Gastric Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 3000
+Locations: 1 sites
+Primary Outcome: the annual incidence of gastric cancer in Iijima town
+
+----------------------------------------------------------------------
+
+**NCT04882241** - Study of Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy in Participants With Gastric or Gast
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Pembrolizumab, Placebo
+Locations: 20 sites
+Primary Outcome: Event-free Survival (EFS) Per Response Criteria in Solid Tumors Version 1.1 (RECIST 1.1) - Pembroliz
+
+----------------------------------------------------------------------
+
+**NCT00909402** - A Study of BMS-833923 With Cisplatin and Capecitabine in Inoperable, Metastatic Gastric, Gastroesophageal, or Esophageal
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 39
+Interventions: BMS-833923, Cisplatin
+Locations: 6 sites
+Primary Outcome: Use National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) to establ
+
+----------------------------------------------------------------------
+
+**NCT02366819** - Genetic Analysis-Guided Irinotecan Hydrochloride Dosing of mFOLFIRINOX in Treating Patients With Locally Advanced Gastro
+Phase: PHASE4 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 36
+Interventions: Oxaliplatin, Leucovorin Calcium
+Locations: 3 sites
+Primary Outcome: R0 (analysis will be performed evaluating the R0 rate)
+
+----------------------------------------------------------------------
+
+**NCT03154190** - Health Care Coach Support in Reducing Acute Care Use and Cost in Patients With Cancer
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 128
+Interventions: Best Practice, Laboratory Biomarker Analysis
+Locations: 1 sites
+Primary Outcome: Number of Emergency Department Visits (Chart Review)
+
+----------------------------------------------------------------------
+
+**NCT03504397** - A Study to Compare Zolbetuximab (IMAB362) and Chemotherapy With Placebo and Chemotherapy in Adults With Gastric Cancer.
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 565
+Interventions: zolbetuximab, placebo
+Locations: 220 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06735105** - Study on the Value of Three DWI Scanning Sequences in Staging of Gastric Cancer
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 129
+Interventions: Scanning parameter
+Locations: 1 sites
+Primary Outcome: T staging of gastric cancer
+
+----------------------------------------------------------------------
+
+**NCT06310473** - Neoadjuvant Cadonilimab Plus Chemotherapy for Locally Advanced Esophagogastric Junction and Gastric Cancer Trial
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Cadonilimab, Oxaliplatin
+Locations: 1 sites
+Primary Outcome: Pathologic complete remission rate (pCR)
+
+----------------------------------------------------------------------
+
+**NCT02494583** - Study of Pembrolizumab (MK-3475) as First-Line Monotherapy and Combination Therapy for Treatment of Advanced Gastric or 
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 763
+Interventions: Pembrolizumab, Cisplatin
+Primary Outcome: Pembro Combo vs SOC: Progression Free Survival (PFS) Per Response Evaluation Criteria in Solid Tumor
+
+----------------------------------------------------------------------
+
+**NCT00150670** - Randomized Phase III Study of TS-1 Alone Versus TS-1 Plus CDDP in Advanced Gastric Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 300
+Interventions: TS-1 and cisplatin, TS-1
+Locations: 1 sites
+Primary Outcome: Overall survival
+
+----------------------------------------------------------------------
+
+**NCT05930860** - Efficacy and Safety of ESD for the Treatment of Superficial Gastric Neoplasms
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 200
+Interventions: Endoscopic Submucosal Dissection
+Locations: 1 sites
+Primary Outcome: En bloc resection rate
+
+----------------------------------------------------------------------
+
+**NCT01364324** - Pharmacokinetics of Anti-tuberculosis Drugs in Gastrectomized Patients
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 40
+Interventions: standard first line anti-TB drugs
+Locations: 1 sites
+Primary Outcome: The change in the maximum concentration (Cmax) of first-line TB drugs
+
+----------------------------------------------------------------------
+
+**NCT01234324** - ECX + Panitumumab vs. ECX Alone in Locally Advanced Gastric Cancer or Cancer of the Gastroesophageal Junction
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 171
+Interventions: Epirubicin, Cisplatin, Capecitabine, Panitumumab, Epirubicin, Cisplatin, Capecitabine
+Locations: 1 sites
+Primary Outcome: Frequency of pT3/T4 categories after surgery
+
+----------------------------------------------------------------------
+
+**NCT00040859** - Oxaliplatin and Capecitabine in Treating Patients With Advanced Esophageal Cancer or Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 48
+Interventions: capecitabine, oxaliplatin
+Locations: 6 sites
+Primary Outcome: Objective tumor response rate
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastat
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 130
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+Locations: 9 sites
+Primary Outcome: Number of Patients with Dose-limiting Toxicities
+
+----------------------------------------------------------------------
+
+**NCT00598546** - Quality of Life Among Long-Term Survivors of Resected Gastric Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 212
+Interventions: EORTC QLQ-C30, QLQ-STO22, and MSK-10
+Locations: 1 sites
+Primary Outcome: Instrument: EORTC QLQ-C30, QLQ-STO22, and MSK-10. The intent of this study is to assess QOL in long-
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (4 trials)
+======================================================================
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT02331914** - GIST: Assessment of Tumor Mutations and TKI Plasma Exposure
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 740
+Interventions: Vena puncture for blood collection, Tumor biopsy
+Locations: 5 sites
+Primary Outcome: Secondary GIST mutations in circulating tumor DNA of patients with progressive disease on TKI treatm
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 497
+Interventions: APL-101 Oral Capsules
+Locations: 35 sites
+Primary Outcome: Objective response rate (ORR = CR + PR) per IRC committee (BIRC) based on RECIST v1.1 (or relevant c
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (14 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 67
+Interventions: SHR-1210, Capecitabine
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR) Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1
+
+----------------------------------------------------------------------
+
+**NCT01234324** - ECX + Panitumumab vs. ECX Alone in Locally Advanced Gastric Cancer or Cancer of the Gastroesophageal Junction
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 171
+Interventions: Epirubicin, Cisplatin, Capecitabine, Panitumumab, Epirubicin, Cisplatin, Capecitabine
+Locations: 1 sites
+Primary Outcome: Frequency of pT3/T4 categories after surgery
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT01512745** - Phase III Study of Apatinib Tablets in the Treatment of Advanced or Metastatic Gastric Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 267
+Interventions: apatinib, placebo
+Locations: 2 sites
+Primary Outcome: Progression Free Survival(PFS)
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TU
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 273
+Interventions: No Interventions
+Locations: 1 sites
+Primary Outcome: disease free survival
+
+----------------------------------------------------------------------
+
+**NCT04891900** - TQB2450 Plus Anlotinib Combined With Chemotherapy in the Treatment of Gastric or Gastroesophageal Junction Adenocarcinom
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: TQB2450/Anlotinib hydrochloride/Oxaliplatin/Capecitabine
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT01983878** - A Study of Ramucirumab in Treating Japanese Participants With Metastatic Gastric or Gastroesophageal Junction Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 36
+Interventions: Ramucirumab
+Locations: 11 sites
+Primary Outcome: Percentage of Participants Who Are Progression-Free at 12 Weeks (Progression-Free Survival [PFS] Rat
+
+----------------------------------------------------------------------
+
+**NCT04276493** - Anti-HER2 Bispecific Antibody Zanidatamab (ZW25) Activity in Combination With Chemotherapy With/Without Tislelizumab
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 71
+Interventions: Zanidatamab, Docetaxel
+Locations: 21 sites
+Primary Outcome: Number of Participants experiencing Adverse Events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT03081143** - Ramucirumab Plus FOLFIRI Versus Ramucirumab Plus Paclitaxel in Patients with Advanced or Metastatic Gastric Cancer, Who 
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 429
+Interventions: FOLFIRI, Ramucirumab
+Locations: 16 sites
+Primary Outcome: OS Rate at 6 months primary endpoint for phase II
+
+----------------------------------------------------------------------
+
+**NCT00215995** - Cisplatin and Irinotecan Chemotherapy, Followed by ZD 1839 (Iressa) in Patients With Esophageal or Gastric Carcinomas
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 21
+Interventions: Cisplatin, Irinotecan
+Locations: 3 sites
+Primary Outcome: Number of Participants With Desired Response
+
+----------------------------------------------------------------------
+
+**NCT05122091** - Fruquintinib Plus SOX as Neoadjuvant Therapy for Locally Advanced Gastric Adenocarcinoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 53
+Interventions: Fruquintinib + SOX
+Locations: 1 sites
+Primary Outcome: Pathological remission rate (PRR)
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 497
+Interventions: APL-101 Oral Capsules
+Locations: 35 sites
+Primary Outcome: Objective response rate (ORR = CR + PR) per IRC committee (BIRC) based on RECIST v1.1 (or relevant c
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (42 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 67
+Interventions: SHR-1210, Capecitabine
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR) Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1
+
+----------------------------------------------------------------------
+
+**NCT02366819** - Genetic Analysis-Guided Irinotecan Hydrochloride Dosing of mFOLFIRINOX in Treating Patients With Locally Advanced Gastro
+Phase: PHASE4 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 36
+Interventions: Oxaliplatin, Leucovorin Calcium
+Locations: 3 sites
+Primary Outcome: R0 (analysis will be performed evaluating the R0 rate)
+
+----------------------------------------------------------------------
+
+**NCT03504397** - A Study to Compare Zolbetuximab (IMAB362) and Chemotherapy With Placebo and Chemotherapy in Adults With Gastric Cancer.
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 565
+Interventions: zolbetuximab, placebo
+Locations: 220 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06310473** - Neoadjuvant Cadonilimab Plus Chemotherapy for Locally Advanced Esophagogastric Junction and Gastric Cancer Trial
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Cadonilimab, Oxaliplatin
+Locations: 1 sites
+Primary Outcome: Pathologic complete remission rate (pCR)
+
+----------------------------------------------------------------------
+
+**NCT02494583** - Study of Pembrolizumab (MK-3475) as First-Line Monotherapy and Combination Therapy for Treatment of Advanced Gastric or 
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 763
+Interventions: Pembrolizumab, Cisplatin
+Primary Outcome: Pembro Combo vs SOC: Progression Free Survival (PFS) Per Response Evaluation Criteria in Solid Tumor
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT05970627** - Perioperative Chemotherapy Plus Toripalimab for Epstein-Barr Virus-associated Locally Advanced Gastric or Esophagogastri
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Toripalimab, Oxaliplatin
+Locations: 8 sites
+Primary Outcome: Rate of pathological complete responses (pCR)
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT06253871** - A Phase 1/1b Study of IAM1363 in HER2 Cancers
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 243
+Interventions: IAM1363
+Locations: 12 sites
+Primary Outcome: Incidence and severity of dose limiting toxicities (DLTs) (Part 1 only)
+
+----------------------------------------------------------------------
+
+**NCT03925974** - KN026 in Patients With HER2 Expressing Gastric/Gastroesophageal Junction Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 45
+Interventions: KN026 10 mg/kg QW, KN026 20 mg/kg Q2W
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05702229** - Novel Combinations in Participants With Locally Advanced Unresectable or Metastatic Gastric or Gastroesophageal Junction
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Rilvegostomig, Volrustomig
+Locations: 44 sites
+Primary Outcome: ORR (per RECIST 1.1 as assessed by Investigator)
+
+----------------------------------------------------------------------
+
+**NCT06730373** - First-line Treatment With RC48 Plus Sintilimab and S-1 in Advanced Gastric Cancer (RCTS2)
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 110
+Interventions: Disitamab Vedotin, Sintilimab
+Locations: 20 sites
+Primary Outcome: Objective remission rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 24
+Interventions: trastuzumab, tipifarnib
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+**NCT05894824** - T-Dxd in Combination With Ramucirumab as HER2 Low Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 58
+Interventions: T-Dxd(Trastuzmab deruxtecan), Ramucirumab
+Locations: 1 sites
+Primary Outcome: RP2D
+
+----------------------------------------------------------------------
+
+**NCT04808791** - iTTo for Treatment Naive Advanced Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 7
+Interventions: Irinotecan, Oxaliplatin
+Locations: 1 sites
+Primary Outcome: The number of participants who complete at least 2 cycles of iTTo for the treatment of advanced gast
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TU
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 273
+Interventions: No Interventions
+Locations: 1 sites
+Primary Outcome: disease free survival
+
+----------------------------------------------------------------------
+
+**NCT06881017** - Establishment of Precision Targeted Therapy Strategies for Advanced Gastric Cancer Based on Novel Molecular Subtyping
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 140
+Interventions: Trastuzumab, Adebrelimab
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT06224738** - Human HER2-targeted Macrophages Therapy for HER2-positive Advanced Gastric Cancer With Peritoneal Metastases
+Phase: EARLY_PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 9
+Interventions: human HER2-targeted CAR-M cells
+Locations: 1 sites
+Primary Outcome: Adverse effects
+
+----------------------------------------------------------------------
+
+**NCT00028535** - Interleukin-12, Paclitaxel, and Trastuzumab in Treating Patients With Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 18
+Interventions: trastuzumab, paclitaxel
+Locations: 1 sites
+Primary Outcome: MTD of IL-12, defined as the dose level one level beneath that dose at which 2 or more of 6 patients
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (2 trials)
+======================================================================
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TU
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 273
+Interventions: No Interventions
+Locations: 1 sites
+Primary Outcome: disease free survival
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 497
+Interventions: APL-101 Oral Capsules
+Locations: 35 sites
+Primary Outcome: Objective response rate (ORR = CR + PR) per IRC committee (BIRC) based on RECIST v1.1 (or relevant c
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (3 trials)
+======================================================================
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT07007182** - Conversion Therapy Plus Surgery and Radiotherapy for Retroperitoneal Nodal Metastases in Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: SOX regimen, CAPEOX regimen
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (21 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 67
+Interventions: SHR-1210, Capecitabine
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR) Per Response Evaluation Criteria in Solid Tumors (RECIST) Version 1.1
+
+----------------------------------------------------------------------
+
+**NCT04882241** - Study of Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy in Participants With Gastric or Gast
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 120
+Interventions: Pembrolizumab, Placebo
+Locations: 20 sites
+Primary Outcome: Event-free Survival (EFS) Per Response Criteria in Solid Tumors Version 1.1 (RECIST 1.1) - Pembroliz
+
+----------------------------------------------------------------------
+
+**NCT02494583** - Study of Pembrolizumab (MK-3475) as First-Line Monotherapy and Combination Therapy for Treatment of Advanced Gastric or 
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 763
+Interventions: Pembrolizumab, Cisplatin
+Primary Outcome: Pembro Combo vs SOC: Progression Free Survival (PFS) Per Response Evaluation Criteria in Solid Tumor
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT06881017** - Establishment of Precision Targeted Therapy Strategies for Advanced Gastric Cancer Based on Novel Molecular Subtyping
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 140
+Interventions: Trastuzumab, Adebrelimab
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05078047** - Study Comparing the Standard Administration of IO Versus the Same IO Administered Each 3 Months in Patients in Response 
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 646
+Interventions: Reduced dose intensity of IO
+Locations: 40 sites
+Primary Outcome: Progression-free survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT07092449** - Pucotenlimab Combined With Chemotherapy as Perioperative Treatment for Locally Advanced Gastroesophageal Junction Carcin
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Neoadjuvant chemo-immunotherapy
+Primary Outcome: pCR
+
+----------------------------------------------------------------------
+
+**NCT05075993** - Study of LVGN3616 and LVGN6051±LVGN7409 in Combination With Nab-Paclitaxel or Bevacizumab and Cyclophosphamide in Metast
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 352
+Interventions: LVGN3616 + LVGN6051 + Nab-Paclitaxel, LVGN3616 + LVGN6051 + Bevacizumab + Cyclophosphamide
+Locations: 1 sites
+Primary Outcome: To establish the maximum tolerated dose (MTD)/recommended.
+
+----------------------------------------------------------------------
+
+**NCT05025033** - Chemotherapy Combined With Apatinib and PD-1 Antibody
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: PD-1 antibody, paclitaxel or irinotecan, Apatinib mesylate
+Locations: 1 sites
+Primary Outcome: The Overall Response Rate
+
+----------------------------------------------------------------------
+
+**NCT07007182** - Conversion Therapy Plus Surgery and Radiotherapy for Retroperitoneal Nodal Metastases in Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: SOX regimen, CAPEOX regimen
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT04891900** - TQB2450 Plus Anlotinib Combined With Chemotherapy in the Treatment of Gastric or Gastroesophageal Junction Adenocarcinom
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: TQB2450/Anlotinib hydrochloride/Oxaliplatin/Capecitabine
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT05365581** - A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 398
+Interventions: ASP2138, Pembrolizumab
+Locations: 43 sites
+Primary Outcome: Incidence of Dose Limiting Toxicities (DLTs) (Phase 1 Dose Escalation)
+
+----------------------------------------------------------------------
+
+**NCT06427252** - The Efficacy and Safety of HIPEC Combined With PD-1 and SOX Chemotherapy for the Translational Treatment of GC or EGJC W
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: HIPEC, Systemic therapy
+Locations: 1 sites
+Primary Outcome: Overall Survival
+
+----------------------------------------------------------------------
+
+**NCT04276493** - Anti-HER2 Bispecific Antibody Zanidatamab (ZW25) Activity in Combination With Chemotherapy With/Without Tislelizumab
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 71
+Interventions: Zanidatamab, Docetaxel
+Locations: 21 sites
+Primary Outcome: Number of Participants experiencing Adverse Events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT06485271** - A Real-world Study of Camrelizumab Alone or in Combination With Apatinib/Chemotherapy for Advanced Gastric Cancer
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 504
+Interventions: Camrelizumab, apatinib
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT05028933** - IMC001 for Clinical Research on Advanced Digestive System Malignancies
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: EPCAM CAR-T
+Locations: 2 sites
+Primary Outcome: Dose limited toxicity （DLT）
+
+----------------------------------------------------------------------
+
+**NCT06555471** - A Single-arm, Phase II Exploratory Study of Sintilimab in Combination With Chemoradiotherapy in Elderly Patients With Lo
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Sintilimab, S-1
+Locations: 1 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT07033143** - Evaluation of the Efficacy and Safety of Adebrelimab Combined With SOX as Adjuvant Therapy for IIIB and IIIC Gastric Can
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Adebrelimab+SOX
+Primary Outcome: 3-year-DFS rate
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT01613950** - PI3K Inhibitor BYL719 in Combination With the HSP90 Inhibitor AUY922 in Patients With Advanced or Metastatic Gastric Can
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 18
+Interventions: AUY922, BYL719
+Locations: 9 sites
+Primary Outcome: Incidence rate of Dose Limiting Toxicities.
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (1 trials)
+======================================================================
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 497
+Interventions: APL-101 Oral Capsules
+Locations: 35 sites
+Primary Outcome: Objective response rate (ORR = CR + PR) per IRC committee (BIRC) based on RECIST v1.1 (or relevant c
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TMB-H (1 trials)
+======================================================================
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (3 trials)
+======================================================================
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT07007182** - Conversion Therapy Plus Surgery and Radiotherapy for Retroperitoneal Nodal Metastases in Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: SOX regimen, CAPEOX regimen
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+

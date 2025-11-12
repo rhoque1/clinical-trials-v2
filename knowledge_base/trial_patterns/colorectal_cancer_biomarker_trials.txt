@@ -1,0 +1,1653 @@
+# Biomarker-Specific Trials: Colorectal Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 110
+
+
+======================================================================
+## ALK (19 trials)
+======================================================================
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - 5X ULN (unless documented liver metastases where ≤ 5X ULN is permitted),
+   * ALK ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00149396** - Safety & Efficacy of NV1020 in Colorectal Cancer Metastatic to the Liver
+Phase: PHASE1 | Status: COMPLETED
+Interventions: NV1020
+
+Biomarker Criteria:
+  - 5 times ULN
+   * Alkaline phosphatase \> 2
+
+----------------------------------------------------------------------
+
+**NCT02191969** - Physical Activity Intervention for Older Patients During Chemotherapy for Colorectal Cancer
+Phase: NA | Status: COMPLETED
+Interventions: Walk With Ease
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* ≥ Age 60 years (no upper age limit)
+* Diagnosis of stage II-III colon or rectal cancer planned for treatment with adjuvant chemotherapy scheduled as part of standard treatment
+* Able to read English (required for CGA and other surveys administered)
+* Approval from their treating physician to engage in moderate-intensity physical activity
+* Patient-assessed ability to walk and engage in moderate physical activity
+* Signed, IRB-approved written informed consent
+
+Exclusion Criteria:
+
+* Other active, invasive malignancy requiring ongoing therapy or expected to require systemic therapy
+* Already walking or engaging in other physical activity \>120 minutes per week as documented via subject self-report
+* Unable to walk or engage in moderate-intensity physical activity
+* One or more significant medical conditions that in the physician's judgment preclude participation in the walking intervention
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Signatera test, mFOLFOX6 3-6 month
+
+Biomarker Criteria:
+  - Adequate hepatic function within 28 days before Step 1/Study entry defined as follows:
+
+* total bilirubin must be less than or equal to ULN (upper limit of normal) for the lab and
+* alkaline phosphatase must be less than 2
+  - Adequate hepatic function within 28 days before second randomization defined as follows:
+
+* total bilirubin must be less than or equal to ULN (upper limit of normal) for the lab and
+* alkaline phosphatase must be less than 2
+
+----------------------------------------------------------------------
+
+**NCT00230646** - Promoting Physical Activity After Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Exercise counseling
+
+Biomarker Criteria:
+  - 3) \<2 years since treatment completion, 4) able to read and speak English, 5) provide consent for medical chart review, 6) able to walk unassisted, 7) sedentary which will be defined as: currently not exercising for \>30 mins
+
+----------------------------------------------------------------------
+
+**NCT03152370** - Preoperative Radiotherapy and E7046 in Rectum Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: E7046, Long Course Chemoradiotherapy (LCRT)
+
+Biomarker Criteria:
+  - 5 × ULN except for unconjugated hyperbilirubinemia or Gilbert's syndrome
+  * Alkaline phosphatase, alanine aminotransferase (ALT), and aspartate aminotransferase (AST) ≤2
+
+----------------------------------------------------------------------
+
+**NCT02086656** - PERIOPERATIVE TREATMENT WITH COI-B (CAPECITABINE, OXALIPLATIN, IRINOTECAN AND BEVACIZUMAB) OF HIGH RISK OR BORDERLINE RESECTABLE COLORECTAL CANCER LIV
+Phase: PHASE2 | Status: COMPLETED
+Interventions: capecitabine, oxaliplatin, irinotecan and bevacizumab
+
+Biomarker Criteria:
+  - 5 times the ULN, alkaline phosphatase, aspartate transaminase, and alanine transaminase \< 2
+
+----------------------------------------------------------------------
+
+**NCT00972881** - Capecitabine, Irinotecan Hydrochloride, Cetuximab, and Radiation Therapy in Treating Patients Undergoing Surgery for Locally Advanced Rectal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: cetuximab, capecitabine
+
+Biomarker Criteria:
+  - 25 times upper limit of normal (ULN)
+* Serum transaminase(s) \< 3 times ULN
+* Serum alkaline phosphatase \< 5 times ULN
+* Estimated glomerular filtration rate \> 50 mL/min
+* Not pregnant or nursing
+* Fertile patients must use effective contraception
+* Fit to receive all study treatments
+* Able to comply with oral medication
+* No comorbidity or coagulation problem that would deem the patient unsuitable for surgery
+* No pre-existing condition that would preclude radiotherapy (e
+
+----------------------------------------------------------------------
+
+**NCT01187901** - A Clinical Trial of COX and EGFR Inhibition in Familial Polyposis Patients
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Erlotinib, Sulindac
+
+Biomarker Criteria:
+  - alkaline phosphatase elevation \> 1
+
+----------------------------------------------------------------------
+
+**NCT06876961** - Effect of Arm Cycling Exercise on Pulmonary Functions After Colectomy In Elderly
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: Arm cycling exercise, The traditional physical therapy program
+
+Biomarker Criteria:
+  - Karnofsky Performance Status \> 60 and able to walk ≥ 60 m
+
+----------------------------------------------------------------------
+
+**NCT06857773** - Induction Treatment for Initially Unresectable Colorectal Liver Metastases: Combined Hepatic Arterial Infusion Pump Therapy With Systemic Therapy
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Intra arterial infusion Floxuridine (FUDR) combined with systemic therapy, Hepatic arterial infusion pump (HAIP)
+
+Biomarker Criteria:
+  - 5 times the upper limit of normal (ULN)
+  * ASAT/AST ≤ 5 x ULN
+  * ALAT/ALT ≤ 5 x ULN
+  * alkaline phosphatase ≤ 5 x ULN
+  * Serum creatinine ≤ 1
+
+----------------------------------------------------------------------
+
+**NCT00599924** - Study Of Sunitinib Plus FOLFOX In Patients With Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: sunitinib + FOLFOX, sunitinib + FOLFOX
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Advanced solid tumor malignancy (during expansion at the maximum tolerated dose, entry will be limited to patients wtih adenocarcinoma of the colon or rectum)
+* Eastern Cooperative Oncology Group (ECOG) 0 or 1
+
+Exclusion Criteria:
+
+* Prior treatment with more than 6 cycles of traditional alkylating agent-based chemotherapy regimens
+* Prior treatment with more than 2 cycles of carboplating-based chemotherapy regimens
+* For colorectal cancer patients in the expanded cohorts, prior treatment with more than 2 systemic chemotherapy regimens in the metastatic setting
+
+----------------------------------------------------------------------
+
+**NCT01878422** - Sequential Treatment Strategy for Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Arm A: FOLFIRI or FOLFOX + Bevacizumab, Arm B: FOLFIRI or FOLFOX
+
+Biomarker Criteria:
+  - 5 x upper limit of normal (ULN),alkaline phosphatase, aspartate aminotransferase (AST(SGOT)) and alanine aminotransferase (ALT(SGPT)) ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00242788** - IRESSA™ In Combo With Xeloda™ in Advanced Colorectal Cancer Patients After 1st-Line Chemo Failure
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Gefitinib and capecitabine
+
+Biomarker Criteria:
+  - 25 times the ULRR Creatinine clearance below 30 mL/min (Cockroft and Gault) Alkaline phosphatase (ALP) greater than 5 times the ULRR or greater than 20 times the ULRR in subjects with known bone metastasesAlanine aminotransferase (ALT) or aspartate aminotransferase (AST) greater than 2
+
+----------------------------------------------------------------------
+
+**NCT06107920** - Neoadjuvant Chemotherapy for Obstructive Colon cancER First Treated by cOlostomy
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Interventions: Neoadjuvant chemotherapy
+
+Biomarker Criteria:
+  - 109 / L, Hemoglobin ≥ 9 g/dL (5,6 mmol/L), Total bilirubin ≤ 1,5 x ULN (upper limit of normal), ASAT and ALAT ≤ 2,5 x ULN, Alkaline phosphatase ≤ 1,5 x ULN, Serum creatinine ≤ 1,5 x ULN (performed 10-15 days prior to randomization)
+
+----------------------------------------------------------------------
+
+**NCT02944188** - Laparoscopic Versus Open Right Hemicolectomy Within ERAS in Right-sided Colon Cancer
+Phase: NA | Status: COMPLETED
+Interventions: Laparoscopic right hemicolectomy plus ERAS, Open right hemicolectomy plus ERAS
+
+Biomarker Criteria:
+  - 5 x upper limit of normal (ULN), alkaline phosphatase ≤5x ULN, and serum transaminase (either AST or ALT) ≤ 5 x ULN(within 1 week prior to randomization);
+7
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+
+Biomarker Criteria:
+  - 5 mg/dL
+* ALT and AST ≤ 3 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3 times ULN
+* Hemoglobin ≥ 9
+
+----------------------------------------------------------------------
+
+**NCT01298570** - Regorafenib+FOLFIRI Versus Placebo+FOLFIRI as 2nd Line Tx in Metastatic Colorectal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Regorafenib (BAY 73-4506), FOLFIRI
+
+Biomarker Criteria:
+  - 5 X ULN
+   * Alkaline phosphatase ≤3 x ULN (≤5 x ULN with liver involvement of their cancer)
+   * Amylase and lipase ≤1
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patient has a histologically confirmed diagnosis of any of the following locally advanced or metastatic solid tumors: melanoma, pleural mesothelioma, renal cell carcinoma, MSI-high or mismatch repair-deficient colorectal cancer, hepatocellular carcinoma, and non-small cell lung cancer with no EGFR or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, or tumor types for which the combination of ipilimumab and nivolumab has been FDA approved
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (102 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA Mismatch Repair
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Atezolizumab, Biospecimen Collection
+
+Biomarker Criteria:
+  - ulcerative colitis or Crohn's disease), rheumatoid arthritis, panhypopituitarism, adrenal insufficiency
+* No known active hepatitis B or C
+
+  * Active hepatitis B can be defined as:
+
+    * Hepatitis B virus surface antigen (HBsAg) detectable for \> 6 months;
+    * Serum hepatitis B virus (HBV) DNA 20,000 IU/ml (105 copies/ml); lower values 2,000-20,000 IU/ml (104-105 copies/ml) are often seen in hepatitis B virus e antigen (HBeAg)-negative chronic hepatitis B
+    * Persistent or intermittent elevation in ALT/AST levels
+    * Liver biopsy showing chronic hepatitis with moderate or severe necroinflammation
+  * Active hepatitis C can be defined as:
+
+    * Hepatitis C antibody (AB) positive AND
+    * Presence of hepatitis C virus (HCV) RNA
+* Excluded if known active pulmonary disease with hypoxia defined as:
+
+  * Oxygen saturation \< 85% on room air, or
+  * Oxygen saturation \< 88% despite supplemental oxygen
+* No grade \>= 2 peripheral motor or sensory neuropathy
+* Patients positive for human immunodeficiency virus (HIV) are eligible only if they meet all of the following:
+
+  * A stable regimen of highly active anti-retroviral therapy (HAART)
+  * No requirement for concurrent antibiotics or antifungal agents for the prevention of opportunistic infections
+  * A CD4 count above 250 cells/mcL, and an undetectable HIV viral load on standard polymerase chain reaction (PCR)-based tests
+* No other planned concurrent investigational agents or other tumor directed therapy (chemotherapy, radiation) while on study
+* No systemic daily treatment with either corticosteroids (\> 10 mg daily prednisone equivalents) or other immunosuppressive medications within 7 days of registration
+* No known history of severe allergic anaphylactic reactions to chimeric, human or humanized antibodies, or fusion proteins
+* No known hypersensitivity to Chinese hamster ovary (CHO) cell products or any component of the atezolizumab formulation
+* No known allergy to 5-fluorouracil, oxaliplatin, or leucovorin
+
+----------------------------------------------------------------------
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Rego+Tori+Cele
+
+Biomarker Criteria:
+  - With subject's consent and signed informed consent form, willing and capable of following planned visits, research treatments, laboratory tests, and other trial procedures
+2
+  - These standard treatment protocols must include fluorouracil, Oxaliplatin, irinotecan, and Bevacizumab
+  - The definition of treatment failure is: disease progression or intolerable toxic side effects occur during the treatment process or within 3 months after the last treatment (One or more chemotherapy drugs with a duration of ≥ 1 cycle for each frontline treatment until the disease progresses; adjuvant/neoadjuvant treatment is allowed in the early stage
+
+----------------------------------------------------------------------
+
+**NCT00002527** - Aspirin in Treating Patients With Colorectal Cancer That Has Been Surgically Removed
+Phase: PHASE3 | Status: COMPLETED
+Interventions: aspirin, placebo
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS: Histologically documented colorectal cancer that has been curatively resected, including: Dukes' A/B1 (T1-2, N0, M0) Dukes' B2/C (T3, N0, M0 and any T, N1, M0) disease-free more than 5 years post-resection Colonoscopy to the cecum (or small bowel anastomosis) with removal of all polyps required within 4 months of entry Preparation must be adequate to visualize mucosa and discern the presence of no further polyps No familial polyposis (more than 100 polyps at time of resection) No history of inflammatory bowel disease including ulcerative colitis or Crohn's disease
+
+PATIENT CHARACTERISTICS: Age: 30 to under 75 Performance status: Physician's assessment of good general health required Life expectancy: At least 5 years Hematopoietic: Not specified Hepatic: Not specified Renal: Not specified Cardiovascular: No NYHA class III/IV status No history of angina No history of MI No history of stroke or TIAs No peripheral vascular disease No bleeding diathesis including hemorrhagic stroke No prophylactic aspirin for cardiovascular disease Other: No documented peptic ulcer disease within past 15 years No aspirin sensitivity including: Aspirin-induced asthma Bronchial hyper-reactivity Urticaria Angioedema No requirement for sodium warfarin or other anticoagulant No frequent (greater than 36 times/year) NSAID use within the past 5 years No recurrent arthritis or other musculoskeletal problems No narcotic or alcohol dependency (unless there has been at least a 6-month period of abstinence) No prior or concurrent malignancy within 5 years (including metastases) except nonmelanomatous skin cancer No pregnant or nursing women Effective contraception required of fertile women
+
+PRIOR CONCURRENT THERAPY: No concurrent enrollment in a colon cancer treatment trial or other chemoprevention trial Biologic therapy: At least 6 months since immunosuppressive therapy (i
+  - , azathioprine, methotrexate, cyclosporine) Chemotherapy: Prior chemotherapy allowed for patients with Dukes' B2/C colorectal cancer No concurrent chemotherapy Endocrine therapy: Prior non-immunosuppressive steroid treatment allowed Radiotherapy: Prior radiotherapy allowed for patients with Dukes' B2/C colorectal cancer No concurrent radiotherapy Surgery: Curative resection required
+
+----------------------------------------------------------------------
+
+**NCT01972373** - Visualization of Rectal Cancer During Endoscopy, Using a Fluorescent Tracer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Bevacizumab-IRDye800CW, NIR fluorescence endoscopy
+
+Biomarker Criteria:
+  - * Any investigational treatment for rectal cancer within the past month
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cetuximab and irinotecan
+
+Biomarker Criteria:
+  - Clinically significant cardiovascular disease such as cerebrovascular accident (within 6 months prior to enrollment), myocardial infarction (within 6 months prior to enrollment), uncontrolled hypertension despite appropriate medical treatment
+  - Patients with any other diseases, dysfunction caused by metastatic lesions, or suspected disease found by physical examination, indicating possible contraindications to the use of the investigational drug or putting the patients at high risk of treatment-related complications
+
+----------------------------------------------------------------------
+
+**NCT05485077** - A Prospective Cohort Study on Colorectal Cancer Screening in Community Population
+Phase: Not specified | Status: RECRUITING
+
+Biomarker Criteria:
+  - undergoing any cancer-related treatment;
+4
+  - Patients who have received major surgical treatment such as blood transfusion or transplantation within 3 months;
+5
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with progression or intolerance to already approved and accessible treatments for the specific neoplasm and population
+  - Documented disease progression radiologically after the last routine treatment
+  - Previous treatment lines with immunotherapy (immune checkpoint inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT05806931** - Sequential TAS-OX Alternating With TAS-IRI Plus Bevacizumab for Late-Line Metastatic Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: TAS-102, oxaliplatin, irinotecan with bevacizumab
+
+Biomarker Criteria:
+  - * Symptomatic CNS metastases requiring treatment
+
+----------------------------------------------------------------------
+
+**NCT06940102** - Real-World Study on Nano-Crystalline Megestrol Acetate for Cachexia in TKI-Treated Advanced Digestive Tumors
+Phase: Not specified | Status: RECRUITING
+Interventions: Nano-crystalline Megestrol Acetate Oral Suspension, TKI-Based Therapy
+
+Biomarker Criteria:
+  - * Histologically or cytologically confirmed locally advanced or metastatic digestive system tumors that are not amenable to curative treatment, according to the 8th edition TNM staging classification
+  - * Not benefiting from local anticancer therapies such as surgery, local ablation, or chemoembolization, and planned to receive TKI-based anticancer treatment, which may be combined with chemotherapy or immunotherapy)
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - Histologically or cytologically proven metastatic solid tumours including: - colorectal (CRC, Microsatellite instability negative and positive) in treatment failure as per the current standard recommendation (cohort closed to inclusions)
+  - * non-small cell lung cancer (NSCLC) pretreated by at least one line of treatment
+  - Patients EGFR-mutant can be included only if they have been treated with, or developed toxicity with or refused to be treated with anti-EGFR therapy; Patients pretreated by anti-PD1, or anti-PDL1 therapeutic antibodies can be included only if they have received at least 4 months of treatment (cohort closed to inclusions)
+
+----------------------------------------------------------------------
+
+**NCT06339346** - Analysis of Histopathological Factors Predictive of Lymph Node Involvement and Management Practices in pT1 Colorectal Cancers Treated by Primary Endos
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Consecutive patients with pT1 colorectal cancer (of adenocarcinoma subtype only) diagnosed from January the 1st, 2009 to December the 31st, 2020, with first endoscopic resection, in the area of Finistère (France)
+
+Exclusion Criteria:
+
+* other than adenocarcinoma
+* other than T1
+* primary surgical management
+* neoadjuvant treatment
+* refusal to data collection
+
+----------------------------------------------------------------------
+
+**NCT05336539** - A Community Population Screening Cohort Study Based on Polygene Methylation Detection for Colorectal Cancer in Yangzhou
+Phase: Not specified | Status: RECRUITING
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* 1\) History of colorectal cancer and other malignant tumors; 2) previous colorectal resection; 3) are receiving any cancer-related treatment; 4) Those who have received major surgical treatment such as blood transfusion and transplantation within 3 months; 5) Participate in other interventional clinical investigators within 3 months; 6) Pregnant or lactating women; 7) Patients with autoimmune diseases, genetic diseases, mental diseases/disabilities and other diseases considered unsuitable for the study by the researcher; 8) Poor compliance, unable to complete the study according to the judgment of the researcher
+
+----------------------------------------------------------------------
+
+**NCT07113275** - A Clinical Trial Comparing Long-Course Versus Short-Course Radiotherapy Followed by Immunotherapy Combined With Total Neoadjuvant Therapy (TNT) to Lon
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Interventions: Short-course radiotherapy, Long-course radiotherapy
+
+Biomarker Criteria:
+  - Subjects who have previously received any form of immunotherapy, including but not limited to immune checkpoint inhibitors, immune checkpoint agonists, immune cell therapy, or any other treatment targeting tumor immunomodulatory mechanisms;
+3
+
+----------------------------------------------------------------------
+
+**NCT02028442** - Phase I / II Study of Enadenotucirev by Sub-acute Fractionated IV Dosing in Cancer Patients
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Enadenotucirev
+
+Biomarker Criteria:
+  - 5 x ULN
+* For females of childbearing potential (defined as \<2 years after last menstruation or not surgically sterile), a negative serum pregnancy test must be documented within 14 days prior to first administration of study treatment
+* For women who are not postmenopausal (24 months of amenorrhea) or surgically sterile (absence of ovaries and/or uterus): agreement to use two adequate methods of contraception, during the treatment period and for at least 3 months after the last dose of study drug
+* For men: agreement to use a barrier method of contraception during the treatment period and for at least 6 months after the last dose of study drug
+* At least 3 weeks since any dose of IV systemic chemotherapy and at least two weeks since any oral dose of capecitabine at the time of first administration of ColoAd1
+  - Phase I Specific Inclusion Criteria:
+
+Dose Escalation Stage only (except Repeat Cycle Cohort):
+
+\- Solid tumour of epithelial origin not responding to standard therapy or for whom no standard treatment exists
+
+Dose Expansion Stage Single Cycle and Dose Escalation Stage Repeat Cycle Cohort:
+
+* mCRC not responding to standard therapy
+* ≤ 3 prior lines of systemic therapy for advanced disease OR ≤ 4 prior lines of systemic therapy for advanced disease if one of the 4 lines was an anti EGFR therapy given as a single agent or combined to a previously administered chemotherapy regimen Phase Ib:mCRC not responding to standard therapy
+* no more than 3 prior lines of systemic therapy for advanced disease OR no more than 4 prior lines of systemic therapy for advanced disease if one of the 4 lines was an anti EGFR therapy given as a single agent or combined to a previously administered chemotherapy regimen
+* Advanced or metastatic UCC, who have received a maximum of one chemotherapy-containing regimen and a maximum of one other systemic treatment with biologic agents only
+  - 0 degrees centigrade associated with a clinical diagnosis of active infection
+* Active viral disease or known positive serology for HIV, hepatitis B or hepatitis C;
+* Use of the following anti-viral agents: ribavirin, adefovir, lamivudine or cidofovir within 7 days prior to day 1; or pegylated interferon (PEG-IFN) (within 14 days prior to first administration of ColoAd1)
+* Administration of an investigational drug within 28 days prior to first dose of ColoAd1
+* Major surgery within 4 weeks or radiotherapy within 3 weeks prior to first dose of ColoAd1
+* Another primary malignancy within the past 3 years (except for non melanoma skin cancer or cervical cancer in situ)
+* Central nervous system (CNS) metastasis that is symptomatic and/or requires treatment
+* Any condition or illness that, in the opinion of the Investigator or the medical monitor, would compromise patient safety or interfere with the evaluation of the safety of the drug
+* Known allergy to treatment medication or its excipients
+* Any other medical or psychological condition that would preclude participation in the study or compromise ability to give informed consent
+
+Phase II Specific Exclusion Criteria:
+
+* Progression on first line therapy
+* A complete response on first line therapy
+* Use of first line therapy for longer than 4 months
+* Use of any first line treatment with a chemotherapy regimen other than FOLFOX, FOLFIRI or CAPOX (each with or without bevacizumab)
+* More than 6 weeks since the last administration of 5 FU, capecitabine, oxaliplatin or irinotecan
+
+----------------------------------------------------------------------
+
+**NCT00149396** - Safety & Efficacy of NV1020 in Colorectal Cancer Metastatic to the Liver
+Phase: PHASE1 | Status: COMPLETED
+Interventions: NV1020
+
+Biomarker Criteria:
+  - Ability to understand and willingness to sign a written informed consent (includes willingness to avoid physical intimacy during and for 2 weeks post NV1020 treatment)
+2
+  - Candidate for additional chemotherapy (and/or experimental anti-cancer therapy, if this is the only remaining treatment option)
+7
+  - Systemic corticosteroid administration \< 4 weeks prior to starting NV1020 treatment
+20
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF Wild Metastatic Colorectal Can
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+
+Biomarker Criteria:
+  - Patients whose adverse events (except hair loss) caused by previous treatment did not recover to ≤CTCAE 1 degree；
+  7
+  - Tumor related symptoms and treatment
+
+  <!-- -->
+
+  1
+  - Has received systematic treatment for advanced colorectal cancer
+
+----------------------------------------------------------------------
+
+**NCT02191969** - Physical Activity Intervention for Older Patients During Chemotherapy for Colorectal Cancer
+Phase: NA | Status: COMPLETED
+Interventions: Walk With Ease
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* ≥ Age 60 years (no upper age limit)
+* Diagnosis of stage II-III colon or rectal cancer planned for treatment with adjuvant chemotherapy scheduled as part of standard treatment
+* Able to read English (required for CGA and other surveys administered)
+* Approval from their treating physician to engage in moderate-intensity physical activity
+* Patient-assessed ability to walk and engage in moderate physical activity
+* Signed, IRB-approved written informed consent
+
+Exclusion Criteria:
+
+* Other active, invasive malignancy requiring ongoing therapy or expected to require systemic therapy
+* Already walking or engaging in other physical activity \>120 minutes per week as documented via subject self-report
+* Unable to walk or engage in moderate-intensity physical activity
+* One or more significant medical conditions that in the physician's judgment preclude participation in the walking intervention
+
+----------------------------------------------------------------------
+
+**NCT05217069** - FOLFIRI + Cetuximab + Avelumab RAS Wild-type CRC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: 5-FU, Folinic Acid
+
+Biomarker Criteria:
+  - * Females of childbearing potential (FCBPs) and men must agree to use highly effec-tive contraceptive measures (Pearl index \<1) or practice true abstinence from any heterosexual intercourse (true abstinence is acceptable when this is in line with the preferred and usual lifestyle of the subject) for the duration of the study treatment and for at least 6 months after last administration of study medication
+  - Patient with need of immediate treatment (high tumour load, symptoms) may have received one application of FOLFIRI prior to study entry
+  - * Time interval since last administration of any previous neoadjuvant/adjuvant chemo-therapy or radiochemotherapy of the primary tumour in curative treatment intention ≥ 6 months
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Signatera test, mFOLFOX6 3-6 month
+
+Biomarker Criteria:
+  - , excluding rectal adenocarcinomas warranting treatment with chemoradiation)
+  - Any prior systemic chemotherapy, targeted therapy, or immunotherapy; or radiation therapy administered as treatment for colorectal cancer (e
+  - , primary colon adenocarcinomas for which treatment with neoadjuvant chemotherapy and/or radiation is warranted are not permitted)
+
+----------------------------------------------------------------------
+
+**NCT00569790** - Phase II Trial of Combination Therapy With Irinotecan, S-1, and Bevacizumab (IRIS/Bev) in Patients With Unresectable or Recurrent Colorectal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: S-1, Irinotecan, Bevacizumab
+
+Biomarker Criteria:
+  - Patients with no previous treatment (radiotherapy or chemotherapy)
+  - Patients who have received postoperative adjuvant chemotherapy are eligible if relapse is diagnosed more than 180 days after the end of such treatment
+  - Moderate or severe ascites or pleural effusion requiring treatment
+8
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (12 trials)
+======================================================================
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Rego+Tori+Cele
+
+Biomarker Criteria:
+  - Subjects with left colon cancer RAS/BRAF V600E genotype of wild type must have received Cetuximab or Panitumumab and other Epidermal growth factor receptor inhibitors
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cetuximab and irinotecan
+
+Biomarker Criteria:
+  - Patients with initial RAS mutant, BRAF wild-type left-sided mCRC
+  - Blood-based ctDNA testing shows that both RAS and BRAF genes are wild-type after second-line therapy progression
+  - Patients with initial RAS wild-type or BRAF mutant mCRC
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF Wild Metastatic Colorectal Can
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+
+Biomarker Criteria:
+  - Has RAS/BRAF wild-type
+
+----------------------------------------------------------------------
+
+**NCT04923620** - Neoadjuvant Cetuximab + Chemotherapy Combined With Short-course Radiotherapy
+Phase: Not specified | Status: RECRUITING
+Interventions: cetuximab+mFOLFOX6, short-course radiotherapy
+
+Biomarker Criteria:
+  - An ARMS-PCR proven KRAS, NRAS, PI3KCA and BRAF wild type;
+3
+  - Patients with mutations in any of KRAS, NRAS, or BRAF, microsatellite instablility-High;
+2
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - * Prior system standard therapy for patients with microsatellite stability (MSS) or microsatellite instability-low (MSI-L)/proficient mismatch repair (pMMR), RAS and BRAF wild-type (WT) should include cetuximab or bevacizumab monotherapy or in combination with FOLFOX/FOLFIRI/CAPEOX, and monotherapy (eg
+  - * Prior system standard therapy for patients with MSS or MSI-L/pMMR, RAS and BRAF mutation: should include bevacizumab monotherapy or in combination with FOLFIRI, and monotherapy (eg
+
+----------------------------------------------------------------------
+
+**NCT07116577** - Radiotherapy Combined QL1706, TAS-102 and Bevacizumab in mCRC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Palliative radiotherapy, Iparomlimab and tuvonralimab
+
+Biomarker Criteria:
+  - * Documented KRAS and BRAF mutation status (mutant or wild-type) must be available
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 4 only - Participants with history of advanced histopathologically or cytologically confirmed colorectal cancer (CRC) that does not harbor the BRAF V600E mutation and are not dMMR+/MSI-Hi with progression on:
+
+  * A fluoropyrimidine (e
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Interventions: LGK974, PDR001
+
+Biomarker Criteria:
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with BRAF V600 inhibitor, with or without a MEK inhibitor
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with a BRAF V600 inhibitor, with or without a MEK inhibitor
+
+----------------------------------------------------------------------
+
+**NCT06857773** - Induction Treatment for Initially Unresectable Colorectal Liver Metastases: Combined Hepatic Arterial Infusion Pump Therapy With Systemic Therapy
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Intra arterial infusion Floxuridine (FUDR) combined with systemic therapy, Hepatic arterial infusion pump (HAIP)
+
+Biomarker Criteria:
+  - * Known mutation status of RAS and BRAFV600E
+
+----------------------------------------------------------------------
+
+**NCT06640166** - Encorafenib + Cetuximab Beyond Progression in Combination With FOLFIRI in Patients With BRAF V600E Mutated Metastatic Colorectal Cancer Progressing on
+Phase: PHASE2 | Status: RECRUITING
+Interventions: encorafenib + cetuximab + FOLFIRI
+
+Biomarker Criteria:
+  - 1 criteria;
+* presence of BRAF V600E mutation in tumor tissue (primary CRC and/or related metastasis) as previously determined by a local assay at any time prior to screening (only PCR and NGS-based local assays results will be acceptable);
+* disease progression while on treatment with EC received in 2nd line setting
+
+  * EC administered after disease relapse during treatment or within 6 months following adjuvant therapy will be second line;
+  * maintenance therapy given in the metastatic setting after a first line doublet or triplet chemotherapy will not be considered a separate regimen;
+* best response to previous treatment with EC: CR, PR or SD lasting for at least 3 months
+  - Exclusion Criteria:
+
+* patients experiencing PD as best response to EC;
+* patients with specific BRAFi/AntiEGFR contraindications;
+* patients with specific irinotecan or fluoropyrimidines contraindications;
+* patients with DPYD deficiency;
+* life expectancy ≤3 months;
+* ECOG PS \>1
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced or Metastatic HER2/Neu Amplifie
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cetuximab, Irinotecan Hydrochloride
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* STEP 1 INITIAL REGISTRATION: HER2 TESTING
+* Patients must have histologically or cytologically documented adenocarcinoma of the colon or rectum that is metastatic or locally advanced and unresectable
+* Mutation results:
+
+  * All patients must have molecular testing performed in a Clinical Laboratory Improvement Act (CLIA) certified lab which includes which includes KRAS and NRAS gene and exon 15 of BRAF gene (BRAF V600E mutation); patients with any known activating mutation in exon 2 \[codons 12 and 13\], exon 3 \[codons 59 and 61\] and exon 4 \[codons 117 and 146\]) of KRAS/NRAS genes and in exon 15 (BRAFV600E mutation) of BRAF gene are not eligible
+* Patients must not have been treated with any of the following prior to step 1 initial registration:
+
+  * Cetuximab, panitumumab, or any other monoclonal antibody against EGFR or inhibitor of EGFR
+  * HER-2 targeting for treatment of colorectal cancer; patients who have received prior trastuzumab or pertuzumab for other indications such as prior history of adjuvant or neoadjuvant breast cancer treatment prior to the development of advanced colorectal cancer are eligible
+* Patients must not have had history of severe toxicity and intolerance to or hypersensitivity to irinotecan or any other study drug; patients must not have had a severe infusion-related reaction during any prior therapy with pertuzumab or trastuzumab
+* Patients must have tumor slides available for submission for HER-2 testing; HER-2 testing must be completed by the central lab prior to step 2 randomization
+* Patients must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines; for step 1 initial registration, the appropriate consent form is the step 1 consent form
+* As a part of the OPEN registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+* STEP 2 RANDOMIZATION
+* Patients must have HER-2 amplification as determined by central testing (3+ or 2+ by immunohistochemistry and HER-2 gene amplification by in situ hybridization with a ratio of HER-2 gene signals to centromere 17 signals \>= 2
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Previous treatment with vascular endothelial growth factor receptor (VEGFR) inhibitors or previous use of immune checkpoint inhibitors;
+* With BRAF mutation or MSI-H status;
+* Other untreated or concurrent tumors (except cervical carcinoma in situ, treated basal cell carcinoma or superficial bladder tumor, or if the tumor is cured and there is no evidence of disease for more than 3 years);
+* Have received other systemic anti-tumor treatments, including chemotherapy, signal transduction inhibitors, hormone therapy and immunotherapy within 4 weeks before enrollment;
+* There was central nervous system (CNS) metastasis or previous brain metastasis before enrollment;
+* Have received any surgery or invasive treatment or operation within 4 weeks before enrollment;
+* Have received Local anti-tumor therapy such as hepatic artery interventional embolization, liver metastasis cryoablation or radiofrequency ablation within 4 weeks before enrollment;
+* Uncontrolled malignant ascites;
+* Participated in other clinical trials within 4 weeks before enrollment, and received corresponding experimental drug treatment;
+* Allergic to the study drug or any of its adjuvants;
+* International normalized ratio (INR) \> 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (19 trials)
+======================================================================
+
+**NCT05806931** - Sequential TAS-OX Alternating With TAS-IRI Plus Bevacizumab for Late-Line Metastatic Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: TAS-102, oxaliplatin, irinotecan with bevacizumab
+
+Biomarker Criteria:
+  - Antibody therapy with bevacizumab and an anti-EGFR antibody, if RAS wild type, should have been given unless medical reasons have precluded their use
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - Patients EGFR-mutant can be included only if they have been treated with, or developed toxicity with or refused to be treated with anti-EGFR therapy; Patients pretreated by anti-PD1, or anti-PDL1 therapeutic antibodies can be included only if they have received at least 4 months of treatment (cohort closed to inclusions)
+
+----------------------------------------------------------------------
+
+**NCT02028442** - Phase I / II Study of Enadenotucirev by Sub-acute Fractionated IV Dosing in Cancer Patients
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Enadenotucirev
+
+Biomarker Criteria:
+  - Phase I Specific Inclusion Criteria:
+
+Dose Escalation Stage only (except Repeat Cycle Cohort):
+
+\- Solid tumour of epithelial origin not responding to standard therapy or for whom no standard treatment exists
+
+Dose Expansion Stage Single Cycle and Dose Escalation Stage Repeat Cycle Cohort:
+
+* mCRC not responding to standard therapy
+* ≤ 3 prior lines of systemic therapy for advanced disease OR ≤ 4 prior lines of systemic therapy for advanced disease if one of the 4 lines was an anti EGFR therapy given as a single agent or combined to a previously administered chemotherapy regimen Phase Ib:mCRC not responding to standard therapy
+* no more than 3 prior lines of systemic therapy for advanced disease OR no more than 4 prior lines of systemic therapy for advanced disease if one of the 4 lines was an anti EGFR therapy given as a single agent or combined to a previously administered chemotherapy regimen
+* Advanced or metastatic UCC, who have received a maximum of one chemotherapy-containing regimen and a maximum of one other systemic treatment with biologic agents only
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF Wild Metastatic Colorectal Can
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+
+Biomarker Criteria:
+  - Previous adjuvant therapy containing anti-vascular or anti-EGFR targeted drugs
+
+----------------------------------------------------------------------
+
+**NCT00422773** - Safety of Cetuximab and Oxaliplatin/5-FU/FA/Irinotecan in First-Line Treatment of Metastatic Colorectal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Cetuximab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Diagnosis of non-resectable, histologically confirmed, epithelial growth factor receptor(EGFR)-positive or negative colorectal cancer
+* WHO Performance status 0 or 1
+* Signed written informed consent
+* ≥ 18 years of age
+* Effective contraception for both male and female subjects if the risk of conception exists
+* Adequate bone marrow function: neutrophil blood cell count (NBC) ≥ 1
+
+----------------------------------------------------------------------
+
+**NCT00853931** - Biomarker - Panitumumab Response With KRAS Wild Type MCC
+Phase: NA | Status: COMPLETED
+Interventions: Panitumumab
+
+Biomarker Criteria:
+  - Must not have received any prior anti-EGFR therapies including tyrosine kinase inhibitors or monoclonal antibodies
+
+----------------------------------------------------------------------
+
+**NCT02186236** - Detection of Oncogenic Tumor Mutations in the Urine and Blood of Lung and Colorectal Cancer Patients
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - * Patients must have had or intend to have EGFR mutation testing (specifically including exon 19 deletions and L858R) performed on their tumor with results available from a CLIA certified laboratory
+  - * Patients must have a confirmed EGFR mutant lung cancer (exon 19 deletions and L858R) with molecular testing results available from a CLIA certified laboratory
+  - * Treatment plan should include an EGFR tyrosine kinase inhibitor, but may concurrently be on a therapeutic protocol
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Estimated creatinine clearance by the Cockcroft-Gault or estimated glomerular filtration rate (eGFR) of ≥60 mL/min
+   6
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 2 only - advanced non-squamous squamous Non-Small Cell Lung Cancer (NSCLC) that have progressed after treatment with at least:
+
+  * Platinum-based chemotherapy and an immune checkpoint inhibitor and/or appropriate targeted therapy for an actionable gene alteration, if applicable, for non-squamous wtEGFR NSCLC (Part 2i) and squamous NSCLC (Part 2iii)
+  - * Platinum-based chemotherapy doublet and tyrosine kinase inhibitor(s) (TKI\[s\]) for non- squamous mutEGFR NSCLC (Part 2ii)
+  - * If applicable, anti-EGFR (including, but not limited to cetuximab or panitumumab)
+
+----------------------------------------------------------------------
+
+**NCT01023737** - Hydroxychloroquine + Vorinostat in Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Hydroxychloroquine, Vorinostat
+
+Biomarker Criteria:
+  - Patients with colorectal cancer must been treated in the past with Irinotecan and/or Oxaliplatin and/or AvastinIEGFR therapy or intolerant to these agents
+
+----------------------------------------------------------------------
+
+**NCT06857773** - Induction Treatment for Initially Unresectable Colorectal Liver Metastases: Combined Hepatic Arterial Infusion Pump Therapy With Systemic Therapy
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Intra arterial infusion Floxuridine (FUDR) combined with systemic therapy, Hepatic arterial infusion pump (HAIP)
+
+Biomarker Criteria:
+  - 5 x upper limit of normal or a MDRD (eGFR) ≥ 45 ml/min;
+  * Prothrombin time or INR \< 1
+
+----------------------------------------------------------------------
+
+**NCT06640166** - Encorafenib + Cetuximab Beyond Progression in Combination With FOLFIRI in Patients With BRAF V600E Mutated Metastatic Colorectal Cancer Progressing on
+Phase: PHASE2 | Status: RECRUITING
+Interventions: encorafenib + cetuximab + FOLFIRI
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* patients experiencing PD as best response to EC;
+* patients with specific BRAFi/AntiEGFR contraindications;
+* patients with specific irinotecan or fluoropyrimidines contraindications;
+* patients with DPYD deficiency;
+* life expectancy ≤3 months;
+* ECOG PS \>1
+
+----------------------------------------------------------------------
+
+**NCT01878422** - Sequential Treatment Strategy for Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Arm A: FOLFIRI or FOLFOX + Bevacizumab, Arm B: FOLFIRI or FOLFOX
+
+Biomarker Criteria:
+  - Prior treatment with cetuximab, bevacizumab or other anti Epidermal Growth Factor Receptor (antiEGFR) or anti-angiogenesis agents;
+2
+
+----------------------------------------------------------------------
+
+**NCT00543842** - Bevacizumab, Erlotinib, and Capecitabine for Locally Advanced Rectal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Bevacizumab, Capecitabine
+
+Biomarker Criteria:
+  - Prior vascular endothelial growth factor (VEGF) or epidermal growth factor receptor (EGFR)-directed therapy, such as bevacizumab, cetuximab, erlotinib, or gefitinib
+
+----------------------------------------------------------------------
+
+**NCT04166383** - VB-111 in Combination With Nivolumab in People With Metastatic Colorectal Cancer (mCRC)
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Vascular Biogenics (VB)-111, Nivolumab
+
+Biomarker Criteria:
+  - * Patients who have a known Kirsten rat sarcoma (KRAS) wild type tumor must have progressed, been intolerant of or refused anti-epidermal growth factor receptor (EGFR) based treatment
+  - 5xULN in the absence of hepatic metastasis; or less than or equal to 5 x ULN in the presence of hepatic metastases
+
+  -Adequate renal function defined by:
+* Creatinine OR Measured or calculated creatinine clearance (CrCl) (estimated glomerular filtration rate (eGFR) may also be used in place of CrCl) (A Creatinine clearance (CrCl) or eGFR should be calculated per institutional standard
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced or Metastatic HER2/Neu Amplifie
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cetuximab, Irinotecan Hydrochloride
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* STEP 1 INITIAL REGISTRATION: HER2 TESTING
+* Patients must have histologically or cytologically documented adenocarcinoma of the colon or rectum that is metastatic or locally advanced and unresectable
+* Mutation results:
+
+  * All patients must have molecular testing performed in a Clinical Laboratory Improvement Act (CLIA) certified lab which includes which includes KRAS and NRAS gene and exon 15 of BRAF gene (BRAF V600E mutation); patients with any known activating mutation in exon 2 \[codons 12 and 13\], exon 3 \[codons 59 and 61\] and exon 4 \[codons 117 and 146\]) of KRAS/NRAS genes and in exon 15 (BRAFV600E mutation) of BRAF gene are not eligible
+* Patients must not have been treated with any of the following prior to step 1 initial registration:
+
+  * Cetuximab, panitumumab, or any other monoclonal antibody against EGFR or inhibitor of EGFR
+  * HER-2 targeting for treatment of colorectal cancer; patients who have received prior trastuzumab or pertuzumab for other indications such as prior history of adjuvant or neoadjuvant breast cancer treatment prior to the development of advanced colorectal cancer are eligible
+* Patients must not have had history of severe toxicity and intolerance to or hypersensitivity to irinotecan or any other study drug; patients must not have had a severe infusion-related reaction during any prior therapy with pertuzumab or trastuzumab
+* Patients must have tumor slides available for submission for HER-2 testing; HER-2 testing must be completed by the central lab prior to step 2 randomization
+* Patients must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines; for step 1 initial registration, the appropriate consent form is the step 1 consent form
+* As a part of the OPEN registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+* STEP 2 RANDOMIZATION
+* Patients must have HER-2 amplification as determined by central testing (3+ or 2+ by immunohistochemistry and HER-2 gene amplification by in situ hybridization with a ratio of HER-2 gene signals to centromere 17 signals \>= 2
+
+----------------------------------------------------------------------
+
+**NCT01051596** - A Study of ABT-888 in Combination With Temozolomide for Colorectal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Temozolomide, ABT-888
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically proven colorectal cancer with measurable or evaluable disease
+* Progression on or intolerance of or ineligibility for all standard therapies (including regimens containing fluoropyrimidine, oxaliplatin, irinotecan, bevacizumab, and an anti-EGFR antibody (where appropriate))
+* Age \> = 18 years
+* ECOG performance status 0-2
+* Subjects with no brain metastases or a history of previously treated brain metastases who have been treated by surgery or stereotactic radiosurgery at least 4 weeks prior to enrollment and have a baseline MRI that shows no evidence of active intercranial disease and have not had treatment with steroids within 1 week of study enrollment
+* At least 21 days since prior anti-cancer therapy, including chemotherapy, biological therapy, radiation therapy or any investigational agent within 4 weeks before starting ABT-888 and temozolomide
+* Adequate hepatic, bone marrow, and renal function
+* Partial thromboplastin time (PTT) must be \</= 1
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patient has a histologically confirmed diagnosis of any of the following locally advanced or metastatic solid tumors: melanoma, pleural mesothelioma, renal cell carcinoma, MSI-high or mismatch repair-deficient colorectal cancer, hepatocellular carcinoma, and non-small cell lung cancer with no EGFR or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, or tumor types for which the combination of ipilimumab and nivolumab has been FDA approved
+  - Renal function with either an eCrCL ≥ 60 mL/min (modified Cockcroft-Gault) or eGFR ≥ 60 mL/min/1
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Previous treatment with vascular endothelial growth factor receptor (VEGFR) inhibitors or previous use of immune checkpoint inhibitors;
+* With BRAF mutation or MSI-H status;
+* Other untreated or concurrent tumors (except cervical carcinoma in situ, treated basal cell carcinoma or superficial bladder tumor, or if the tumor is cured and there is no evidence of disease for more than 3 years);
+* Have received other systemic anti-tumor treatments, including chemotherapy, signal transduction inhibitors, hormone therapy and immunotherapy within 4 weeks before enrollment;
+* There was central nervous system (CNS) metastasis or previous brain metastasis before enrollment;
+* Have received any surgery or invasive treatment or operation within 4 weeks before enrollment;
+* Have received Local anti-tumor therapy such as hepatic artery interventional embolization, liver metastasis cryoablation or radiofrequency ablation within 4 weeks before enrollment;
+* Uncontrolled malignant ascites;
+* Participated in other clinical trials within 4 weeks before enrollment, and received corresponding experimental drug treatment;
+* Allergic to the study drug or any of its adjuvants;
+* International normalized ratio (INR) \> 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (7 trials)
+======================================================================
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Standard therapy options are described in (Wang,2024):
+
+* Prior systemic standard therapy for patients with HER2-positive gastric or EGJ cancer should include trastuzumab plus chemotherapy (fluorouracil plus platinum), mono-chemotherapy (eg
+  - * Prior system standard therapy for patients with HER2-negative gastric or EGJ cancer should include fluorouracil plus platinum or in combination with anti-PD-1, mono-chemotherapy (eg
+
+----------------------------------------------------------------------
+
+**NCT06253871** - A Phase 1/1b Study of IAM1363 in HER2 Cancers
+Phase: PHASE1 | Status: RECRUITING
+Interventions: IAM1363
+
+Biomarker Criteria:
+  - Key Inclusion Criteria:
+
+* Age ≥ 18 years
+* Have relapsed/refractory HER2-altered malignancy
+* Have progression of disease after the last systemic therapy, or be intolerant of last systemic therapy
+* Have radiographically measurable disease by RECIST v1
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: HS-10502
+
+Biomarker Criteria:
+  - For the phase Ib study:
+
+   Cohort B: patients with HRD positive recurrent ovarian cancer with failure or intolerance or not available to SoC Cohort C: patients with HRR gene mutation advanced Human epidermal growth factor receptor 2 (HER2)-negative breast cancer with failure or intolerance or not available to SoC Cohort D: patients with HRR gene mutation advanced pancreatic cancer with failure or intolerance or not available to SoC Cohort E: patients with HRR gene mutation mCRPC with failure or intolerance or not available to SoC Cohort F: patients with HRR gene mutation colorectal cancer with failure or intolerance or not available to SoC Cohort G: patients with other HRR gene mutation or HRD positive advanced solid tumors with failure or intolerance or not available to SoC
+5
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * If applicable, appropriate available therapies, including HER2-directed therapies
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced or Metastatic HER2/Neu Amplifie
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cetuximab, Irinotecan Hydrochloride
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* STEP 1 INITIAL REGISTRATION: HER2 TESTING
+* Patients must have histologically or cytologically documented adenocarcinoma of the colon or rectum that is metastatic or locally advanced and unresectable
+* Mutation results:
+
+  * All patients must have molecular testing performed in a Clinical Laboratory Improvement Act (CLIA) certified lab which includes which includes KRAS and NRAS gene and exon 15 of BRAF gene (BRAF V600E mutation); patients with any known activating mutation in exon 2 \[codons 12 and 13\], exon 3 \[codons 59 and 61\] and exon 4 \[codons 117 and 146\]) of KRAS/NRAS genes and in exon 15 (BRAFV600E mutation) of BRAF gene are not eligible
+* Patients must not have been treated with any of the following prior to step 1 initial registration:
+
+  * Cetuximab, panitumumab, or any other monoclonal antibody against EGFR or inhibitor of EGFR
+  * HER-2 targeting for treatment of colorectal cancer; patients who have received prior trastuzumab or pertuzumab for other indications such as prior history of adjuvant or neoadjuvant breast cancer treatment prior to the development of advanced colorectal cancer are eligible
+* Patients must not have had history of severe toxicity and intolerance to or hypersensitivity to irinotecan or any other study drug; patients must not have had a severe infusion-related reaction during any prior therapy with pertuzumab or trastuzumab
+* Patients must have tumor slides available for submission for HER-2 testing; HER-2 testing must be completed by the central lab prior to step 2 randomization
+* Patients must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines; for step 1 initial registration, the appropriate consent form is the step 1 consent form
+* As a part of the OPEN registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+* STEP 2 RANDOMIZATION
+* Patients must have HER-2 amplification as determined by central testing (3+ or 2+ by immunohistochemistry and HER-2 gene amplification by in situ hybridization with a ratio of HER-2 gene signals to centromere 17 signals \>= 2
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: trastuzumab, tipifarnib
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically or cytologically confirmed advanced or metastatic adenocarcinoma
+* Expression of +1 to 3+ HER2/neu on immunohistochemical or immunocytochemistry staining
+* No brain metastases unless all of the following is true:
+
+  * Previously treated
+  * Asymptomatic
+  * Stable dose of decadron
+* No evidence of edema
+
+PATIENT CHARACTERISTICS:
+
+* Age: 18 and over
+* Performance status: ECOG 0-2
+* Life expectancy: At least 12 weeks
+* Absolute granulocyte count at least 1,500/mm3
+* Platelet count at least 100,000/mm3
+* Hemoglobin at least 9
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (12 trials)
+======================================================================
+
+**NCT04678583** - Anatomical Resection of Liver MetAstases iN patIents With RAS-mutated Colorectal Cancer
+Phase: NA | Status: RECRUITING
+Interventions: Resection of colorectal liver metastases
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Colorectal cancer with RAS mutation (KRAS or NRAS)
+* Colorectal liver metastases (single or multiple)
+* Planned R0 resection of liver metastases (and primary tumor, if present)
+* Anatomical and non-anatomical liver resection technically feasible
+* Male and female patients, age ≥ 18 years
+* Written informed consent
+
+Exclusion Criteria:
+
+* Extrahepatic metastases
+* Planned staged liver resection (e
+
+----------------------------------------------------------------------
+
+**NCT05217069** - FOLFIRI + Cetuximab + Avelumab RAS Wild-type CRC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: 5-FU, Folinic Acid
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically confirmed, UICC stage IV adenocarcinoma of the colon or rectum with metastases (metastatic colorectal cancer), metastases primarily non-resectable or surgery refused by the patient
+* RAS wild-type tumour status (KRAS and NRAS exon 2, 3, 4) (proven in the primary tumour or metastasis)
+* Age ≥18
+* ECOG performance status 0-1
+* Patients suitable for chemotherapy administration
+* Patient's written declaration of consent obtained
+* Estimated life expectancy \> 3 months
+* Presence of at least one measurable reference lesion according to the RECIST 1
+  - * Any relevant toxicities of prior treatments must have resolved
+
+Exclusion Criteria:
+
+* Proof of a RAS mutation (KRAS or NRAS, exons 2, 3, 4 in the tumor (proven in the primary tumor or metastasis) or absence of testing for RAS mutation
+* Primarily resectable metastases and the patient wishes for resection
+* ≥ Grade II heart failure (NYHA classification)
+* Myocardial infarction, balloon angioplasty (PTCA) with or without stenting, and cere-bral vascular accident/stroke within the past 12 months before start of study treat-ment, unstable angina pectoris, serious cardiac arrhythmia according to investigator's judgement requiring medication
+
+----------------------------------------------------------------------
+
+**NCT04923620** - Neoadjuvant Cetuximab + Chemotherapy Combined With Short-course Radiotherapy
+Phase: Not specified | Status: RECRUITING
+Interventions: cetuximab+mFOLFOX6, short-course radiotherapy
+
+Biomarker Criteria:
+  - An ARMS-PCR proven KRAS, NRAS, PI3KCA and BRAF wild type;
+3
+  - Patients with mutations in any of KRAS, NRAS, or BRAF, microsatellite instablility-High;
+2
+
+----------------------------------------------------------------------
+
+**NCT00853931** - Biomarker - Panitumumab Response With KRAS Wild Type MCC
+Phase: NA | Status: COMPLETED
+Interventions: Panitumumab
+
+Biomarker Criteria:
+  - Archival, paraffin embedded tumour tissue block suitable for KRAS and biomarker, or, willingness to undergo biopsy to obtain such
+
+----------------------------------------------------------------------
+
+**NCT07116577** - Radiotherapy Combined QL1706, TAS-102 and Bevacizumab in mCRC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Palliative radiotherapy, Iparomlimab and tuvonralimab
+
+Biomarker Criteria:
+  - * Documented KRAS and BRAF mutation status (mutant or wild-type) must be available
+
+----------------------------------------------------------------------
+
+**NCT01229813** - Avastin and Chemotherapy Followed by a KRAS Stratified Randomization to Maintenance Treatment for First Line Treatment of Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: bevacizumab, erlotinib, bevacizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Untreated metastatic colorectal carcinoma
+* Age 18 yrs or over
+* Measurable disease according to Response Evaluation Criteria in solid Tumors (RECIST criteria)
+* ECOG performance status 0 or 1
+* Life expectancy more than 3 months
+* Adequate haematological, renal and liver function
+* Tumor tissue available for determination of KRAS mutational status
+* Blood sample and paraffin embedded tumor tissue for translational research
+
+Exclusion Criteria:
+
+* Adjuvant therapy within 6 months
+* CNS metastases
+* Clinically significant atherosclerotic vascular disease
+
+----------------------------------------------------------------------
+
+**NCT01878422** - Sequential Treatment Strategy for Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Arm A: FOLFIRI or FOLFOX + Bevacizumab, Arm B: FOLFIRI or FOLFOX
+
+Biomarker Criteria:
+  - Evaluation of Kras status from the primary tumor or metastases
+4
+
+----------------------------------------------------------------------
+
+**NCT04166383** - VB-111 in Combination With Nivolumab in People With Metastatic Colorectal Cancer (mCRC)
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Vascular Biogenics (VB)-111, Nivolumab
+
+Biomarker Criteria:
+  - * Patients who have a known Kirsten rat sarcoma (KRAS) wild type tumor must have progressed, been intolerant of or refused anti-epidermal growth factor receptor (EGFR) based treatment
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced or Metastatic HER2/Neu Amplifie
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cetuximab, Irinotecan Hydrochloride
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* STEP 1 INITIAL REGISTRATION: HER2 TESTING
+* Patients must have histologically or cytologically documented adenocarcinoma of the colon or rectum that is metastatic or locally advanced and unresectable
+* Mutation results:
+
+  * All patients must have molecular testing performed in a Clinical Laboratory Improvement Act (CLIA) certified lab which includes which includes KRAS and NRAS gene and exon 15 of BRAF gene (BRAF V600E mutation); patients with any known activating mutation in exon 2 \[codons 12 and 13\], exon 3 \[codons 59 and 61\] and exon 4 \[codons 117 and 146\]) of KRAS/NRAS genes and in exon 15 (BRAFV600E mutation) of BRAF gene are not eligible
+* Patients must not have been treated with any of the following prior to step 1 initial registration:
+
+  * Cetuximab, panitumumab, or any other monoclonal antibody against EGFR or inhibitor of EGFR
+  * HER-2 targeting for treatment of colorectal cancer; patients who have received prior trastuzumab or pertuzumab for other indications such as prior history of adjuvant or neoadjuvant breast cancer treatment prior to the development of advanced colorectal cancer are eligible
+* Patients must not have had history of severe toxicity and intolerance to or hypersensitivity to irinotecan or any other study drug; patients must not have had a severe infusion-related reaction during any prior therapy with pertuzumab or trastuzumab
+* Patients must have tumor slides available for submission for HER-2 testing; HER-2 testing must be completed by the central lab prior to step 2 randomization
+* Patients must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines; for step 1 initial registration, the appropriate consent form is the step 1 consent form
+* As a part of the OPEN registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+* STEP 2 RANDOMIZATION
+* Patients must have HER-2 amplification as determined by central testing (3+ or 2+ by immunohistochemistry and HER-2 gene amplification by in situ hybridization with a ratio of HER-2 gene signals to centromere 17 signals \>= 2
+
+----------------------------------------------------------------------
+
+**NCT06179160** - A Study to Evaluate INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation
+Phase: PHASE1 | Status: RECRUITING
+Interventions: INCB161734, Cetuximab
+
+Biomarker Criteria:
+  - * Locally advanced or metastatic solid tumor with KRAS G12D mutation
+  - Exclusion Criteria:
+
+* Prior treatment with any KRAS G12D inhibitor
+* Known additional invasive malignancy within 1 year of the first dose of study drug
+* History of organ transplant, including allogeneic stem cell transplantation
+* Significant, uncontrolled medical condition
+* History or presence of an ECG abnormality
+* Inadequate organ function
+
+Other protocol-defined Inclusion/Exclusion Criteria may apply
+
+----------------------------------------------------------------------
+
+**NCT01274624** - Study of REOLYSIN® in Combination With FOLFIRI and Bevacizumab in FOLFIRI Naive Patients With KRAS Mutant Metastatic Colorectal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: REOLYSIN®, Irinotecan
+
+Biomarker Criteria:
+  - * Have his/her tumor assessed for KRAS status and found to be mutation positive
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically or cytologically confirmed non resectable, locally advanced or metastatic colorectal cancer;
+* No previous anti-tumor treatment for metastatic diseases;
+* KRAS/NRAS mutation;
+* Eastern Cooperation Oncology Group (ECOG) performance status of 0-1;
+* Life expectancy ≥ 3 months;
+* Adequate organ and bone marrow functions:
+
+Absolute neutrophil count≥1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (10 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA Mismatch Repair
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Atezolizumab, Biospecimen Collection
+
+Biomarker Criteria:
+  - those at the ileocecal valve)
+* Presence of deficient (d) DNA mismatch repair (dMMR); MMR status must be assessed by immunohistochemistry (IHC) for MMR protein expression (MLH1, MSH2, MSH6, PMS2) where loss of one or more proteins indicates dMMR; dMMR may be determined either locally or by site-selected reference lab; Note: loss of MLH1 and PMS2 commonly occur together; formalin-fixed paraffin-embedded (FFPE) tumor tissue is required for subsequent retrospective central confirmation of dMMR status
+* Patients with testing that did not show dMMR (loss of MMR protein) are not eligible to participate; patients whose tumors show MSI-H by PCR-based assay are not eligible to participate unless they also have MMR testing by IHC and are found to have dMMR (i
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cetuximab and irinotecan
+
+Biomarker Criteria:
+  - dMMR/MSI-H mCRC
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF Wild Metastatic Colorectal Can
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+
+Biomarker Criteria:
+  - Has dMMR/MSI-H
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Signatera test, mFOLFOX6 3-6 month
+
+Biomarker Criteria:
+  - Patients whose tumors are MSI-H or dMMR are excluded
+
+----------------------------------------------------------------------
+
+**NCT06205836** - Cemiplimab With or Without Fianlimab to Treat Older Patients With Localized or Locally Advanced MSI-H Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cemiplimab, Fianlimab
+
+Biomarker Criteria:
+  - * Eastern Cooperative Oncology Group (ECOG) performance status 0 -2
+* Have histologically proven localized or locally advanced mismatch repair deficient (dMMR) or microsatellite unstable (MSI-H) colorectal cancer
+  - * Have histologically proven localized or locally advanced mismatch repair deficient (dMMR) or microsatellite unstable (MSI-H) colorectal cancer
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Standard treatment options are described in (Association NHCOTPROCSOOCM,2023):
+
+* Prior systemic standard therapy for patients with MMR-deficient (dMMR)/microsatellite instability-high (MSI-H): pembrolizumab for 1st line therapy, no standard therapy for 2nd and 3rd line therapy
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 4 only - Participants with history of advanced histopathologically or cytologically confirmed colorectal cancer (CRC) that does not harbor the BRAF V600E mutation and are not dMMR+/MSI-Hi with progression on:
+
+  * A fluoropyrimidine (e
+  - * Intolerant to the standard treatment are eligible
+* For Part 7 (CRC combination) only: Participants with history of advanced histopathologically or cytologically confirmed CRC that does not harbor the mutation and are not dMMR+/MSI-H with progression on:
+
+  * A fluoropyrimidine (e
+
+----------------------------------------------------------------------
+
+**NCT03667170** - KN035 for dMMR/MSI-H Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: KN035
+
+Biomarker Criteria:
+  - * Confirmed MMR deficient or MSI-H status
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patient has a histologically confirmed diagnosis of any of the following locally advanced or metastatic solid tumors: melanoma, pleural mesothelioma, renal cell carcinoma, MSI-high or mismatch repair-deficient colorectal cancer, hepatocellular carcinoma, and non-small cell lung cancer with no EGFR or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, or tumor types for which the combination of ipilimumab and nivolumab has been FDA approved
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Previous treatment with vascular endothelial growth factor receptor (VEGFR) inhibitors or previous use of immune checkpoint inhibitors;
+* With BRAF mutation or MSI-H status;
+* Other untreated or concurrent tumors (except cervical carcinoma in situ, treated basal cell carcinoma or superficial bladder tumor, or if the tumor is cured and there is no evidence of disease for more than 3 years);
+* Have received other systemic anti-tumor treatments, including chemotherapy, signal transduction inhibitors, hormone therapy and immunotherapy within 4 weeks before enrollment;
+* There was central nervous system (CNS) metastasis or previous brain metastasis before enrollment;
+* Have received any surgery or invasive treatment or operation within 4 weeks before enrollment;
+* Have received Local anti-tumor therapy such as hepatic artery interventional embolization, liver metastasis cryoablation or radiofrequency ablation within 4 weeks before enrollment;
+* Uncontrolled malignant ascites;
+* Participated in other clinical trials within 4 weeks before enrollment, and received corresponding experimental drug treatment;
+* Allergic to the study drug or any of its adjuvants;
+* International normalized ratio (INR) \> 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (5 trials)
+======================================================================
+
+**NCT04678583** - Anatomical Resection of Liver MetAstases iN patIents With RAS-mutated Colorectal Cancer
+Phase: NA | Status: RECRUITING
+Interventions: Resection of colorectal liver metastases
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Colorectal cancer with RAS mutation (KRAS or NRAS)
+* Colorectal liver metastases (single or multiple)
+* Planned R0 resection of liver metastases (and primary tumor, if present)
+* Anatomical and non-anatomical liver resection technically feasible
+* Male and female patients, age ≥ 18 years
+* Written informed consent
+
+Exclusion Criteria:
+
+* Extrahepatic metastases
+* Planned staged liver resection (e
+
+----------------------------------------------------------------------
+
+**NCT05217069** - FOLFIRI + Cetuximab + Avelumab RAS Wild-type CRC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: 5-FU, Folinic Acid
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically confirmed, UICC stage IV adenocarcinoma of the colon or rectum with metastases (metastatic colorectal cancer), metastases primarily non-resectable or surgery refused by the patient
+* RAS wild-type tumour status (KRAS and NRAS exon 2, 3, 4) (proven in the primary tumour or metastasis)
+* Age ≥18
+* ECOG performance status 0-1
+* Patients suitable for chemotherapy administration
+* Patient's written declaration of consent obtained
+* Estimated life expectancy \> 3 months
+* Presence of at least one measurable reference lesion according to the RECIST 1
+  - * Any relevant toxicities of prior treatments must have resolved
+
+Exclusion Criteria:
+
+* Proof of a RAS mutation (KRAS or NRAS, exons 2, 3, 4 in the tumor (proven in the primary tumor or metastasis) or absence of testing for RAS mutation
+* Primarily resectable metastases and the patient wishes for resection
+* ≥ Grade II heart failure (NYHA classification)
+* Myocardial infarction, balloon angioplasty (PTCA) with or without stenting, and cere-bral vascular accident/stroke within the past 12 months before start of study treat-ment, unstable angina pectoris, serious cardiac arrhythmia according to investigator's judgement requiring medication
+
+----------------------------------------------------------------------
+
+**NCT04923620** - Neoadjuvant Cetuximab + Chemotherapy Combined With Short-course Radiotherapy
+Phase: Not specified | Status: RECRUITING
+Interventions: cetuximab+mFOLFOX6, short-course radiotherapy
+
+Biomarker Criteria:
+  - An ARMS-PCR proven KRAS, NRAS, PI3KCA and BRAF wild type;
+3
+  - Patients with mutations in any of KRAS, NRAS, or BRAF, microsatellite instablility-High;
+2
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced or Metastatic HER2/Neu Amplifie
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cetuximab, Irinotecan Hydrochloride
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* STEP 1 INITIAL REGISTRATION: HER2 TESTING
+* Patients must have histologically or cytologically documented adenocarcinoma of the colon or rectum that is metastatic or locally advanced and unresectable
+* Mutation results:
+
+  * All patients must have molecular testing performed in a Clinical Laboratory Improvement Act (CLIA) certified lab which includes which includes KRAS and NRAS gene and exon 15 of BRAF gene (BRAF V600E mutation); patients with any known activating mutation in exon 2 \[codons 12 and 13\], exon 3 \[codons 59 and 61\] and exon 4 \[codons 117 and 146\]) of KRAS/NRAS genes and in exon 15 (BRAFV600E mutation) of BRAF gene are not eligible
+* Patients must not have been treated with any of the following prior to step 1 initial registration:
+
+  * Cetuximab, panitumumab, or any other monoclonal antibody against EGFR or inhibitor of EGFR
+  * HER-2 targeting for treatment of colorectal cancer; patients who have received prior trastuzumab or pertuzumab for other indications such as prior history of adjuvant or neoadjuvant breast cancer treatment prior to the development of advanced colorectal cancer are eligible
+* Patients must not have had history of severe toxicity and intolerance to or hypersensitivity to irinotecan or any other study drug; patients must not have had a severe infusion-related reaction during any prior therapy with pertuzumab or trastuzumab
+* Patients must have tumor slides available for submission for HER-2 testing; HER-2 testing must be completed by the central lab prior to step 2 randomization
+* Patients must be informed of the investigational nature of this study and must sign and give informed consent in accordance with institutional and federal guidelines; for step 1 initial registration, the appropriate consent form is the step 1 consent form
+* As a part of the OPEN registration process the treating institution's identity is provided in order to ensure that the current (within 365 days) date of institutional review board approval for this study has been entered in the system
+* STEP 2 RANDOMIZATION
+* Patients must have HER-2 amplification as determined by central testing (3+ or 2+ by immunohistochemistry and HER-2 gene amplification by in situ hybridization with a ratio of HER-2 gene signals to centromere 17 signals \>= 2
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically or cytologically confirmed non resectable, locally advanced or metastatic colorectal cancer;
+* No previous anti-tumor treatment for metastatic diseases;
+* KRAS/NRAS mutation;
+* Eastern Cooperation Oncology Group (ECOG) performance status of 0-1;
+* Life expectancy ≥ 3 months;
+* Adequate organ and bone marrow functions:
+
+Absolute neutrophil count≥1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (7 trials)
+======================================================================
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Rego+Tori+Cele
+
+Biomarker Criteria:
+  - Previously received antibodies against Programmed cell death protein-1 (PD-1) or its ligand (PD-L1), antibodies against cytotoxic T-lymphocyte associated protein 4 (CTLA-4), or other drugs/antibodies that act on the costimulation or checkpoint pathway of T cells
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab
+
+Biomarker Criteria:
+  - Patients with immunohistochemistry for PD-L1 with a combined positive score (CPS) of 10 or higher
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - Known allergy to anti-PD-L1 including :
+
+   * History of severe allergic anaphylactic reactions to chimeric, human or humanized antibodies, or fusion proteins
+
+----------------------------------------------------------------------
+
+**NCT06205836** - Cemiplimab With or Without Fianlimab to Treat Older Patients With Localized or Locally Advanced MSI-H Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cemiplimab, Fianlimab
+
+Biomarker Criteria:
+  - * History of prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA4, or anti-Lag-3 antibodies for any reason in the 5 years proceeding their colorectal cancer diagnosis
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - , VEGF targeted agents, anti-PD-1 or PD-L1)
+
+----------------------------------------------------------------------
+
+**NCT03095781** - Pembrolizumab and XL888 in Patients With Advanced Gastrointestinal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: XL888, Pembrolizumab
+
+Biomarker Criteria:
+  - ) is not considered a form of systemic treatment
+* Has known history of, or any evidence of active, non-infectious pneumonitis
+* Has an active infection requiring systemic therapy
+* Has known substance abuse disorders that would interfere with cooperation with the requirements of the trial
+* Is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the pre-screening or screening visit through 120 days after the last dose of trial treatment
+* Has received prior therapy with an anti-programmed death (PD)-1, anti-PD-L1, or anti-PD-L2 agent
+* Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+* Has known active hepatitis B (e
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patients may have received treatment with anti PD-1/PD-L1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (7 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA Mismatch Repair
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Atezolizumab, Biospecimen Collection
+
+Biomarker Criteria:
+  - those at the ileocecal valve)
+* Presence of deficient (d) DNA mismatch repair (dMMR); MMR status must be assessed by immunohistochemistry (IHC) for MMR protein expression (MLH1, MSH2, MSH6, PMS2) where loss of one or more proteins indicates dMMR; dMMR may be determined either locally or by site-selected reference lab; Note: loss of MLH1 and PMS2 commonly occur together; formalin-fixed paraffin-embedded (FFPE) tumor tissue is required for subsequent retrospective central confirmation of dMMR status
+* Patients with testing that did not show dMMR (loss of MMR protein) are not eligible to participate; patients whose tumors show MSI-H by PCR-based assay are not eligible to participate unless they also have MMR testing by IHC and are found to have dMMR (i
+  - loss of one or more MMR proteins)
+* Patients who are known to have Lynch syndrome, have been found to carry a specific germline mutation in an MMR gene (MLH1, MSH2, MSH6, PMS2), and have been shown to be dMMR by IHC are eligible to participate
+* Tumors must have been completely resected; in patients with tumor adherent to adjacent structures, en bloc R0 resection must be documented in the operative report or otherwise confirmed by the surgeon; near or positive radial margins are acceptable so long as en bloc resection was performed; proximal or distal margin positivity is not permitted
+* Entire tumor must be in the colon (rectal involvement is an exclusion); surgeon confirmation that entire tumor was located in the colon is required only in cases where it is important to establish if the tumor is a colon versus (vs
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cetuximab and irinotecan
+
+Biomarker Criteria:
+  - dMMR/MSI-H mCRC
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF Wild Metastatic Colorectal Can
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+
+Biomarker Criteria:
+  - Has dMMR/MSI-H
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Signatera test, mFOLFOX6 3-6 month
+
+Biomarker Criteria:
+  - Patients whose tumors are MSI-H or dMMR are excluded
+
+----------------------------------------------------------------------
+
+**NCT06205836** - Cemiplimab With or Without Fianlimab to Treat Older Patients With Localized or Locally Advanced MSI-H Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Cemiplimab, Fianlimab
+
+Biomarker Criteria:
+  - * Eastern Cooperative Oncology Group (ECOG) performance status 0 -2
+* Have histologically proven localized or locally advanced mismatch repair deficient (dMMR) or microsatellite unstable (MSI-H) colorectal cancer
+  - * Have histologically proven localized or locally advanced mismatch repair deficient (dMMR) or microsatellite unstable (MSI-H) colorectal cancer
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Standard treatment options are described in (Association NHCOTPROCSOOCM,2023):
+
+* Prior systemic standard therapy for patients with MMR-deficient (dMMR)/microsatellite instability-high (MSI-H): pembrolizumab for 1st line therapy, no standard therapy for 2nd and 3rd line therapy
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 4 only - Participants with history of advanced histopathologically or cytologically confirmed colorectal cancer (CRC) that does not harbor the BRAF V600E mutation and are not dMMR+/MSI-Hi with progression on:
+
+  * A fluoropyrimidine (e
+  - * Intolerant to the standard treatment are eligible
+* For Part 7 (CRC combination) only: Participants with history of advanced histopathologically or cytologically confirmed CRC that does not harbor the mutation and are not dMMR+/MSI-H with progression on:
+
+  * A fluoropyrimidine (e
+
+----------------------------------------------------------------------
+

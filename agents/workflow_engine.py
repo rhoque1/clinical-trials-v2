@@ -1,6 +1,6 @@
 """
 Workflow Engine - Orchestrates the complete clinical trial matching process
-Connects: Orchestrator → State Machines → LLM Agents → Tools
+Connects: Orchestrator -> State Machines -> LLM Agents -> Tools
 """
 import asyncio
 from typing import Dict, Any, Optional
@@ -45,7 +45,7 @@ class WorkflowEngine:
         discovery.global_memory['patient_profile'] = patient_profile
         discovery.global_memory['search_terms'] = patient_profile.get('search_terms', [])
         
-        print(f"\n🔍 Searching trials with {len(patient_profile.get('search_terms', []))} search terms")
+        print(f"\n[SEARCH] Searching trials with {len(patient_profile.get('search_terms', []))} search terms")
         
         # Execute all states
         # Execute all states
@@ -56,7 +56,7 @@ class WorkflowEngine:
             if not current_state:
                 break
             
-            print(f"\n⚙️  State {step_num}: {current_state.name}")
+            print(f"\n[*] State {step_num}: {current_state.name}")
             print(f"   {current_state.description}")
             
             # Build task based on state
@@ -102,18 +102,18 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             # Show progress
             state_result = result.get('state_result', {})
             if current_state.name == "execute_search":
-                print(f"   ✅ Found {state_result.get('total_trials_found', 0)} trials")
+                print(f"   [OK] Found {state_result.get('total_trials_found', 0)} trials")
             elif current_state.name == "deduplicate":
-                print(f"   ✅ {state_result.get('unique_active_trials', 0)} unique active trials")
+                print(f"   [OK] {state_result.get('unique_active_trials', 0)} unique active trials")
             elif current_state.name == "rank_trials":
                 if state_result.get('status') == 'continue':
-                    print(f"   ⏳ Batch {state_result.get('batch_complete')}/{state_result.get('total_batches')} complete...")
+                    print(f"   [~] Batch {state_result.get('batch_complete')}/{state_result.get('total_batches')} complete...")
                     # Don't increment step_num, stay on this state
                     continue  # Skip the step_num increment and loop again
                 else:
-                    print(f"   ✅ Ranked {state_result.get('trials_ranked', 0)} trials")
+                    print(f"   [OK] Ranked {state_result.get('trials_ranked', 0)} trials")
             else:
-                print(f"   ✅ Completed")
+                print(f"   [OK] Completed")
             
             step_num += 1
         
@@ -128,9 +128,9 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         }
         
         print("\n" + "="*70)
-        print("✅ TRIAL DISCOVERY COMPLETE")
+        print("[OK] TRIAL DISCOVERY COMPLETE")
         print("="*70)
-        print(f"\n📊 Discovery Summary:")
+        print(f"\n[SUMMARY] Discovery Summary:")
         print(f"   Total trials found: {result['total_found']}")
         print(f"   Top ranked trials: {len(ranked_trials)}")
         if ranked_trials:
@@ -161,26 +161,36 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         print("="*70)
         
         # Create knowledge enhancement state machine
-        enhancer = KnowledgeEnhancedRankingMachine()
+        print("\n" + "="*70)
+        print("STEP 2.5: KNOWLEDGE-ENHANCED RANKING (RAG)")
+        print("="*70)
+        
+        # === EXPERIMENT CONTROL ===
+        # Set to True to disable RAG for control group testing
+        DISABLE_RAG_FOR_EXPERIMENT = False  # ← Change this to toggle RAG
+        # === END EXPERIMENT CONTROL ===
+        
+        # Create knowledge enhancement state machine
+        enhancer = KnowledgeEnhancedRankingMachine(disable_rag_for_experiment=DISABLE_RAG_FOR_EXPERIMENT)
         agent = StateMachineAgent(enhancer, model="gpt-4o")
         
         # Store required data
         enhancer.global_memory['patient_profile'] = patient_profile
         enhancer.global_memory['ranked_trials'] = ranked_trials[:10]  # Top 10 only
         
-        print(f"\n🧠 Enhancing rankings with clinical guidelines")
+        print(f"\n[RAG] Enhancing rankings with clinical guidelines")
         
         # Execute enhancement state
         current_state = enhancer.get_current_state()
         
         if current_state:
-            print(f"\n⚙️  State: {current_state.name}")
+            print(f"\n[*]  State: {current_state.name}")
             print(f"   {current_state.description}")
             
             task = "Enhance trial rankings using clinical guideline context"
             result = await agent.execute_state(task)
             
-            print(f"   ✅ Completed")
+            print(f"   [OK] Completed")
         
         # Extract results
         enhanced_trials = enhancer.global_memory.get('ranked_trials', ranked_trials)
@@ -193,9 +203,9 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         }
         
         print("\n" + "="*70)
-        print("✅ KNOWLEDGE ENHANCEMENT COMPLETE")
+        print("[OK] KNOWLEDGE ENHANCEMENT COMPLETE")
         print("="*70)
-        print(f"\n📊 Enhancement Summary:")
+        print(f"\n[SUMMARY] Enhancement Summary:")
         print(f"   Trials enhanced: {result['enhancement_count']}")
         print(f"   Top 3 after RAG:")
         for i, trial in enumerate(enhanced_trials[:3], 1):
@@ -203,7 +213,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             new_score = trial.get('score', 'N/A')
             guideline_score = trial.get('guideline_score', 'N/A')
             print(f"     {i}. {trial.get('nct_id')}")
-            print(f"        Original: {orig_score} → Adjusted: {new_score} (Guideline: {guideline_score})")
+            print(f"        Original: {orig_score} -> Adjusted: {new_score} (Guideline: {guideline_score})")
         
         self.session_data['knowledge_enhancement'] = result
         return result
@@ -233,7 +243,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         analyzer.global_memory['patient_profile'] = patient_profile
         analyzer.global_memory['ranked_trials'] = ranked_trials[:10]  # Top 10 only
         
-        print(f"\n⚖️  Analyzing eligibility for {len(ranked_trials[:10])} trials")
+        print(f"\n⚖  Analyzing eligibility for {len(ranked_trials[:10])} trials")
         
         # Execute all states
         step_num = 1
@@ -243,7 +253,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             if not current_state:
                 break
             
-            print(f"\n⚙️  State {step_num}: {current_state.name}")
+            print(f"\n[*] State {step_num}: {current_state.name}")
             print(f"   {current_state.description}")
             
             # Build task based on state
@@ -291,17 +301,17 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             # Show progress
             state_result = result.get('state_result', {})
             if current_state.name == "extract_criteria":
-                print(f"   ✅ Extracted from {state_result.get('trials_processed', 0)} trials")
+                print(f"   [OK] Extracted from {state_result.get('trials_processed', 0)} trials")
             elif current_state.name == "match_demographics":
-                print(f"   ✅ {state_result.get('passing_trials', 0)} passed demographics")
+                print(f"   [OK] {state_result.get('passing_trials', 0)} passed demographics")
             elif current_state.name == "match_clinical_features":
-                print(f"   ✅ {state_result.get('high_scoring_trials', 0)} scored ≥0.7")
+                print(f"   [OK] {state_result.get('high_scoring_trials', 0)} scored >=0.7")
             elif current_state.name == "assess_eligibility":
-                print(f"   ✅ {state_result.get('highly_likely_matches', 0)} highly likely matches")
+                print(f"   [OK] {state_result.get('highly_likely_matches', 0)} highly likely matches")
             elif current_state.name == "generate_recommendations":
-                print(f"   ✅ {state_result.get('top_matches_count', 0)} final recommendations")
+                print(f"   [OK] {state_result.get('top_matches_count', 0)} final recommendations")
             else:
-                print(f"   ✅ Completed")
+                print(f"   [OK] Completed")
             
             step_num += 1
         
@@ -316,9 +326,9 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         }
         
         print("\n" + "="*70)
-        print("✅ ELIGIBILITY ANALYSIS COMPLETE")
+        print("[OK] ELIGIBILITY ANALYSIS COMPLETE")
         print("="*70)
-        print(f"\n📊 Analysis Summary:")
+        print(f"\n[SUMMARY] Analysis Summary:")
         top_matches = result['top_matches']
         print(f"   Top matches: {len(top_matches)}")
         if top_matches:
@@ -334,7 +344,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
     
     async def run_complete_workflow(self, pdf_path: str, save_results: bool = True) -> Dict[str, Any]:
         """
-        Run the complete workflow: Profile → Search → Match → Advise
+        Run the complete workflow: Profile -> Search -> Match -> Advise
         
         Args:
             pdf_path: Path to medical report PDF
@@ -404,7 +414,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             
             # Display final summary
             print("\n" + "="*70)
-            print("📊 COMPLETE PIPELINE SUMMARY")
+            print("[SUMMARY] COMPLETE PIPELINE SUMMARY")
             print("="*70)
             
             # Patient info
@@ -444,16 +454,16 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             # Save results
             if save_results:
                 output_path = self._save_complete_results(final_results)
-                print(f"\n💾 Results saved to: {output_path}")
+                print(f"\n[SAVED] Results saved to: {output_path}")
             
             print("\n" + "="*70)
-            print("✅ COMPLETE WORKFLOW FINISHED")
+            print("[OK] COMPLETE WORKFLOW FINISHED")
             print("="*70)
             
             return final_results
             
         except Exception as e:
-            print(f"\n❌ WORKFLOW FAILED: {str(e)}")
+            print(f"\n[ERROR] WORKFLOW FAILED: {str(e)}")
             return {
                 "success": False,
                 "error": str(e),
@@ -497,7 +507,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         print("="*70)
         
         # Extract PDF content
-        print(f"\n📄 Reading medical report: {pdf_path}")
+        print(f"\n[PDF] Reading medical report: {pdf_path}")
         pdf_result = extract_medical_report(pdf_path)
         
         if not pdf_result["success"]:
@@ -506,7 +516,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
                 "error": pdf_result["error"]
             }
         
-        print(f"✅ PDF extracted: {pdf_result['included_chars']} characters")
+        print(f"[OK] PDF extracted: {pdf_result['included_chars']} characters")
         print(f"   Preview: {pdf_result['content'][:150]}...\n")
         
         # Create patient profiler state machine
@@ -524,13 +534,13 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             current_state = profiler.get_current_state()
             
             # DEBUG
-            print(f"\n🔍 Loop iteration {step_num}: Current state = {current_state.name if current_state else 'None'}")
+            print(f"\n[DEBUG] Loop iteration {step_num}: Current state = {current_state.name if current_state else 'None'}")
             print(f"   Is complete? {agent.is_complete()}")
             
             if not current_state:
                 break
                 
-            print(f"⚙️  State {step_num}: {current_state.name}")
+            print(f"[*]  State {step_num}: {current_state.name}")
             print(f"   {current_state.description}")
             
             # For first 4 states, use PDF content
@@ -542,7 +552,7 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
             
             result = await agent.execute_state(task)
             
-            print(f"   ✅ Completed\n")
+            print(f"   [OK] Completed\n")
             step_num += 1
         
         # Extract final results
@@ -556,9 +566,9 @@ Return ONLY a JSON array: ["query1", "query2", "query3", "query4", "query5"]"""
         }
         
         print("="*70)
-        print("✅ PATIENT PROFILE COMPLETE")
+        print("[OK] PATIENT PROFILE COMPLETE")
         print("="*70)
-        print(f"\n📊 Profile Summary:")
+        print(f"\n[SUMMARY] Profile Summary:")
         print(f"   Demographics: {profile['demographics']}")
         print(f"   Diagnoses: {profile['diagnoses']}")
         print(f"   Biomarkers: {profile['biomarkers']}")

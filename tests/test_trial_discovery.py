@@ -44,7 +44,7 @@ def test_trial_discovery():
         ]
     }
     
-    print("\n📋 Starting with patient profile:")
+    print("\n[LIST] Starting with patient profile:")
     print(f"   Diagnosis: {sm.global_memory['diagnoses'][0]}")
     print(f"   Search terms: {len(sm.global_memory['search_terms'])} terms")
     print(f"   Key biomarkers: PIK3CA, PD-L1, HPV-16")
@@ -131,13 +131,13 @@ def test_trial_discovery():
             result = await agent.execute_state(task)
             
             if result.get('state_result'):
-                print(f"✓ State completed")
+                print(f"[+] State completed")
                 print(f"  Memory keys updated: {list(result['state_result'].keys())}")
             else:
-                print(f"⚠ State returned no result")
+                print(f"[!] State returned no result")
         
         if step >= max_steps:
-            print(f"\n⚠ Stopped after {max_steps} steps (safety limit)")
+            print(f"\n[!] Stopped after {max_steps} steps (safety limit)")
         
         return True
     
@@ -150,18 +150,18 @@ def test_trial_discovery():
     print("=" * 80)
     
     if "search_queries" in sm.global_memory:
-        print(f"\n✓ Search Queries Generated: {len(sm.global_memory['search_queries'])}")
+        print(f"\n[+] Search Queries Generated: {len(sm.global_memory['search_queries'])}")
         for i, query in enumerate(sm.global_memory['search_queries'], 1):
             print(f"   {i}. {query}")
     
     if "raw_trials" in sm.global_memory:
-        print(f"\n✓ Raw Trials Retrieved: {len(sm.global_memory['raw_trials'])}")
+        print(f"\n[+] Raw Trials Retrieved: {len(sm.global_memory['raw_trials'])}")
     
     if "filtered_trials" in sm.global_memory:
-        print(f"✓ Active Trials After Filtering: {len(sm.global_memory['filtered_trials'])}")
+        print(f"[+] Active Trials After Filtering: {len(sm.global_memory['filtered_trials'])}")
     
     if "ranked_trials" in sm.global_memory:
-        print(f"✓ Trials Ranked: {len(sm.global_memory['ranked_trials'])}")
+        print(f"[+] Trials Ranked: {len(sm.global_memory['ranked_trials'])}")
         if sm.global_memory['ranked_trials']:
             print(f"\n   Top 3 Trials:")
             for i, trial in enumerate(sm.global_memory['ranked_trials'][:3], 1):
@@ -172,7 +172,7 @@ def test_trial_discovery():
     
     if "trial_summaries" in sm.global_memory:
         summaries = sm.global_memory['trial_summaries']
-        print(f"\n✓ Trial Summaries Prepared: {len(summaries)}")
+        print(f"\n[+] Trial Summaries Prepared: {len(summaries)}")
         if summaries:
             print(f"\n   First Summary:")
             first = summaries[0]
@@ -186,11 +186,11 @@ def test_trial_discovery():
     # Check completion
     if sm.global_memory.get("trial_discovery_complete"):
         print("\n" + "=" * 80)
-        print("✅ TRIAL DISCOVERY COMPLETE - ALL 5 STATES EXECUTED SUCCESSFULLY")
+        print("[OK] TRIAL DISCOVERY COMPLETE - ALL 5 STATES EXECUTED SUCCESSFULLY")
         print("=" * 80)
         return True
     else:
-        print("\n❌ Trial discovery did not complete")
+        print("\n[X] Trial discovery did not complete")
         return False
 
 if __name__ == "__main__":

@@ -1,0 +1,770 @@
+# Enhanced Biomarker-Specific Trials: Cervical Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 165
+
+
+======================================================================
+## ALK (11 trials)
+======================================================================
+
+**NCT02870270** - Prospective Studies on Oral Health and Quality of Life in Head and Neck Cancer Patients
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 33
+Interventions: Cancer treatment
+Locations: 1 sites
+Primary Outcome: Changes in salivary secretion rate
+
+----------------------------------------------------------------------
+
+**NCT03120572** - Effect of Concurrent Chemoradiation Therapy on Respiratory Muscle Performance, Lung Function and Functional Capacity in 
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 45
+Locations: 1 sites
+Primary Outcome: Change of maximal inspiratory pressure (MIP)
+
+----------------------------------------------------------------------
+
+**NCT00909402** - A Study of BMS-833923 With Cisplatin and Capecitabine in Inoperable, Metastatic Gastric, Gastroesophageal, or Esophageal
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 39
+Interventions: BMS-833923, Cisplatin
+Locations: 6 sites
+Primary Outcome: Use National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) to establ
+
+----------------------------------------------------------------------
+
+**NCT00040859** - Oxaliplatin and Capecitabine in Treating Patients With Advanced Esophageal Cancer or Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 48
+Interventions: capecitabine, oxaliplatin
+Locations: 6 sites
+Primary Outcome: Objective tumor response rate
+
+----------------------------------------------------------------------
+
+**NCT01289522** - Chemotherapy With Cetuximab in Treating Patients With Recurrent or Metastatic Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 54
+Interventions: cetuximab IV, Biopsies
+Locations: 14 sites
+Primary Outcome: Objective Tumor Response Rate
+
+----------------------------------------------------------------------
+
+**NCT01064479** - Combination Chemotherapy With or Without Erlotinib Hydrochloride in Treating Patients With Metastatic or Recurrent Squam
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 123
+Interventions: Carboplatin, Cisplatin
+Locations: 5 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT00721513** - Docetaxel, Cisplatin, and Fluorouracil Followed By Cetuximab and Radiation Therapy in Treating Patients With Locally Adv
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: cetuximab, cisplatin
+Locations: 1 sites
+Primary Outcome: Progression-free Survival
+
+----------------------------------------------------------------------
+
+**NCT00087113** - Pemetrexed Disodium in Treating Patients With Recurrent Cancer of the Cervix
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: pemetrexed disodium
+Locations: 22 sites
+Primary Outcome: Antitumor activity
+
+----------------------------------------------------------------------
+
+**NCT00005837** - Oxaliplatin in Treating Patients With Recurrent or Refractory Cervical Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: oxaliplatin
+Locations: 72 sites
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+Locations: 1 sites
+Primary Outcome: Percentage of participants experiencing dose limiting toxicities (DLT) attributed to radiation or co
+
+----------------------------------------------------------------------
+
+**NCT00474903** - Esomeprazole Magnesium With or Without Aspirin in Preventing Esophageal Cancer in Patients With Barrett Esophagus
+Phase: PHASE2 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 122
+Interventions: acetylsalicylic acid, esomeprazole magnesium
+Locations: 1 sites
+Primary Outcome: Change in Mean Tissue Prostaglandin E2 (PGE2) Concentration as Determined From Barrett's Research Mu
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (163 trials)
+======================================================================
+
+**NCT00003076** - Eflornithine to Prevent Cancer in Patients With Barrett's Esophagus
+Phase: PHASE2 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 152
+Interventions: eflornithine
+Locations: 5 sites
+
+----------------------------------------------------------------------
+
+**NCT03476018** - Trial to Optimally Show the Pharmacological Action of Z-100
+Phase: PHASE3 | Status: COMPLETED
+Purpose: BASIC_SCIENCE | Enrollment: 72
+Interventions: Z-100, Placebos
+Locations: 2 sites
+Primary Outcome: Change in the number of immunological cells
+
+----------------------------------------------------------------------
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 334
+Interventions: Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT04266223** - Surface Monitoring Technology to Remove The Mask - Stage 1
+Phase: NA | Status: RECRUITING
+Purpose: DEVICE_FEASIBILITY | Enrollment: 20
+Interventions: Mask-free surface monitoring
+Locations: 1 sites
+Primary Outcome: Continuous acquisition of position and motion data of anatomical structures by the surface monitorin
+
+----------------------------------------------------------------------
+
+**NCT06618703** - Brain Irradiation for Childhood Cancer - Endocrine Monitoring During the First Years
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: PREVENTION | Enrollment: 230
+Interventions: Blood sample, urine sample, osteodensitometry
+Primary Outcome: Endocrine toxicities assessment after radiotherapy involving all or part of the brain in children, a
+
+----------------------------------------------------------------------
+
+**NCT06009861** - Neoadjuvant Tislelizumab Plus Chemotherapy for Locally Advanced Oral/Oropharyngeal Cancer (NeoSPOT)
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 110
+Interventions: Tislelizumab, Albumin-Bound Paclitaxel
+Locations: 13 sites
+Primary Outcome: Rate of Event free survival (EFS) at 2 years
+
+----------------------------------------------------------------------
+
+**NCT04153266** - Oral Epithelial Dysplasia Informational Needs Questionnaire
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 128
+Interventions: No intervention is planned for this study
+Locations: 1 sites
+Primary Outcome: ODIN-Q validation
+
+----------------------------------------------------------------------
+
+**NCT06819228** - Window Trial of Fluorescently Labeled Panitumumab (Panitumumab-IRDye800) in Head and Neck Cancer
+Phase: EARLY_PHASE1 | Status: RECRUITING
+Purpose: SUPPORTIVE_CARE | Enrollment: 18
+Interventions: Panitumumab IRDye 800
+Locations: 1 sites
+Primary Outcome: Determine maximum tumor concentrating dose (MTC) of panitumumab in HNSCC.
+
+----------------------------------------------------------------------
+
+**NCT06184841** - HAIC Combined Sintilimab for Liver Metastasis From Esophageal Squamous Cell Carcinoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: HAIC combined with intravenous PD-1
+Locations: 1 sites
+Primary Outcome: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT02567422** - Testing the Addition of M6620 (VX-970, Berzosertib) to Usual Chemotherapy and Radiation for Head and Neck Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 43
+Interventions: Berzosertib, Cisplatin
+Locations: 19 sites
+Primary Outcome: Number of Participants Experiencing Grade 3, 4, and 5 Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT05775939** - PET/CT Imaging to Evaluate Cardiac Radiation Damage in Patients With Lung or Esophageal Cancer, EUCLID Trial
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 20
+Interventions: Fludeoxyglucose F-18, Positron Emission Tomography
+Locations: 1 sites
+Primary Outcome: Change in mean standardized uptake value (SUV) changes in the heart
+
+----------------------------------------------------------------------
+
+**NCT06198465** - Perioperative Adebrelimab and Chemotherapy in Esophageal and Esophagogastric Junction Carcinoma
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 24
+Interventions: adebrelimab,Paclitaxel,Lobaplatin,Fluorouracil
+Locations: 1 sites
+Primary Outcome: Pathological Complete Response (pCR)
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT00003237** - Combination Chemotherapy After Surgery in Treating Patients With Cancer of the Esophagus or Stomach
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 55
+Interventions: cisplatin, paclitaxel
+Locations: 30 sites
+
+----------------------------------------------------------------------
+
+**NCT01173172** - Boron Neutron Capture Therapy (BNCT) for Locally Recurrent Head and Neck Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 17
+Interventions: Boron Neutron Capture Therapy
+Locations: 1 sites
+Primary Outcome: Treatment toxicities and response rate
+
+----------------------------------------------------------------------
+
+**NCT05795595** - A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 250
+Interventions: CTX131
+Locations: 7 sites
+Primary Outcome: Phase 1 (Dose Escalation): Incidence of adverse events
+
+----------------------------------------------------------------------
+
+**NCT06810739** - The Women's Screening and Self-Testing Program (PROMETA) Study
+Phase: Not specified | Status: NOT_YET_RECRUITING
+Purpose:  | Enrollment: 8400
+Interventions: Cervical Cancer Screen-Triage-Treat Care Cascade
+Locations: 1 sites
+Primary Outcome: The number of women screened and the proportion of screen-positive women successfully undergoing tre
+
+----------------------------------------------------------------------
+
+**NCT00704639** - Chemoradiation Treatment for Head and Neck Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 60
+Interventions: Cetuximab, Carboplatin
+Locations: 1 sites
+Primary Outcome: Safety and Feasibility
+
+----------------------------------------------------------------------
+
+**NCT04624477** - Active Surveillance and Surgery Outcomes in Low Risk Papillary Thyroid Cancer
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 450
+Locations: 8 sites
+Primary Outcome: Number of Participants in the Active Surveillance Group who Experience 'Failure' of Active Surveilla
+
+----------------------------------------------------------------------
+
+**NCT06064877** - A Study of Ficlatuzumab in Combination With Cetuximab in Participants With Recurrent or Metastatic (R/M) HPV Negative He
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 410
+Interventions: Ficlatuzumab, Cetuximab
+Locations: 110 sites
+Primary Outcome: To compare the efficacy by overall survival of ficlatuzumab plus cetuximab vs placebo plus cetuximab
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (6 trials)
+======================================================================
+
+**NCT00551486** - Pyrosequencing of the BRAFV600E Mutation
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 101
+Interventions: ultrasound-guided fine needle aspiration biopsy
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT01811212** - Cabozantinib-S-Malate in Treating Patients With Refractory Thyroid Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Cabozantinib S-malate, Laboratory Biomarker Analysis
+Locations: 7 sites
+Primary Outcome: Objective Response Rate, Defined as the Proportion of Patients Who Have Had a PR or CR as Assessed b
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT06534762** - Milaberon in Advanced Solid Tumors: an Open, Multicenter Clinical Study
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 260
+Interventions: Mirabegron
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 185
+Interventions: LGK974, PDR001
+Locations: 20 sites
+Primary Outcome: Incidence of dose limiting toxicities (DLTs) during the first cycle of LGK974 treatment and during t
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (13 trials)
+======================================================================
+
+**NCT06064877** - A Study of Ficlatuzumab in Combination With Cetuximab in Participants With Recurrent or Metastatic (R/M) HPV Negative He
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 410
+Interventions: Ficlatuzumab, Cetuximab
+Locations: 110 sites
+Primary Outcome: To compare the efficacy by overall survival of ficlatuzumab plus cetuximab vs placebo plus cetuximab
+
+----------------------------------------------------------------------
+
+**NCT07040956** - A Clinical Trial Comparing Low-Dose RT + Targeted Therapy+ Immunotherapy vs Targeted Therapy+ Immunotherapy Alone as Neo
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 98
+Interventions: Tislelizumab, Afatinib
+Locations: 1 sites
+Primary Outcome: Major Pathologic Response
+
+----------------------------------------------------------------------
+
+**NCT01811212** - Cabozantinib-S-Malate in Treating Patients With Refractory Thyroid Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Cabozantinib S-malate, Laboratory Biomarker Analysis
+Locations: 7 sites
+Primary Outcome: Objective Response Rate, Defined as the Proportion of Patients Who Have Had a PR or CR as Assessed b
+
+----------------------------------------------------------------------
+
+**NCT04091867** - sEphB4-HSA With RT+Chemo or Cetux in Patients With Intermediate to High Risk LAHNSCC
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 3
+Interventions: sEphB4-HSA with chemotherapy, Cetuximab
+Locations: 1 sites
+Primary Outcome: The primary endpoint is whether a dose-limiting toxicity (DLT) occurs
+
+----------------------------------------------------------------------
+
+**NCT03212157** - GlucoCEST MRI in Oncology
+Phase: NA | Status: COMPLETED
+Purpose: BASIC_SCIENCE | Enrollment: 15
+Interventions: Glucose infusion, Magnetic Resonance Imaging (MRI)
+Locations: 1 sites
+Primary Outcome: Developing new biochemical imaging tracer
+
+----------------------------------------------------------------------
+
+**NCT00049166** - Erlotinib and Radiation Therapy With or Without Cisplatin in Treating Patients With Mouth or Throat Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 48
+Interventions: erlotinib hydrochloride, cisplatin
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) of cisplatin, graded according to the National Cancer Institute Common 
+
+----------------------------------------------------------------------
+
+**NCT01289522** - Chemotherapy With Cetuximab in Treating Patients With Recurrent or Metastatic Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 54
+Interventions: cetuximab IV, Biopsies
+Locations: 14 sites
+Primary Outcome: Objective Tumor Response Rate
+
+----------------------------------------------------------------------
+
+**NCT06912074** - Hypofractionated vs. Conventional Chemoradiotherapy After Induction Chemo-immunotherapy for Unresectable Esophageal Squa
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: Induction chemoimmunotherapy, Hypofractionated Radiation Therapy
+Locations: 1 sites
+Primary Outcome: Progression-free survival rate
+
+----------------------------------------------------------------------
+
+**NCT00265941** - Radiation Therapy and Cisplatin With or Without Cetuximab in Treating Patients With Stage III or Stage IV Head and Neck 
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 940
+Interventions: cetuximab, cisplatin
+Locations: 372 sites
+Primary Outcome: Progression-free Survival (PFS) (3-year Rate Reported)
+
+----------------------------------------------------------------------
+
+**NCT00721513** - Docetaxel, Cisplatin, and Fluorouracil Followed By Cetuximab and Radiation Therapy in Treating Patients With Locally Adv
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: cetuximab, cisplatin
+Locations: 1 sites
+Primary Outcome: Progression-free Survival
+
+----------------------------------------------------------------------
+
+**NCT00281866** - Erlotinib in Treating Patients With Metastatic and/or Recurrent Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 37
+Interventions: erlotinib hydrochloride
+Locations: 2 sites
+Primary Outcome: Relationship between response rate and number of CA repeats in intron 1 of the EGFR
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+Locations: 1 sites
+Primary Outcome: Percentage of participants experiencing dose limiting toxicities (DLT) attributed to radiation or co
+
+----------------------------------------------------------------------
+
+**NCT00468169** - Cetuximab (ERBITUX®) Added to Two Concurrent Chemoradiotherapy Platforms in Locally Advanced Head and Neck Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 110
+Interventions: Cetuximab, 5-FU
+Locations: 1 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (5 trials)
+======================================================================
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: DB-1310, Trastuzumab
+Locations: 21 sites
+Primary Outcome: Phase 1: Percentage of Participants with Dose-Limiting Toxicities (DLTs) as assessed by CTCAE v5.0. 
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT06063018** - RC48 Combined With Tislelizumab for Second-line Treatment of HER2 Expression in Recurrent Cervical Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: RC48 + Tislelizumab
+Locations: 1 sites
+Primary Outcome: Objective Response Rate（ORR）
+
+----------------------------------------------------------------------
+
+**NCT06155396** - A Study of RC48-ADC Combination With Zimberelimab Injection Therapies at Least First-line Platinum-containing Standard T
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 116
+Interventions: Disitamab Vedotin, Zimberelimab
+Locations: 12 sites
+Primary Outcome: Safety run-in ：Safety(adverse event)
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (1 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (20 trials)
+======================================================================
+
+**NCT03012620** - Secured Access to Pembrolizumab for Patients With Selected Rare Cancer Types
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 334
+Interventions: Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT06009861** - Neoadjuvant Tislelizumab Plus Chemotherapy for Locally Advanced Oral/Oropharyngeal Cancer (NeoSPOT)
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 110
+Interventions: Tislelizumab, Albumin-Bound Paclitaxel
+Locations: 13 sites
+Primary Outcome: Rate of Event free survival (EFS) at 2 years
+
+----------------------------------------------------------------------
+
+**NCT06184841** - HAIC Combined Sintilimab for Liver Metastasis From Esophageal Squamous Cell Carcinoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: HAIC combined with intravenous PD-1
+Locations: 1 sites
+Primary Outcome: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT06064877** - A Study of Ficlatuzumab in Combination With Cetuximab in Participants With Recurrent or Metastatic (R/M) HPV Negative He
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 410
+Interventions: Ficlatuzumab, Cetuximab
+Locations: 110 sites
+Primary Outcome: To compare the efficacy by overall survival of ficlatuzumab plus cetuximab vs placebo plus cetuximab
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Nivolumab
+Locations: 8 sites
+Primary Outcome: Primary Objective
+
+----------------------------------------------------------------------
+
+**NCT07141186** - QL1706 in Patients With Recurrent and Metastatic Cervical Cancer Resistant to Prior PD-1/PD-L1 Antibody Therapy
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: QL1706 (bispecific antibody targeting PD-1 and CLTA-4)
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT07040956** - A Clinical Trial Comparing Low-Dose RT + Targeted Therapy+ Immunotherapy vs Targeted Therapy+ Immunotherapy Alone as Neo
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 98
+Interventions: Tislelizumab, Afatinib
+Locations: 1 sites
+Primary Outcome: Major Pathologic Response
+
+----------------------------------------------------------------------
+
+**NCT05025813** - Neoadjuvant Pembrolizumab in Cutaneous Squamous Cell Carcinoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Pembrolizumab
+Locations: 3 sites
+Primary Outcome: Assess the rate of pathological response to neo-adjuvant Pembrolizumab
+
+----------------------------------------------------------------------
+
+**NCT06155396** - A Study of RC48-ADC Combination With Zimberelimab Injection Therapies at Least First-line Platinum-containing Standard T
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 116
+Interventions: Disitamab Vedotin, Zimberelimab
+Locations: 12 sites
+Primary Outcome: Safety run-in ：Safety(adverse event)
+
+----------------------------------------------------------------------
+
+**NCT06914011** - Circulating Tumor DNA MRD-Guided Adjuvant Therapy for Curatively Resected Locally Advanced Esophageal Squamous Cell Carc
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Purpose: SUPPORTIVE_CARE | Enrollment: 172
+Interventions: Tislelizumab
+Primary Outcome: Recurrence-free survival per RECIST v1.1
+
+----------------------------------------------------------------------
+
+**NCT04895345** - A Study of TQB2450 in Combination With Intensity-modulated Radiotherapy in Patients With Inoperable Locally Recurrent Na
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: TQB2450, Intensity modulated radiotherapy
+Locations: 1 sites
+Primary Outcome: Overall response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT02319044** - Phase II Study of MEDI4736, Tremelimumab, and MEDI4736 in Combination w/ Tremelimumab Squamous Cell Carcinoma of the Hea
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 267
+Interventions: MEDI4736, Tremelimumab
+Locations: 125 sites
+Primary Outcome: Objective Response Rate at 6 Months
+
+----------------------------------------------------------------------
+
+**NCT06912074** - Hypofractionated vs. Conventional Chemoradiotherapy After Induction Chemo-immunotherapy for Unresectable Esophageal Squa
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: Induction chemoimmunotherapy, Hypofractionated Radiation Therapy
+Locations: 1 sites
+Primary Outcome: Progression-free survival rate
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+**NCT04396886** - Bintrafusp Alfa in Previously Treated Patients With R/M Non-keratinizing NPC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 38
+Interventions: Bintrafusp Alfa
+Locations: 1 sites
+Primary Outcome: Evaluation of Objective Tumour Response
+
+----------------------------------------------------------------------
+
+**NCT04380805** - A Study of AK104, a PD-1/CTLA-4 Bispecific Antibody in Subjects With Recurrent/Metastatic Cervical Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: AK104
+Locations: 25 sites
+Primary Outcome: Objective response rate (ORR) assessed by Independent Radiological Review Committee (IRRC)
+
+----------------------------------------------------------------------
+
+**NCT03381183** - IRX-2 Regimen and Durvalumab, for Incurable H&N Squamous Cell Carcinoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 19
+Interventions: Durvalumab, IRX-2 Regimen
+Locations: 1 sites
+Primary Outcome: Phase 1 - Maximum Tolerated Dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT04428151** - Lenvatinib (E7080/MK-7902) in Combination With Pembrolizumab (MK-3475) vs. Standard Chemotherapy and Lenvatinib Monother
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 408
+Interventions: Lenvatinib, Pembrolizumab
+Locations: 120 sites
+Primary Outcome: Overall Survival (OS)
+
+----------------------------------------------------------------------
+
+**NCT02841748** - A Randomized, Double-Blind Phase II Study of Adjuvant Pembrolizumab Versus Placebo in Head and Neck Cancers at High Risk
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 100
+Interventions: Pembrolizumab, Placebo
+Locations: 4 sites
+Primary Outcome: Progression free survival
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT01811212** - Cabozantinib-S-Malate in Treating Patients With Refractory Thyroid Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Cabozantinib S-malate, Laboratory Biomarker Analysis
+Locations: 7 sites
+Primary Outcome: Objective Response Rate, Defined as the Proportion of Patients Who Have Had a PR or CR as Assessed b
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (1 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+

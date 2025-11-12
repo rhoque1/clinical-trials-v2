@@ -1,0 +1,924 @@
+# Biomarker-Specific Trials: Prostate Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 118
+
+
+======================================================================
+## ALK (12 trials)
+======================================================================
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Zanzalintinib
+
+Biomarker Criteria:
+  - 5 × upper limit of normal (ULN); ≤ 3 × ULN for subjects with Gilbert's disease
+    * Aspartate aminotransferase (AST) ≤ 3 × ULN
+    * Alanine aminotransferase (ALT) ≤ 3 × ULN
+    * Alkaline phosphatase (ALP) ≤ 3 × ULN; ≤ 5 × ULN for subjects with documented bone metastasis; ≤ 10 x ULN for subjects with CRPC and bone metastasis if predominantly bone-specific ALP
+    * International Normalized Ratio (INR) ≤ 1
+
+----------------------------------------------------------------------
+
+**NCT05110495** - IGF Inhibition With Xentuzumab Prior to Radical Prostatectomy
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: Xentuzumab
+
+Biomarker Criteria:
+  - 5 x10\*9/L Platelet count ≥ 100 x 10\*9/L AST, ALT, and alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT01051570** - Carboplatin, Everolimus, and Prednisone in Treating Patients With Metastatic Prostate Cancer That Progressed After Docetaxel
+Phase: PHASE2 | Status: COMPLETED
+Interventions: carboplatin, RAD 001
+
+Biomarker Criteria:
+  - 5 times ULN if alkaline phosphatase normal OR alkaline phosphatase ≤ 4 times ULN if AST and/or ALT normal (for patients without documented bone metastases or for patients with liver metastases)
+* AST and/or ALT \< 2
+  - 5 times ULN, without regard to alkaline phosphatase levels (for patients with documented bone metastases)
+* Fasting serum cholesterol ≤ 300 mg/dL OR ≤ 7
+
+----------------------------------------------------------------------
+
+**NCT00147212** - ET 743 (Yondelis) in Men With Advanced Prostate Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: ET 743
+
+Biomarker Criteria:
+  - 0 x upper limit normal (ULN)
+* Serum alkaline phosphatase \< 1
+
+----------------------------------------------------------------------
+
+**NCT00888654** - Diindolylmethane in Treating Patients With Stage I or Stage II Prostate Cancer Undergoing Radical Prostatectomy
+Phase: PHASE2 | Status: COMPLETED
+Interventions: B-Dim, Radical Prosatectomy
+
+Biomarker Criteria:
+  - 5 times ULN if alkaline phosphatase normal OR alkaline phosphatase ≤ 4 times ULN if AST and/or ALT normal
+* Serum creatinine ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00694551** - PSMA and TARP Peptide Vaccine With Poly IC-LC Adjuvant in HLA-A2 (+) Patients With Elevated PSA After Initial Definitive Treatment
+Phase: NA | Status: COMPLETED
+Interventions: Peptide Vaccine, Poly IC-LC
+
+Biomarker Criteria:
+  - Alkaline phosphatase up to 2
+
+----------------------------------------------------------------------
+
+**NCT06826768** - A Ph Ib Study of REGN5678 Plus Cemiplimab in Patients With mCRPC
+Phase: PHASE1 | Status: RECRUITING
+Interventions: REGN5678, Cemiplimab
+
+Biomarker Criteria:
+  - Alkaline Phosphatase (ALP)
+
+----------------------------------------------------------------------
+
+**NCT00078923** - Soy Isoflavones in Treating Patients Who Are Undergoing Radical Prostatectomy for Stage I or Stage II Adenocarcinoma of the Prostate
+Phase: PHASE2 | Status: COMPLETED
+Interventions: soy isoflavones, neoadjuvant therapy
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically confirmed adenocarcinoma of the prostate
+
+  * Stage T1c or T2
+  * Disease confined to the prostate gland
+* Planning to undergo radical prostatectomy within the next 3-4 weeks
+
+PATIENT CHARACTERISTICS:
+
+Age
+
+* 18 and over
+
+Performance status
+
+* Not specified
+
+Life expectancy
+
+* Not specified
+
+Hematopoietic
+
+* Not specified
+
+Hepatic
+
+* ALT and AST less than 2 times upper limit of normal (ULN)
+* Alkaline phosphatase less than 2 times ULN
+
+Renal
+
+* Not specified
+
+Other
+
+* Fertile patients must use effective barrier contraception
+* Medically cleared for surgery
+* No concurrent thyroid disease
+
+PRIOR CONCURRENT THERAPY:
+
+Biologic therapy
+
+* No prior biological therapy for prostate cancer
+* No concurrent biological agents
+
+Chemotherapy
+
+* No prior chemotherapy for prostate cancer
+* No concurrent chemotherapy
+
+Endocrine therapy
+
+* No prior hormonal therapy for prostate cancer
+* No concurrent thyroid hormone replacement medication
+* No concurrent hormonal therapy
+
+Radiotherapy
+
+* Not specified
+
+Surgery
+
+* See Disease Characteristics
+
+Other
+
+* At least 3 months since prior high-dose nutritional supplements
+* No concurrent regular use (more than once weekly) of soy products greater than 50 g of soy protein or 50 mg of soy isoflavone
+* No concurrent high-dose nutritional supplements
+
+  * Standard-dose single multivitamin tablet (e
+
+----------------------------------------------------------------------
+
+**NCT05195190** - Validity, Reliability and Minimum Detectable Changes of 2-Minute Walk , Timed Up and Go, Sit and Stand Test in Patients With Prostate Cancer
+Phase: Not specified | Status: COMPLETED
+Interventions: Clinical test
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Receiving or continuing Androgen deprivation therapy for at least 3 months
+* Diagnosed with non-metastatic prostate cancer
+* In the process of radiotherapy or chemoradiotherapy
+* Able to walk without assistive device
+* Patients over 55 years of age
+
+Exclusion Criteria:
+
+* Diagnosed with metastatic prostate cancer
+* Uncontrollable cardiovascular disease Uncontrollable insulin due to diabetes Individuals with neuromuscular, metabolic disease that may effect physical tests
+
+----------------------------------------------------------------------
+
+**NCT02923180** - Neoadjuvant Enoblituzumab (MGA271) in Men With Localized Intermediate and High-Risk Prostate Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Enoblituzumab
+
+Biomarker Criteria:
+  - 5 × ULN
+  * ALT \<3 × ULN
+  * AST \<3 × ULN
+  * Alkaline phosphatase \<3 × ULN
+* The etiology of abnormal bilirubin and transaminase levels should be evaluated prior to study entry
+
+----------------------------------------------------------------------
+
+**NCT00005627** - Estramustine, Docetaxel, and Carboplatin in Treating Patients With Prostate Cancer That Has Not Responded to Hormone Therapy
+Phase: PHASE1 | Status: COMPLETED
+Interventions: carboplatin, docetaxel
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN) if alkaline phosphatase normal OR
+* Alkaline phosphatase no greater than 4 times ULN if SGOT normal OR
+* SGOT no greater than 1
+  - 5 times ULN and alkaline phosphatase no greater than 2
+
+----------------------------------------------------------------------
+
+**NCT04852224** - Strength, Aging, and Memory in Prostate Cancer
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Telephone Interview of Cognitive Status (TICS-M) performance above impaired range (≥21)
+
+Group-specific criteria:
+
+* First time, primary diagnosis of prostate cancer (ADT+ and ADT-)
+* Diagnosed within past 30 days (ADT-)
+* Scheduled to receive ≥ 6-months androgen deprivation therapy and have not received \>30 days of androgen deprivation therapy (ADT+)
+* Men without a history of cancer who are within one year of age of ADT+ participants (PCa-)
+
+Exclusion Criteria:
+
+* Second cancer diagnosis (excluding non-invasive skin cancers)
+* History of stroke, transient ischemic attack, neurological disorder, or brain surgery involving tissue removal
+* Unable to walk without assistance
+* Unwilling to complete study requirements
+* Body weight greater than 300 pounds (DXA requirement)
+* Moderate-intensity physical activity ≥ 150 minutes per week
+* Upper and lower body strength training ≥ 2 days per week
+* Unable to read in English
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (111 trials)
+======================================================================
+
+**NCT04063566** - ReIMAGINE Prostate Cancer Screening
+Phase: NA | Status: COMPLETED
+Interventions: Magnetic Resonance Imaging (MRI), Prostate-specific antigen (PSA) test
+
+Biomarker Criteria:
+  - No prior prostate cancer diagnosis / treatment
+3
+
+----------------------------------------------------------------------
+
+**NCT00121212** - Positron Emission Tomography in Prostate Cancer
+Phase: NA | Status: COMPLETED
+Interventions: carbon-11 acetate PET scan
+
+Biomarker Criteria:
+  - Inclusion Criteria
+
+* Newly diagnosed prostate cancer
+* Has completed conventional staging examinations, including biopsy with Gleason score, CT scan of the abdomen and pelvis, and whole-body bone scintigraphy AND conventional staging examinations negative
+* Candidate for curative radical prostatectomy OR curative radiotherapy OR staging lymphadenectomy prior to surgery
+* Deemed to be at medium or high risk for recurrence after initial curative treatment, as defined by 1 of the following criteria:
+
+  * Gleason score 7 AND prostate-specific antigen (PSA) 10-20 ng/mL
+  * Gleason score ≥ 8 AND PSA \< 10 ng/mL
+  * Gleason score ≥ 8 AND PSA \> 10 ng/mL
+  * Any Gleason score AND PSA \> 20 ng/mL
+
+Exclusion Therapy:
+
+* Not a candidate for treatment by surgery or radiation therapy with curative intent
+* Inability to give informed consent
+* Patients with other invasive malignancies, with the exception of non-melanoma skin cancer, who had (or have) any evidence of other cancer present within the last 5 years
+
+----------------------------------------------------------------------
+
+**NCT00003394** - Combination Chemotherapy in Treating Patients With Advanced Prostate Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: carboplatin, endocrine-modulating drug therapy
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS: Histologically proven prostate cancer that is androgen dependent or independent Androgen dependent disease must meet ONE OR MORE of the following criteria: (1) Previously untreated, locally advanced adenocarcinoma of the prostate and: T1-2 tumor stage, PSA greater than 20 ng/mL OR T3-4 tumor stage OR Gleason grade 8-10 (2) Small cell carcinoma, poorly differentiated tumor with neuroendocrine features, or neuroendocrine carcinoma of any stage (3) Disease metastatic to bones or soft tissues (visceral or lymph nodes) that is evaluable on MRI, CT, or bone scan (patients with evaluable disease that relapsed after neoadjuvant hormone therapy prior to radical prostatectomy or radiotherapy are eligible) Patients meeting one of the above criteria who have started on an antiandrogen (flutamide, nilutamide, or bicalutamide) and/or a gonadotropin releasing hormone (GnRH) analog (luprolide or goserelin) are eligible if they have been on androgen ablation (GnRH analog with or without antiandrogen) for no more than 3 months Androgen independent disease must meet ALL of the following criteria: (1) Disease progression despite primary hormone treatment (e
+  - , orchiectomy, estrogen therapy, GnRH analog with or without an antiandrogen), OR disease progression despite receiving antiandrogen treatment as part of primary hormone therapy, evidenced by: Bone (new osseous lesion) or Soft tissue (greater than 25% increase in bidimensionally measurable disease) or Rising PSA (on any 3 determinations taken at weekly intervals (at least) to greater than 50% above the patient's baseline PSA value) despite castrate (no greater than 30 ng/mL) levels of testosterone (2) At least 2 weeks since change in hormone therapy (including prednisone or dexamethasone) (3) Continuation on treatments to maintain castrate levels of testosterone if no prior orchiectomy (4) Evaluable or measurable disease (5) No more than 1 prior course of chemotherapy (6) No more than 1 prior course of palliative radiotherapy or radioisotope treatment (strontium chloride Sr 89)
+
+PATIENT CHARACTERISTICS: Age: 18 and over Performance status: Karnofsky 70-100% Life expectancy: Not specified Hematopoietic: WBC at least 3,000/mm3 Platelet count at least 120,000/mm3 Hemoglobin at least 8
+  - 5 times ULN Cardiovascular: At least 6 months since acute deep vein thrombosis and/or pulmonary embolism No serious ventricular arrhythmia No significant heart disease No active angina (stable or unstable) No myocardial infarction within 6 months No congestive heart failure No transient ischemic attack or stroke within 6 months Neurologic: No grade 3-4 peripheral neuropathy Other: No severe infection No severe malnutrition No other serious medical illnesses
+
+PRIOR CONCURRENT THERAPY: Biologic therapy: At least 4 weeks since immunotherapy Chemotherapy: See Disease Characteristics At least 4 weeks since chemotherapy No other concurrent chemotherapy Endocrine therapy: See Disease Characteristics Radiotherapy: See Disease Characteristics At least 4 weeks since radiotherapy (8 weeks if systemic radioisotope treatment with strontium chloride Sr 89) No concurrent radiation of the only measurable lesion No concurrent radiotherapy or radioisotope therapy Surgery: See Disease Characteristics At least 4 weeks since major surgery No concurrent surgery to the only measurable lesion Other: Permanent venous access device (e
+
+----------------------------------------------------------------------
+
+**NCT01744366** - One Month Degarelix/Comparator Treatment for Prostate Cancer in Chinese Population
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Degarelix, Goserelin
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Chinese male over 18 years
+* Adenocarcinoma of the prostate
+* Relevant disease status based on lab values and as judged by the physician
+* Life expectancy of at least a year
+
+Exclusion Criteria:
+
+* Previous hormonal treatment for prostate cancer
+* Considered to be candidate for curative therapy
+* Risk or history of any serious or significant health condition
+* Has received an investigational drug within the last 28 days and no previous treatment with degarelix
+
+----------------------------------------------------------------------
+
+**NCT06250751** - Behavioral Exercise TRaining for Men Undergoing Androgen Depr Therapy for Prostate Ca
+Phase: NA | Status: COMPLETED
+Interventions: Behavioral Exercise Training (BET) intervention
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+To be eligible men, transwomen or non-binary individuals must meet the following criteria:
+
+* Be diagnosed with stage II/III/IV prostate cancer
+* Be currently undergoing treatment with ADT (intermittent or prolonged)
+* Have completed local curative-intent treatment, including prostatectomy or definitive radiation
+* Be \>40 years of age if non-Hispanic Black or rural dwelling; Otherwise \>60 years of age up to 85
+* Be willing to give an informed consent and sign a HIPAA authorization form
+* Not have any hearing or sight impairments that result in the inability to use the telephone or hear normal conversation
+* Must be able to join an intervention group by personal computer, smartphone or telephone call and should agree to recording of an interview
+* Be without any serious medical condition that precludes safe participation in an exercise program
+* Speak English
+
+----------------------------------------------------------------------
+
+**NCT00316927** - Dexamethasone, Aspirin, and Diethylstilbestrol in Treating Patients With Locally Advanced or Metastatic Prostate Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: acetylsalicylic acid, dexamethasone
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Diagnosis of adenocarcinoma of the prostate
+
+  * Elevated prostate-specific antigen (PSA)
+* Failed previous treatments, including gonadatropan regulatory hormone analogue therapy, radiotherapy, surgery, or any combination of these
+* Biochemically castrate (testosterone \< 1 nmol/L) at baseline
+
+PATIENT CHARACTERISTICS:
+
+* Life expectancy ≥ 3 months
+* ECOG performance status 0-3
+* WBC ≥ 3,000/mm\^3
+* Absolute neutrophil count (neutrophils and bands) ≥ 2,000/mm\^3
+* Platelet count ≥ 50,000/mm\^3
+* Bilirubin ≤ 2 times upper limit of normal (ULN)
+* AST or ALT ≤ 3 times ULN
+* Creatinine ≤ 1
+  - 5 times ULN
+* Able to swallow tablets
+* No other malignancy within the past 3 years except basal cell skin cancer
+* No previous thromboembolic disease, including stroke, venous or arterial thrombosis, and myocardial infarction with ongoing angina pectoris
+
+  * Prior uncomplicated myocardial infarction allowed
+* No diabetes mellitus if treatment titration is thought to be difficult or inappropriate
+* No active gastric or duodenal ulcer
+
+PRIOR CONCURRENT THERAPY:
+
+* See Disease Characteristics
+* Prior concurrent bisphosphonates allowed
+* No concurrent investigational agents or participation in another investigational drug study
+* No other concurrent antineoplastic therapy, including new estrogen therapy, radiation therapy, or PC-SPES
+* No other concurrent corticosteroids (e
+
+----------------------------------------------------------------------
+
+**NCT03721029** - Intraoperative Nerve Monitoring During Robotic-assisted Radical Prostatectomy
+Phase: NA | Status: COMPLETED
+Interventions: Intraoperative nerve monitoring,, standard of care robotic-assisted radical prostatectomy
+
+Biomarker Criteria:
+  - * Patients that deemed able to understand the protocol and to return for all the required post-treatment follow-up visits
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - Have relapsed or progressed on or after standard systemic treatments, or intolerable with standard treatment, or for which no standard treatment is available
+  - Documented radiological disease progression during/after most recent treatment regimen for advanced/unresectable, or metastatic disease
+  - Has adequate treatment washout period prior to Day 1 of Cycle 1
+
+----------------------------------------------------------------------
+
+**NCT07149831** - A Clinical Trial Evaluating the Safety and Tolerability, Biodistribution and Radiation Dosimetry, and Pharmacokinetics of Flotufolastat F-18 Injection
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Flotufolastat F-18 Injection
+
+Biomarker Criteria:
+  - Radiopharmaceutical imaging or treatment within 7 days prior to screening or within 5 half-lives of the radiopharmaceutical (whichever is longer)
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Have progressed on, were intolerant to, or experienced disease recurrence after standard therapy and have no available effective or tolerable treatment options to derive clinically meaningful benefit
+  - Requires treatment with certain medications
+
+----------------------------------------------------------------------
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Zanzalintinib
+
+Biomarker Criteria:
+  - Recovery of adverse events (AEs), including immune-related adverse events (irAEs), to baseline or ≤ Grade 1 severity (CTCAE v5) related to any prior treatments, unless AE(s) are clinically nonsignificant and/or stable on supportive therapy (eg, physiological replacement of corticosteroid)
+  - Prior treatment with zanzalintinib
+  - Systemic treatment with radionuclides within 6 weeks before first dose of study drug are not permitted
+
+----------------------------------------------------------------------
+
+**NCT01812902** - Prospective Study Comparing Extended With Limited Pelvic Lymphadenectomy in Intermediate and High Risk Prostate Cancer Patients Undergoing Radical Pro
+Phase: NA | Status: COMPLETED
+Interventions: Radical Prostatectomy
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Prostate Cancer patients with intermediate or high risk and with indication of radical prostatectomy and LND
+* Absence of bone metastasis or other organ imaging test (MRI or scintigraphy)
+* Absence of hormone treatment
+* Absence of radiotherapy
+* Signing an informed consent
+* Availability and adequacy of lymph node tissue samples to perform the immunohistochemical
+
+Exclusion Criteria:
+
+* Life expectancy less than 10 years
+* Absence of clinical conditions for the procedure
+* Laparoscopic or perineal surgery
+* Presence of bone or visceral metastasis
+* Neoadjuvant treatment
+* Another malignant neoplasia
+* Prior abdominal or pelvic surgery
+
+----------------------------------------------------------------------
+
+**NCT05110495** - IGF Inhibition With Xentuzumab Prior to Radical Prostatectomy
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: Xentuzumab
+
+Biomarker Criteria:
+  - Current or previous treatment with xentuzumab or other IGF or GH -modifying therapy
+  5
+  - Treatment with any other investigational agent, or treatment in another interventional clinical trial within 28 days prior to enrolment
+  7
+
+----------------------------------------------------------------------
+
+**NCT00171639** - The Use of Zoledronic Acid in Men on Androgen Deprivation Therapy for Prostate Cancer With Preexisting Osteoporosis
+Phase: PHASE3 | Status: COMPLETED
+Interventions: zoledronic acid
+
+Biomarker Criteria:
+  - * Radiographic evidence of bone metastases
+* Patients who have received treatment with systemic corticosteroids within the past 12 months (short term corticosteroid therapy for up to one month duration, e
+  - for acute illness like asthma exacerbation, is acceptable)
+* Patients with prior exposure to anabolic steroids or growth hormone within the past 6 months
+* Current treatment with estrogen or complementary medicines known to contain estrogens
+* Patients with previous or concomitant malignancy within the past 5 years except adequately treated basal or squamous cell carcinoma of the skin, and colonic polyps with non-invasive malignancy which have been removed
+* Patients with nonmalignant conditions which would confound the evaluation of the primary endpoint, impair tolerance of therapy, or prevent compliance to the protocol, including:
+
+  * uncontrolled infections
+  * uncontrolled type 2 diabetes mellitus
+  * diseases with influence on bone metabolism, such as Paget's disease or uncontrolled thyroid or parathyroid dysfunction
+  * cardiovascular, renal, hepatic, pulmonary and neurologic/psychiatric diseases which would prevent prolonged follow-up
+* Patients with clinical or radiological evidence of existing fracture in the lumbar spine or either hip
+* Patients with history of lumbar spine surgery that directly involved the bone or resulted in implanted hardware; or rendered the lumbar spine not evaluable (Some patients with a history of laminectomy alone may qualify)
+  - * Patients treated with systemic investigational drugs(s) and /or device(s) within the past 30 days
+* Patients with any prior treatment for osteoporosis except for calcium and vitamin D
+* Patients with abnormal renal function as evidenced by either a serum creatinine greater than 3 mg/dL or by a calculated creatinine clearance of 40 ml/minute or less (Use Cockcroft-Gault equation
+
+----------------------------------------------------------------------
+
+**NCT00129142** - Toremifene Citrate for Prevention of Bone Fractures in Men With Prostate Cancer on Androgen Deprivation Therapy
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Toremifene Citrate
+
+Biomarker Criteria:
+  - * Have been on:
+
+  * ADT treatment (either luteinizing hormone-releasing agonist \[LHRHa\] or orchiectomy) for at least 6 months; Or
+  * Intermittent LHRHa for at least the preceding 12 months is acceptable, but subjects must be maintained on uninterrupted treatment for the duration of this study once they are randomized into the study
+  - NOTE: Patients with cancers other than nonmelanoma cutaneous malignancies and superficial bladder cancer with no evidence of tumor recurrence for at least 5 years after definitive treatment will not be excluded from this study
+  - * Have Paget's disease of bone
+* Have active systemic viral, bacterial or fungal infections requiring treatment
+* Have, in the judgment of the investigator, a clinically significant concurrent illness or psychological, familial, sociological, geographical or other concomitant condition that would not permit adequate follow-up and compliance with the study protocol for the full 24-month duration of the study
+* Received treatment with other investigational agents within 30 days prior to randomization
+* Taking finasteride (e
+
+----------------------------------------------------------------------
+
+**NCT07001241** - Telehealth Exercise Program Evaluating Fatigue and Physical Function in Rural Cancer Survivors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Telehealth Exercise Program
+
+Biomarker Criteria:
+  - Cancer treatment criteria: 3a
+  - Completion of treatment with curative intent \> 3 months prior to and \< 5 years from study initiation
+  - Treatment must include hormonal, radiation, chemotherapy, and/or immunotherapy
+
+----------------------------------------------------------------------
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Rucaparib, Copanlisib
+
+Biomarker Criteria:
+  - Treatment-emergent small cell/NEPC (neuroendocrine prostate cancer) is allowed, but de novo small cell carcinoma of the prostate is excluded
+  - Progressive disease during treatment (or within 4 weeks of completion) with abiraterone, enzalutamide, and/or apalutamide based on any one of the following:
+
+   * For patients with measurable disease, progression by the RECIST 1
+  - Prior treatment with radium-223 or sipuleucel-T is permitted, but not required
+
+----------------------------------------------------------------------
+
+**NCT01051570** - Carboplatin, Everolimus, and Prednisone in Treating Patients With Metastatic Prostate Cancer That Progressed After Docetaxel
+Phase: PHASE2 | Status: COMPLETED
+Interventions: carboplatin, RAD 001
+
+Biomarker Criteria:
+  - 5 times ULN (in the case that one or both of these thresholds are exceeded, the patient is eligible only after initiation of appropriate lipid-lowering medication)
+* Fertile patients must use effective contraception during and for ≥ 6 months after completion of study treatment
+* Willing and able to comply with this study
+* Able to ingest oral medication
+* No other malignancies except non-melanoma skin cancer or any other adequately treated cancer in complete remission for ≥ 2 years
+* No significant traumatic injury within the past 4 weeks
+* No active (acute or chronic) or uncontrolled severe infections
+* No severe and/or uncontrolled medical conditions or other conditions that could affect study participation, including the following:
+
+  * NYHA class III-IV symptomatic congestive heart failure
+  * Unstable angina pectoris, symptomatic congestive heart failure, myocardial infarction within the past 6 months, serious uncontrolled cardiac arrhythmia, or any other clinically significant cardiac disease
+  * Severely impaired lung function as defined by spirometry and DLCO that is 50% of the normal predicted value and/or oxygen saturation that is ≤ 88% at rest on room air
+  * Uncontrolled diabetes as defined by fasting serum glucose \> 1
+  - , ulcerative disease, uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome, or small bowel resection)
+  * Active, bleeding diathesis
+* No known hypersensitivity to everolimus or other rapamycins (sirolimus, temsirolimus) or to their excipients
+* No history of noncompliance to medical regimens
+* No uncontrolled diabetes mellitus
+
+PRIOR CONCURRENT THERAPY:
+
+* See Disease Characteristics
+* At least 1 prior docetaxel based regimen for metastatic disease
+
+  * Docetaxel based combination therapy or docetaxel alone considered as 1 regimen
+* No more than 2 prior chemotherapy regimens for metastatic disease
+* No prior treatment with an mTOR inhibitor (sirolimus, temsirolimus, everolimus)
+* At least 6 weeks since prior bicalutamide or nilutamide
+* At least 4 weeks since prior flutamide
+* More than 4 weeks since prior and no other concurrent investigational drugs
+* More than 4 weeks since prior and no other concurrent anticancer therapies (including chemotherapy, radiotherapy, or antibody-based therapy)
+* More than 4 weeks since prior and no concurrent major surgery (defined as requiring general anesthesia) and recovered
+* More than 1 week since prior and no concurrent immunization with attenuated live vaccines
+* No concurrent chronic, systemic treatment with corticosteroids or other immunosuppressive agents
+
+  * Topical or inhaled corticosteroids are allowed
+* No concurrent prophylactic growth factors
+* Concurrent bisphosphonate therapy allowed
+
+----------------------------------------------------------------------
+
+**NCT05011383** - High Dose Testosterone for ATM, CDK12 or CHEK2 Altered Prostate Cancers
+Phase: PHASE2 | Status: RECRUITING
+Interventions: High dose testosterone
+
+Biomarker Criteria:
+  - * Asymptomatic or minimal cancer related symptoms
+* Eastern Cooperative Oncology Group (ECOG) Performance Status of \< 2
+* Presence of inactivating mutations in ATM, CDK12 or CHEK2 as determined by a CLIA level assay for DNA sequencing
+
+----------------------------------------------------------------------
+
+**NCT05367440** - Study of AZD5305 When Given in Combination With New Hormonal Agents in Patients With Metastatic Prostate Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: AZD5305, Enzalutamide
+
+Biomarker Criteria:
+  - * Candidate for treatment with enzalutamide, abiraterone acetate, darolutamide or apalutamide with documented current evidence of metastatic prostate cancer
+  - * Non-sterilized male patients who are sexually active with a female partner of childbearing potential must use a condom with spermicide from screening to approximately 6 months after the last dose of study treatment
+  - 2 ng/mL
+
+Exclusion Criteria:
+
+For Part A mCRPC patients only:
+
+* Any previous treatment with a new hormonal agent (NHA), poly (adenosine diphosphateribose) polymerase inhibitor (PARPi), Lutetium prostate-specific membrane antigen (Lu-PSMA), platinum chemotherapy
+* Patients recruited to the PDc cohorts should not have received a prior use of new hormonal agents (NHA)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (2 trials)
+======================================================================
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Rucaparib, Copanlisib
+
+Biomarker Criteria:
+  - deleterious/pathogenic alterations) in at least one of the following genes involved with homologous recombination repair will be required: BRCA1, BRCA2, ATM, BARD1, BRIP1, CDK12, CHEK1, FANCL, FANCA, PALB2, PPP2R2A, RAD51B, RAD51C, RAD51D, and RAD54L
+
+----------------------------------------------------------------------
+
+**NCT06212583** - High-Risk Metachronous Oligometastatic Prostate Cancer Trial
+Phase: PHASE2 | Status: RECRUITING
+Interventions: niraparib/abiraterone acetate, Stereotactic ablative radiation therapy (SABR)
+
+Biomarker Criteria:
+  - Must have a high-risk pathogenic mutation (TP53, BRCA1/2, PALB2, ATM, BRIP1, CHEK2, FANCA, RAD51B, RAD54L, MUTYH) by next generation sequencing
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (1 trials)
+======================================================================
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Rucaparib, Copanlisib
+
+Biomarker Criteria:
+  - deleterious/pathogenic alterations) in at least one of the following genes involved with homologous recombination repair will be required: BRCA1, BRCA2, ATM, BARD1, BRIP1, CDK12, CHEK1, FANCL, FANCA, PALB2, PPP2R2A, RAD51B, RAD51C, RAD51D, and RAD54L
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (4 trials)
+======================================================================
+
+**NCT05110495** - IGF Inhibition With Xentuzumab Prior to Radical Prostatectomy
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: Xentuzumab
+
+Biomarker Criteria:
+  - 5 x upper limit of normal eGFR\* ≥30ml/min
+
+\*eGFR calculated by Cockcroft \& Gault formula,
+
+Exclusion Criteria:
+
+* A patient will not be eligible for the trial if any of the following apply:
+
+  1
+
+----------------------------------------------------------------------
+
+**NCT05899361** - A Novel Imaging Protocol in Use to Identify Lymph Nodes and Organs of Interest
+Phase: NA | Status: RECRUITING
+Interventions: Electromagnetic Guided Laparoscopy, Ultrasound
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Severely impaired renal function with an EGFR \< 30 mL/min/body surface area
+* Evidence of any significant, uncontrolled comorbid condition that could affect compliance with the protocol or interpretation of the results, which is to be judged at the discretion of the PI
+* History of hypersensitivity or other contraindication to contrast media
+* Contraindication to general anesthesia
+* Pregnancy
+
+----------------------------------------------------------------------
+
+**NCT00706628** - A Multi-centre 3-arm Randomised Phase II Trial of BIBF 1120 Versus BIBW 2992 Versus Sequential Administration of BIBF 1120 and BIBW 2992 in Patients W
+Phase: PHASE2 | Status: COMPLETED
+Interventions: BIBF 1120, BIBW 2992
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment with inhibitors of EGFR, HER 2 and/or VEGF receptors
+
+----------------------------------------------------------------------
+
+**NCT04887935** - Neoadjuvant SGLT2 Inhibition in Localized Prostate Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Dapagliflozin
+
+Biomarker Criteria:
+  - 0 x IULN
+  * Estimated glomerular filtration rate eGFR ≥ 30 mL/min/1
+  - * Uncontrolled intercurrent illness including, but not limited to, ongoing or active infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac arrhythmia, peripheral arterial disease, ketoacidosis, severe kidney disease (estimated glomerular filtration rate eGFR \< 30 mL/min/1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (5 trials)
+======================================================================
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - For HER2 IHC 0 breast cancer subjects, it is highly recommended to collect additional tumor sample (Refer to Lab Manual)
+  - Prior treatment with antibody drug conjugate with topoisomerase I inhibitor (except trastuzumab deruxtecantopoisomerase I inhibitor HER2 ADC for backfilled subjects in Combo A of Phase 1 and subjects in Cohort 2e of Phase 2a, and not applicable for subjects enrolled for DLT observation in Phase 1)
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Histologically or cytologically confirmed metastatic or advanced-stage solid malignant tumor or HR+/HER2- breast cancer
+  - Participants with solid tumors or HR+/HER2- breast cancer with AKT1 E17K mutations
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: HS-10502
+
+Biomarker Criteria:
+  - For the phase Ib study:
+
+   Cohort B: patients with HRD positive recurrent ovarian cancer with failure or intolerance or not available to SoC Cohort C: patients with HRR gene mutation advanced Human epidermal growth factor receptor 2 (HER2)-negative breast cancer with failure or intolerance or not available to SoC Cohort D: patients with HRR gene mutation advanced pancreatic cancer with failure or intolerance or not available to SoC Cohort E: patients with HRR gene mutation mCRPC with failure or intolerance or not available to SoC Cohort F: patients with HRR gene mutation colorectal cancer with failure or intolerance or not available to SoC Cohort G: patients with other HRR gene mutation or HRD positive advanced solid tumors with failure or intolerance or not available to SoC
+5
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: trastuzumab, tipifarnib
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically or cytologically confirmed advanced or metastatic adenocarcinoma
+* Expression of +1 to 3+ HER2/neu on immunohistochemical or immunocytochemistry staining
+* No brain metastases unless all of the following is true:
+
+  * Previously treated
+  * Asymptomatic
+  * Stable dose of decadron
+* No evidence of edema
+
+PATIENT CHARACTERISTICS:
+
+* Age: 18 and over
+* Performance status: ECOG 0-2
+* Life expectancy: At least 12 weeks
+* Absolute granulocyte count at least 1,500/mm3
+* Platelet count at least 100,000/mm3
+* Hemoglobin at least 9
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (1 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: vudalimab
+
+Biomarker Criteria:
+  - Advanced endometrial carcinoma that is not microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) in patients who are not candidates for curative surgery or radiation, and that has progressed following treatment with no more than one prior line of systemic therapy and prior treatment with FDA-approved combination therapy consisting of a checkpoint inhibitor and a targeted agent
+  5
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+
+Biomarker Criteria:
+  - Previously documented activating mutations in KRAS, NRAS, HRAS, or BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PALB2 (2 trials)
+======================================================================
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Rucaparib, Copanlisib
+
+Biomarker Criteria:
+  - deleterious/pathogenic alterations) in at least one of the following genes involved with homologous recombination repair will be required: BRCA1, BRCA2, ATM, BARD1, BRIP1, CDK12, CHEK1, FANCL, FANCA, PALB2, PPP2R2A, RAD51B, RAD51C, RAD51D, and RAD54L
+
+----------------------------------------------------------------------
+
+**NCT06212583** - High-Risk Metachronous Oligometastatic Prostate Cancer Trial
+Phase: PHASE2 | Status: RECRUITING
+Interventions: niraparib/abiraterone acetate, Stereotactic ablative radiation therapy (SABR)
+
+Biomarker Criteria:
+  - Must have a high-risk pathogenic mutation (TP53, BRCA1/2, PALB2, ATM, BRIP1, CHEK2, FANCA, RAD51B, RAD54L, MUTYH) by next generation sequencing
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (1 trials)
+======================================================================
+
+**NCT02788773** - Durvalumab With or Without Tremelimumab in Metastatic Castration Resistant Prostate Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Durvalumab, Tremelimumab
+
+Biomarker Criteria:
+  - Any previous treatment with a PD1 or PD-L1 inhibitor, including durvalumab or an anti-CTLA4, including tremelimumab
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Zanzalintinib
+
+Biomarker Criteria:
+  - * Alterations in at least two of the three tumor suppressor genes: TP53, RB1 and PTEN on genomic testing
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TP53 (2 trials)
+======================================================================
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Zanzalintinib
+
+Biomarker Criteria:
+  - * Alterations in at least two of the three tumor suppressor genes: TP53, RB1 and PTEN on genomic testing
+
+----------------------------------------------------------------------
+
+**NCT06212583** - High-Risk Metachronous Oligometastatic Prostate Cancer Trial
+Phase: PHASE2 | Status: RECRUITING
+Interventions: niraparib/abiraterone acetate, Stereotactic ablative radiation therapy (SABR)
+
+Biomarker Criteria:
+  - Must have a high-risk pathogenic mutation (TP53, BRCA1/2, PALB2, ATM, BRIP1, CHEK2, FANCA, RAD51B, RAD54L, MUTYH) by next generation sequencing
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (1 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: vudalimab
+
+Biomarker Criteria:
+  - Advanced endometrial carcinoma that is not microsatellite instability-high (MSI-H) or deficient mismatch repair (dMMR) in patients who are not candidates for curative surgery or radiation, and that has progressed following treatment with no more than one prior line of systemic therapy and prior treatment with FDA-approved combination therapy consisting of a checkpoint inhibitor and a targeted agent
+  5
+
+----------------------------------------------------------------------
+

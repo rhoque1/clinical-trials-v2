@@ -98,7 +98,7 @@ NO explanations, NO markdown, JUST the JSON array."""
             if len(cleaned_queries) < 3:
                 raise ValueError(f"Only {len(cleaned_queries)} valid queries found, need at least 3")
             
-            print(f"✓ Generated {len(cleaned_queries)} search queries:")
+            print(f"[+] Generated {len(cleaned_queries)} search queries:")
             for i, q in enumerate(cleaned_queries, 1):
                 print(f"  {i}. '{q}'")
             
@@ -106,7 +106,7 @@ NO explanations, NO markdown, JUST the JSON array."""
             
         except (json.JSONDecodeError, ValueError, AttributeError) as e:
             # Fallback: use search terms but SIMPLIFY them
-            print(f"⚠ Query generation failed ({str(e)}), creating simple fallback queries")
+            print(f"[!] Query generation failed ({str(e)}), creating simple fallback queries")
             
             # Get diagnosis to create simple queries
             patient_profile = global_memory.get("patient_profile", {})
@@ -174,7 +174,7 @@ Keep your response brief (1-2 sentences)."""
         queries = global_memory.get("search_queries", [])
         all_trials = []
         
-        print(f"🔍 Executing {len(queries)} API searches...")
+        print(f"[SEARCH] Executing {len(queries)} API searches...")
         
         for idx, query in enumerate(queries, 1):
             print(f"  Query {idx}/{len(queries)}: '{query}'")
@@ -184,12 +184,12 @@ Keep your response brief (1-2 sentences)."""
             if result.get("status") == "success":
                 trials = result.get("data", [])  # Changed from "trials" to "data"
                 all_trials.extend(trials)
-                print(f"    → Found {len(trials)} trials")
+                print(f"    -> Found {len(trials)} trials")
             else:
                 error_msg = result.get("detail", result.get("message", "Unknown error"))
-                print(f"    → Error: {error_msg}")
+                print(f"    -> Error: {error_msg}")
         
-        print(f"✓ Total trials retrieved: {len(all_trials)}")
+        print(f"[+] Total trials retrieved: {len(all_trials)}")
         return {"raw_trials": all_trials, "total_trials_found": len(all_trials)}
     
     def get_next_state(self) -> Optional[str]:
@@ -231,8 +231,8 @@ This is a pass-through state. Keep your response brief (1-2 sentences)."""
             if any(active_status in status for active_status in active_statuses):
                 filtered_trials.append(trial)
         
-        print(f"📊 Deduplication: {len(raw_trials)} → {len(unique_trials)} unique trials")
-        print(f"📊 Filtering: {len(unique_trials)} → {len(filtered_trials)} active trials")
+        print(f"[CHART] Deduplication: {len(raw_trials)} -> {len(unique_trials)} unique trials")
+        print(f"[CHART] Filtering: {len(unique_trials)} -> {len(filtered_trials)} active trials")
         
         return {
             "filtered_trials": filtered_trials,
@@ -356,7 +356,7 @@ Return ONLY the JSON object, nothing else.
                 # More batches to process
                 global_memory['current_batch'] = next_batch
                 global_memory['all_trial_scores'] = all_scores
-                print(f"✓ Batch {current_batch + 1}/{total_batches} scored, continuing...")
+                print(f"[+] Batch {current_batch + 1}/{total_batches} scored, continuing...")
                 return {
                     "status": "continue",
                     "batch_complete": current_batch + 1,
@@ -364,7 +364,7 @@ Return ONLY the JSON object, nothing else.
                 }
             else:
                 # All batches done - finalize ranking
-                print(f"✓ All {total_batches} batches scored!")
+                print(f"[+] All {total_batches} batches scored!")
                 
                 # Assign default scores to any trials that didn't get scored
                 for i, trial in enumerate(filtered_trials):
@@ -391,7 +391,7 @@ Return ONLY the JSON object, nothing else.
                 }
         
         except (json.JSONDecodeError, KeyError, ValueError) as e:
-            print(f"⚠ Scoring failed ({str(e)}), assigning default scores")
+            print(f"[!] Scoring failed ({str(e)}), assigning default scores")
             
             # Fallback: assign default scores
             for trial in filtered_trials:
@@ -507,7 +507,7 @@ Return ONLY valid JSON. No explanation, no markdown."""
             if not isinstance(summaries, list):
                 raise ValueError("Response is not a list")
             
-            print(f"📋 Prepared {len(summaries)} trial summaries")
+            print(f"[LIST] Prepared {len(summaries)} trial summaries")
             
             return {
                 "trial_summaries": summaries,
@@ -516,7 +516,7 @@ Return ONLY valid JSON. No explanation, no markdown."""
             
         except (json.JSONDecodeError, ValueError) as e:
             # Fallback: create basic summaries from ranked trials
-            print(f"⚠ Summary parsing failed ({str(e)}), creating basic summaries")
+            print(f"[!] Summary parsing failed ({str(e)}), creating basic summaries")
             
             basic_summaries = []
             for trial in ranked_trials:

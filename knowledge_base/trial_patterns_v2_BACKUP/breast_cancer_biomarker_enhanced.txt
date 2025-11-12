@@ -1,0 +1,1011 @@
+# Enhanced Biomarker-Specific Trials: Breast Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 160
+
+
+======================================================================
+## ALK (16 trials)
+======================================================================
+
+**NCT01276041** - Paclitaxel, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 70
+Interventions: pertuzumab in combination with trastuzumab and paclitaxel
+Locations: 6 sites
+Primary Outcome: Percentage of Patients Who Are Progression Free at 6 Months or Later.
+
+----------------------------------------------------------------------
+
+**NCT00001269** - Phase I Trial of FLAC (5-Fluorouracil, Leucovorin, Adriamycin, Cytoxan) Plus GM-CSF (Granulocyte-Macrophage Colony Stimu
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 100
+Interventions: IL-3
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT03959618** - Intravenous Chemotherapy and Plant-based Dietary Supplements
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 200
+Interventions: dietary supplements questionary
+Locations: 1 sites
+Primary Outcome: evaluate quantitatively the use of dietary supplements in patients during IV chemotherapy
+
+----------------------------------------------------------------------
+
+**NCT00201760** - Gemcitabine/ Trastuzumab and Gemcitabine/ Cisplatin/ Trastuzumab in Patients With Metastatic Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 10
+Interventions: Gemcitabine, Trastuzumab
+Locations: 1 sites
+Primary Outcome: Disease Progression
+
+----------------------------------------------------------------------
+
+**NCT00194727** - Weekly Vinorelbine and Oral Capecitabine as Treatment for Stage IV Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Vinorelbine, Capecitabine
+Locations: 1 sites
+Primary Outcome: Best response as determined at the time that the subject completes protocol treatment
+
+----------------------------------------------------------------------
+
+**NCT01950182** - Trastuzumab Combined With Chemotherapy or Endocrine Therapy to Treat Metastatic Luminal B2 Breast Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 392
+Interventions: Endocrine therapy combined with trastuzumab, Chemotherapy combined with trastuzumab
+Locations: 1 sites
+Primary Outcome: progression-free survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT02101970** - Weight Loss Plus Omega-3 Fatty Acids or Placebo in High Risk Women
+Phase: NA | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 46
+Interventions: Omega-3 Fatty Acids, Placebo Capsule
+Locations: 1 sites
+Primary Outcome: Dropout rate
+
+----------------------------------------------------------------------
+
+**NCT06548646** - Ultrasound-guided Thoracic Interfascial Plane Nerve Block Versus Erector Spinae Plane Block for Pain Control After Modif
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Thoracic Interfascial Plane Block, Erector Spinae Plane Block
+Locations: 1 sites
+Primary Outcome: Total amount of rescue pain medication required within the first 48 hours after surgery
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT00107510** - Docetaxel, Carboplatin, and Pegfilgrastim in Treating Patients Who Are Undergoing Surgery for Stage II or Stage III Brea
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 58
+Interventions: pegfilgrastim, carboplatin
+Locations: 120 sites
+Primary Outcome: Pathological complete response rate by histologic evaluation at definitive surgery
+
+----------------------------------------------------------------------
+
+**NCT05216302** - Prehabilitation for Breast Cancer Surgery
+Phase: NA | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 64
+Interventions: Group-based Nordic Walking Exercise Program
+Locations: 1 sites
+Primary Outcome: Disabilities of the Arm Shoulder and Hand Questionnaire (Quick DASH)
+
+----------------------------------------------------------------------
+
+**NCT01720602** - Vorinostat in Treating Patients With Stage IV Breast Cancer Receiving Hormone Therapy
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 15
+Interventions: vorinostat, anastrozole
+Locations: 1 sites
+Primary Outcome: Rate of Clinical Benefit of Patients Receiving Vorinostat/AI Combination Therapy According to RECIST
+
+----------------------------------------------------------------------
+
+**NCT01565200** - HER2 Imaging Study to Identify HER2 Positive Metastatic Breast Cancer Patient Unlikely to Benefit From T-DM1
+Phase: PHASE2 | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 90
+Interventions: T-DM1, 89Zr-trastuzumab
+Locations: 5 sites
+Primary Outcome: negative predictive value of the 89Zr-trastuzumab PET/CT
+
+----------------------------------------------------------------------
+
+**NCT03125928** - Clinical Trial of Atezolizumab With Paclitaxel, Trastuzumab, and Pertuzumab in Patients With Metastatic HER-2 Positive B
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 16
+Interventions: Atezolizumab, Paclitaxel
+Locations: 1 sites
+Primary Outcome: Number of participants with treatment-related adverse events
+
+----------------------------------------------------------------------
+
+**NCT01441011** - Rural Women Connecting for Better Health
+Phase: NA | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 210
+Interventions: Group phone counseling, Newsletter
+Locations: 1 sites
+Primary Outcome: Weight loss maintenance
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (151 trials)
+======================================================================
+
+**NCT00616135** - Study of Autologous Fat Enhanced w/ Regenerative Cells Transplanted to Reconstruct Breast Deformities After Lumpectomy
+Phase: PHASE4 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 71
+Interventions: ADRC-Enhanced Autologous Fat Transplant
+Locations: 5 sites
+Primary Outcome: Patient and physician satisfaction with functional and cosmetic results. Improvement in overall brea
+
+----------------------------------------------------------------------
+
+**NCT06749210** - DAANCE FOR CHEMOTHERAPY-INDUCED NEUROPATHY
+Phase: PHASE2 | Status: RECRUITING
+Purpose: SUPPORTIVE_CARE | Enrollment: 140
+Interventions: Tango
+Locations: 2 sites
+Primary Outcome: Patient-Reported Outcome (PRO) - CIN sensation
+
+----------------------------------------------------------------------
+
+**NCT02545023** - Supportive Care Questionnaires in Gathering Data on Unmet Needs and Health-Related Quality of Life in Latina Breast Canc
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 100
+Interventions: Quality-of-Life Assessment, Questionnaire Administration
+Locations: 1 sites
+Primary Outcome: Lifestyle-related supportive care needs and preferences in breast cancer patients at LAC+USC, as mea
+
+----------------------------------------------------------------------
+
+**NCT03243786** - Stay on Track: A Study of Exercise Effects During Radiation
+Phase: NA | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 47
+Interventions: Lifestyle- Supportive Care
+Locations: 1 sites
+Primary Outcome: Percent time of personal fitness tracker use during the intervention period for the Stay on Track in
+
+----------------------------------------------------------------------
+
+**NCT04705883** - Vaginal Prasterone In Vaginal Atrophy In Breast Cancer Survivors
+Phase: PHASE4 | Status: COMPLETED
+Purpose: OTHER | Enrollment: 10
+Interventions: Prasterone (DHEA), Micronized
+Locations: 1 sites
+Primary Outcome: Estradiol
+
+----------------------------------------------------------------------
+
+**NCT01276041** - Paclitaxel, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 70
+Interventions: pertuzumab in combination with trastuzumab and paclitaxel
+Locations: 6 sites
+Primary Outcome: Percentage of Patients Who Are Progression Free at 6 Months or Later.
+
+----------------------------------------------------------------------
+
+**NCT03796845** - Limited Versus No-limited Shoulder Movement in Breast Cancer Surgery
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 465
+Interventions: No limited movement after surgery
+Locations: 1 sites
+Primary Outcome: Presence or absence of wound complications.
+
+----------------------------------------------------------------------
+
+**NCT00106145** - A Notch Signalling Pathway Inhibitor for Patients With Advanced Breast Cancer (0752-014)
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 103
+Interventions: Comparator: MK0752, Notch Inhibitor, Comparator: MK0752, Notch Inhibitor - 450 mg
+Primary Outcome: Safety and tolerability; MTD will be established
+
+----------------------------------------------------------------------
+
+**NCT00004230** - Captopril in Treating Patients Undergoing Bone Marrow or Stem Cell Transplantation
+Phase: PHASE3 | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 35
+Interventions: captopril, cyclophosphamide
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT05736367** - Investigating the Metabolic Pathways in Hormone Receptor Positive/HER2 Negative Breast Cancer
+Phase: NA | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 16
+Interventions: U-13C-glucose
+Locations: 2 sites
+Primary Outcome: Measure glycolysis metabolism dependencies of hormone receptor positive/HER2 negative breast cancer 
+
+----------------------------------------------------------------------
+
+**NCT00659373** - Brain Function in Premenopausal Women Receiving Tamoxifen With or Without Ovarian Function Suppression for Early-Stage B
+Phase: PHASE3 | Status: COMPLETED
+Purpose:  | Enrollment: 86
+Interventions: Tamoxifen, triptorelin
+Locations: 15 sites
+Primary Outcome: Change in Cognitive Function Over 1 Year in Premenopausal Breast Cancer Patients Who Receive Adjuvan
+
+----------------------------------------------------------------------
+
+**NCT00371254** - A Study of Dasatinib (BMS-354825) in Patients With Advanced 'Triple-negative' Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 55
+Interventions: Dasatinib, Dasatinib
+Locations: 10 sites
+Primary Outcome: Number of Participants With Complete Response (CR) or Partial Response (PR)
+
+----------------------------------------------------------------------
+
+**NCT06452394** - NEODOXy: Targeting Breast Cancer Stem Cells With Doxycycline
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Doxycyclin
+Locations: 7 sites
+Primary Outcome: Difference in the proportion of patients with ALDH1 positive tumors before and after neoadjuvant che
+
+----------------------------------------------------------------------
+
+**NCT05817175** - International Prospective REgistry on Pre-pectorAl Breast REconstruction
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 1236
+Interventions: pre-pectoral breast reconstruction
+Locations: 11 sites
+Primary Outcome: Number of patients with Implant-loss at three months postoperatively
+
+----------------------------------------------------------------------
+
+**NCT01806181** - NEXT (Nutrition and EXercise During Adjuvant Treatment) Study
+Phase: NA | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 73
+Interventions: Exercise
+Locations: 2 sites
+Primary Outcome: The primary outcome will report as recruitment, retention and adherence rates for the sample and the
+
+----------------------------------------------------------------------
+
+**NCT02956473** - Supine MRI in Breast Cancer Patients Undergoing Upfront Surgery or Receiving Neoadjuvant Therapy
+Phase: NA | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 57
+Interventions: Supine MRI, Neoadjuvant Therapy (NAT)
+Locations: 2 sites
+Primary Outcome: Correlation Between Prone Breast MRI for Estimation of Tumor Size and Final Pathology Tumor Size
+
+----------------------------------------------------------------------
+
+**NCT03820141** - Durvalumab with Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 39
+Interventions: Durvalumab, Trastuzumab
+Locations: 1 sites
+Primary Outcome: Pathological complete response (pCR) rate in the breast in patients with HER2-enriched and HER2-ampl
+
+----------------------------------------------------------------------
+
+**NCT02513394** - PALbociclib CoLlaborative Adjuvant Study
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 5796
+Interventions: Palbociclib, Standard Adjuvant Endocrine Therapy
+Locations: 437 sites
+Primary Outcome: Invasive Disease Free Survival (iDFS)
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT01439945** - Magnesium Oxide in Treating Postmenopausal Women With Hot Flashes and a History of Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 289
+Interventions: magnesium oxide, placebo
+Locations: 283 sites
+Primary Outcome: The Intra-patient Changes of Weekly Hot Flash Activity From Baseline During the Treatment Period.
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (2 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (9 trials)
+======================================================================
+
+**NCT00783822** - Effects of Rapid Genetic Counseling and Testing in Newly Diagnosed Breast Cancer Patients
+Phase: NA | Status: COMPLETED
+Purpose:  | Enrollment: 265
+Interventions: RGCT
+Locations: 1 sites
+Primary Outcome: The choice of primary surgical treatment
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GR
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 58
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+Locations: 32 sites
+Primary Outcome: Phase I: Incidence and severity of dose limiting toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT04341129** - Abbreviated MRI Protocol: Initial Experience With Dotarem® (Gadoterate Meglumine)
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 50
+Interventions: Abbreviated MRI protocol: initial experience with Dotarem® (Gadoterate Meglumine)
+Locations: 1 sites
+Primary Outcome: Compare the diagnostic accuracy of dynamic contrast-enhanced breast MRIs performed with an abbreviat
+
+----------------------------------------------------------------------
+
+**NCT04987931** - Real-World Outcomes of US Talazoparib-Treated Patients With Locally Advanced or Metastatic Breast Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 84
+Interventions: Talazoparib
+Locations: 1 sites
+Primary Outcome: Time to Treatment Failure (TTF) for Talazoparib
+
+----------------------------------------------------------------------
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: PREVENTION | Enrollment: 7274
+Interventions: Genetic testing
+Locations: 2 sites
+Primary Outcome: Penetrance estimation of the mutations identified in the gene panel
+
+----------------------------------------------------------------------
+
+**NCT00620373** - Molecular Breast Imaging as a Screening Tool for Women With Dense Breasts
+Phase: NA | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 969
+Interventions: Molecular Breast Imaging, Conventional Mammography
+Locations: 1 sites
+Primary Outcome: Diagnostic Yield
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT00923377** - Breast Stem Cells in Women at Average Risk and Increased Risk for Breast Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 3
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT01251900** - BRCA Mutations in Latinas
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 266
+Locations: 1 sites
+Primary Outcome: Collection of saliva from 2000 probands
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (7 trials)
+======================================================================
+
+**NCT00783822** - Effects of Rapid Genetic Counseling and Testing in Newly Diagnosed Breast Cancer Patients
+Phase: NA | Status: COMPLETED
+Purpose:  | Enrollment: 265
+Interventions: RGCT
+Locations: 1 sites
+Primary Outcome: The choice of primary surgical treatment
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GR
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 58
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+Locations: 32 sites
+Primary Outcome: Phase I: Incidence and severity of dose limiting toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT04341129** - Abbreviated MRI Protocol: Initial Experience With Dotarem® (Gadoterate Meglumine)
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 50
+Interventions: Abbreviated MRI protocol: initial experience with Dotarem® (Gadoterate Meglumine)
+Locations: 1 sites
+Primary Outcome: Compare the diagnostic accuracy of dynamic contrast-enhanced breast MRIs performed with an abbreviat
+
+----------------------------------------------------------------------
+
+**NCT03246841** - Investigation of Tumour Spectrum of Germline Mutations in Breast and Ovarian Cancer Genes.
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: PREVENTION | Enrollment: 7274
+Interventions: Genetic testing
+Locations: 2 sites
+Primary Outcome: Penetrance estimation of the mutations identified in the gene panel
+
+----------------------------------------------------------------------
+
+**NCT00620373** - Molecular Breast Imaging as a Screening Tool for Women With Dense Breasts
+Phase: NA | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 969
+Interventions: Molecular Breast Imaging, Conventional Mammography
+Locations: 1 sites
+Primary Outcome: Diagnostic Yield
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT01251900** - BRCA Mutations in Latinas
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 266
+Locations: 1 sites
+Primary Outcome: Collection of saliva from 2000 probands
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (10 trials)
+======================================================================
+
+**NCT06452394** - NEODOXy: Targeting Breast Cancer Stem Cells With Doxycycline
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Doxycyclin
+Locations: 7 sites
+Primary Outcome: Difference in the proportion of patients with ALDH1 positive tumors before and after neoadjuvant che
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GR
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 58
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+Locations: 32 sites
+Primary Outcome: Phase I: Incidence and severity of dose limiting toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06418594** - Adebrelimab Plus Apatinib and Etoposide for the Treatment of HER2-Negative Breast Cancer Brain Metastasis
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Adebrelimab, Apatinib
+Locations: 1 sites
+Primary Outcome: CNS-ORR
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 180
+Interventions: ENV-501
+Locations: 6 sites
+Primary Outcome: Phase 1 (Dose Escalation): Frequency of treatment-emergent adverse events
+
+----------------------------------------------------------------------
+
+**NCT03089918** - A Study to Investigate the Regional Brain Kinetics of Brain Drug Transporters Using P-glycoprotein and Breast Cancer Res
+Phase: PHASE1 | Status: COMPLETED
+Purpose: BASIC_SCIENCE | Enrollment: 11
+Interventions: 11C-JNJ-63779586
+Locations: 2 sites
+Primary Outcome: Effective Radiation Dose Following Injection of 11C-JNJ-63779586 (Part A)
+
+----------------------------------------------------------------------
+
+**NCT01050322** - Safety Study in Subjects With Metastatic Breast Cancer Who Progressed After Taxanes Treatment.
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 142
+Interventions: Lapatinib Vinorelbine, Lapatinib Capecitabine
+Locations: 18 sites
+Primary Outcome: Clinical benefit rate
+
+----------------------------------------------------------------------
+
+**NCT01234337** - Phase III Trial Comparing Capecitabine in Combination With Sorafenib or Placebo in the Treatment of Locally Advanced or 
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 537
+Interventions: Sorafenib (Nexavar, BAY43-9006), Placebo
+Locations: 153 sites
+Primary Outcome: Progression-free Survival (PFS) Assessed by the Independent Review Panel According to Response Evalu
+
+----------------------------------------------------------------------
+
+**NCT01720602** - Vorinostat in Treating Patients With Stage IV Breast Cancer Receiving Hormone Therapy
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 15
+Interventions: vorinostat, anastrozole
+Locations: 1 sites
+Primary Outcome: Rate of Clinical Benefit of Patients Receiving Vorinostat/AI Combination Therapy According to RECIST
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (2 trials)
+======================================================================
+
+**NCT03820141** - Durvalumab with Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 39
+Interventions: Durvalumab, Trastuzumab
+Locations: 1 sites
+Primary Outcome: Pathological complete response (pCR) rate in the breast in patients with HER2-enriched and HER2-ampl
+
+----------------------------------------------------------------------
+
+**NCT01050322** - Safety Study in Subjects With Metastatic Breast Cancer Who Progressed After Taxanes Treatment.
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 142
+Interventions: Lapatinib Vinorelbine, Lapatinib Capecitabine
+Locations: 18 sites
+Primary Outcome: Clinical benefit rate
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (59 trials)
+======================================================================
+
+**NCT01276041** - Paclitaxel, Trastuzumab, and Pertuzumab in the Treatment of Metastatic HER2-Positive Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 70
+Interventions: pertuzumab in combination with trastuzumab and paclitaxel
+Locations: 6 sites
+Primary Outcome: Percentage of Patients Who Are Progression Free at 6 Months or Later.
+
+----------------------------------------------------------------------
+
+**NCT05736367** - Investigating the Metabolic Pathways in Hormone Receptor Positive/HER2 Negative Breast Cancer
+Phase: NA | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 16
+Interventions: U-13C-glucose
+Locations: 2 sites
+Primary Outcome: Measure glycolysis metabolism dependencies of hormone receptor positive/HER2 negative breast cancer 
+
+----------------------------------------------------------------------
+
+**NCT06452394** - NEODOXy: Targeting Breast Cancer Stem Cells With Doxycycline
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: Doxycyclin
+Locations: 7 sites
+Primary Outcome: Difference in the proportion of patients with ALDH1 positive tumors before and after neoadjuvant che
+
+----------------------------------------------------------------------
+
+**NCT03820141** - Durvalumab with Trastuzumab and Pertuzumab in HER2-Enriched Breast Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 39
+Interventions: Durvalumab, Trastuzumab
+Locations: 1 sites
+Primary Outcome: Pathological complete response (pCR) rate in the breast in patients with HER2-enriched and HER2-ampl
+
+----------------------------------------------------------------------
+
+**NCT02513394** - PALbociclib CoLlaborative Adjuvant Study
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 5796
+Interventions: Palbociclib, Standard Adjuvant Endocrine Therapy
+Locations: 437 sites
+Primary Outcome: Invasive Disease Free Survival (iDFS)
+
+----------------------------------------------------------------------
+
+**NCT03106077** - Mirvetuximab Soravtansine as First Line in Treating Patients With Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 96
+Interventions: Mirvetuximab Soravtansine
+Locations: 1 sites
+Primary Outcome: Number of Metastatic Participants With Radiographic Response
+
+----------------------------------------------------------------------
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+Locations: 5 sites
+Primary Outcome: Number of Participants With Response Defined Using Response Evaluation Criteria In Solid Tumors (REC
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: DB-1310, Trastuzumab
+Locations: 21 sites
+Primary Outcome: Phase 1: Percentage of Participants with Dose-Limiting Toxicities (DLTs) as assessed by CTCAE v5.0. 
+
+----------------------------------------------------------------------
+
+**NCT00748553** - A Phase I/II Clinical Trial of Vidaza With Abraxane in Patients With Advanced/Metastatic Solid Tumors and Breast Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Azacitidine (Vidaza), Nab-paclitaxel (Abraxane)
+Locations: 1 sites
+Primary Outcome: Phase I: Percentage of Participants Responding to Treatment
+
+----------------------------------------------------------------------
+
+**NCT00593827** - Phase II Trial of Weekly or Every 3-week Ixabepilone for Patients With Metastatic Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 176
+Interventions: Ixabepilone, Ixabepilone
+Locations: 57 sites
+Primary Outcome: Progression-Free Survival (PFS) at 6 Months (6-month PFS Rate): Proportion of Participants Progressi
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT01920061** - A Study Of PF-05212384 In Combination With Other Anti-Tumor Agents and in Combination With Cisplatin in Patients With Tr
+Phase: PHASE1 | Status: COMPLETED
+Purpose: BASIC_SCIENCE | Enrollment: 110
+Interventions: PF-05212384 (gedatolisib), Docetaxel
+Locations: 29 sites
+Primary Outcome: Number of Participants With Dose Limiting Toxicities (DLTs) - Arms A, B and C
+
+----------------------------------------------------------------------
+
+**NCT00689156** - Epirubicin or Not in Patients With TOP2A (Topoisomerase (DNA) II Alpha (170kD)) Normal Early Breast Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 2015
+Interventions: Epirubicin, cyclophosphamide and docetaxel, docetaxel, cyclophosphamide
+Locations: 13 sites
+Primary Outcome: IDFS; invasive disease-free survival
+
+----------------------------------------------------------------------
+
+**NCT06247995** - A Phase I/II, Dose Finding and Optimization Study of [177Lu]Lu-NeoB in Combination With Capecitabine in Patients With GR
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 58
+Interventions: [68Ga]Ga-NeoB, [177Lu]Lu-NeoB
+Locations: 32 sites
+Primary Outcome: Phase I: Incidence and severity of dose limiting toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT05462457** - TAD in Primary Breast Cancer With Initially ≥ 3 Suspicious Lymph Nodes
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 150
+Interventions: Targeted axilllary dissection (TAD) followed by axillary lymph node dissection (ALND)
+Locations: 1 sites
+Primary Outcome: False-negative rate (FNR) of TAD in patients with ycN0 status
+
+----------------------------------------------------------------------
+
+**NCT04987931** - Real-World Outcomes of US Talazoparib-Treated Patients With Locally Advanced or Metastatic Breast Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 84
+Interventions: Talazoparib
+Locations: 1 sites
+Primary Outcome: Time to Treatment Failure (TTF) for Talazoparib
+
+----------------------------------------------------------------------
+
+**NCT07148141** - Impact of Breast Cancer on Human Folliculogenesis
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 100
+Interventions: Ovarian stimulation
+Locations: 1 sites
+Primary Outcome: Fertility preservation for patients with breast cancer: Altered response to ovarian stimulation and 
+
+----------------------------------------------------------------------
+
+**NCT05315154** - Sentinel Lymph Node Biopsy Versus No Axillary Surgery in Early Breast Cancer
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 800
+Interventions: No axillary surgery, SLNB
+Locations: 18 sites
+Primary Outcome: Disease free survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT06693024** - Adjuvant Therapy With Neratinib in HER2 Positive Early Breast Cancer
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 2806
+Interventions: neratinib
+Locations: 1 sites
+Primary Outcome: invasive disease free survival
+
+----------------------------------------------------------------------
+
+**NCT02167854** - Open-Label Study Evaluating the Safety and Tolerability of LJM716, BYL719 and Trastuzumab in Patients With Metastatic HE
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 23
+Interventions: BYL719, LJM716
+Locations: 6 sites
+Primary Outcome: maximum tolerated dose (MTD) of BYL719
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (9 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Nivolumab
+Locations: 8 sites
+Primary Outcome: Primary Objective
+
+----------------------------------------------------------------------
+
+**NCT02447003** - Study of Pembrolizumab (MK-3475) Monotherapy for Metastatic Triple-Negative Breast Cancer (MK-3475-086/KEYNOTE-086)
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 254
+Interventions: Pembrolizumab
+Primary Outcome: Objective Response Rate (ORR) Per Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST 1
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06418594** - Adebrelimab Plus Apatinib and Etoposide for the Treatment of HER2-Negative Breast Cancer Brain Metastasis
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Adebrelimab, Apatinib
+Locations: 1 sites
+Primary Outcome: CNS-ORR
+
+----------------------------------------------------------------------
+
+**NCT03594396** - Window of Opportunity Trial of Neoadjuvant Olaparib and Durvalumab for Triple Negative or Low ER+ Breast Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: Olaparib, Durvalumab
+Locations: 1 sites
+Primary Outcome: The changes of tumor biology
+
+----------------------------------------------------------------------
+
+**NCT06731153** - JAK1 Inhibitor Ivarmacitinib Reversing Immunotherapy Resistance in TNBC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Ivarmacitinib, Camrelizumab (SHR-1210)
+Locations: 1 sites
+Primary Outcome: Safety run-in: Incidence rate of dose-limiting toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT03807765** - Stereotactic Radiation and Nivolumab in the Management of Metastatic Breast Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 14
+Interventions: Nivolumab, Stereotactic Radiosurgery
+Locations: 1 sites
+Primary Outcome: Number of Participants who experience Dose Limiting Toxicities
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (4 trials)
+======================================================================
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+Locations: 5 sites
+Primary Outcome: Number of Participants With Response Defined Using Response Evaluation Criteria In Solid Tumors (REC
+
+----------------------------------------------------------------------
+
+**NCT02167854** - Open-Label Study Evaluating the Safety and Tolerability of LJM716, BYL719 and Trastuzumab in Patients With Metastatic HE
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 23
+Interventions: BYL719, LJM716
+Locations: 6 sites
+Primary Outcome: maximum tolerated dose (MTD) of BYL719
+
+----------------------------------------------------------------------
+
+**NCT06764186** - A Phase IIIB Study to Evaluate the Use of Capivasertib in Combination With Fulvestrant in Patients With Advanced Breast 
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 100
+Interventions: Fulvestrant, Capivasertib
+Locations: 18 sites
+Primary Outcome: Time to next treatment (TTNT)
+
+----------------------------------------------------------------------
+
+**NCT05894239** - A Study to Evaluate the Efficacy and Safety of Inavolisib in Combination With Phesgo Versus Placebo in Combination With 
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 230
+Interventions: Inavolisib, Phesgo
+Locations: 180 sites
+Primary Outcome: Investigator-Assessed Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (4 trials)
+======================================================================
+
+**NCT01277757** - Akt Inhibitor MK2206 in Treating Patients With Advanced Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Akt Inhibitor MK2206, Laboratory Biomarker Analysis
+Locations: 5 sites
+Primary Outcome: Number of Participants With Response Defined Using Response Evaluation Criteria In Solid Tumors (REC
+
+----------------------------------------------------------------------
+
+**NCT02145559** - A Pharmacodynamic Study of Sirolimus and Metformin in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 24
+Interventions: Metformin XR, Delayed Metformin
+Locations: 1 sites
+Primary Outcome: Pharmacodynamic Biomarker p70S6K
+
+----------------------------------------------------------------------
+
+**NCT06764186** - A Phase IIIB Study to Evaluate the Use of Capivasertib in Combination With Fulvestrant in Patients With Advanced Breast 
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 100
+Interventions: Fulvestrant, Capivasertib
+Locations: 18 sites
+Primary Outcome: Time to next treatment (TTNT)
+
+----------------------------------------------------------------------
+
+**NCT00923377** - Breast Stem Cells in Women at Average Risk and Increased Risk for Breast Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 3
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (1 trials)
+======================================================================
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+

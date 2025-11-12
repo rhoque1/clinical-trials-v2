@@ -1,0 +1,1554 @@
+# Biomarker-Specific Trials: Lung Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 137
+
+
+======================================================================
+## ALK (37 trials)
+======================================================================
+
+**NCT04395677** - A Study of AB-106 in Subjects With Advanced NSCLC Harboring ROS1 Fusion Gene
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: AB-106
+
+Biomarker Criteria:
+  - Previous participation in the treatment and clinical trials of ALK or NTRK fusion gene targeted therapies
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - 5X ULN (unless documented liver metastases where ≤ 5X ULN is permitted),
+   * ALK ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT06227546** - MGC018 in Patients With Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: MGC018
+
+Biomarker Criteria:
+  - Aspartate Aminotransferase (AST), Alanine Transaminase (ALT), and alkaline phosphatase (ALP) less than or equal to (\</=) 2
+
+----------------------------------------------------------------------
+
+**NCT06007937** - A Study of Lorlatinib in Combination With Ramucirumab in People With Lung Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Lorlatinib, Ramucirumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Written informed consent
+* Age \>18 years old
+* Metastatic or recurrent, biopsy-proven non-small cell lung cancer
+* ALK fusion identified by next generation sequencing (NGS) or IHC on material obtained from tumor or plasma
+* Measurable (RECIST 1
+  - Prior treatment with adjuvant chemotherapy is allowed
+* Patients in cohort 2 will have progressed or be intolerant of at least one second generation ALK TKI, including alectinib, brigatinib, or ceritinib
+  - * Patients may have received multiple ALK TKIs as well as chemotherapy, but one of these treatments must have been with a second-generation ALK TKI
+
+----------------------------------------------------------------------
+
+**NCT06104774** - The Effects of a Family-Centered Tai Chi Exercise on Lung Function and Mental Health of Patients After Thoracoscopic Surgery
+Phase: NA | Status: RECRUITING
+Interventions: Tai Chi Exercise
+
+Biomarker Criteria:
+  - Those who can walk on their own without any impairment in limb movement
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Cohort 1: NSCLC; EGFR wild-type and negative for ALK or ROS1 fusion genes
+
+----------------------------------------------------------------------
+
+**NCT02666105** - Exemestane in Post-Menopausal Women With NSCLC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Exemestane
+
+Biomarker Criteria:
+  - Patients with EGFR/ALK/ROS1 rearrangements should have received an FDA-approved TKI prior to enrollment on this trial
+
+----------------------------------------------------------------------
+
+**NCT06123754** - Phase III Study of Envafolimab Versus Placebo Plus Chemotherapy in Resectable Stage III NSCLC
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Envalfolimab subcutaneously injected+Platinum-based doublet chemotherapy intravenous injection, placebo subcutaneously injected +Platinum-based doublet chemotherapy intravenous injection
+
+Biomarker Criteria:
+  - Participants with known EGFR mutation or ALK translocation, and non-squamous cell carcinoma subjects need to identify EGFR and ALK mutation status;
+4
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT04880382** - Integrative Analysis of Tumor Microenvironment and Optimization of Immunotherapy Duration in NSCL Cancer Patients
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ICI treatment discontinuation, ICI treatment continuation
+
+Biomarker Criteria:
+  - For non-squamous histology, tumor with no oncogenic addiction: no activating EGFR mutation, no ALK or ROS1 rearrangement,
+4
+
+----------------------------------------------------------------------
+
+**NCT03420742** - A Phase 1 Drug-Drug Interaction Study Between Brigatinib and the CYP3A Substrate, Midazolam, in Participants With ALK-Positive or ROS1-Positive Solid 
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Midazolam, Brigatinib
+
+Biomarker Criteria:
+  - Locally advanced or metastatic solid tumors who meet 1 of the following 4 criteria:
+
+   * With locally advanced or metastatic ALK-positive NSCLC who have progressed on or are intolerant to treatment with at least 1 other ALK inhibitor
+  - * With ALK-positive nonlung solid tumors that are locally advanced or metastatic and for whom no standard, nonexperimental therapy is available
+  - Received prior ALK-inhibitor therapy within 7 days before the first dose of study drug
+
+----------------------------------------------------------------------
+
+**NCT02904954** - Durvalumab (MEDI4736) With or Without SBRT in Clinical Stage I, II and IIIA Non-small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Durvalumab, Durvalumab plus SBRT
+
+Biomarker Criteria:
+  - * AST (SGOT)/ALT (SGPT), and alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT05812534** - Study of Cadonilimab Combined With Bevacizumab and Chemotherapy for Advanced Nonsquamous Non-small Cell Lung Cancer Patients With Untreated Brain Meta
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Cadonilimab
+
+Biomarker Criteria:
+  - * Patients with asymptomatic brain metastases confirmed by histology or cytology as EGFR and ALK negative stage IV non-squamous NSCLC who have not received any chemotherapy or brain radiotherapy before
+  - * Patients with EGFR mutations or ALK fusion will be excluded
+
+----------------------------------------------------------------------
+
+**NCT02328105** - LCI-LUN-ABR-001: Carbo With Nab-Paclitaxel in Patients With Advanced NSCL Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Carboplatin, Abraxane
+
+Biomarker Criteria:
+  - 5x upper limit of normal, alkaline phosphatase \<= 2
+
+----------------------------------------------------------------------
+
+**NCT03513666** - A Study of Toripalimab+ Pemetrexed Plus Carboplatin in Patients With EGFR-mutation Positive and T790M Negative After Progression on EGFR-TKI Treatment
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Drug intervention
+
+Biomarker Criteria:
+  - 1);
+
+Exclusion Criteria:
+
+Patients who fulfill any of the following criteria must be excluded from the study:
+
+* Histologically or cytopathologically confirmed combined with small cell lung cancer component or squamous cell carcinoma component \>10%;
+* Combined with other driver gene mutation with known drug therapy, including but not limited to ALK rearrangement, ROS1 mutation, BRAF600E mutation etc
+
+----------------------------------------------------------------------
+
+**NCT02599454** - Atezolizumab and Stereotactic Body Radiation Therapy in Treating Patients With Non-small Cell Lung Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Atezolizumab, Stereotactic Body Radiation Therapy
+
+Biomarker Criteria:
+  - 5 x upper limit of normal (ULN) with alkaline phosphatase =\< 2
+  - 5 x ULN, with alkaline phosphatase \> 2
+
+----------------------------------------------------------------------
+
+**NCT06690671** - A Single-Arm, Phase Ⅰb Study of Golidocitinib Combined With Anti-PD-1 for the Treatment of Previously Treated NSCLC
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: Golidocitinib in combination with anti-PD-1
+
+Biomarker Criteria:
+  - the known presence of an EGFR-sensitive mutation/exon 20 insertion mutation or ALK/ROS1/RET fusion or MET14 jump mutation;
+3
+
+----------------------------------------------------------------------
+
+**NCT01048762** - Multidisciplinary Rehabilitation After Cancer Pulmonis Operation
+Phase: PHASE2 | Status: COMPLETED
+Interventions: physical exercise and dyspnoea counseling, home training
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* patients who are radically operated for pulmonary cancer at Aalbor Hospital, Aarhus University Hospital
+
+Exclusion Criteria:
+
+* not radically operated
+* cannot speak and read Danish
+* cannot cooperate in tests due to poor mental health
+* patients who undergo rehabilitation at other centres
+* cannot perform walking test due to physical impairment
+
+----------------------------------------------------------------------
+
+**NCT06876961** - Effect of Arm Cycling Exercise on Pulmonary Functions After Colectomy In Elderly
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: Arm cycling exercise, The traditional physical therapy program
+
+Biomarker Criteria:
+  - Karnofsky Performance Status \> 60 and able to walk ≥ 60 m
+
+----------------------------------------------------------------------
+
+**NCT03836066** - Atezolizumab Plus Bevacizumab in First Line NSCLC Patients
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Atezolizumab-Bevacizumab
+
+Biomarker Criteria:
+  - * AST, ALT, and alkaline phosphatase ≤ 2
+  - Patients with documented liver or bone metastases: alkaline phosphatase ≤ 5 × ULN
+  - Patients with an anaplastic lymphoma kinase (ALK) fusion oncogene
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (126 trials)
+======================================================================
+
+**NCT07105176** - HS-IT101 Injection for Advanced NSCLC
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: Cyclophosphamide, Fludarabine
+
+Biomarker Criteria:
+  - 1, untreated with radiotherapy/local therapy (unless treatment occurred \>28 days before sampling with documented progression)
+  - Toxicity Recovery: All treatment-related adverse events resolved to CTCAE v5
+  - Recent Anticancer Therapy:
+
+Systemic anticancer treatment within 4 weeks before preconditioning (including investigational drugs; washout \<5 half-lives if \<4 weeks)
+
+----------------------------------------------------------------------
+
+**NCT06222489** - Whole Body HER3 Quantification With Radiolabelled Patritumab Deruxtecan (HER3-DXd) PET/CT
+Phase: PHASE2 | Status: RECRUITING
+Interventions: 89Zr-Patritumab deruxtecan
+
+Biomarker Criteria:
+  - Have a histologically or cytologically confirmed diagnosis of (locally) advanced stage EGFR mutation positive NSCLC, not amenable for curative intent treatment
+  - Have received at least one line of EGFR TKI treatment for (locally) advanced stage NSCLC
+  - In case the tumor is positive for T790M mutation, prior treatment with a third generation EGFR TKI is mandatory
+
+----------------------------------------------------------------------
+
+**NCT00034879** - Iressa Expanded Access Program (EAP)
+Phase: PHASE3 | Status: COMPLETED
+Interventions: ZD1839 (Gefitinib)
+
+Biomarker Criteria:
+  - \* Non-cytotoxic or hormonal therapies for the adjuvant treatment of cancer or for previously treated cancers may be allowed per AstraZeneca permission;
+* patients eligible for or previously enrolled on a ZD1839 blinded clinical trial protocol
+
+----------------------------------------------------------------------
+
+**NCT04761822** - COVID19 SARS Vaccinations: Systemic Allergic Reactions to SARS-CoV-2 Vaccinations
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Moderna COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
+
+Biomarker Criteria:
+  - Use of any monoclonal antibody agent for treatment or prevention of COVID-19 within 3 months of randomization
+19
+  - Current use of beta-blockers, angiotensin-converting enzyme (ACE) inhibitors, monoamine oxidase (MAO) inhibitors, tricyclic anti-depressants or other agents that could interfere with the treatment of anaphylaxis, in the opinion of the investigator
+22
+
+----------------------------------------------------------------------
+
+**NCT07166601** - M0324 as Monotherapy and in Combination With Pembrolizumab or Chemotherapy in Participants With Selected Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: M0324, M0324
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+Part 1- M0324 Monotherapy:
+
+• Participants with certain advanced/metastatic solid tumor types known to overexpress MUC-1 and who are intolerant or refractory to standard therapy or for which no standard therapy is judged appropriate by the Investigator
+
+Part 2- M0324 Combination with Pembrolizumab:
+
+• Participants with certain advanced/metastatic tumor types known to overexpress MUC-1 and the participants in the combination treatment involving M0324 and pembrolizumab must be intolerant or refractory to standard therapy and no other further standard therapy should be judged appropriate by the Investigator
+  - In addition, the participants must have had prior treatment with immune checkpoint inhibitor(s) (ICIs) and must have experienced documented disease progression on or after ICIs
+  - Part 3- M0324 Combination with mFOLFIRINOX:
+
+* Participants with previously untreated metastatic pancreatic ductal adenocarcinoma, who are judged by Investigator as eligible for treatment with mFOLFIRINOX
+
+----------------------------------------------------------------------
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small Cell Lung Cancer (NSCLC) With
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Sacituzumab tirumotecan, Docetaxel
+
+Biomarker Criteria:
+  - * Documentation of locally assessed radiological disease progression while on or after last treatment based on Response Evaluation Criteria in Solid Tumors Version (RECIST) 1
+  - * Received prior treatment with a trophoblast cell-surface antigen 2 (TROP2)-targeted antibody-drug conjugate (ADC)
+  - * Received prior treatment with a topoisomerase I-containing ADC
+
+----------------------------------------------------------------------
+
+**NCT05775939** - PET/CT Imaging to Evaluate Cardiac Radiation Damage in Patients With Lung or Esophageal Cancer, EUCLID Trial
+Phase: NA | Status: RECRUITING
+Interventions: Fludeoxyglucose F-18, Positron Emission Tomography
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Provide signed and dated informed consent form
+* Willing to comply with all study procedures and be available for the duration of the study
+* Male or female, aged \>= 18
+* Life expectancy \>= 3 months as assessed by Radiation Oncologist
+* Mean heart dose estimated by Radiation Oncologist to be \>= 5 Gy (physics dose or biologically equivalent dose)
+* Pathologically proven (either histologic or cytologic) proven lung cancer or esophageal cancer
+* Planned radiation treatment course for management of lung or esophageal cancer \* Both standard and hypofractionation schedules are permitted
+
+Exclusion Criteria:
+
+* Contraindication for FDG PET-CT scans as assessed by the radiation oncologist or nuclear medicine radiologist
+* Palliative radiation doses defined as 20 Gy in 5 fractions
+
+----------------------------------------------------------------------
+
+**NCT06448312** - A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+Phase: PHASE3 | Status: RECRUITING
+Interventions: SKB264, Pembrolizumab
+
+Biomarker Criteria:
+  - Prior treatment with any of the following (including in the context of adjuvant, neoadjuvant therapy):
+
+   1
+  - ), any treatment targeting the immune mechanism of tumors such as immune cell therapy;
+   2
+
+----------------------------------------------------------------------
+
+**NCT05795595** - A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: CTX131
+
+Biomarker Criteria:
+  - Prior treatment with anti-CD70 targeting agents
+2
+
+----------------------------------------------------------------------
+
+**NCT04395677** - A Study of AB-106 in Subjects With Advanced NSCLC Harboring ROS1 Fusion Gene
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: AB-106
+
+Biomarker Criteria:
+  - The subject is either TKI treatment naïve(Cohort A)， or has disease progression following the treatment of crizotinib （Cohort B）
+5
+  - Willingness and ability to comply with the study scheduled visits, treatment plans, laboratory tests and other procedures 13
+  - Previous participation in the treatment or clinical trials of other ROS1-TKIs (except for crizotinib)
+3
+
+----------------------------------------------------------------------
+
+**NCT04207775** - Real World Study in Locally Advanced or Metastatic NSCLC Patients, Progressed From First-line EGFR-TKI Therapy
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - Provision of written informed consent by the patient should be within 6 weeks of the date of progression from first line EGFR-TKI treatment \*Note：
+
+   1
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - Histologically or cytologically proven metastatic solid tumours including: - colorectal (CRC, Microsatellite instability negative and positive) in treatment failure as per the current standard recommendation (cohort closed to inclusions)
+  - * non-small cell lung cancer (NSCLC) pretreated by at least one line of treatment
+  - Patients EGFR-mutant can be included only if they have been treated with, or developed toxicity with or refused to be treated with anti-EGFR therapy; Patients pretreated by anti-PD1, or anti-PDL1 therapeutic antibodies can be included only if they have received at least 4 months of treatment (cohort closed to inclusions)
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - Have relapsed or progressed on or after standard systemic treatments, or intolerable with standard treatment, or for which no standard treatment is available
+  - Documented radiological disease progression during/after most recent treatment regimen for advanced/unresectable, or metastatic disease
+  - Has adequate treatment washout period prior to Day 1 of Cycle 1
+
+----------------------------------------------------------------------
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell Lung Cancer With a KRAS G12C 
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: Biopsy Procedure, Biospecimen Collection
+
+Biomarker Criteria:
+  - Testing must have been done within the last 5 years before enrollment in this study
+* Data must be available for which prior KRAS\^G12C inhibitor treatment the patient has received and the dates that they received it (type of KRAS\^G12C inhibitor used and start and end dates must be collected prior to enrollment)
+* Data must be available on the date patients received the last dose of KRAS\^G12C inhibitor and the date of disease progression on their last treatment prior to screening for this trial
+  - Data must be available on the last treatment they received and if it was not or did not include a KRAS\^G12C inhibitor
+  - The time between last KRAS\^G12C inhibitor and treatment on this trial will be collected prior to enrollment
+* Data must be available on historical HER2 immunohistochemistry (IHC) status (date of test, type of antibody used for the IHC test, scoring system (i
+
+----------------------------------------------------------------------
+
+**NCT01954641** - Accountability for Cancer Care Through Undoing Racism and Equity
+Phase: NA | Status: COMPLETED
+Interventions: ACCURE Navigator, Usual Care by Cancer Center Care Team
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* White or African American patients aged 18 or older
+* Recently received a first diagnosis of stage 1 or 2 breast or lung cancer
+* Patient plans to initiate oncology treatment with curative intent
+
+Exclusion Criteria:
+
+* Have cognitive impairments or limited English proficiency that would preclude their ability to comprehend survey questions
+
+----------------------------------------------------------------------
+
+**NCT00533429** - Study of Pemetrexed + Carboplatin + Bevacizumab + Enzastaurin Versus Pemetrexed + Carboplatin + Bevacizumab + Placebo in Participants With Non-Small C
+Phase: PHASE2 | Status: COMPLETED
+Interventions: enzastaurin, pemetrexed
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* participants or their legal representative must have signed an informed consent document for clinical research
+* have laboratory confirmed diagnosis of advanced, nonsquamous cell non-small cell lung cancer (NSCLC) (Stage IIIB or IV disease) which is not curable
+* have not received any prior systemic chemotherapy, immunotherapy, targeted therapy, or biological therapy for advanced NSCLC, prior radiation therapy is allowed to less than 25% of the bone marrow
+* have measurable disease
+* have adequate organ function and estimated life expectancy of 12 weeks
+
+Exclusion Criteria:
+
+* have known central nervous system (CNS) disease; major surgery within 28 days; minor surgery within 7 days; serious concomitant systemic disorder; serious cardiac condition; have a serious, nonhealing wound, ulcer, or bone fracture
+* have received treatment within the last 30 days with any drug that has not received regulatory approval for any indication at the time of study entry
+* have previously received treatment with enzastaurin, pemetrexed, or bevacizumab
+* are pregnant or breast-feeding
+* are unable to swallow tablets
+
+----------------------------------------------------------------------
+
+**NCT03417895** - SHR-1210 Combined With Apatinib in Treatment of ED-SCLC After Failure of First Line Standard Therapy
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Apatinib
+
+Biomarker Criteria:
+  - , uncontrolled pericardial effusion, ascites or pleural effusion by extraction or other treatment)
+  - Treatment with any other investigational agent or participation in another clinical trial within 4 weeks prior to screening
+
+----------------------------------------------------------------------
+
+**NCT06516796** - Omitting of Lymphadenectomy is Acceptable for Lung Cancer Smaller Than 6 mm in Solid Size
+Phase: Not specified | Status: COMPLETED
+Interventions: No intervention
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* pathologically confirmed non-small cell lung cancer (NSCLC)
+* the maximum tumor diameter ≤2 cm
+* receiving surgical treatment between 2009-2022
+
+Exclusion Criteria:
+
+* non-primary NSCLC;
+* with small cell lung cancer components;
+* undergoing preoperative neoadjuvant therapies;
+* with compromised resection;
+* malignant tumor history over the past five years
+
+----------------------------------------------------------------------
+
+**NCT06227546** - MGC018 in Patients With Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: MGC018
+
+Biomarker Criteria:
+  - Patients with epidermal growth factor receptor (EGFR)-mutant Non Small Cell Lung Cancer (NSCLC) that has transformed to Small Cell Lung Cancer (SCLC) will be allowed if their SCLC has progressed following treatment with platinum-based chemotherapy
+  - Disease progression during or following treatment with platinum-based chemotherapy
+  - Adequate hematologic and end-organ function, defined by the following laboratory test results, obtained within 14 days prior to initiation of study treatment:
+
+   1
+
+----------------------------------------------------------------------
+
+**NCT06007937** - A Study of Lorlatinib in Combination With Ramucirumab in People With Lung Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Lorlatinib, Ramucirumab
+
+Biomarker Criteria:
+  - 0
+* Patients must have recovered (Common Terminology Criteria for Adverse Events \[CTCAE\] version 5 Grade ≤1) from the acute effects of prior therapy, except for residual alopecia or peripheral neuropathy (up to grade 2 allowed)prior to start of therapy
+* Patients in cohort 1 will be treatment-naïve in the metastatic setting
+  - Prior treatment with adjuvant chemotherapy is allowed
+* Patients in cohort 2 will have progressed or be intolerant of at least one second generation ALK TKI, including alectinib, brigatinib, or ceritinib
+  - * Patients may have received multiple ALK TKIs as well as chemotherapy, but one of these treatments must have been with a second-generation ALK TKI
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (9 trials)
+======================================================================
+
+**NCT02124772** - Study to Investigate Safety, Pharmacokinetic (PK), Pharmacodynamic (PD) and Clinical Activity of Trametinib in Subjects With Cancer or Plexiform Neuro
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Trametinib, Dabrafenib
+
+Biomarker Criteria:
+  - * Solid tumor cohort (B1) specific criteria
+* B1: Refractory or relapsed neuroblastoma
+* B2: Recurrent or unresectable low grade gliomas with BRAF tandem duplication with fusion
+* B3: Neurofibromatosis Type -1 associated plexiform neurofibromas (NF-1 with PN) that are unresectable and medically significant
+  - * B4: BRAF V600 mutant tumors
+  - * Tumors that have been documented by CLIA or equivalent certified laboratory test to harbor BRAF V600 mutation at diagnosis or relapse
+* Measurable or evaluable disease
+* Adequate bone marrow function
+* Specific Eligibility Criteria, Part D - Subjects must meet general eligibility criteria
+* Measurable or evaluable disease
+* Recurrent or refractory BRAFV600 mutant LGG or LCH tumors
+* Adequate bone marrow function
+
+Exclusion Criteria:
+
+* Lactating or pregnant female
+
+----------------------------------------------------------------------
+
+**NCT03513666** - A Study of Toripalimab+ Pemetrexed Plus Carboplatin in Patients With EGFR-mutation Positive and T790M Negative After Progression on EGFR-TKI Treatment
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Drug intervention
+
+Biomarker Criteria:
+  - 1);
+
+Exclusion Criteria:
+
+Patients who fulfill any of the following criteria must be excluded from the study:
+
+* Histologically or cytopathologically confirmed combined with small cell lung cancer component or squamous cell carcinoma component \>10%;
+* Combined with other driver gene mutation with known drug therapy, including but not limited to ALK rearrangement, ROS1 mutation, BRAF600E mutation etc
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+  - A prior genomics report from archival tissues or liquid biopsy demonstrating mutation is acceptable
+* Part 2: Histologically or cytologically confirmed diagnosis of one of the following locally advanced unresectable or metastatic solid tumor malignancies: pancreatic adenocarcinoma, RASmut melanoma, Class I BRAFmut melanoma, RASmut NSCLC, other RASmut GI cancers (aside from CRC) or any other RAFmut solid tumor as documented by genomic analysis
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 4 only - Participants with history of advanced histopathologically or cytologically confirmed colorectal cancer (CRC) that does not harbor the BRAF V600E mutation and are not dMMR+/MSI-Hi with progression on:
+
+  * A fluoropyrimidine (e
+
+----------------------------------------------------------------------
+
+**NCT06161051** - Treatment Patterns and Real-World Clinical Outcomes in Patients With Advanced NSCLC and MET Exon 14 Skipping Mutation in the United States
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - , EGFR, ALK, ROS1, RET, NTRK, BRAF, or KRAS) at any time
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Interventions: LGK974, PDR001
+
+Biomarker Criteria:
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with BRAF V600 inhibitor, with or without a MEK inhibitor
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with a BRAF V600 inhibitor, with or without a MEK inhibitor
+
+----------------------------------------------------------------------
+
+**NCT06505837** - JS001sc or JS001 Plus Chemotherapy is Indicated for Relapsed or Metastatic First-Line Non-Squamous Non Small Cell Lung Cancer（NSCLC）
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: JS001sc (360mg Subcutaneous injection) and pemetrexed/platinum-containing chemotherapy, JS001 (240mg intravenous infusion) and pemetrexed/platinum-containing chemotherapy
+
+Biomarker Criteria:
+  - Known to have other existing standard first-line treatment-driven gene mutations, including but not limited to: ROS1 fusion, BRAF V600 mutation, MET14 exon skipping mutation, RET fusion;2
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Be willing and able to provide written informed consent/assent for the trial
+* Eastern Cooperative Oncology Group (ECOG) performance scale (PS) of 0-1; Karnofsky performance status ≥ 70%
+* Patients must have histological diagnosis of melanoma or non-small cell lung cancer (biopsy will be done per standard of care, if needed to prove metastatic melanoma and/or NSCLC as well as for clinically relevant mutation analysis); additional biopsy will be per standard of care
+* Patients can be treated either in first line or in the refractory setting; programmed death-ligand 1 (PD-L1) positivity is not required for enrollment
+* All melanoma patients may be tested for proto-oncogene B-Raf (BRAF) as part of routine standard of care, but is not a requirement for the trial; all NSCLC patients may be tested for with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) as part of standard of care, but is not a requirement of the trial
+* Having gotten prior programmed cell death protein 1 (PD1) therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors \[BRAFi\], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+* Patient must be asymptomatic at time of getting SRS (day 0) on trial; prednisone \< 10 mg/day for at least 7 days prior to treatment is allowed
+* Patients with ocular, mucosal and unknown primary melanoma will also be eligible
+* Patients with 1-10 untreated brain metastases at time of initial brain metastases diagnosis (surgery to one of the brain lesions and/or biopsy of a lesion for diagnostic purposes and/or for standard of care purposes is acceptable)
+* Largest brain metastases volume measures less than 14
+
+----------------------------------------------------------------------
+
+**NCT06561386** - A Study to Compare the Efficacy of Nivolumab and Relatlimab Plus Chemotherapy vs Pembrolizumab Plus Chemotherapy for Stage IV/Recurrent Non-squamous N
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Nivolumab, Relatlimab
+
+Biomarker Criteria:
+  - * Participants with known BRAFV600E mutations, that are sensitive to available targeted inhibitor therapy; participants with known activating rearranged during transfection (RET) mutations or neurotrophic tyrosine receptor kinase (NTRK) fusion gene alterations are excluded
+  - Participants with unknown or indeterminate BRAF mutation, activating RET mutations or NTRK fusion gene alterations are eligible
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (45 trials)
+======================================================================
+
+**NCT06222489** - Whole Body HER3 Quantification With Radiolabelled Patritumab Deruxtecan (HER3-DXd) PET/CT
+Phase: PHASE2 | Status: RECRUITING
+Interventions: 89Zr-Patritumab deruxtecan
+
+Biomarker Criteria:
+  - Have a histologically or cytologically confirmed diagnosis of (locally) advanced stage EGFR mutation positive NSCLC, not amenable for curative intent treatment
+  - Have received at least one line of EGFR TKI treatment for (locally) advanced stage NSCLC
+  - In case the tumor is positive for T790M mutation, prior treatment with a third generation EGFR TKI is mandatory
+
+----------------------------------------------------------------------
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small Cell Lung Cancer (NSCLC) With
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Sacituzumab tirumotecan, Docetaxel
+
+Biomarker Criteria:
+  - * Participants with genome mutations must have received 1 or 2 prior lines of epidermal growth factor receptor tyrosine kinase inhibitor (EGFR TKI), including a third generation TKI for participants with a T790M mutation; and 1 platinum-based therapy after progression on or after EGFR TKI
+  - * Has an EGFR T790M mutation and has not received a third generation EGFR TKI (eg, osimertinib)
+
+----------------------------------------------------------------------
+
+**NCT04207775** - Real World Study in Locally Advanced or Metastatic NSCLC Patients, Progressed From First-line EGFR-TKI Therapy
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - Patients with prior confirmed EGFR mutation-positive, who have progressed from first line EGFR-TKI\*
+4
+  - Provision of written informed consent by the patient should be within 6 weeks of the date of progression from first line EGFR-TKI treatment \*Note：
+
+   1
+  - First-line EGFR-TKI is monotherapy;
+   2
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - Patients EGFR-mutant can be included only if they have been treated with, or developed toxicity with or refused to be treated with anti-EGFR therapy; Patients pretreated by anti-PD1, or anti-PDL1 therapeutic antibodies can be included only if they have received at least 4 months of treatment (cohort closed to inclusions)
+
+----------------------------------------------------------------------
+
+**NCT07049237** - Evidence-Based Nursing for Fatigue and Quality of Life in Lung Cancer Chemotherapy
+Phase: NA | Status: COMPLETED
+Interventions: Evidence-Based Nursing Under Quantitative Assessment Strategy (EB-NQAS), Routine Nursing Care
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Concurrent severe organ dysfunction (Child-Pugh score ≥B for liver; estimated glomerular filtration rate \[eGFR\] \<30 mL/min/1
+
+----------------------------------------------------------------------
+
+**NCT03417895** - SHR-1210 Combined With Apatinib in Treatment of ED-SCLC After Failure of First Line Standard Therapy
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Apatinib
+
+Biomarker Criteria:
+  - Prior exposure to anti-VEGF or anti-VEGFR therapy
+
+----------------------------------------------------------------------
+
+**NCT06227546** - MGC018 in Patients With Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: MGC018
+
+Biomarker Criteria:
+  - Patients with epidermal growth factor receptor (EGFR)-mutant Non Small Cell Lung Cancer (NSCLC) that has transformed to Small Cell Lung Cancer (SCLC) will be allowed if their SCLC has progressed following treatment with platinum-based chemotherapy
+
+----------------------------------------------------------------------
+
+**NCT01514877** - Icotinib Combined With Whole Brain Radiotherapy in Treating Multiple Brain Metastases From Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Icotinib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Cytologic or histological diagnosis of non-small cell lung cancer
+* Patients with disease progression after systemic chemotherapy with two-drug combination regimens that includes a platinum agent or patients with EGFR mutation status who have not been treated
+* Patients are diagnosed with multiple brain metastases for the first time in 4 weeks
+* Diagnosis of brain metastases is made based on Magnetic resonance imaging (MRI)
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Cohort 1: NSCLC; EGFR wild-type and negative for ALK or ROS1 fusion genes
+
+----------------------------------------------------------------------
+
+**NCT02666105** - Exemestane in Post-Menopausal Women With NSCLC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Exemestane
+
+Biomarker Criteria:
+  - Patients with EGFR/ALK/ROS1 rearrangements should have received an FDA-approved TKI prior to enrollment on this trial
+
+----------------------------------------------------------------------
+
+**NCT00807066** - Randomized Gefitinib Trial
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Gefitinib, Platinum
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients with locally advanced or metastatic NSCLC, EGFR FISH positive, candidate for a first-line platinum-based chemotherapy
+* Histologically confirmed diagnosis of non-squamous NSCLC
+  - Availability of tumor tissue for EGFR FISH analysis is mandatory
+* Stage IIIB (with effusion) or stage IV or disease relapsed after surgery or radiotherapy and in any case not suitable for radiotherapy or surgery with curative intent
+* EGFR FISH positive
+* Presence of at least one measurable/evaluable not previously irradiated lesion according to RECIST criteria
+  - Previously irradiated lesion(s) are allowed only if progressing
+* ECOG performance Status 0-2
+* Patient untreated with chemotherapy or EGFR targeting agents
+
+----------------------------------------------------------------------
+
+**NCT06238882** - Nitroglycerin Plus Radiotherapy Versus Conventional Radiotherapy in Patients With Lung Cancer.
+Phase: NA | Status: RECRUITING
+Interventions: Nitroglycerin
+
+Biomarker Criteria:
+  - * Documented EGFR sensitivity mutation
+
+----------------------------------------------------------------------
+
+**NCT06123754** - Phase III Study of Envafolimab Versus Placebo Plus Chemotherapy in Resectable Stage III NSCLC
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Envalfolimab subcutaneously injected+Platinum-based doublet chemotherapy intravenous injection, placebo subcutaneously injected +Platinum-based doublet chemotherapy intravenous injection
+
+Biomarker Criteria:
+  - Participants with known EGFR mutation or ALK translocation, and non-squamous cell carcinoma subjects need to identify EGFR and ALK mutation status;
+4
+
+----------------------------------------------------------------------
+
+**NCT05967689** - A Study of Zipalertinib in Patients With Advanced Non-Small Cell Lung Cancer With Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertions or Other 
+Phase: PHASE2 | Status: RECRUITING
+Interventions: TAS6417, CYP Cocktail
+
+Biomarker Criteria:
+  - Pathologically confirmed, locally advanced or metastatic NSCLC meeting all the following criteria:
+
+   Cohort A participants:
+   * Documented EGFR ex20ins status, as determined by local testing performed at a Clinical Laboratory Improvement Amendments (CLIA) certified (United States \[US\]) or locally certified laboratory (outside the US)
+  - Cohort B participants:
+   * Documented EGFR ex20instatus, as determined by local testing performed at a CLIA-certified (US) or locally certified laboratory (outside the US)
+  - Cohort C participants:
+   * Documented ex20ins or other uncommon single or compound EGFR non-ex20ins status, as determined by local testing performed at a CLIA-certified (US) or locally certified laboratory (outside the US)
+
+----------------------------------------------------------------------
+
+**NCT00986674** - Carboplatin and Paclitaxel Combined With Cetuximab and/or IMC-A12 in Patients With Advanced Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cixutumumab, carboplatin
+
+Biomarker Criteria:
+  - , Warfarin with an INR of 2-3) for \> 2 weeks prior to study entry
+* At least 21 days since prior radiotherapy
+* More than 4 weeks since prior major surgery or hormonal therapy (other than hormone replacement therapy) and recovered
+* More than 1 year since prior neoadjuvant or adjuvant chemotherapy
+
+Exclusion criteria:
+
+* Small cell lung cancer or mixed small cell and NSCLC
+* History of allergic reactions attributed to compounds of similar chemical or biological composition to cixutumumab
+* History of any medical or psychiatric condition, addictive disorder, or laboratory abnormality that, in the opinion of the investigator, may increase the risks associated with study participation or study treatments or may interfere with the conduct of the study or interpretation of study results
+* Prior agents targeting the EGFR or Insulin-like growth factor (IGFR) pathways
+* Prior therapy for advanced NSCLC, except for surgery and/or radiotherapy
+* Prior systemic therapy, including bevacizumab for advanced stage NSCLC
+* Pregnant or nursing
+* Peripheral neuropathy \> grade 1 as per Common Terminology Criteria for Adverse Event (CTCAE) v 4
+
+----------------------------------------------------------------------
+
+**NCT03433469** - Osimertinib in Treating Participants With Stage I-IIIA EGFR-mutant Non-small Cell Lung Cancer Before Surgery
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Osimertinib, Therapeutic Conventional Surgery
+
+Biomarker Criteria:
+  - * Documented activating EGFR mutation (Exon 19 deletion, T790M, or L858R) on tumor samples by Clinical Laboratory Clinical Laboratory Improvement Amendments (CLIA)-approved test
+* Patients treated with osimertinib or another EGFR tyrosine kinase inhibitors (TKI) (including erlotinib, afatinib, gefitinib, \& rocelitinib) are eligible if they received no more than 28 days of treatment, and if there is no evidence of grade 2 or greater treatment adverse events possibly related to treatment with the EGFR TKI
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in Patients With HER3-Expressing 
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ENV-501
+
+Biomarker Criteria:
+  - Locally advanced or metastatic mutated EGFR (mEGFR) NSCLC (HER3+)
+  3
+
+----------------------------------------------------------------------
+
+**NCT04880382** - Integrative Analysis of Tumor Microenvironment and Optimization of Immunotherapy Duration in NSCL Cancer Patients
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ICI treatment discontinuation, ICI treatment continuation
+
+Biomarker Criteria:
+  - For non-squamous histology, tumor with no oncogenic addiction: no activating EGFR mutation, no ALK or ROS1 rearrangement,
+4
+
+----------------------------------------------------------------------
+
+**NCT00567359** - Erlotinib in Patients With Resected, Early Stage NSCLC With Confirmed Mutations in the EGFR
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Erlotinib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Pathologically confirmed diagnosis of NSCLC of adenocarcinoma histology
+* Stage IA-B, IIA-B, or IIIA by the American Joint Committee on Cancer 7th edition staging criteria
+* Patients must have undergone surgical resection with curative intent within 6 months of enrollment
+* Sufficient tumor tissue available for EGFR mutation analysis
+* At least ONE of the following patient characteristics: previously detected deletion 19 or L858R EGFR mutation, female sex, history of never smoking, or Asian/Pacific Rim ethnicity (to be enrolled in the screening portion of trial)
+  - * 18 years of age or older
+* Tumor samples must have either exon 19 deletion mutations or the exon 21 L858R point mutation
+* ECOG Performance status of 0,1, or 2
+* Adequate organ function as outlined in protocol
+
+Exclusion Criteria:
+
+* Radiographic evidence of recurrent NSCLC prior to erlotinib treatment
+* Confirmed T790M resistance mutation in the primary tumor sample
+* Prior exposure to EGFR tyrosine kinase inhibitors
+* Known hypersensitivity to erlotinib, gefitinib, or any closely related drug
+* Pregnant or breastfeeding women
+* Any evidence of clinically active interstitial lung disease
+* Current use of enzyme-inducing anti-epileptic drugs, including carbamazepine, oxcarbazepine, phenytoin, fosphenytoin, phenobarbital, and primidone
+* Evidence of any other significant clinical disorder or laboratory finding that makes it undesirable for the patient to participate in the study
+* Use of any non-FDA approved or investigational agent within 2 weeks of enrolling onto the trial, or failure to recover from the side effects of any of these agents
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (7 trials)
+======================================================================
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: DB-1310, Trastuzumab
+
+Biomarker Criteria:
+  - For HER2 IHC 0 breast cancer subjects, it is highly recommended to collect additional tumor sample (Refer to Lab Manual)
+  - Prior treatment with antibody drug conjugate with topoisomerase I inhibitor (except trastuzumab deruxtecantopoisomerase I inhibitor HER2 ADC for backfilled subjects in Combo A of Phase 1 and subjects in Cohort 2e of Phase 2a, and not applicable for subjects enrolled for DLT observation in Phase 1)
+
+----------------------------------------------------------------------
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell Lung Cancer With a KRAS G12C 
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: Biopsy Procedure, Biospecimen Collection
+
+Biomarker Criteria:
+  - The time between last KRAS\^G12C inhibitor and treatment on this trial will be collected prior to enrollment
+* Data must be available on historical HER2 immunohistochemistry (IHC) status (date of test, type of antibody used for the IHC test, scoring system (i
+  - Please refer to the prescribing information for the substrate
+* Patients with uncontrolled intercurrent illness or any other significant condition(s) that would make participation in this protocol unreasonably hazardous or interfere with the evaluation of the clinical study results
+* Pregnant women are excluded from this study because DS-8201a (T-DXd) is a HER2-directed antibody conjugated to a topoisomerase 1 inhibitor agent with the potential for teratogenic or abortifacient effects
+
+----------------------------------------------------------------------
+
+**NCT02827357** - Responses to Chemotherapy of Patients With Non-small Cell Lung Cancer Harboring a Known Somatic Activating HER2 Mutation
+Phase: Not specified | Status: COMPLETED
+Interventions: No specific intervention
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* patients with advanced nonsmall-cell lung cancer
+* known HER2 exon-20 insertion
+* treated with chemotherapy and/or HER2-targeted drugs
+
+Exclusion Criteria:
+
+* none
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+**NCT06253871** - A Phase 1/1b Study of IAM1363 in HER2 Cancers
+Phase: PHASE1 | Status: RECRUITING
+Interventions: IAM1363
+
+Biomarker Criteria:
+  - Key Inclusion Criteria:
+
+* Age ≥ 18 years
+* Have relapsed/refractory HER2-altered malignancy
+* Have progression of disease after the last systemic therapy, or be intolerant of last systemic therapy
+* Have radiographically measurable disease by RECIST v1
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * If applicable, appropriate available therapies, including HER2-directed therapies
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (4 trials)
+======================================================================
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell Lung Cancer With a KRAS G12C 
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: Biopsy Procedure, Biospecimen Collection
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have histologically or cytologically documented locally advanced or metastatic KRAS\^G12C-mutant NSCLC that has previously been treated with a KRAS\^G12C inhibitor AND an immune checkpoint inhibitor (ICI) OR chemotherapy +/- ICI, either given concurrently or sequentially
+* Patients must have KRAS\^G12C mutation identified by tumor tissue or plasma circulating tumor deoxyribonucleic acid (ctDNA) profiling using a Clinical Laboratory Improvement Act (CLIA) certified College of American Pathologists (CAP) accredited platform; local molecular testing will be allowed
+  - Testing must have been done within the last 5 years before enrollment in this study
+* Data must be available for which prior KRAS\^G12C inhibitor treatment the patient has received and the dates that they received it (type of KRAS\^G12C inhibitor used and start and end dates must be collected prior to enrollment)
+* Data must be available on the date patients received the last dose of KRAS\^G12C inhibitor and the date of disease progression on their last treatment prior to screening for this trial
+  - Data must be available on the last treatment they received and if it was not or did not include a KRAS\^G12C inhibitor
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+  - A prior genomics report from archival tissues or liquid biopsy demonstrating mutation is acceptable
+* Participants must have received at least 1 line of systemic standard-of-care treatment for their advanced or metastatic disease and in the assessment of the Investigator, would be unlikely to tolerate or derive clinically meaningful benefit from other treatment options
+* Participants previously treated with codon-specific inhibitors of KRAS (including investigational agents) are eligible
+* KRASG12C mutant participants must have received prior treatment with a KRASG12C inhibitor for any approved indication
+* Radiologic evidence of measurable disease (i
+
+----------------------------------------------------------------------
+
+**NCT06161051** - Treatment Patterns and Real-World Clinical Outcomes in Patients With Advanced NSCLC and MET Exon 14 Skipping Mutation in the United States
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - , EGFR, ALK, ROS1, RET, NTRK, BRAF, or KRAS) at any time
+
+----------------------------------------------------------------------
+
+**NCT06333951** - AMG 193 Alone or in Combination With Other Therapies in Subjects With Advanced Thoracic Tumors With Homozygous MTAP-deletion (Master Protocol) (MTAPES
+Phase: PHASE1 | Status: RECRUITING
+Interventions: AMG 193, Carboplatin
+
+Biomarker Criteria:
+  - Subprotocol B - Histologically confirmed NSCLC with homozygous MTAP-deletion and KRAS p
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (2 trials)
+======================================================================
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 4 only - Participants with history of advanced histopathologically or cytologically confirmed colorectal cancer (CRC) that does not harbor the BRAF V600E mutation and are not dMMR+/MSI-Hi with progression on:
+
+  * A fluoropyrimidine (e
+  - * Intolerant to the standard treatment are eligible
+* For Part 7 (CRC combination) only: Participants with history of advanced histopathologically or cytologically confirmed CRC that does not harbor the mutation and are not dMMR+/MSI-H with progression on:
+
+  * A fluoropyrimidine (e
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - Malignant melanoma, NSCLC and MSI-H/dMMR solid cancers: Prior response to ICI is allowed only if PD under ICI has been documented \<9 months before enrolment and without subsequent lines of anti-cancer therapy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (20 trials)
+======================================================================
+
+**NCT06448312** - A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+Phase: PHASE3 | Status: RECRUITING
+Interventions: SKB264, Pembrolizumab
+
+Biomarker Criteria:
+  - Participants whose tumours are PD-L1 TPS ≥ 1%
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+
+Biomarker Criteria:
+  - Known allergy to anti-PD-L1 including :
+
+   * History of severe allergic anaphylactic reactions to chimeric, human or humanized antibodies, or fusion proteins
+
+----------------------------------------------------------------------
+
+**NCT03417895** - SHR-1210 Combined With Apatinib in Treatment of ED-SCLC After Failure of First Line Standard Therapy
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Apatinib
+
+Biomarker Criteria:
+  - Prior exposure to therapeutic anticancer vaccines; prior exposure to any T cell co-stimulatory therapy or immune checkpoint inhibitors, including but not limited to other anti-CTLA-4, anti-PD-1, anti-PD-L1 and anti-PD-L2 antibodies
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Provide archival tumor tissue samples or newly obtained needle biopsy or surgical resection samples of tumor lesions (previously unirradiated) for central PD-L1 and other biomarker tests
+  - Previously received any antibody or inhibitor targeting PD-1/PD-L1 or VEGF;
+4
+
+----------------------------------------------------------------------
+
+**NCT05718323** - Niraparib Added to Anti-PD-L1 Antibody Maintenance in SLFN11-positive, Extensive-disease SCLC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Niraparib
+
+Biomarker Criteria:
+  - * Patients must have received standard first-line chemo-immunotherapy, consisting of 4 cycles of platinum-etoposide chemotherapy in combination with an anti-PD-L1 antibody (atezolizumab or durvalumab)
+
+----------------------------------------------------------------------
+
+**NCT06123754** - Phase III Study of Envafolimab Versus Placebo Plus Chemotherapy in Resectable Stage III NSCLC
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Envalfolimab subcutaneously injected+Platinum-based doublet chemotherapy intravenous injection, placebo subcutaneously injected +Platinum-based doublet chemotherapy intravenous injection
+
+Biomarker Criteria:
+  - Subjects should provide tumor tissue for detection of PD-L1 expression level
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+  - Progression after PD-1/PD-L1 inhibitor therapy (defined as:
+
+   * ≥2 doses administred
+  - * Progression within 12 weeks of last PD-1/PD-L1 dose
+
+----------------------------------------------------------------------
+
+**NCT02701400** - Tremelimumab and Durvalumab With or Without Radiation Therapy in Patients With Relapsed Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Durvalumab, Hypofractionated Radiation Therapy
+
+Biomarker Criteria:
+  - , post-menopausal by history: ≥ 60 years old and no menses for ≥ 1 year without an alternative medical cause; OR history of hysterectomy, OR history of bilateral tubal ligation, OR history of bilateral oophorectomy) or must have a negative serum pregnancy upon study entry
+* Subject is willing and able to comply with the protocol for the duration of the study including undergoing treatment and scheduled visits and examinations including follow up
+* Patients must have baseline evaluations performed prior to the first dose of study drug and must meet all inclusion and exclusion criteria
+* Patients must have histologically or cytologically confirmed small cell lung cancer
+* Patients must have measurable disease, defined as at least one lesion (excluding the lesion for XRT) that can be accurately measured in at least one dimension (longest diameter to be recorded for non-nodal lesions and short axis for nodal lesions) as \> 20 mm with conventional techniques or as \> 10 mm with spiral computed tomography (CT) scan
+* Patient must have failed or found to be intolerant of standard frontline platinum-based regimens and must not have received \> 2 prior lines of therapy (nota bene \[NB\]: retreatment with a platinum-based doublet for sensitive relapse counts as another line therapy; however substitution of cisplatin with carboplatin or vice versa due to toxicity does not count as a separate regimen)
+* Negative serum pregnancy test within 48 hours before starting study treatment in women with childbearing potential
+* Ability to understand and the willingness to sign a written informed consent document
+
+Exclusion Criteria:
+
+* Involvement in the planning and/or conduct of the study (applies to both AstraZeneca staff and/or staff at the study site)
+* Previous enrollment or randomization in the present study
+* Treatment with an investigational product during the last 2 weeks
+* Any previous treatment with a PD1 or PD-L1 inhibitor, including durvalumab or an anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA4), including tremelimumab
+* Receipt of the last dose of anti-cancer therapy (chemotherapy, immunotherapy, endocrine therapy, targeted therapy, biologic therapy, tumor embolization, monoclonal antibodies, other investigational agent) ≤ 14 days prior to the first dose of study drug (≤ 7 days or four half-lives, whichever is longer, prior to the first dose of study drug for subjects who have received prior tyrosine kinase inhibitors \[TKIs\] \[e
+
+----------------------------------------------------------------------
+
+**NCT04380636** - Study of Pembrolizumab With Concurrent Chemoradiation Therapy Followed by Pembrolizumab With or Without Olaparib in Stage III Non-Small Cell Lung Canc
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Pembrolizumab, Olaparib
+
+Biomarker Criteria:
+  - * Has adequate pulmonary function tests
+* Has adequate organ function
+* Has provided written informed consent
+
+Exclusion Criteria:
+
+* Has small cell lung cancer or a mixed tumor with presence of small cell elements
+* Has myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML) or has features suggestive of MDS/AML
+* Has had documented weight loss \>10% (from baseline) in the preceding 3 months
+* Has received prior radiotherapy to the thorax, including radiotherapy to the esophagus, mediastinum, or for breast cancer
+* Has received prior therapy with an anti-programmed cell death 1 (ant-PD-1), anti-programmed cell death ligand 1 (anti-PD-L1), or anti- programmed cell death ligand 2 (anti-PD-L2) agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor
+* Has received prior therapy with olaparib or with any other polyadenosine 5'diphosphoribose (polyADP ribose) polymerization (PARP) inhibitor
+* Has had major surgery \<4 weeks prior to the first dose of study treatment (except for placement of vascular access)
+* Is expected to require any other form of antineoplastic therapy, while on study
+* Has received a live or live attenuated vaccine within 30 days before the first dose of study intervention; administration of killed vaccines is allowed
+* Has received colony-stimulating factors (e
+
+----------------------------------------------------------------------
+
+**NCT05005429** - Study of the Efficacy and Safety of the Bintrafusp Alfa in Previously Treated Advanced Malignant Pleural Mesothelioma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Bintrafusp alfa
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior immune checkpoint therapy with an anti-PD-1, anti-PD-L1, anti-CD137, or anti-CTLA-4 antibody
+
+----------------------------------------------------------------------
+
+**NCT05091567** - A Phase III, Open-Label Study of Maintenance Lurbinectedin in Combination With Atezolizumab Compared With Atezolizumab in Participants With Extensive-
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Atezolizumab, Lurbinectedin
+
+Biomarker Criteria:
+  - 1
+* Negative HIV test and no evidence of active Hepatitis B or Hepatitis C at screening
+
+Exclusion Criteria for the Induction Phase:
+
+* Presence or history of CNS metastases
+* Active or history of autoimmune disease or deficiency
+* History of malignancies other than SCLC within 5 years prior to enrollment
+* Prior treatment with CD137 agonists or immune checkpoint blockade therapies, including anti-CTLA-4, anti-PD-1, and anti-PD-L1 therapeutic antibodies, or lurbinectedin or trabectedin
+* History of idiopathic pulmonary fibrosis, organizing pneumonia, drug induced pneumonitis, or idiopathic pneumonitis, or evidence of active pneumonitis on screening chest computed tomography (CT) scan
+* Treatment with investigational therapy within 28 days prior to enrollment
+
+Inclusion Criteria for the Maintenance Phase:
+
+* ECOG PS of 0 or 1
+* Ongoing response or stable disease per RECIST 1
+
+----------------------------------------------------------------------
+
+**NCT02486718** - Study to Assess Safety and Efficacy of Atezolizumab (MPDL3280A) Compared to Best Supportive Care Following Chemotherapy in Patients With Lung Cancer [
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Atezolizumab, Cisplatin
+
+Biomarker Criteria:
+  - 2009), not all levels need to be sampled; if the preoperative staging imaging results (contrast computed tomography \[CT\] and positron emission tomography \[PET\] scans) do not suggest evidence of disease in the mediastinum, the participant will be considered eligible if N2 nodal sampling is not performed per surgeon's decision
+* Eligible to receive a cisplatin-based chemotherapy regimen
+* Adequate hematologic and end-organ function
+* Women who are not postmenopausal (\>/=12 months of non-therapy-induced amenorrhea) or surgically sterile must have a negative serum pregnancy test result within 14 days prior to initiation of cisplatin-based chemotherapy
+
+Inclusion Criteria for Randomized Phase - Women who are not postmenopausal (\>/=12 months of non-therapy-induced amenorrhea) or surgically sterile must have a negative serum pregnancy test result within 14 days prior to initiation of atezolizumab or BSC
+
+Exclusion Criteria:
+
+Exclusion Criteria for Enrollment Phase
+
+* Illness or condition that may interfere with a participant's capacity to understand, follow, and/or comply with study procedures
+* Pregnant and lactating women
+* Treatment with prior systemic chemotherapy: Chemotherapy for early stage of malignancy with curative intent, provided that the last dose received was more than 5 years prior to enrollment and low-dose chemotherapy for non-malignant conditions may be allowed upon approval by the Medical Monitor
+* Hormonal cancer therapy or radiation therapy as prior cancer treatment within 5 years before enrollment
+* Treatment with any other investigational agent with therapeutic intent within 28 days prior to enrollment
+* Participants with hearing impairment
+* Known sensitivity to any component of the chemotherapy regimen the participant will be assigned to, or to mannitol
+* Prior treatment with cluster of differentiation (CD) 137 (CD137) agonists or immune checkpoint blockade therapies, anti-programmed death-1 (PD-1), and anti programmed death ligand 1 (PD-L1) therapeutic antibodies
+* Malignancies other than NSCLC within 5 years prior to randomization, with the exception of those with a negligible risk of metastasis or death (e
+  - , bronchiolitis obliterans), drug-induced pneumonitis, idiopathic pneumonitis, or evidence of active pneumonitis on screening chest CT scan
+* Prior allogeneic bone marrow transplantation or solid organ transplant
+* Any other diseases, metabolic dysfunction, physical examination finding, or clinical laboratory finding giving reasonable suspicion of a disease or condition that contraindicates the use of an investigational drug or that may affect the interpretation of the results or render the participant at high risk from treatment complications
+* Known tumor PD-L1 expression status as determined by an immunohistochemistry (IHC) assay from other clinical studies (e
+  - , participants whose PD-L1 expression status was determined during screening for entry into a study with anti-PD-1 or anti-PD-L1 antibodies but were not eligible are excluded)
+
+Specific Exclusions for Pemetrexed Treatment
+
+\- Participants with squamous cell histology
+
+Exclusion Criteria for Randomized Phase
+
+* Signs or symptoms of infection within 14 days prior to randomization (severe infection within 28 days prior to randomization), including but not limited to hospitalization for complications of infection, bacteremia, or severe pneumonia
+* Received therapeutic oral or intravenous (IV) antibiotics within 14 days prior to randomization
+* Major surgical procedure within 28 days prior to randomization or anticipation of need for a major surgical procedure during the course of the study
+* Administration of a live, attenuated vaccine within 4 weeks prior to initiation of study treatment or anticipation that such a live attenuated vaccine will be required during the study
+* Treatment with systemic immunostimulatory agents (including but not limited to interferons or interleukin-2) within 4 weeks or 5 half-lives of the drug, whichever is longer, prior to randomization: Prior treatment with cancer vaccines is allowed
+* Treatment with systemic corticosteroids or other immunosuppressive medications (including but not limited to prednisone, dexamethasone, cyclophosphamide, azathioprine, methotrexate, thalidomide, and anti-tumor necrosis factor \[anti-TNF\] agents) within 14 days prior to randomization
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - PD-L1 positivity is required for subjects with HNSCC (\>20% combined positive score) and NSCLC (\>20% PD-L1 expression)
+5
+  - Progressive disease, as considered by the treating physician, on therapy with PD1/PD-L1 blockers and/or CTLA4-blockers and/or LAG-3 blockers, or combinations regimes comprising any of these agents
+
+----------------------------------------------------------------------
+
+**NCT06944470** - JS207 Combined With Chemotherapy in Subjects With Stage II-III NSCLC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Paclitaxel + Carboplatin/cisplatin for squamous cell carcinoma and pemetrexed + carboplatin/cisplatin for non-squamous cell carcinoma, surgery
+
+Biomarker Criteria:
+  - At least 3 unstained tumor tissue sections were available for detection of PD-L1 and other biomarkers
+  - Previous systemic antitumor therapy for NSCLC (including investigational drugs), such as chemotherapy or immunologically mediated therapy (including but not limited to anti-PD-1, anti-PD-L1, anti-CTLA-4 therapy) and anti-angiogenic therapy (such as anti-VEGF pathway-targeted drugs);
+   2
+
+----------------------------------------------------------------------
+
+**NCT06333951** - AMG 193 Alone or in Combination With Other Therapies in Subjects With Advanced Thoracic Tumors With Homozygous MTAP-deletion (Master Protocol) (MTAPES
+Phase: PHASE1 | Status: RECRUITING
+Interventions: AMG 193, Carboplatin
+
+Biomarker Criteria:
+  - Arm C (AMG 193 + pembrolizumab):
+
+\- PD-L1 positive
+
+----------------------------------------------------------------------
+
+**NCT06908070** - Chemoradiotherapy With Surgery Followed by Consolidation Durvalumab
+Phase: PHASE4 | Status: RECRUITING
+Interventions: Consolidation durvalumab
+
+Biomarker Criteria:
+  - Has received prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, anti-CTLA-4 antibody, or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways
+
+----------------------------------------------------------------------
+
+**NCT06505837** - JS001sc or JS001 Plus Chemotherapy is Indicated for Relapsed or Metastatic First-Line Non-Squamous Non Small Cell Lung Cancer（NSCLC）
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: JS001sc (360mg Subcutaneous injection) and pemetrexed/platinum-containing chemotherapy, JS001 (240mg intravenous infusion) and pemetrexed/platinum-containing chemotherapy
+
+Biomarker Criteria:
+  - Prior immune-mediated therapy, including but not limited to anti-PD-1, anti-PD-L1, or anti-CTLA-4 therapy (or any other antibodies acting on T cell synergistic stimulation or checkpoint pathways such as IDO, IL-2R, GITR);
+   3
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Be willing and able to provide written informed consent/assent for the trial
+* Eastern Cooperative Oncology Group (ECOG) performance scale (PS) of 0-1; Karnofsky performance status ≥ 70%
+* Patients must have histological diagnosis of melanoma or non-small cell lung cancer (biopsy will be done per standard of care, if needed to prove metastatic melanoma and/or NSCLC as well as for clinically relevant mutation analysis); additional biopsy will be per standard of care
+* Patients can be treated either in first line or in the refractory setting; programmed death-ligand 1 (PD-L1) positivity is not required for enrollment
+* All melanoma patients may be tested for proto-oncogene B-Raf (BRAF) as part of routine standard of care, but is not a requirement for the trial; all NSCLC patients may be tested for with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) as part of standard of care, but is not a requirement of the trial
+* Having gotten prior programmed cell death protein 1 (PD1) therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors \[BRAFi\], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+* Patient must be asymptomatic at time of getting SRS (day 0) on trial; prednisone \< 10 mg/day for at least 7 days prior to treatment is allowed
+* Patients with ocular, mucosal and unknown primary melanoma will also be eligible
+* Patients with 1-10 untreated brain metastases at time of initial brain metastases diagnosis (surgery to one of the brain lesions and/or biopsy of a lesion for diagnostic purposes and/or for standard of care purposes is acceptable)
+* Largest brain metastases volume measures less than 14
+
+----------------------------------------------------------------------
+
+**NCT06902272** - ctDNA to Predict Response to Chemo-Immunotherapy and Detect Minimal Residual Disease in Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Circulating Tumor Deoxyribonucleic acid (ctDNA) Assay, Pembrolizumab
+
+Biomarker Criteria:
+  - Participants must have tumor tissue available for programmed cell death ligand 1 (PD-L1) immunohistochemical (IHC) testing performed by a third-party analyzing lab during the screening period:
+
+   1
+
+----------------------------------------------------------------------
+
+**NCT06561386** - A Study to Compare the Efficacy of Nivolumab and Relatlimab Plus Chemotherapy vs Pembrolizumab Plus Chemotherapy for Stage IV/Recurrent Non-squamous N
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Nivolumab, Relatlimab
+
+Biomarker Criteria:
+  - * Participants must have measurable PD-L1 ≥ 1% Tumor Cell (TC) score by the investigational PD-L1 immunohistochemistry (IHC) assay VENTANA PD-L1 (SP263) CDx Assay conducted by central laboratory during the screening period prior to randomization
+  - * Participants must not have had prior treatment with an anti-PD-1, anti-PD-L1, anti-PD-L2, or anti-CTLA-4 antibody, or other antibody or drug targeting T-cell co-stimulation or checkpoint pathways
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (12 trials)
+======================================================================
+
+**NCT04395677** - A Study of AB-106 in Subjects With Advanced NSCLC Harboring ROS1 Fusion Gene
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: AB-106
+
+Biomarker Criteria:
+  - Positivity of ROS1 fusion is determined by the local qualified laboratories by using the FISH, RT-PCR or NGS assay, and the subject must provide archival tumor tissue sample for the confirmation by a sponsor-designated central laboratory
+4
+  - Previous participation in the treatment or clinical trials of other ROS1-TKIs (except for crizotinib)
+3
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combination with Chemotherapy As Fir
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+
+Biomarker Criteria:
+  - Cohort 1: NSCLC; EGFR wild-type and negative for ALK or ROS1 fusion genes
+
+----------------------------------------------------------------------
+
+**NCT02666105** - Exemestane in Post-Menopausal Women With NSCLC
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Exemestane
+
+Biomarker Criteria:
+  - Patients with EGFR/ALK/ROS1 rearrangements should have received an FDA-approved TKI prior to enrollment on this trial
+
+----------------------------------------------------------------------
+
+**NCT04880382** - Integrative Analysis of Tumor Microenvironment and Optimization of Immunotherapy Duration in NSCL Cancer Patients
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ICI treatment discontinuation, ICI treatment continuation
+
+Biomarker Criteria:
+  - For non-squamous histology, tumor with no oncogenic addiction: no activating EGFR mutation, no ALK or ROS1 rearrangement,
+4
+
+----------------------------------------------------------------------
+
+**NCT03420742** - A Phase 1 Drug-Drug Interaction Study Between Brigatinib and the CYP3A Substrate, Midazolam, in Participants With ALK-Positive or ROS1-Positive Solid 
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Midazolam, Brigatinib
+
+Biomarker Criteria:
+  - * With locally advanced or metastatic ROS1-positive NSCLC who have progressed on crizotinib therapy or are intolerant to crizotinib, or
+   * With ROS1-positive nonlung solid tumors that are locally advanced or metastatic and for whom no standard, nonexperimental therapy is available
+
+----------------------------------------------------------------------
+
+**NCT03513666** - A Study of Toripalimab+ Pemetrexed Plus Carboplatin in Patients With EGFR-mutation Positive and T790M Negative After Progression on EGFR-TKI Treatment
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Drug intervention
+
+Biomarker Criteria:
+  - 1);
+
+Exclusion Criteria:
+
+Patients who fulfill any of the following criteria must be excluded from the study:
+
+* Histologically or cytopathologically confirmed combined with small cell lung cancer component or squamous cell carcinoma component \>10%;
+* Combined with other driver gene mutation with known drug therapy, including but not limited to ALK rearrangement, ROS1 mutation, BRAF600E mutation etc
+
+----------------------------------------------------------------------
+
+**NCT06690671** - A Single-Arm, Phase Ⅰb Study of Golidocitinib Combined With Anti-PD-1 for the Treatment of Previously Treated NSCLC
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: Golidocitinib in combination with anti-PD-1
+
+Biomarker Criteria:
+  - the known presence of an EGFR-sensitive mutation/exon 20 insertion mutation or ALK/ROS1/RET fusion or MET14 jump mutation;
+3
+
+----------------------------------------------------------------------
+
+**NCT03836066** - Atezolizumab Plus Bevacizumab in First Line NSCLC Patients
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Atezolizumab-Bevacizumab
+
+Biomarker Criteria:
+  - Patients with ROS1 translocations
+
+----------------------------------------------------------------------
+
+**NCT06161051** - Treatment Patterns and Real-World Clinical Outcomes in Patients With Advanced NSCLC and MET Exon 14 Skipping Mutation in the United States
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - , EGFR, ALK, ROS1, RET, NTRK, BRAF, or KRAS) at any time
+
+----------------------------------------------------------------------
+
+**NCT07017829** - GT103 in Combination With Pembrolizumab for the Treatment of Advanced or Metastatic STK11 Mutant Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Anti-CFH Monoclonal Antibody GT103, Biopsy Procedure
+
+Biomarker Criteria:
+  - * Tumor with oncogenic mutation based on standard of care broad genomic profiling in EGFR, ALK, ROS1, RET, MET, or NTRK genes
+
+----------------------------------------------------------------------
+
+**NCT06944470** - JS207 Combined With Chemotherapy in Subjects With Stage II-III NSCLC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Paclitaxel + Carboplatin/cisplatin for squamous cell carcinoma and pemetrexed + carboplatin/cisplatin for non-squamous cell carcinoma, surgery
+
+Biomarker Criteria:
+  - Subjects without EGFR sensitive mutation, ALK fusion, ROS1 fusion or RET fusion
+
+----------------------------------------------------------------------
+
+**NCT06505837** - JS001sc or JS001 Plus Chemotherapy is Indicated for Relapsed or Metastatic First-Line Non-Squamous Non Small Cell Lung Cancer（NSCLC）
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: JS001sc (360mg Subcutaneous injection) and pemetrexed/platinum-containing chemotherapy, JS001 (240mg intravenous infusion) and pemetrexed/platinum-containing chemotherapy
+
+Biomarker Criteria:
+  - Known to have other existing standard first-line treatment-driven gene mutations, including but not limited to: ROS1 fusion, BRAF V600 mutation, MET14 exon skipping mutation, RET fusion;2
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (2 trials)
+======================================================================
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving Intravenous (IV) ABBV-400 as 
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ABBV-400, Trifluridine/Tipiracil
+
+Biomarker Criteria:
+  - * For Part 4 only - Participants with history of advanced histopathologically or cytologically confirmed colorectal cancer (CRC) that does not harbor the BRAF V600E mutation and are not dMMR+/MSI-Hi with progression on:
+
+  * A fluoropyrimidine (e
+  - * Intolerant to the standard treatment are eligible
+* For Part 7 (CRC combination) only: Participants with history of advanced histopathologically or cytologically confirmed CRC that does not harbor the mutation and are not dMMR+/MSI-H with progression on:
+
+  * A fluoropyrimidine (e
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - Malignant melanoma, NSCLC and MSI-H/dMMR solid cancers: Prior response to ICI is allowed only if PD under ICI has been documented \<9 months before enrolment and without subsequent lines of anti-cancer therapy
+
+----------------------------------------------------------------------
+

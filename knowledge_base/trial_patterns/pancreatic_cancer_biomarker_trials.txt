@@ -1,0 +1,1328 @@
+# Biomarker-Specific Trials: Pancreatic Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 141
+
+
+======================================================================
+## ALK (14 trials)
+======================================================================
+
+**NCT00033241** - Erlotinib Combined With Gemcitabine in Treating Patients With Newly Diagnosed Locally Advanced or Metastatic Pancreatic Cancer or Other Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: erlotinib hydrochloride, gemcitabine hydrochloride
+
+Biomarker Criteria:
+  - , bullous keratopathy, aniridia, severe chemical burns, or neutrophilic keratitis)
+  * Abnormal Schirmer test (less than 2 mm) allowed provided there is no evidence of clinically significant corneal surface abnormalities
+
+Other:
+
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception
+* No known or suspected hypersensitivity to gemcitabine
+* No uncontrolled infection
+* HIV negative
+* No other malignancy within the past 5 years except treated non-melanoma skin cancer or carcinoma in situ of the breast or cervix
+* No other life-threatening illness
+* No psychiatric disorders or altered mental status the would preclude informed consent or study
+
+PRIOR CONCURRENT THERAPY:
+
+Biologic therapy:
+
+* At least 28 days since prior immunotherapy or biological response modified therapy for the primary malignancy
+* No concurrent immunotherapy or biologic response modifier therapy for the primary malignancy
+
+Chemotherapy:
+
+* See Disease Characteristics
+* At least 28 days since prior chemotherapy for the primary malignancy
+* No prior mitomycin or nitrosoureas for the primary malignancy
+* No more than 6 prior courses of chemotherapy with an alkylating agent for the primary malignancy
+* No prior gemcitabine for the primary malignancy except as a low-dose (less than 500 mg/m\^2) radiosensitizer administered concurrently with or within 2 weeks after radiotherapy at least 3 months ago
+* No other concurrent chemotherapy for the primary malignancy
+
+Endocrine therapy:
+
+* See Disease Characteristics
+* At least 28 days since prior systemic hormonal therapy (except LH-RH agonists) for the primary malignancy
+* No concurrent systemic hormonal therapy (except LH-RH agonists) for the primary malignancy
+* Other concurrent endocrine therapy is allowed as follows:
+
+  * Hormonal therapy (e
+
+----------------------------------------------------------------------
+
+**NCT01303029** - Safety and Efficacy Study of Gemcitabine-erlotinib Versus Gemcitabine-erlotinib-capecitabine in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Gemcitabine+erlotinib, Gemcitabine+erlotinib+capecitabine
+
+Biomarker Criteria:
+  - In patients with liver metastasis ≤ 5 x LSN
+    * Alkaline phosphatase ≤ 2,5 x LSN or ≤ 5 x LSN in patients with liver metastasis
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+
+Biomarker Criteria:
+  - 5 mg/dL
+* ALT and AST ≤ 3 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3 times ULN
+* Hemoglobin ≥ 9
+
+----------------------------------------------------------------------
+
+**NCT00331682** - Docetaxel and Flavopiridol in Treating Patients With Refractory Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: alvocidib, docetaxel
+
+Biomarker Criteria:
+  - 5 times ULN
+* Creatinine normal OR creatinine clearance ≥ 60 mL/min
+* Alkaline phosphatase ≤ 5 times ULN
+* No history of allergic reactions to compounds of similar chemical orbiological composition to flavopiridol
+* No known allergy to docetaxel or medications formulated in polysorbate 80 (Tween 80)
+* No uncontrolled diabetes
+* No uncontrolled intercurrent illness including, but not limited to any of the following:
+
+  * Ongoing or active infection
+  * Symptomatic congestive heart failure
+  * Unstable angina pectoris
+  * Cardiac arrhythmia or myocardial infarction within the past 6 months
+
+    * Rate-controlled atrial fibrillation stable for ≥ 6 months allowed
+  * Psychiatric illness or social situations that would limit compliance with study requirements
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception during and for 3 months after completion of study treatment
+* No peripheral neuropathy \> grade 1
+* No immune deficiency
+* Atl east 2 weeks since prior chemotherapy (6 weeks for nitrosoureas, carmustine, or mitomycin C) and recovered
+* At least 2 weeks since prior targeted therapy (e
+
+----------------------------------------------------------------------
+
+**NCT00577889** - Gemcitabine Hydrochloride and Tanespimycin in Treating Patients With Stage IV Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: gemcitabine hydrochloride, tanespimycin
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 2 times ULN (5 times ULN if liver metastases are present)
+* Creatinine normal
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception
+* Ejection fraction \> 40% by echocardiogram
+
+  * Patients who received prior anthracyclines must have a normal ejection fraction by echocardiogram
+* Corrected QT interval (QTc) \< 500 msec
+* Pulse oximetry \> 88% on room air at rest and after gentle exercise (according to Group Medicare Guidelines)
+* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to tanespimycin (17-AAG) or gemcitabine hydrochloride
+* No known allergy to eggs
+* No concurrent uncontrolled illness including, but not limited to, any of the following:
+
+  * Ongoing or active infection
+  * Symptomatic congestive heart failure
+  * Unstable angina pectoris
+  * Cardiac arrhythmia
+  * Psychiatric illness/social situations that would limit compliance with study requirements
+* No active ischemic heart disease within the past 12 months
+* No history of uncontrolled dysrhythmias
+* No congenital long QT syndrome
+* No left bundle branch block
+* No other significant cardiac disease, including any of the following:
+
+  * New York Heart Association class III or IV heart failure
+  * Myocardial infarction within the past year
+  * Poorly controlled angina
+  * Uncontrolled dysrhythmias
+  * History of serious ventricular arrhythmia (ventricular tachycardia or ventricular fibrillation ≥ 3 beats in a row)
+* No clinically significant interstitial lung disease
+* No symptomatic pulmonary disease requiring medication, including any of the following:
+
+  * Dyspnea
+  * Dyspnea on exertion
+  * Paroxysmal nocturnal dyspnea
+  * Significant pulmonary disease requiring oxygen\*, including chronic obstructive/restrictive pulmonary disease
+* No pulmonary or cardiac symptoms ≥ grade 2
+* No history of cardiac or pulmonary toxicity after receiving anthracyclines (e
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem Cells
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Melphalan, BCNU
+
+Biomarker Criteria:
+  - * Alkaline phosphatase \> 2
+
+----------------------------------------------------------------------
+
+**NCT00002955** - Combination Chemotherapy in Treating Patients With Advanced Cancer of the Pancreas
+Phase: PHASE2 | Status: COMPLETED
+Interventions: fluorouracil, leucovorin calcium
+
+Biomarker Criteria:
+  - 0 mg/dL SGOT, SGPT and alkaline phosphatase less than 3 times upper limit of normal Serum albumin at least 3
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+
+Biomarker Criteria:
+  - 5 x HGH, with the following exception:
+   * Patients with known Gilbert's disease or liver metastases: serum bilirubin level ≤ 3 x IUH
+   * AST, ALT, and alkaline phosphate ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00620295** - Bortezomib and Gemcitabine in Treating Older Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: bortezomib, gemcitabine hydrochloride
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3
+
+----------------------------------------------------------------------
+
+**NCT01189929** - A Study of Gemcitabine and Demcizumab (OMP-21M18) With or Without Abraxane® as 1st-line Treatment in Subjects With Locally Advanced or Metastatic Panc
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Demcizumab, Abraxane®
+
+Biomarker Criteria:
+  - 25 x 109/L
+   * Hemoglobin \>100 g/L
+   * Platelets \>125 X 109/L
+   * Total bilirubin \<2 X institutional upper limit of normal (ULN)
+   * Aspartate aminotransferase (AST/SGOT) and alanine aminotransferase (ALT/SGPT) \<5 X institutional ULN
+   * Alkaline phosphatase \<5 X institutional ULN
+   * International normalized ratio (INR) and activated partial thromboplastin time (aPTT) within institutional ULN
+   * Creatinine \<1
+
+----------------------------------------------------------------------
+
+**NCT03340974** - Pilot Dose Escalation Trial of Stereotactic Body Radiation Therapy (SBRT) in Combination With GC4419 in Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: GC4419, Placebo
+
+Biomarker Criteria:
+  - Alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT04241276** - A Randomised Trial of ATRA in a Novel Drug Combination for Pancreatic Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: ATRA, Gemcitabine
+
+Biomarker Criteria:
+  - Alkaline phosphatase (ALP) \<2
+
+----------------------------------------------------------------------
+
+**NCT01770132** - Ultrasound-Guided Photodynamic Therapy With Photofrin & Gemcitabine for Patients With Locally Advanced Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: porfimer sodium, endoscopic ultrasonography
+
+Biomarker Criteria:
+  - 5 cm in diameter)
+* Diagnosis of islet cell tumor, lymphoma, metastatic lesion, acinar cell (or other atypical pathologic malignancy)
+* History of other malignancy in the past 2 years except carcinoma in situ of the cervix or bladder, non-melanomatous skin cancer or localized/early stage prostate cancer
+* Unable to receive or previously intolerant of moderate and/or deep sedation
+* Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) \>= 3 x upper limit of normal (ULN)
+* Total bilirubin \>= 3 x ULN
+* Alkaline phosphatase \>= 3 x ULN
+* International normalized ratio (INR) \>= 1
+
+----------------------------------------------------------------------
+
+**NCT02022033** - BrUOG 295: Adjuvant FOLFOX-A For Resected Pancreatic Cancer: A Phase II Brown University Oncology Research Group Trial
+Phase: PHASE2 | Status: COMPLETED
+Interventions: FOLFOXA
+
+Biomarker Criteria:
+  - 5 x ULN
+  * Alkaline phosphatases \< 2
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (131 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pancreatic Cancer Screening
+Phase: NA | Status: RECRUITING
+Interventions: software Lipidica, endoscopic ultrasonography
+
+Biomarker Criteria:
+  - Confirmed germline mutation of APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 AND ≥ 1 first-degree or second-degree relative with PaC
+  5
+  - Person with APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 mutation: \> 45 years or 10 years before the diagnosis of PaC in the youngest family member (whichever comes first)
+  5
+
+----------------------------------------------------------------------
+
+**NCT07166601** - M0324 as Monotherapy and in Combination With Pembrolizumab or Chemotherapy in Participants With Selected Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: M0324, M0324
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+Part 1- M0324 Monotherapy:
+
+• Participants with certain advanced/metastatic solid tumor types known to overexpress MUC-1 and who are intolerant or refractory to standard therapy or for which no standard therapy is judged appropriate by the Investigator
+
+Part 2- M0324 Combination with Pembrolizumab:
+
+• Participants with certain advanced/metastatic tumor types known to overexpress MUC-1 and the participants in the combination treatment involving M0324 and pembrolizumab must be intolerant or refractory to standard therapy and no other further standard therapy should be judged appropriate by the Investigator
+  - In addition, the participants must have had prior treatment with immune checkpoint inhibitor(s) (ICIs) and must have experienced documented disease progression on or after ICIs
+  - Part 3- M0324 Combination with mFOLFIRINOX:
+
+* Participants with previously untreated metastatic pancreatic ductal adenocarcinoma, who are judged by Investigator as eligible for treatment with mFOLFIRINOX
+
+----------------------------------------------------------------------
+
+**NCT04888312** - Safety and Efficacy of Mitazalimab in Combination With Chemotherapy in Pancreatic Cancer Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CD40 agonist mitazalimab in combination with chemotherapy
+
+Biomarker Criteria:
+  - Is willing to use highly effective contraception methods during study treatment and for at least six months thereafter
+12
+  - surgical sterilization, or a condom used with a spermicide) during study treatment and for at least six months thereafter
+13
+  - Has contraindication to any constituent of study treatment (mitazalimab and applicable chemotherapy)
+5
+
+----------------------------------------------------------------------
+
+**NCT04469556** - Pancreatic Adenocarcinoma Signature Stratification for Treatment
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Folfirinox, Gemcitabine/nab-paclitaxel
+
+Biomarker Criteria:
+  - Patients with a history of prior or concurrent second primary malignancy whose natural history or treatment does not have the potential to interfere with the safety or primary endpoint efficacy assessment of the pancreas cancer should generally be eligible for enrollment in clinical trials
+  - Patients must be suitable for treatment with either mFFX and GA without contraindications to either regimen
+  - Patients who have received prior systemic treatment for PDAC, including treatment in the neoadjuvant or adjuvant setting
+
+----------------------------------------------------------------------
+
+**NCT05795595** - A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: CTX131
+
+Biomarker Criteria:
+  - Prior treatment with anti-CD70 targeting agents
+2
+
+----------------------------------------------------------------------
+
+**NCT06492941** - A Study of Docetaxel for Injection (Albumin Bound) in Patients With Advanced Pancreatic Cancer
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Interventions: Docetaxel for Injection (Albumin bound), Placebo
+
+Biomarker Criteria:
+  - Patients who have got disease progression or toxic intolerance after previous standard treatment (gemcitabine based and fluorouracil based therapy)
+  - Patients with fine organ function (no medical supportive treatments such as blood component transfusion, growth factors within 2 weeks before taking the relevant inspections):
+
+  1
+  - Patients with partial or complete intestinal obstruction or complete biliary obstruction that cannot be relieved by active treatment
+
+----------------------------------------------------------------------
+
+**NCT05685602** - CA-4948 Added to Standard Chemotherapy to Treat Metastatic or Unresectable Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Biopsy Procedure, Biospecimen Collection
+
+Biomarker Criteria:
+  - For patients with HCV infection who are currently on treatment, they are eligible if they have an undetectable HCV viral load
+* Patients with treated brain metastases are eligible if follow-up brain imaging after at least 4 weeks following central nervous system (CNS)-directed therapy shows no evidence of progression
+* Patients with a prior or concurrent malignancy whose natural history or treatment does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial
+* Patients with known history or current symptoms of cardiac disease, or history of treatment with cardiotoxic agents, should have a clinical risk assessment of cardiac function using the New York Heart Association Functional Classification
+  - , have residual toxicities \> grade 1) with the exception of alopecia
+* History of other malignancy with the exception of 1) malignancies for which all treatment was completed at least 2 years before registration and the patient has no evidence of disease; 2) or known indolent malignancies that do not require treatment and will likely not alter the course of treatment of disease under treatment
+* History of allogeneic organ or stem cell transplant
+* Current use or anticipated need for alternative, holistic, naturopathic, or botanical formulations used for the purpose of cancer treatment
+* Patients who are receiving any other investigational agents
+* History of allergic reactions attributed to compounds of similar chemical or biologic composition to CA-4948 or other agents used in study
+* Patients receiving any medications or substances that are inhibitors or inducers of CYP3A4 are ineligible due to CA-4948 and nab-paclitaxel
+  - Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with gemcitabine, breastfeeding should be discontinued if the mother is treated with gemcitabine
+
+----------------------------------------------------------------------
+
+**NCT02089269** - Tumor Registry Pancreatic Cancer
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* resectable or locally advanced/metastatic pancreatic cancer
+* 18 years and older
+* Antineoplastic treatment
+* Date of consent no later than 2 weeks after start of first-line treatment
+
+Exclusion Criteria:
+
+* No pancreatic cancer
+* Below 18 years and older
+* No antineoplastic treatment
+* Date of consent later than 2 weeks after start of first-line treatment
+
+----------------------------------------------------------------------
+
+**NCT06384560** - Neoadjuvant Triple Treatment for Borderline Resectable Pancreatic Cancer (PREOPANC-5)
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Pembrolizumab, Folfirinox
+
+Biomarker Criteria:
+  - 0 X 109/l
+* Platelets ≥ 100X 109 /l
+* Hemoglobin ≥ 6 mmol/l
+* Renal function: E-GFR \&gt; 50 ml/min
+* Bilirubin \&lt; 50 µmol/l or planned for biliary drainage
+* A male participant must agree to use a contraception as detailed in Appendix 5 of this protocol during the treatment period and for at least 18 weeks after the last dose of study treatment and refrain from donating sperm during this period
+  - * A female participant is eligible to participate if she is not pregnant (see Appendix 5), not breastfeeding, or a woman of childbearing potential (WOCBP) who agrees to follow the contraceptive guidance during the treatment period and for at least 18 weeks after the last dose of study treatment
+  - * A WOCBP who has a positive urine pregnancy test within 72 hours prior to start of treatment / (see Appendix 5)
+
+----------------------------------------------------------------------
+
+**NCT06375473** - Treatment of Irinotecan Hydrochloride Liposome Injection II in China: a Real World Study of Pancreatic Cancer Patients
+Phase: Not specified | Status: NOT_YET_RECRUITING
+Interventions: Irinotecan liposome II combination therapy regimen
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients with pancreatic ductal adenocarcinoma diagnosed by pathology or imaging;
+* Age ≥18 years old, male or female;
+* Patients receiving treatment based on irinotecan hydrochloride liposome injection II;
+* The subjects voluntarily joined the study and signed the informed consent
+
+----------------------------------------------------------------------
+
+**NCT06316466** - Lipoprotein a is an Independent Risk Factor for Overall Survival in Patients With Pancreatic Cancer: a Propensity Score Matching Analysis
+Phase: Not specified | Status: RECRUITING
+Interventions: Lp(a)
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* (1) Presence of concurrent malignancies; (2) History of previous treatments such as pancreatectomy, chemotherapy, or radiation therapy; (3) Incomplete clinicopathological information
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment targeting ILT3
+  - * Prior treatment targeting LAIR1
+
+----------------------------------------------------------------------
+
+**NCT02330497** - Efficacy and Safety of Radiofrequency Ablation in Pancreatic Neuroendocrine and Cystic Tumor
+Phase: NA | Status: COMPLETED
+Interventions: Radiofrequency Ablation under EUS
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Pancreatic neuro endocrine tumor \<2 cm confirmed by pathological reading, or mucinous cystic tumor (branch duct like IPMN with nodule wall \> 5 mm unresectable) or mucinous cystadenoma with unresectable wall thickening
+* Unresectable patient or high operative risk
+* Multidisciplinary Collaborative Meeting confirming the indication for treatment
+
+----------------------------------------------------------------------
+
+**NCT01896869** - FOLFIRINOX Followed by Ipilimumab With Pancreatic Tumor Vaccine in Treatment of Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Ipilimumab, Vaccine
+
+Biomarker Criteria:
+  - Off FOLFIRINOX treatment for more than 70 days prior to treatment on study
+3
+  - History of prior treatment with ipilimumab, anti-PD1 antibody, CD137 agonist, or anti-CD40 antibody
+5
+
+----------------------------------------------------------------------
+
+**NCT05957250** - [68Ga]Ga-FAPI-46 Positron Emission Tomography (PET) Scan to Improve the Imaging of Pancreatic and Bile Duct Cancer
+Phase: NA | Status: RECRUITING
+Interventions: [68Ga]Ga-FAPI-46 PET/CT
+
+Biomarker Criteria:
+  - No treatment may be given in between the two scans
+  - * If based on the first FAPI-46 PET/CT, there is a suspicion of metastatic disease the images will be discussed in the multidisciplinary meeting and one additional imaging modality (and a biopsy, if this would lead to a change of treatment strategy) can be used to confirm the suspicion
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or High Grade Serous Ovarian, Fal
+Phase: PHASE1 | Status: COMPLETED
+Interventions: ABT-767
+
+Biomarker Criteria:
+  - Women of childbearing potential must have a negative serum pregnancy test within 21 days prior to initiation of treatment and a negative urine pregnancy test on the first day of study drug administration
+
+----------------------------------------------------------------------
+
+**NCT00267020** - Phase 2 Study of Gemcitabine or Gemcitabine + Enzastaurin in Participants With Advanced or Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: enzastaurin, gemcitabine
+
+Biomarker Criteria:
+  - * Pretreatment tumor specimen must be available
+
+----------------------------------------------------------------------
+
+**NCT06538623** - Oxaliplatin Combined With Irinotecan Liposome Injection II Through Hepatic Artery Infusion (HAIC) Followed by 5-FU/LV (HAIC) or Tegorgor Oral Combinat
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Liposome Irinotecan Injection II combined with Oxaliplatin, Fluorouracil, Leucovorin, Tegodor
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Aged 18 years and above, with no gender restrictions;
+* Pathologically confirmed pancreatic cancer (originating from the pancreatic ductal epithelium), with clinical records indicating metastatic pancreatic cancer, with metastasis limited to the liver;
+* Clinical records indicating previous failure of standard AG treatment (having received at least one cycle of standardized chemotherapy, with disease progression or intolerance during treatment, or disease progression after the end of treatment);
+* Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 2;
+* Adequate organ function, meeting the following criteria:
+
+  a
+  - Left ventricular ejection fraction (LVEF) ≥ lower limit of normal;
+* At least 3 weeks post-surgery, radiotherapy, chemotherapy, or other anti-tumor treatments, with general physical condition or related adverse reactions having recovered (toxicity ≤ grade 1) or stabilized;
+* Willing to participate and sign the informed consent form;
+* Good compliance and agreement to cooperate with survival follow-up
+  - Exclusion Criteria:
+
+* Metastatic pancreatic cancer with metastasis to organs other than the liver;
+* Subjects with ascites requiring clinical intervention (including moderate to large amounts of ascites; subjects with ascites need to be stable for more than 4 weeks after drainage);
+* Clinically severe gastrointestinal diseases (including bleeding, infectious inflammation, perforation, obstruction, or diarrhea greater than grade 1);
+* NRS pain score ≥ 4 after standardized treatment with analgesics;
+* Second primary malignancy within 5 years (except cured carcinoma in situ, basal cell, or squamous cell skin cancer; subjects with other previous tumors can be enrolled if there has been no recurrence within 5 years);
+* Uncontrolled cardiovascular or cerebrovascular diseases with clinical symptoms, including but not limited to: ① NYHA class III or higher heart failure; ② unstable angina; ③ myocardial infarction or stroke within 6 months; ④ supraventricular or ventricular arrhythmias requiring treatment or intervention; ⑤ uncontrolled hypertension (systolic blood pressure \&gt; 150 mmHg and/or diastolic blood pressure \&gt; 90 mmHg despite optimal treatment);
+* Known active hepatitis B subjects (HBsAg positive and HBV DNA ≥ 10³ copies or ≥ 1000 U/ml);
+* Active infection or unexplained fever \&gt; 38
+
+----------------------------------------------------------------------
+
+**NCT00177242** - Study of Gefitinib and Docetaxel as Salvage Therapy in Advanced Pancreatic Carcinoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Gefitinib
+
+Biomarker Criteria:
+  - polysorbate 80)
+* Previous treatment with Gefitinib or docetaxel
+  - * Concomitant use of phenytoin, carbamazepine, barbiturates, rifampicin, phenobarbital, or St John's Wort
+* Treatment with a non-approved or investigational drug within 30 days before Day 1 of trial treatment
+  - * Treatment with radiation therapy or chemotherapy within 28 days before Day 1 of trial treatment
+* Any unresolved chronic toxicity greater then CTC grade 2 from previous anticancer therapy (except alopecia)
+* Incomplete healing from previous oncologic or other major surgery
+
+----------------------------------------------------------------------
+
+**NCT05461430** - Mass Response of Tumor Cells as a Biomarker for Rapid Therapy Guidance (TraveraRTGx)
+Phase: Not specified | Status: RECRUITING
+
+Biomarker Criteria:
+  - Proceeding onto therapy for treatment
+6
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (2 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+  - A prior genomics report from archival tissues or liquid biopsy demonstrating mutation is acceptable
+* Part 2: Histologically or cytologically confirmed diagnosis of one of the following locally advanced unresectable or metastatic solid tumor malignancies: pancreatic adenocarcinoma, RASmut melanoma, Class I BRAFmut melanoma, RASmut NSCLC, other RASmut GI cancers (aside from CRC) or any other RAFmut solid tumor as documented by genomic analysis
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Interventions: LGK974, PDR001
+
+Biomarker Criteria:
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with BRAF V600 inhibitor, with or without a MEK inhibitor
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with a BRAF V600 inhibitor, with or without a MEK inhibitor
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (4 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pancreatic Cancer Screening
+Phase: NA | Status: RECRUITING
+Interventions: software Lipidica, endoscopic ultrasonography
+
+Biomarker Criteria:
+  - Confirmed germline mutation of APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 AND ≥ 1 first-degree or second-degree relative with PaC
+  5
+  - Person with APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 mutation: \> 45 years or 10 years before the diagnosis of PaC in the youngest family member (whichever comes first)
+  5
+
+----------------------------------------------------------------------
+
+**NCT01489865** - ABT-888 With Modified FOLFOX6 in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: ABT-888, mFOLFOX-6
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically proven pancreatic adenocarcinoma with measurable disease
+* A known BRCA-associate genetic mutation OR family history suggesting of a breast or ovarian cancer syndrome, as defined by one or more of the following:
+* Personal or known family history of a deleterious (or indeterminate) mutation in the BRCA1, BRCA2, PALBB2, or one of the FANC genes
+
+----------------------------------------------------------------------
+
+**NCT05827796** - IN10018+ Standard Chemotherapy (+KN046) in Subjects With Advanced Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: IN10018, Albumin-Bound Paclitaxel
+
+Biomarker Criteria:
+  - Has known BRCA1/2 mutations
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem Cells
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Melphalan, BCNU
+
+Biomarker Criteria:
+  - * A germline or somatic BRCA1, BRCA2, or PALB2 mutation
+  - The mutation must be a known or suspected deleterious somatic BRCA1, BRCA2, or PALB2 mutation as assessed by a CLIA-certified laboratory according to the variant classification criteria described in the study protocol
+  - There must be biallelic loss or inactivation of the mutated BRCA1, BRCA2, or PALB2 gene as assessed by a CLIA-certified laboratory
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (3 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pancreatic Cancer Screening
+Phase: NA | Status: RECRUITING
+Interventions: software Lipidica, endoscopic ultrasonography
+
+Biomarker Criteria:
+  - Confirmed germline mutation of APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 AND ≥ 1 first-degree or second-degree relative with PaC
+  5
+  - Person with APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 mutation: \> 45 years or 10 years before the diagnosis of PaC in the youngest family member (whichever comes first)
+  5
+
+----------------------------------------------------------------------
+
+**NCT01489865** - ABT-888 With Modified FOLFOX6 in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: ABT-888, mFOLFOX-6
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically proven pancreatic adenocarcinoma with measurable disease
+* A known BRCA-associate genetic mutation OR family history suggesting of a breast or ovarian cancer syndrome, as defined by one or more of the following:
+* Personal or known family history of a deleterious (or indeterminate) mutation in the BRCA1, BRCA2, PALBB2, or one of the FANC genes
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem Cells
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Melphalan, BCNU
+
+Biomarker Criteria:
+  - * A germline or somatic BRCA1, BRCA2, or PALB2 mutation
+  - The mutation must be a known or suspected deleterious somatic BRCA1, BRCA2, or PALB2 mutation as assessed by a CLIA-certified laboratory according to the variant classification criteria described in the study protocol
+  - There must be biallelic loss or inactivation of the mutated BRCA1, BRCA2, or PALB2 gene as assessed by a CLIA-certified laboratory
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (10 trials)
+======================================================================
+
+**NCT00033241** - Erlotinib Combined With Gemcitabine in Treating Patients With Newly Diagnosed Locally Advanced or Metastatic Pancreatic Cancer or Other Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: erlotinib hydrochloride, gemcitabine hydrochloride
+
+Biomarker Criteria:
+  - , megestrol) for appetite stimulation
+  * Nasal, ophthalmic, or topical glucocorticoids
+  * Oral glucocorticoids for adrenal insufficiency
+  * Low-dose maintenance steroids
+
+Radiotherapy:
+
+* See Disease Characteristics
+* At least 28 days since prior radiotherapy for the primary malignancy or metastases and recovered
+* No prior wide-field radiotherapy to 25% or more of marrow-bearing bone
+* No prior pelvic irradiation
+* No concurrent radiotherapy for the primary malignancy or metastases
+* No concurrent wide-field radiotherapy for pain management
+
+Surgery:
+
+* See Disease Characteristics
+* Recovered from any prior surgery
+* No prior surgical procedures affecting absorption
+
+Other:
+
+* No prior agent for the primary malignancy targeting the epidermal growth factor receptor (EGFR) or EGFR-specific tyrosine kinase activity
+
+----------------------------------------------------------------------
+
+**NCT00962312** - Lapatinib Ditosylate and Capecitabine in Treating Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: capecitabine, lapatinib ditosylate
+
+Biomarker Criteria:
+  - , Crohn's disease or ulcerative colitis)
+* No active hepatic or biliary disease, except for Gilbert's syndrome, asymptomatic gallstones, liver metastases, or stable chronic liver disease per investigator assessment
+* No active cardiac disease within the past 6 months, including any of the following:
+
+  * Uncontrolled angina
+  * Clinically significant arrhythmia, except for asymptomatic atrial fibrillation requiring anticoagulation
+  * Myocardial infarction
+  * Uncontrolled or symptomatic congestive heart failure
+  * Any other cardiac condition that, in the opinion of the treating physician, would make this study unreasonably hazardous for the patient
+* No concurrent uncontrolled illness including, but not limited to, ongoing or active infection or psychiatric illness/social situation that would limit compliance with study requirements
+* No known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to lapatinib ditosylate or any of its excipients, capecitabine, or fluorouracil
+* No known dihydropyrimidine dehydrogenase (DPD) deficiency
+* No other malignancy within the past 5 years except for completely resected nonmelanoma skin cancer or successfully treated in situ carcinoma
+
+PRIOR CONCURRENT THERAPY:
+
+* Recovered from prior radiotherapy or surgery
+* No prior surgical procedures affecting absorption
+* No prior EGFR- or ErbB2-targeting therapies
+* No prior capecitabine
+* No prior chemotherapy for locally advanced or metastatic pancreatic cancer
+* At least 3 months since prior adjuvant chemotherapy
+
+  * Prior fluorouracil allowed as a radiosensitizer only
+* More than 30 days (or 5 half-lives) since prior investigational drugs
+* No concurrent radiotherapy or surgery for metastatic cancer
+* No concurrent combination antiretroviral therapy for HIV-positive patients
+* No concurrent CYP3A4 inducers or inhibitors
+* No other concurrent investigational agents or anticancer therapy (e
+
+----------------------------------------------------------------------
+
+**NCT01303029** - Safety and Efficacy Study of Gemcitabine-erlotinib Versus Gemcitabine-erlotinib-capecitabine in Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Gemcitabine+erlotinib, Gemcitabine+erlotinib+capecitabine
+
+Biomarker Criteria:
+  - Previous treatment with capecitabine or EGFR inhibitor
+12
+
+----------------------------------------------------------------------
+
+**NCT00497224** - Phase II Trial of Erlotinib in Advanced Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Erlotinib
+
+Biomarker Criteria:
+  - * Prior therapy with inhibitors of the EGFR (eg
+  - cetuximab, EMD 72000, panitumumab, gefitinib, erlotinib) or multitargeted agents that inhibit EGFR (eg
+
+----------------------------------------------------------------------
+
+**NCT00331682** - Docetaxel and Flavopiridol in Treating Patients With Refractory Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: alvocidib, docetaxel
+
+Biomarker Criteria:
+  - , bevacizumab\] or epidermal growth factor receptor \[EGFR\] tyrosine kinase inhibitor \[e
+
+----------------------------------------------------------------------
+
+**NCT00439179** - A Trial of GW572016, Gemcitabine and Oxaliplatin for Metastatic Pancreaticobiliary Cancer Schema
+Phase: PHASE1 | Status: COMPLETED
+Interventions: cohort 1, cohort 2
+
+Biomarker Criteria:
+  - No prior EGFR inhibitors
+  - * Life expectancy of at least 12 weeks
+     * Signed informed consent
+
+Exclusion Criteria:
+
+A subject will not be eligible for inclusion in this study if any of the following criteria apply:
+
+* Prior treatment with GW572016 or any EGFR targeting therapies
+
+----------------------------------------------------------------------
+
+**NCT05841420** - Gemcitabine Versus Reduced-dose Combination Chemotherapy in Fragile Patients with Non-resectable Pancreatic Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Gemcitabine, Nab paclitaxel
+
+Biomarker Criteria:
+  - 5 x UNL (Upper Normal Limit) and eGFR (estimated Glomerular Filtration Rate) \>50ml/min within 2 weeks prior to enrollment
+* Toxicity of prior chemotherapy, including neurotoxicity, resolved to CTCAE \<grade 2
+* Oral and written informed consent must be obtained according to the local Ethics committee requirements
+* Fertile patients must use adequate contraceptives
+
+Exclusion Criteria:
+
+* Patients eligible for downstaging/preoperative chemotherapy followed by resection or local ablation or irradiation
+* Prior chemotherapy for PC (However, patients treated with adjuvant therapy with recurrence occurring more than 6 months after end of this treatment are eligible)
+* Concurrent, non-curatively treated malignant neoplasm other than pancreatic adenocarcinoma
+* Concurrent treatment with any other anti-cancer therapy
+* Pregnant or breast-feeding patients
+* Patients clearly intending to withdraw from the study if not randomized in the willing arm or patients who cannot be regularly followed up for psychological, social, familiar, or geographic reasons
+
+----------------------------------------------------------------------
+
+**NCT05927142** - Combining Anti-PD-L1 Immune Checkpoint Inhibitor Durvalumab With TLR-3 Agonist Rintatolimod in Patients With Metastatic Pancreatic Ductal Adenocarcino
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Durvalumab, Rintatolimod
+
+Biomarker Criteria:
+  - * Adequate renal function (eGFR \> 40 ml/min)
+
+----------------------------------------------------------------------
+
+**NCT03937453** - A Pancreatic Cancer Screening Study in Individuals With New-Onset or Deteriorating Diabetes Mellitus
+Phase: Not specified | Status: RECRUITING
+Interventions: MRI/MRCP
+
+Biomarker Criteria:
+  - * Recent BUN and Cr
+* Estimated GFR (eGFR) must be greater than 30 mL/min
+  - * eGFR \< 30 mL/min
+
+----------------------------------------------------------------------
+
+**NCT01420874** - Anti-CD3 x Anti-Erbitux® Armed Activated T Cells (Phase Ib) for Gastrointestinal (GI Cancer)
+Phase: PHASE1 | Status: COMPLETED
+Interventions: FOLFOX6, EGFRBi armed ATC Infusions
+
+Biomarker Criteria:
+  - 0
+* Known hypersensitivity to cetuximab or other EGFR antibody
+* Treatment with any investigational agent within 14 days prior to being registered for protocol therapy Protocol version: 07/13/2011 8
+* Symptomatic brain metastasis
+* Chronic treatment with systemic steroids or another immuno-suppressive agent
+* Serious non-healing wound, ulcer, bone fracture, major surgical procedure, open biopsy or significant traumatic injury within 28 days prior to being registered for protocol therapy
+* Active liver disease such as cirrhosis, chronic active hepatitis or chronic persistent hepatitis
+* HIV infection
+* Positive HbsAg
+* Positive Hepatitis C
+* Active bleeding or a pathological condition that is associated with a high risk of bleeding
+* Uncontrolled systemic disease like active infections
+* Nonmalignant medical illnesses that are uncontrolled or a controlled illness that may be jeopardized by the treatment with protocol therapy
+* Females must not be breastfeeding
+* Patient may be excluded if, in the opinion of the PI and investigator team, the patient is not capable of being compliant
+
+Minor changes from these guidelines will be allowed at the discretion of the attending team under special circumstances
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (1 trials)
+======================================================================
+
+**NCT00962312** - Lapatinib Ditosylate and Capecitabine in Treating Patients With Metastatic Pancreatic Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: capecitabine, lapatinib ditosylate
+
+Biomarker Criteria:
+  - , Crohn's disease or ulcerative colitis)
+* No active hepatic or biliary disease, except for Gilbert's syndrome, asymptomatic gallstones, liver metastases, or stable chronic liver disease per investigator assessment
+* No active cardiac disease within the past 6 months, including any of the following:
+
+  * Uncontrolled angina
+  * Clinically significant arrhythmia, except for asymptomatic atrial fibrillation requiring anticoagulation
+  * Myocardial infarction
+  * Uncontrolled or symptomatic congestive heart failure
+  * Any other cardiac condition that, in the opinion of the treating physician, would make this study unreasonably hazardous for the patient
+* No concurrent uncontrolled illness including, but not limited to, ongoing or active infection or psychiatric illness/social situation that would limit compliance with study requirements
+* No known immediate or delayed hypersensitivity reaction or idiosyncrasy to drugs chemically related to lapatinib ditosylate or any of its excipients, capecitabine, or fluorouracil
+* No known dihydropyrimidine dehydrogenase (DPD) deficiency
+* No other malignancy within the past 5 years except for completely resected nonmelanoma skin cancer or successfully treated in situ carcinoma
+
+PRIOR CONCURRENT THERAPY:
+
+* Recovered from prior radiotherapy or surgery
+* No prior surgical procedures affecting absorption
+* No prior EGFR- or ErbB2-targeting therapies
+* No prior capecitabine
+* No prior chemotherapy for locally advanced or metastatic pancreatic cancer
+* At least 3 months since prior adjuvant chemotherapy
+
+  * Prior fluorouracil allowed as a radiosensitizer only
+* More than 30 days (or 5 half-lives) since prior investigational drugs
+* No concurrent radiotherapy or surgery for metastatic cancer
+* No concurrent combination antiretroviral therapy for HIV-positive patients
+* No concurrent CYP3A4 inducers or inhibitors
+* No other concurrent investigational agents or anticancer therapy (e
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (8 trials)
+======================================================================
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: HS-10502
+
+Biomarker Criteria:
+  - For the phase Ib study:
+
+   Cohort B: patients with HRD positive recurrent ovarian cancer with failure or intolerance or not available to SoC Cohort C: patients with HRR gene mutation advanced Human epidermal growth factor receptor 2 (HER2)-negative breast cancer with failure or intolerance or not available to SoC Cohort D: patients with HRR gene mutation advanced pancreatic cancer with failure or intolerance or not available to SoC Cohort E: patients with HRR gene mutation mCRPC with failure or intolerance or not available to SoC Cohort F: patients with HRR gene mutation colorectal cancer with failure or intolerance or not available to SoC Cohort G: patients with other HRR gene mutation or HRD positive advanced solid tumors with failure or intolerance or not available to SoC
+5
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: trastuzumab, tipifarnib
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically or cytologically confirmed advanced or metastatic adenocarcinoma
+* Expression of +1 to 3+ HER2/neu on immunohistochemical or immunocytochemistry staining
+* No brain metastases unless all of the following is true:
+
+  * Previously treated
+  * Asymptomatic
+  * Stable dose of decadron
+* No evidence of edema
+
+PATIENT CHARACTERISTICS:
+
+* Age: 18 and over
+* Performance status: ECOG 0-2
+* Life expectancy: At least 12 weeks
+* Absolute granulocyte count at least 1,500/mm3
+* Platelet count at least 100,000/mm3
+* Hemoglobin at least 9
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem Cells
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Melphalan, BCNU
+
+Biomarker Criteria:
+  - HER2-negative cancer as per American Society of Clinical Oncology/College of American Pathologists human epidermal growth factor receptor 2 (HER2) testing in breast cancer guidelines
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TUMORS
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Interventions: No Interventions
+
+Biomarker Criteria:
+  - Metastatic disease: if HER2 negative - XELOX or FOLFOX with Nivolumab or pembrolizumab
+  - If HER2 positive XELOX or FOLFOX with trastuzumab + pembrolizumab
+
+----------------------------------------------------------------------
+
+**NCT00034281** - Safety and Tolerability Study of TAK-165 in Subjects With Tumors Expressing HER2
+Phase: PHASE1 | Status: COMPLETED
+Interventions: TAK-165
+
+Biomarker Criteria:
+  - * Have a histologically or cytologically proven diagnosis of a solid tumor known to express HER2
+
+----------------------------------------------------------------------
+
+**NCT05365581** - A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal Junction Cancer, or Pancreati
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ASP2138, Pembrolizumab
+
+Biomarker Criteria:
+  - * Participant has a human epidermal growth factor receptor 2 (HER2)-negative tumor per local testing
+  - * Participants have a HER2-negative tumor per local testing
+
+----------------------------------------------------------------------
+
+**NCT00004074** - Interleukin-12 and Trastuzumab in Treating Patients With Cancer That Has High Levels of HER2/Neu
+Phase: PHASE1 | Status: COMPLETED
+Interventions: recombinant interleukin-12, ABI-007/carboplatin/trastuzumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients must have a histologically proven Her2 overexpressing malignancy as determined by any standardized assay currently in clinical use
+* Patients must have measurable or evaluable disease
+* The patient must have failed standard curative and/or palliative therapies for their disease
+* Life expectancy of at least 6 months
+* No concurrent malignancy other than non-melanoma skin carcinoma
+* Adequate hematopoietic, cardiac, renal, and hepatic function
+* Calculated creatinine clearance will be used to assess renal function
+* Karnofsky Performance Status index \>= 70%
+* Women of childbearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control) prior to study entry and for the duration of study participation; a woman of childbearing potential is defined as a female who is biologically capable of becoming pregnant
+* Normal cardiac ejection fraction by echocardiogram or MUGA (i
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (6 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+  - A prior genomics report from archival tissues or liquid biopsy demonstrating mutation is acceptable
+* Participants must have received at least 1 line of systemic standard-of-care treatment for their advanced or metastatic disease and in the assessment of the Investigator, would be unlikely to tolerate or derive clinically meaningful benefit from other treatment options
+* Participants previously treated with codon-specific inhibitors of KRAS (including investigational agents) are eligible
+* KRASG12C mutant participants must have received prior treatment with a KRASG12C inhibitor for any approved indication
+* Radiologic evidence of measurable disease (i
+
+----------------------------------------------------------------------
+
+**NCT06179160** - A Study to Evaluate INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation
+Phase: PHASE1 | Status: RECRUITING
+Interventions: INCB161734, Cetuximab
+
+Biomarker Criteria:
+  - * Locally advanced or metastatic solid tumor with KRAS G12D mutation
+  - Exclusion Criteria:
+
+* Prior treatment with any KRAS G12D inhibitor
+* Known additional invasive malignancy within 1 year of the first dose of study drug
+* History of organ transplant, including allogeneic stem cell transplantation
+* Significant, uncontrolled medical condition
+* History or presence of an ECG abnormality
+* Inadequate organ function
+
+Other protocol-defined Inclusion/Exclusion Criteria may apply
+
+----------------------------------------------------------------------
+
+**NCT06008288** - A Phase II Study Evaluating JAB-21822 Monotherapy in Adult Patients With Pancreatic Cancer and Other Solid Tumors Harboring the KRAS p.G12C Mutation.
+Phase: PHASE2 | Status: RECRUITING
+Interventions: JAB-21822
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients with the KRAS p
+  - Exclusion Criteria:
+
+* Previously received a KRAS G12C inhibitor
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+
+Biomarker Criteria:
+  - Must have documented RAS (KRAS, HRAS, NRAS) mutation identified within the last 5 years by a local test on tumor tissue
+
+----------------------------------------------------------------------
+
+**NCT05379985** - Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS
+Phase: PHASE1 | Status: RECRUITING
+Interventions: RMC-6236
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically confirmed advanced solid tumor with specific KRAS G12 mutations (dose escalation) or RAS mutations (dose optimization/expansion) identified through deoxyribonucleic acid (DNA) sequencing
+
+----------------------------------------------------------------------
+
+**NCT06586515** - MOONRAY-01, A Study of LY3962673 in Participants With KRAS G12D-Mutant Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: LY3962673, Cetuximab
+
+Biomarker Criteria:
+  - * Have evidence of KRAS G12D mutation in tumor tissue or circulating tumor DNA
+* Have an ECOG performance status of ≤ 1
+* Must have received ≥ 1 prior line of systemic chemotherapy for advanced or metastatic disease
+* Participants with asymptomatic or treated CNS disease may be eligible
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (1 trials)
+======================================================================
+
+**NCT05088889** - Maintenance Ipilimumab + Nivolumab Post Induction Chemotherapy + SBRT for First Line Treatment Stage IV Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Nivolumab, ipilimumab
+
+Biomarker Criteria:
+  - scleroderma)
+* Has a known MSI-H phenotype or a known MMR deficiency
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (2 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+
+Biomarker Criteria:
+  - Must have documented RAS (KRAS, HRAS, NRAS) mutation identified within the last 5 years by a local test on tumor tissue
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PALB2 (3 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pancreatic Cancer Screening
+Phase: NA | Status: RECRUITING
+Interventions: software Lipidica, endoscopic ultrasonography
+
+Biomarker Criteria:
+  - Confirmed germline mutation of APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 AND ≥ 1 first-degree or second-degree relative with PaC
+  5
+  - Person with APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 mutation: \> 45 years or 10 years before the diagnosis of PaC in the youngest family member (whichever comes first)
+  5
+
+----------------------------------------------------------------------
+
+**NCT04469556** - Pancreatic Adenocarcinoma Signature Stratification for Treatment
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Folfirinox, Gemcitabine/nab-paclitaxel
+
+Biomarker Criteria:
+  - Patients with a known germline mutation in BRCA, PALB2 or other homologous Recombination Repair Deficiency (HRD) genes
+
+----------------------------------------------------------------------
+
+**NCT04150042** - SHARON: A Clinical Trial for Metastatic Cancer With a BRCA or PALB2 Mutation Using Chemotherapy and Patients' Own Stem Cells
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Melphalan, BCNU
+
+Biomarker Criteria:
+  - * A germline or somatic BRCA1, BRCA2, or PALB2 mutation
+  - The mutation must be a known or suspected deleterious somatic BRCA1, BRCA2, or PALB2 mutation as assessed by a CLIA-certified laboratory according to the variant classification criteria described in the study protocol
+  - There must be biallelic loss or inactivation of the mutated BRCA1, BRCA2, or PALB2 gene as assessed by a CLIA-certified laboratory
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (8 trials)
+======================================================================
+
+**NCT06384560** - Neoadjuvant Triple Treatment for Borderline Resectable Pancreatic Cancer (PREOPANC-5)
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Pembrolizumab, Folfirinox
+
+Biomarker Criteria:
+  - * Has received prior therapy with an anti-PD-1, anti-PD-L1, or antiPDL2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (eg, CTLA-4, OX40, CD137)
+
+----------------------------------------------------------------------
+
+**NCT03095781** - Pembrolizumab and XL888 in Patients With Advanced Gastrointestinal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: XL888, Pembrolizumab
+
+Biomarker Criteria:
+  - ) is not considered a form of systemic treatment
+* Has known history of, or any evidence of active, non-infectious pneumonitis
+* Has an active infection requiring systemic therapy
+* Has known substance abuse disorders that would interfere with cooperation with the requirements of the trial
+* Is pregnant or breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the pre-screening or screening visit through 120 days after the last dose of trial treatment
+* Has received prior therapy with an anti-programmed death (PD)-1, anti-PD-L1, or anti-PD-L2 agent
+* Has a known history of human immunodeficiency virus (HIV) (HIV 1/2 antibodies)
+* Has known active hepatitis B (e
+
+----------------------------------------------------------------------
+
+**NCT03257761** - Guadecitabine and Durvalumab in Treating Patients With Advanced Liver, Pancreatic, Bile Duct, or Gallbladder Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Durvalumab, Guadecitabine
+
+Biomarker Criteria:
+  - 5 x IULN; stability is defined as the second measurement being no more than one point higher than the first
+* Pancreatic cancer cohort specific criteria:
+
+  * Patients must have unresectable or metastatic pancreatic cancer
+  * Patients must have failed at least one prior line of therapy for metastatic or unresectable disease or have recurred within 6 months of completing adjuvant chemotherapy
+  * Patients with liver metastases must have \< 50% involvement of the liver
+
+Exclusion Criteria:
+
+* Patients may not be receiving any other investigational agents
+* Patients must not be nursing due to the potential for congenital abnormalities and the potential of this regimen to harm nursing infants
+* Any previous treatment with a hypomethylating agent, or with a PD1 or PD-L1 or anti-PD-L2 or anti-CTLA4 inhibitor, including durvalumab (or any other antibody or drug specifically targeting T-cell costimulation or checkpoint pathways); any immunomodulatory agent that is not described above should be cleared by the principal investigator (PI)
+* History of another primary malignancy except for:
+
+  * Malignancy treated with curative intent and with no known active disease \>= 3 years before the first dose of study drug
+  * Adequately treated non-melanoma skin cancer or lentigo maligna without evidence of disease
+  * Adequately treated carcinoma in situ without evidence of disease eg, cervical cancer in situ
+  * Controlled, superficial bladder carcinoma
+  * T1a or T1b or T1c prostate carcinoma treated with radiation \>= 1 year prior to study enrollment and prostate specific antigen (PSA) within normal limits (WNL) since treatment
+  * T2a or b prostate carcinoma treated curatively \>= 1 year prior to study enrollment and PSA undetectable since curative treatment
+  * Other early stage cancers that have a minimal chance of recurrence (i
+
+----------------------------------------------------------------------
+
+**NCT05827796** - IN10018+ Standard Chemotherapy (+KN046) in Subjects With Advanced Pancreatic Cancer
+Phase: PHASE1 | Status: RECRUITING
+Interventions: IN10018, Albumin-Bound Paclitaxel
+
+Biomarker Criteria:
+  - Previous anti-programmed death 1(PD-1), anti-programmed death-ligand 1 (PD-L1), or anti-cytotoxic T lymphocyte-associated antigen-4 (CTLA-4) antibody therapy, or any other antibody or drug that specifically targets T-cell co-stimulation or checkpoint pathways, or prior treatment with focal adhesion kinase (FAK) inhibitors
+
+----------------------------------------------------------------------
+
+**NCT05293496** - A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: vobramitamab duocarmazine, lorigerlimab
+
+Biomarker Criteria:
+  - * Participants who have a history of severe adverse events (AEs) from immune checkpoint inhibitors (anti-PD-1, anti-PD-L1, or CTLA-4 inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT05365581** - A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal Junction Cancer, or Pancreati
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ASP2138, Pembrolizumab
+
+Biomarker Criteria:
+  - Unique to EU:
+
+* Participant must have a PD-L1 CPS ≥ 1
+
+----------------------------------------------------------------------
+
+**NCT05028933** - IMC001 for Clinical Research on Advanced Digestive System Malignancies
+Phase: PHASE1 | Status: RECRUITING
+Interventions: EPCAM CAR-T
+
+Biomarker Criteria:
+  - Received anti-PD-1/PD-L1 monoclonal antibody treatment within 4 weeks before apheresis
+
+----------------------------------------------------------------------
+
+**NCT02807844** - Phase Ib/II Study of MCS110 in Combination With PDR001 in Patients With Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MCS110, PDR001
+
+Biomarker Criteria:
+  - * Phase II part: Adult patients with advanced solid tumors who have received standard therapy (no more than 3 prior lines of treatment) or are intolerant of standard therapy, have progressed following their last prior therapy, and fit into one of the following groups:
+
+  * Group 1: TNBC who did not receive prior anti-PD-1/PD-L1 treatment
+  * Group 2: Pancreatic adenocarcinoma who did not receive prior anti-PD-1/PD-L1 treatment
+  * Group 3: Endometrial carcinoma who did not receive prior anti-PD-1/PD-L1 treatment
+  * Group 4: Melanoma who progressed on prior anti-PD-1/PD-L1 treatment
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT03065062** - Study of the CDK4/6 Inhibitor Palbociclib (PD-0332991) in Combination With the PI3K/mTOR Inhibitor Gedatolisib (PF-05212384) for Patients With Advance
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Palbociclib, Gedatolisib
+
+Biomarker Criteria:
+  - PI3K dependence includes the presence of a PIK3CA-mutant hotspot mutation, PIK3CA copy number gain, or PTEN loss in the archival or fresh tumor tissue specimen identified in a CLIA-certified laboratory
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT03065062** - Study of the CDK4/6 Inhibitor Palbociclib (PD-0332991) in Combination With the PI3K/mTOR Inhibitor Gedatolisib (PF-05212384) for Patients With Advance
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Palbociclib, Gedatolisib
+
+Biomarker Criteria:
+  - PI3K dependence includes the presence of a PIK3CA-mutant hotspot mutation, PIK3CA copy number gain, or PTEN loss in the archival or fresh tumor tissue specimen identified in a CLIA-certified laboratory
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TP53 (1 trials)
+======================================================================
+
+**NCT06549725** - Clinical Performance of Medical Device Software "Lipidica 1.0" for Processing Data Generated by Lipidomic Analysis in Pancreatic Cancer Screening
+Phase: NA | Status: RECRUITING
+Interventions: software Lipidica, endoscopic ultrasonography
+
+Biomarker Criteria:
+  - Confirmed germline mutation of APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 AND ≥ 1 first-degree or second-degree relative with PaC
+  5
+  - Person with APC, ATM, BRCA1, BRCA2, MLH1, MSH2, MSH6, PMS2, EPCAM, PALB2 or TP53 mutation: \> 45 years or 10 years before the diagnosis of PaC in the youngest family member (whichever comes first)
+  5
+
+----------------------------------------------------------------------
+

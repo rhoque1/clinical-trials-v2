@@ -19,7 +19,7 @@ async def test_workflow_with_pdf():
     pdf_path = input("\nEnter path to a medical report PDF (or press Enter to skip): ").strip().strip('"')
     
     if not pdf_path:
-        print("\n⚠️  No PDF provided. Skipping integration test.")
+        print("\n[!]  No PDF provided. Skipping integration test.")
         print("   To test, run again with a medical report PDF.")
         return False
     
@@ -32,11 +32,11 @@ async def test_workflow_with_pdf():
         
         if result["success"]:
             print("\n" + "="*70)
-            print("✅ COMPLETE WORKFLOW TEST PASSED!")
+            print("[OK] COMPLETE WORKFLOW TEST PASSED!")
             print("="*70)
             
             profile = result["patient_profile"]
-            print("\n📋 Final Patient Profile:")
+            print("\n[LIST] Final Patient Profile:")
             print(f"   Demographics: {profile.get('demographics', {})}")
             print(f"   Primary Diagnosis: {profile.get('diagnoses', {})}")
             print(f"   Key Biomarkers: {profile.get('biomarkers', {})}")
@@ -44,11 +44,11 @@ async def test_workflow_with_pdf():
             
             return True
         else:
-            print(f"\n❌ Workflow failed: {result.get('error', 'Unknown error')}")
+            print(f"\n[X] Workflow failed: {result.get('error', 'Unknown error')}")
             return False
             
     except Exception as e:
-        print(f"\n❌ Error during workflow: {e}")
+        print(f"\n[X] Error during workflow: {e}")
         import traceback
         print(traceback.format_exc())
         return False
@@ -61,4 +61,4 @@ if __name__ == "__main__":
         print("\n🎉 The new architecture is working!")
         print("   Next: Add trial discovery and matching")
     else:
-        print("\n⚠️  Review errors and try again")
+        print("\n[!]  Review errors and try again")

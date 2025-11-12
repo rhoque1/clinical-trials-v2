@@ -1,0 +1,677 @@
+# Common Clinical Trial Eligibility Patterns
+# Reference Guide for Trial Matching RAG System
+# Last Updated: 2025-11-06
+
+This document outlines common eligibility criteria patterns across oncology clinical trials,
+organized by trial phase, treatment line, and cancer type. Used to predict trial eligibility
+and improve patient-trial matching accuracy.
+
+================================================================================
+## ELIGIBILITY PATTERNS BY TRIAL PHASE
+================================================================================
+
+### PHASE 1 TRIALS (Dose Escalation / First-in-Human)
+================================================================================
+
+**Purpose:** Determine maximum tolerated dose (MTD), safety, pharmacokinetics
+
+**Typical Inclusion Criteria:**
+
+**Disease Requirements:**
+- Advanced solid tumors (often tumor-agnostic in dose escalation)
+- Refractory to standard therapy OR no standard therapy exists
+- Measurable disease preferred but not always required
+- Expansion cohorts: Specific tumor types
+
+**Performance Status:**
+- ECOG 0-1 (rarely ECOG 2)
+- Life expectancy ≥12 weeks minimum
+
+**Prior Treatment:**
+- No limit on prior lines (can be heavily pretreated)
+- Adequate washout period (typically 2-4 weeks)
+- Prior investigational agents: Usually 4 weeks washout
+
+**Organ Function (Typically More Stringent):**
+- ANC ≥1.5 × 10⁹/L
+- Platelets ≥100 × 10⁹/L (sometimes ≥75)
+- Hemoglobin ≥9 g/dL
+- Total bilirubin ≤1.5 × ULN (unless Gilbert's syndrome)
+- AST/ALT ≤2.5 × ULN (≤5 × ULN if liver metastases)
+- Creatinine clearance ≥50-60 mL/min
+- LVEF ≥50% (for cardiotoxic agents)
+- QTc <470-480 ms (for agents with QT risk)
+
+**Brain Metastases:**
+- Often EXCLUDED in dose escalation
+- May be allowed in expansion if treated and stable
+- Leptomeningeal disease: Usually excluded
+
+**Typical Exclusions:**
+- Active second malignancy (except skin cancers, in situ carcinomas)
+- Uncontrolled intercurrent illness
+- Active infection requiring IV antibiotics
+- Immunocompromised patients
+- Pregnant or nursing
+- Unable to swallow oral medications (for oral agents)
+
+### PHASE 2 TRIALS (Efficacy Testing)
+================================================================================
+
+**Purpose:** Assess efficacy in specific tumor types, determine response rate
+
+**Typical Inclusion Criteria:**
+
+**Disease Requirements:**
+- Specific tumor type(s) and histology
+- Measurable disease by RECIST 1.1 (usually required)
+- Specific biomarker status (increasingly common)
+- Disease stage: Locally advanced or metastatic
+
+**Performance Status:**
+- ECOG 0-1 (standard)
+- ECOG 0-2 (sometimes allowed in later-line trials)
+
+**Prior Treatment:**
+- Specific number of prior lines (1-3 most common)
+- Progression on or after prior standard therapy
+- May require specific prior treatments (e.g., "platinum-refractory")
+
+**Organ Function (Moderate Requirements):**
+- ANC ≥1.5 × 10⁹/L
+- Platelets ≥100 × 10⁹/L
+- Hemoglobin ≥9 g/dL
+- Total bilirubin ≤1.5-2 × ULN
+- AST/ALT ≤3 × ULN (≤5 × ULN with liver mets)
+- Creatinine clearance ≥30-50 mL/min
+
+**Brain Metastases:**
+- Treated and stable brain metastases: Often ALLOWED
+- No active or growing brain lesions
+- Off steroids or on stable dose
+- Leptomeningeal disease: Usually excluded
+
+**Biomarker Requirements (Increasingly Common):**
+- PD-L1 expression (specific cutoffs)
+- Molecular alterations (EGFR, ALK, BRAF, etc.)
+- MSI-H/dMMR status
+- TMB-high status
+
+### PHASE 3 TRIALS (Confirmatory / Registration)
+================================================================================
+
+**Purpose:** Compare new treatment to standard-of-care, power for survival endpoints
+
+**Typical Inclusion Criteria:**
+
+**Disease Requirements:**
+- Specific tumor type, stage, and histology
+- Measurable disease required
+- Specific biomarker enrichment (common)
+- Treatment-naive in specific line (1st line) OR progression on specific regimen
+
+**Performance Status:**
+- ECOG 0-1 (strictly enforced)
+- Rarely ECOG 2 included
+
+**Prior Treatment:**
+- Strictly defined number of prior lines
+- No prior exposure to study drug class
+- Specific prior regimens may be required/prohibited
+
+**Organ Function (Stringent):**
+- Similar to Phase 2 but more rigidly enforced
+- Adequate bone marrow reserve
+- Adequate hepatic and renal function
+- Cardiac function within normal limits
+
+**Brain Metastases:**
+- Often excluded in 1st-line trials
+- May be allowed if treated, stable, and asymptomatic
+- Active brain metastases: Excluded
+
+**Randomization Stratification Factors:**
+- ECOG 0 vs 1
+- Geographic region
+- Biomarker status
+- Number of metastatic sites
+- Liver metastases present vs absent
+
+================================================================================
+## ELIGIBILITY PATTERNS BY TREATMENT LINE
+================================================================================
+
+### FIRST-LINE (Treatment-Naive) TRIALS
+================================================================================
+
+**Inclusion Criteria:**
+
+**Treatment History:**
+- No prior systemic therapy for advanced/metastatic disease
+- Prior adjuvant/neoadjuvant therapy allowed if completed >6-12 months ago
+- No prior therapy with same class as study drug
+
+**Disease Characteristics:**
+- Newly diagnosed advanced/metastatic disease
+- Recurrent disease after curative-intent therapy
+- Measurable disease required
+
+**Performance Status:**
+- ECOG 0-1 strictly required
+- Good organ function required
+
+**Brain Metastases:**
+- Often excluded OR must be asymptomatic and treated
+- More restrictive than later-line trials
+
+**Biomarker Selection:**
+- Increasingly required (PD-L1, MSI, genomic alterations)
+- Enrichment for responsive populations
+
+### SECOND-LINE TRIALS
+================================================================================
+
+**Inclusion Criteria:**
+
+**Treatment History:**
+- Progression during or after 1 prior line of systemic therapy
+- Documented progression (radiographic or clinical)
+- Adequate washout from prior therapy (2-4 weeks)
+
+**Disease Characteristics:**
+- Measurable disease preferred
+- Progressive disease documented
+
+**Performance Status:**
+- ECOG 0-1 (standard)
+- ECOG 0-2 (sometimes in specific populations)
+
+**Brain Metastases:**
+- Treated brain metastases commonly allowed
+- Asymptomatic, stable on imaging
+
+### THIRD-LINE AND BEYOND (Heavily Pretreated)
+================================================================================
+
+**Inclusion Criteria:**
+
+**Treatment History:**
+- ≥2 prior lines of systemic therapy
+- Exhausted standard treatment options
+- Progression on all prior regimens
+
+**Disease Characteristics:**
+- Measurable or evaluable disease
+- Documented progression on last regimen
+
+**Performance Status:**
+- ECOG 0-2 more commonly allowed
+- Recognizing heavily pretreated population
+
+**Organ Function:**
+- May be more lenient given lack of alternatives
+- Adequate bone marrow despite prior therapies
+
+**Brain Metastases:**
+- More permissive policies
+- Stable brain metastases commonly allowed
+
+================================================================================
+## CANCER TYPE-SPECIFIC ELIGIBILITY PATTERNS
+================================================================================
+
+### LUNG CANCER (NSCLC) TRIALS
+================================================================================
+
+**Common Inclusion Criteria:**
+
+**Histology Requirements:**
+- Non-squamous vs squamous specification
+- Adenocarcinoma subtype (common for targeted therapy trials)
+
+**Biomarker Testing Required:**
+- EGFR mutation status (exon 19 del, L858R, T790M, exon 20)
+- ALK rearrangement status
+- ROS1, BRAF, NTRK, MET, RET alterations (increasingly)
+- PD-L1 expression (TPS or CPS)
+
+**Performance Status:**
+- ECOG 0-1 (standard)
+- ECOG 2 allowed in some later-line trials
+
+**Brain Metastases:**
+- Very common in NSCLC (~30-40% at diagnosis)
+- Most trials NOW allow treated, stable brain mets
+- Targeted therapy trials: More permissive
+- Chemotherapy trials: More restrictive
+
+**Prior Therapy Patterns:**
+- 1st line: Treatment-naive
+- 2nd line: Progression on platinum doublet OR EGFR/ALK TKI
+- TKI trials: May require specific prior TKI (e.g., "1st/2nd gen EGFR TKI")
+
+**Common Exclusions:**
+- Active malignant pleural/pericardial effusion requiring drainage
+- Interstitial lung disease (ILD) - for TKI trials
+- Symptomatic brain metastases requiring steroids
+
+### BREAST CANCER TRIALS
+================================================================================
+
+**Subtype-Specific Requirements:**
+
+**HR+/HER2- Trials:**
+- Postmenopausal status OR premenopausal + ovarian suppression
+- Prior endocrine therapy required (for later lines)
+- Progression on CDK4/6 inhibitor (for newer trials)
+- Visceral crisis exclusion
+
+**HER2+ Trials:**
+- HER2 3+ by IHC or ISH amplification required
+- Prior trastuzumab exposure (for 2nd line+)
+- LVEF ≥50% required (cardiac monitoring)
+- Prior anthracycline exposure documentation
+
+**Triple-Negative (TNBC) Trials:**
+- HR <1%, HER2- confirmed
+- BRCA1/2 mutation testing (increasingly required)
+- PD-L1 testing (for immunotherapy combinations)
+- Rapid progression common - shorter washout periods
+
+**Common Patterns:**
+- Measurable disease OR bone-only disease (if evaluable)
+- Prior lines: Varies widely (neoadjuvant, adjuvant, metastatic)
+- Brain metastases: Increasingly allowed if stable
+- Performance status: ECOG 0-2 more common than other solid tumors
+
+### COLORECTAL CANCER (CRC) TRIALS
+================================================================================
+
+**Molecular Testing Requirements:**
+
+**RAS/RAF Testing:**
+- KRAS exon 2, 3, 4 (codons 12, 13, 59, 61, 117, 146)
+- NRAS mutations
+- BRAF V600E mutation
+- Required for anti-EGFR therapy trials
+
+**MSI/dMMR Testing:**
+- MSI-H or dMMR status
+- Critical for immunotherapy trials
+
+**HER2 Amplification:**
+- Emerging biomarker (~3% of RAS/BRAF WT CRC)
+- Targeted therapy trials
+
+**Prior Therapy Patterns:**
+- 1st line: FOLFOX or FOLFIRI ± bevacizumab/anti-EGFR
+- 2nd line: Alternative chemotherapy backbone
+- 3rd line: Regorafenib, TAS-102 (refractory setting)
+
+**Sidedness Matters:**
+- Left-sided vs right-sided colon
+- Stratification factor in many trials
+- Right-sided less responsive to anti-EGFR
+
+**Common Exclusions:**
+- Prior anti-EGFR therapy (for anti-EGFR trials)
+- Unresolved bowel obstruction
+- Active inflammatory bowel disease
+
+### MELANOMA TRIALS
+================================================================================
+
+**Biomarker Requirements:**
+
+**BRAF V600 Mutation:**
+- V600E or V600K variants
+- Required for BRAF/MEK inhibitor trials
+
+**PD-L1 Status:**
+- Less commonly required (melanoma generally immunogenic)
+
+**Prior Therapy Patterns:**
+- Adjuvant setting: High-risk resected melanoma
+- Metastatic 1st line: Often comparing immunotherapy vs targeted therapy
+- Post-immunotherapy: BRAF/MEK inhibitors
+- Post-targeted therapy: Immunotherapy
+
+**Brain Metastases:**
+- VERY common in melanoma (~50% develop brain mets)
+- Most trials allow asymptomatic brain metastases
+- Active brain metastases: Some trials specifically include (brain-penetrant drugs)
+
+**Performance Status:**
+- ECOG 0-1 standard
+- ECOG 2 with brain metastases sometimes allowed
+
+**LDH Levels:**
+- Often stratification factor
+- Elevated LDH = worse prognosis
+
+### OVARIAN CANCER TRIALS
+================================================================================
+
+**Histology Specifications:**
+- High-grade serous most common
+- Clear cell, endometrioid, mucinous (less common, may be excluded)
+- Primary peritoneal and fallopian tube cancers often included
+
+**Platinum Sensitivity Status (Critical):**
+- Platinum-sensitive: Recurrence >6 months after platinum
+- Platinum-resistant: Recurrence <6 months after platinum
+- Platinum-refractory: Progression during platinum therapy
+- Determines trial eligibility significantly
+
+**BRCA1/2 Testing:**
+- Germline and somatic testing
+- Required for PARP inhibitor trials
+- Maintenance therapy trials
+
+**HRD (Homologous Recombination Deficiency):**
+- Broader than BRCA alone
+- Includes BRCA1/2, RAD51C, PALB2, etc.
+- Genomic instability score
+
+**Prior Therapy Patterns:**
+- 1st line: Platinum/taxane ± bevacizumab
+- Maintenance: PARP inhibitors (BRCA/HRD+)
+- Recurrent: Depends on platinum-free interval
+
+**CA-125 Monitoring:**
+- GCIG CA-125 criteria for progression
+- Baseline CA-125 required
+
+### PROSTATE CANCER TRIALS
+================================================================================
+
+**Disease Setting:**
+
+**Castration-Resistant Prostate Cancer (CRPC):**
+- Testosterone <50 ng/dL despite ADT
+- PSA progression OR radiographic progression
+- mCRPC: Metastatic CRPC
+
+**Hormone-Sensitive Prostate Cancer (HSPC):**
+- Newly diagnosed metastatic disease
+- ADT-naive or ADT-responsive
+
+**Biomarker Testing:**
+- HRR gene mutations (BRCA1/2, ATM, PALB2, etc.) - for PARP inhibitors
+- AR-V7 splice variant (emerging)
+- MMR deficiency/MSI-H
+
+**Prior Therapy Requirements:**
+- Post-abiraterone or enzalutamide (for CRPC trials)
+- Post-docetaxel (for later-line trials)
+- No prior AR inhibitor (for 1st-line CRPC)
+
+**PSA Requirements:**
+- Baseline PSA ≥2 ng/mL (common threshold)
+- PSA doubling time <10 months (aggressive disease)
+
+**Bone Metastases:**
+- Very common (~90% of mCRPC)
+- Bone scan required at baseline
+- DEXA scan (bone health monitoring)
+
+**Pain Status:**
+- Asymptomatic/minimally symptomatic vs symptomatic
+- Stratification factor
+
+### CERVICAL CANCER TRIALS
+================================================================================
+
+**Histology:**
+- Squamous cell carcinoma (most common ~75%)
+- Adenocarcinoma (~20%)
+- Adenosquamous (~5%)
+
+**HPV Status:**
+- HPV-16, HPV-18 most common (oncogenic types)
+- HPV testing increasingly required
+- p16 IHC as surrogate
+
+**Biomarker Testing:**
+- PD-L1 CPS (for pembrolizumab eligibility)
+- PIK3CA mutations (~15-30% of cervical cancers)
+- MSI-H/dMMR (rare in cervical, <5%)
+
+**Disease Setting:**
+- Locally advanced (Stage IB2-IVA): Concurrent chemoradiation trials
+- Recurrent or metastatic: Systemic therapy trials
+
+**Prior Therapy Patterns:**
+- 1st line recurrent/metastatic: Platinum + paclitaxel ± bevacizumab ± pembrolizumab
+- 2nd line: Single-agent chemotherapy or immunotherapy
+
+**Performance Status:**
+- ECOG 0-1 standard
+- ECOG 2 sometimes in later-line
+
+**Common Exclusions:**
+- Active pelvic infection
+- Rectovaginal or vesicovaginal fistula
+- Bowel obstruction
+
+================================================================================
+## SPECIAL POPULATION ELIGIBILITY CONSIDERATIONS
+================================================================================
+
+### BRAIN METASTASES - EVOLVING LANDSCAPE
+================================================================================
+
+**Historical Approach (EXCLUDED):**
+- Brain metastases were blanket exclusion
+- Concern about CNS progression confounding systemic response
+
+**Current Approach (INCREASINGLY INCLUDED):**
+
+**Criteria for Inclusion:**
+- Asymptomatic brain metastases
+- Treated (surgery or radiation) and stable on imaging
+- No new/enlarging lesions for ≥4 weeks
+- Steroid dose ≤10 mg prednisone equivalent daily OR off steroids
+- No leptomeningeal disease
+
+**Disease-Specific Permissiveness:**
+- NSCLC: Most trials now allow brain mets (common presentation)
+- Melanoma: Brain mets very common, trials increasingly inclusive
+- Breast cancer: HER2+ trials commonly allow (trastuzumab deruxtecan, tucatinib)
+- RCC: Often allowed
+- Other solid tumors: Case-by-case
+
+**Brain-Specific Trials:**
+- Primary endpoint: Intracranial response
+- May specifically REQUIRE brain metastases
+- CNS-penetrant agents
+
+### OLDER ADULTS (≥65-70 years)
+================================================================================
+
+**General Principles:**
+- No upper age limit in most modern trials
+- Fitness more important than chronological age
+
+**Special Considerations:**
+- Organ function may be borderline (creatinine clearance)
+- Comorbidities more common
+- Polypharmacy considerations
+- Geriatric assessment tools (G8, CARG)
+
+**Trials Specifically for Older Adults:**
+- "Fit" vs "unfit" vs "frail" categorization
+- Dose-reduced regimens
+- Supportive care emphasis
+
+### ECOG PERFORMANCE STATUS 2
+================================================================================
+
+**Increasing Recognition:**
+- ECOG 2 patients often excluded historically
+- Real-world population includes many PS 2 patients
+
+**Trials Including ECOG 2:**
+- Later-line trials (3rd line+)
+- Palliative intent trials
+- Immunotherapy trials (potential for durable benefit)
+- Oral targeted therapy trials
+
+**Considerations:**
+- Higher toxicity risk
+- Lower completion rates
+- Survival outcomes worse
+- May need dose modifications
+
+### HEPATIC IMPAIRMENT
+================================================================================
+
+**Child-Pugh Classification:**
+- Class A: Most trials allow
+- Class B: Often excluded, some PK studies include
+- Class C: Excluded
+
+**Hepatocellular Carcinoma Trials:**
+- Liver dysfunction expected
+- Modified eligibility criteria
+- Bilirubin <3 mg/dL common threshold
+- Albumin >2.8 g/dL
+- INR <2.3 or PT <6 seconds prolonged
+
+### RENAL IMPAIRMENT
+================================================================================
+
+**Creatinine Clearance Thresholds:**
+- CrCl ≥60 mL/min: No restrictions
+- CrCl 30-60 mL/min: Many trials allow, dose adjustments may apply
+- CrCl <30 mL/min: Often excluded
+- Dialysis: Usually excluded (some exceptions)
+
+**Renal Cell Carcinoma Trials:**
+- Nephrectomy common (reduced renal function)
+- CrCl ≥30 mL/min often acceptable
+
+================================================================================
+## EXCLUSION CRITERIA PATTERNS
+================================================================================
+
+### NEARLY UNIVERSAL EXCLUSIONS
+================================================================================
+
+1. **Pregnancy and Nursing:**
+   - All oncology trials exclude
+   - Contraception required during trial and 3-6 months after
+
+2. **Active Second Malignancy:**
+   - Exception: Adequately treated basal/squamous cell skin cancer
+   - Exception: In situ cervical cancer
+   - Exception: Prior malignancy in remission >2-5 years
+
+3. **Active Uncontrolled Infection:**
+   - Requiring IV antibiotics
+   - HIV+ patients: Increasingly allowed if undetectable viral load, CD4 >350
+   - HBV/HCV: Depends on viral load and liver function
+
+4. **Uncontrolled Intercurrent Illness:**
+   - Unstable angina, recent MI (within 3-6 months)
+   - Uncontrolled hypertension (BP >160/100 despite medication)
+   - Uncontrolled diabetes (HbA1c >8-9%)
+   - Psychiatric illness limiting informed consent
+
+5. **Prior Severe Allergic Reaction:**
+   - To study drug or excipients
+   - Prior anaphylaxis
+
+### IMMUNOTHERAPY-SPECIFIC EXCLUSIONS
+================================================================================
+
+**Autoimmune Disease:**
+- Active autoimmune disease requiring systemic treatment
+- Exception: Vitiligo, controlled hypothyroidism, Type 1 DM on insulin
+- Exception: Inactive IBD, resolved childhood asthma
+
+**Immunosuppression:**
+- Chronic corticosteroids >10 mg prednisone equivalent
+- Other immunosuppressive medications
+- Exception: Steroids for adrenal insufficiency, brain metastases
+
+**Organ Transplant:**
+- Solid organ transplant (risk of rejection)
+- Allogeneic stem cell transplant
+
+**Pneumonitis History:**
+- Prior drug-induced pneumonitis
+- Active interstitial lung disease
+
+**Neurologic Autoimmune Disease:**
+- Myasthenia gravis
+- Guillain-Barré syndrome
+- Autoimmune neuropathy
+
+### CARDIAC EXCLUSIONS (Drug-Dependent)
+================================================================================
+
+**For Cardiotoxic Agents (HER2 inhibitors, anthracyclines):**
+- LVEF <50% (or <institutional LLN)
+- Prior anthracycline at max cumulative dose
+- Recent MI (within 6 months)
+- NYHA Class III-IV heart failure
+
+**For QT-Prolonging Agents:**
+- Baseline QTc >470-480 ms
+- History of torsades de pointes
+- Concomitant QT-prolonging medications
+- Uncorrected electrolyte abnormalities (K+, Mg2+, Ca2+)
+
+### BLEEDING RISK (Antiangiogenic Agents, Bevacizumab)
+================================================================================
+
+**Exclusions:**
+- Recent hemoptysis (>1/2 teaspoon within 8 weeks)
+- Active GI bleeding
+- CNS bleeding within 6 months
+- Therapeutic anticoagulation (trial-dependent)
+- Recent surgery within 28 days
+- Non-healing wound, ulcer, or fracture
+
+================================================================================
+## WASHOUT PERIODS BEFORE TRIAL ENROLLMENT
+================================================================================
+
+**Chemotherapy:**
+- Standard cytotoxics: 3-4 weeks
+- Nitrosoureas: 6 weeks
+- Mitomycin C: 6 weeks
+
+**Targeted Therapy:**
+- Small molecule inhibitors: 2 weeks (or 5 half-lives)
+- Monoclonal antibodies: 4 weeks
+
+**Immunotherapy:**
+- Checkpoint inhibitors: 4 weeks
+
+**Radiation Therapy:**
+- 2-4 weeks (depends on site and field size)
+- Palliative radiation to non-target lesion: May be allowed concurrently
+
+**Investigational Agents:**
+- 4 weeks or 5 half-lives, whichever is shorter
+
+**Major Surgery:**
+- 4 weeks (trial-dependent)
+
+================================================================================
+## SUMMARY: KEY PREDICTIVE FACTORS FOR TRIAL ELIGIBILITY
+================================================================================
+
+1. **Performance Status:** Single most important factor
+2. **Organ Function:** Bone marrow, liver, kidney adequacy
+3. **Prior Therapy Lines:** Matches trial design (1st, 2nd, 3rd+ line)
+4. **Biomarker Status:** Increasingly required for enrollment
+5. **Brain Metastases Status:** Treated and stable often acceptable now
+6. **Disease Measurability:** Required for response-based trials
+7. **Comorbidities:** Controlled vs uncontrolled critical distinction
+8. **Specific Exclusions:** Drug class-specific (cardiac, autoimmune, etc.)
+
+This document serves as a comprehensive reference for predicting trial eligibility
+based on patient characteristics and trial design patterns.

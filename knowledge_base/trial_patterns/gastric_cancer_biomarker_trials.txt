@@ -1,0 +1,1414 @@
+# Biomarker-Specific Trials: Gastric Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 127
+
+
+======================================================================
+## ALK (12 trials)
+======================================================================
+
+**NCT00909402** - A Study of BMS-833923 With Cisplatin and Capecitabine in Inoperable, Metastatic Gastric, Gastroesophageal, or Esophageal Adenocarcinomas
+Phase: PHASE1 | Status: COMPLETED
+Interventions: BMS-833923, Cisplatin
+
+Biomarker Criteria:
+  - * Individuals with spread of their cancer to the brain are permitted in certain circumstances - talk with your doctor
+
+----------------------------------------------------------------------
+
+**NCT00040859** - Oxaliplatin and Capecitabine in Treating Patients With Advanced Esophageal Cancer or Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: capecitabine, oxaliplatin
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically or cytologically confirmed adenocarcinoma of the esophagus, gastroesophageal junction, or gastric cardia for which no potentially curative or significant palliative therapy exists
+
+  * Unresectable disease
+  * Gastric cardia is defined as no more than 5 cm from the gastroesophageal junction into the stomach
+* Measurable disease
+* No known CNS metastases
+
+PATIENT CHARACTERISTICS:
+
+Age:
+
+* 18 and over
+
+Performance status:
+
+* ECOG 0-2
+
+Life expectancy:
+
+* At least 12 weeks
+
+Hematopoietic:
+
+* Absolute neutrophil count at least 1,500/mm\^3
+* Platelet count at least 100,000/mm\^3
+
+Hepatic:
+
+* Bilirubin no greater than upper limit of normal (ULN)
+* AST no greater than 3 times ULN
+* Alkaline phosphatase no greater than 2 times ULN
+
+Renal:
+
+* Creatinine no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT00192088** - A Study of Pemetrexed Plus Oxaliplatin as First Line Therapy in Advanced Gastric Carcinoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pemetrexed, oxaliplatin
+
+Biomarker Criteria:
+  - 5 x ULN; alkaline phosphatase, aspartate transaminase (AST) and alanine transaminase (ALT) \< or equal to 3 x ULN (alkaline phosphatase, AST, ALT minor or equal to 5 x ULN is acceptable if liver has tumor involvement), serum albumin \> or equal to3g/dL
+
+----------------------------------------------------------------------
+
+**NCT00004873** - Combination Chemotherapy in Treating Patients With Advanced Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cisplatin, docetaxel
+
+Biomarker Criteria:
+  - 5 times ULN
+* Alkaline phosphatase no greater than 5 times ULN
+
+Renal:
+
+* BUN normal
+* Creatinine normal
+* Creatinine clearance at least 60 mL/min
+* No severe hypercalcemia
+
+Cardiovascular:
+
+* No unstable cardiac disease requiring treatment
+* No congestive heart failure
+* No angina pectoris even if medically controlled
+* No significant arrhythmias
+* No prior myocardial infarction unless ejection fraction at least 50% by MUGA scan or echocardiogram
+
+Neurologic:
+
+* No prior significant neurologic or psychiatric disorders, including psychotic disorders, dementia or seizures that would preclude study
+* No peripheral neuropathy of any origin (alcohol, etc
+
+----------------------------------------------------------------------
+
+**NCT05029102** - TAS-102 and Anlotinib in ≥3 Lines mGC
+Phase: PHASE2 | Status: RECRUITING
+Interventions: TAS 102, Anlotinib
+
+Biomarker Criteria:
+  - * AST, ALT and alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT06419140** - Multimodal Rehabilitation on Gastric Adenocarcinoma Patients Following Radical D2 Gastrectomy
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Standard SOX/XELOX adjuvant chemotherapy plus multimodal rehabilitation
+
+Biomarker Criteria:
+  - 5×109/L, platelet count ≥75×109/L, Hb ≥90 g/L before enrollment, and no bleeding tendency
+* Liver function test: alanine aminotransferase (ALT), aspartate aminotransferase (AST), and alkaline phosphatase (ALP) are all ≤ 2
+  - ); not suitable for participating in sports training, such as those suffering from skeletal muscle diseases, fractures within 6 months; suffering from exercise contraindications (angina pectoris, within 6 months) Myocardial infarction, congestive heart failure, chronic obstructive pulmonary disease, planned hip or knee replacement, use of a walker or wheelchair, recent stroke with hemiplegia, etc
+
+----------------------------------------------------------------------
+
+**NCT01471470** - Efficacy of Docetaxel, Capecitabine, Cisplatin, and Bevacizumab in Patients With Unresectable Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Docetaxel, Capecitabine, Cisplatin, Bevacizumab
+
+Biomarker Criteria:
+  - 5 x UNL, alkaline phosphatase \< 5 x UNL)
+* Adequate renal function(serum creatinine \<1
+
+----------------------------------------------------------------------
+
+**NCT01045538** - Study of Vorinostat Plus Capecitabine (X) and Cisplatin (P) for 1st Line Treatment of Metastatic or Recurrent Gastric Cancer: Zolinza+XP
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Vorinostat, capecitabine, and cisplatin
+
+Biomarker Criteria:
+  - 5 x UNL (\< 5 x upper limit of normal for patients with liver involvement of their cancer), alkaline phosphatase \< 5 x UNL (except in case of bone metastasis without any liver disease)
+* Written informed consent
+
+Exclusion Criteria:
+
+* Prior exposure to any histone deacetylase (HDAC) inhibitor (however, valproic acid would be allowed if a 30-day wash-off period is provided
+
+----------------------------------------------------------------------
+
+**NCT00811447** - Taxotere New Indication - Gastric Cancer Treatment Registration Trial
+Phase: PHASE3 | Status: COMPLETED
+Interventions: 5-fluorouracil, Cisplatin
+
+Biomarker Criteria:
+  - 5 UNL, alkaline phosphatase ≤ 5 UNL
+* No prior palliative chemotherapy, previous adjuvant chemotherapy is allowed if more than 12 months has elapsed between the end of adjuvant therapy and first relapse
+  - 5UNL associated with alkaline phosphatase more than 2
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female or male aged ≥ 18 years on the day of informed consent signing;
+* Has histologically confirmed metastatic melanoma that is treatment naïve or has relapsed after or is refractory to ipilimumab or BRAF inhibitor (if BRAF mutation-positive), OR histologically confirmed metastatic NSCLC that has high programmed death-ligand 1 (PD-L1) expression (tumor proportion score \[TPS\] ≥50%) with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations or histologically confirmed metastatic NSCLC that is PD-L1 positive (TPS ≥1%) and has progressed on or after platinum-containing therapy (subjects with NSCLC harboring EGFR/ALK genomic aberrations must have received an FDA-approved targeted therapy for these aberrations) OR histologically confirmed HNSCC that has relapsed after or is refractory to platinum-containing chemotherapy, OR histologically confirmed cHL that has relapsed after three or more lines of therapy or is refractory to treatment OR histologically confirmed locally advanced or metastatic urothelial carcinoma that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed advanced, PD-L1-positive cervical cancer with disease progression on or after chemotherapy that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed recurrent, locally advanced, or metastatic, squamous cell carcinoma of the esophagus (ESCC) whose tumors express PD-L1 (Combined Positive Score \[CPS\] ≥10), as determined by an FDA-approved test, with disease progression after one or more prior lines of systemic therapy
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: APL-101 Oral Capsules
+
+Biomarker Criteria:
+  - Known actionable mutation/gene rearrangement of EGFR (except for NSCLC subjects in Cohort C and C-2), ALK, ROS1, RET, NTRK, KRAS, and BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (118 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Capecitabine
+
+Biomarker Criteria:
+  - * Has received a live vaccine within 4 weeks prior to the first dose of study treatment
+  - * Hypertension and unable to be controlled within normal level following treatment of anti-hypertension agents(within 3 months): systolic blood pressure \> 140 mmHg, diastolic blood pressure \> 90 mmHg
+
+----------------------------------------------------------------------
+
+**NCT06940102** - Real-World Study on Nano-Crystalline Megestrol Acetate for Cachexia in TKI-Treated Advanced Digestive Tumors
+Phase: Not specified | Status: RECRUITING
+Interventions: Nano-crystalline Megestrol Acetate Oral Suspension, TKI-Based Therapy
+
+Biomarker Criteria:
+  - * Histologically or cytologically confirmed locally advanced or metastatic digestive system tumors that are not amenable to curative treatment, according to the 8th edition TNM staging classification
+  - * Not benefiting from local anticancer therapies such as surgery, local ablation, or chemoembolization, and planned to receive TKI-based anticancer treatment, which may be combined with chemotherapy or immunotherapy)
+
+----------------------------------------------------------------------
+
+**NCT04882241** - Study of Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy in Participants With Gastric or Gastroesophageal Junction (GEJ) Ad
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Pembrolizumab, Placebo
+
+Biomarker Criteria:
+  - * Has an Eastern Cooperative Oncology Group (ECOG) performance status score of 0 to 1 within 3 days prior to the first dose of study treatment
+  - * Is currently participating in or has participated in a trial of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study treatment
+  - * Has a diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 14 days prior the first dose of study treatment
+
+----------------------------------------------------------------------
+
+**NCT00909402** - A Study of BMS-833923 With Cisplatin and Capecitabine in Inoperable, Metastatic Gastric, Gastroesophageal, or Esophageal Adenocarcinomas
+Phase: PHASE1 | Status: COMPLETED
+Interventions: BMS-833923, Cisplatin
+
+Biomarker Criteria:
+  - * Individuals who have received chemotherapy for the treatment of their disease within the past 6 months are not eligible
+  - * Prisoners or individuals currently receiving treatment for a mental or physical illness as an inpatient in a hospital
+
+----------------------------------------------------------------------
+
+**NCT02366819** - Genetic Analysis-Guided Irinotecan Hydrochloride Dosing of mFOLFIRINOX in Treating Patients With Locally Advanced Gastroesophageal or Stomach Cancer
+Phase: PHASE4 | Status: RECRUITING
+Interventions: Oxaliplatin, Leucovorin Calcium
+
+Biomarker Criteria:
+  - 1 will be allowed
+* Women of child-bearing potential and men must agree to use adequate contraception (hormonal or barrier method of birth control; abstinence) prior to study entry and for the duration of study participation, up until 30 days after final study treatment; should a woman become pregnant or suspect that she is pregnant while participating in this study, she should inform her treating physician immediately
+* Patients taking substrates, inhibitors, or inducers of cytochrome P450, family 3, subfamily A, polypeptide 4 (CYP3A4) should be encouraged to switch to alternative drugs whenever possible, given the potential for drug-drug interactions with irinotecan
+* Signed informed consent
+
+Exclusion Criteria:
+
+* Previous or concurrent malignancy, except for adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or any other cancer for which the patient has been previously treated and the lifetime recurrence risk is less than 30%
+* Inflammatory bowel disease that is uncontrolled or on active treatment (Crohn's disease, ulcerative colitis)
+* Diarrhea, grade 1 or greater by the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE, version \[v\] 4
+  - 0
+* Serious underlying medical or psychiatric illnesses that would, in the opinion of the treating physician, substantially increase the risk for complications related to treatment
+* Active uncontrolled bleeding
+* Pregnancy or breastfeeding
+* Major surgery within 4 weeks
+* Patients with any polymorphism in UGT1A1 other than \*1 or \*28 (e
+
+----------------------------------------------------------------------
+
+**NCT03504397** - A Study to Compare Zolbetuximab (IMAB362) and Chemotherapy With Placebo and Chemotherapy in Adults With Gastric Cancer.
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: zolbetuximab, placebo
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female subject eligible to participate if she is not pregnant (negative serum pregnancy test at screening; female subjects with elevated serum beta human chorionic gonadotropin and a demonstrated non-pregnant status through additional testing are eligible) and at least one of the following conditions applies:
+
+  * Not a woman of child-bearing potential (WOCBP) OR
+  * WOCBP who agrees to follow the contraceptive guidance throughout the treatment period and for at least 9 months after the final administration of oxaliplatin and 6 months after the final administration of all other study drugs
+* Female subject must agree not to breastfeed starting at screening and throughout the study period, and for 6 months after the final study drug administration
+  - * A sexually active male subject with a female partner(s) who is of child-bearing potential must agree to use contraception during the treatment period and for at least 6 months after the final study drug administration
+  - Subject may have received treatment with herbal medications that have known antitumor activity \> 28 days prior to randomization
+
+----------------------------------------------------------------------
+
+**NCT02494583** - Study of Pembrolizumab (MK-3475) as First-Line Monotherapy and Combination Therapy for Treatment of Advanced Gastric or Gastroesophageal Junction Aden
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Pembrolizumab, Cisplatin
+
+Biomarker Criteria:
+  - Participant may have received prior neoadjuvant or adjuvant therapy as long as it was completed at least 6 months prior to randomization
+* Major surgery, open biopsy or significant traumatic injury within 28 days prior to randomization, or anticipation of the need for major surgery during the course of study treatment
+  - * Radiotherapy within 14 days of randomization
+* Known additional malignancy that is progressing or requires active treatment with the exception of basal cell carcinoma of the skin, squamous cell carcinoma of the skin that has undergone potentially curative therapy or in situ cervical cancer
+* Known active central nervous system (CNS) metastases and/or carcinomatous meningitis
+* Active autoimmune disease that has required systemic treatment in past 2 years
+* Diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior the first dose of study medication
+* History of non-infectious pneumonitis that required steroids or current pneumonitis
+* Active infection requiring systemic therapy
+* Pregnant, breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the screening visit through 120 days after the last dose of study medication
+* Prior therapy with an anti-programmed cell death (PD)-1, anti-PD-L1, or anti-PD-L2 agent
+* Known history of human immunodeficiency virus (HIV)
+* Known active Hepatitis B or C
+* Currently participating in and receiving study therapy or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study medication
+* Received a live vaccine within 30 days prior to the first dose of study medication
+
+----------------------------------------------------------------------
+
+**NCT01364324** - Pharmacokinetics of Anti-tuberculosis Drugs in Gastrectomized Patients
+Phase: Not specified | Status: COMPLETED
+Interventions: standard first line anti-TB drugs
+
+Biomarker Criteria:
+  - patients using other drugs that will influence pharmacokinetics of first line anti-TB drugs during anti-TB treatment (e
+  - follow-up loss before completion of anti-TB treatment
+7
+  - any condition making the patients undergo gastrectomy during anti-TB treatment in case of Non-gastrectomy group
+
+----------------------------------------------------------------------
+
+**NCT01234324** - ECX + Panitumumab vs. ECX Alone in Locally Advanced Gastric Cancer or Cancer of the Gastroesophageal Junction
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Epirubicin, Cisplatin, Capecitabine, Panitumumab, Epirubicin, Cisplatin, Capecitabine
+
+Biomarker Criteria:
+  - cetuximab) or treatment with small molecule EGFr tyrosine kinase inhibitors (e
+  - * Significant cardiovascular disease including New York Heart Association (NYHA) grade II or greater congestive heart failure, peripheral arterial occlusive disease stage II or greater, symptomatic coronary heart disease, insufficiently treated arterial hypertension, unstable angina or myocardial infarction within 12 months before initiating study treatment or a history of ventricular arrhythmia
+  - * Treatment for systemic infection within 14 days before initiating study treatment
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Recent anticancer therapy (chemotherapy/immunotherapy/biologics/experimental drugs) within: \<5 half-lives of the drug or \<21 days before starting study treatment (whichever is shorter)
+  - Concomitant corticosteroid use (\>10 mg prednisone/day or equivalent) within 7 days prior to treatment, unless for physiological replacement (≤10 mg/day) or non-immunosuppressive purposes (e
+  - Active autoimmune disease requiring systemic treatment (immunosuppressants/corticosteroids) in the past 2 years, except: Hormone replacement (thyroxine, insulin, physiologic corticosteroids)
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment targeting ILT3
+  - * Prior treatment targeting LAIR1
+
+----------------------------------------------------------------------
+
+**NCT05524974** - Clinical Study of Camrelizumab, Apatinib Mesylate and Nab-paclitaxel Combined With Oxplatin and S-1 in the Neoadjuvant Treatment of Locally Advanced G
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Camrelizumab, Oxaliplatin
+
+Biomarker Criteria:
+  - No other clinical studies were conducted before and during the treatment； participants is willing to participate in this study, sign the informed consent, have good compliance, cooperate with follow-up
+  - Patients with contraindications for surgical treatment and chemotherapy or whose physical condition and organ function do not allow for major abdominal surgery；
+3
+
+----------------------------------------------------------------------
+
+**NCT00192088** - A Study of Pemetrexed Plus Oxaliplatin as First Line Therapy in Advanced Gastric Carcinoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: pemetrexed, oxaliplatin
+
+Biomarker Criteria:
+  - Patients must have recovered from the toxic effects of the treatment prior to study enrollment (except for alopecia)
+
+----------------------------------------------------------------------
+
+**NCT05970627** - Perioperative Chemotherapy Plus Toripalimab for Epstein-Barr Virus-associated Locally Advanced Gastric or Esophagogastric Junction Adenocarcinoma
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Toripalimab, Oxaliplatin
+
+Biomarker Criteria:
+  - Participants had Eastern Cooperative Oncology Group (ECOG) performance status scores of 0-1 within 7 days before the first dose of study treatment
+  - The functions of the vital organs meet requirements as follows (within 14 days before the first dose of study treatment, meanwhile, participants had not received treatment of recombinant human thrombopoietin or granulocyte stimulating factor):
+
+1)
+  - Female participants of childbearing age must meet requirements: urine or serum pregnancy test must be negative within 7 days before the first dose of study treatment, and she must agree to use adequate contraception methods or keep abstinence (starting with the ICF is signed through 120 days after the last dose of toripalimab, or 180 days after the last dose of chemotherapy, whichever is longer, and should not be breastfeeding
+
+----------------------------------------------------------------------
+
+**NCT00004873** - Combination Chemotherapy in Treating Patients With Advanced Stomach Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: cisplatin, docetaxel
+
+Biomarker Criteria:
+  - 5 times ULN
+* Alkaline phosphatase no greater than 5 times ULN
+
+Renal:
+
+* BUN normal
+* Creatinine normal
+* Creatinine clearance at least 60 mL/min
+* No severe hypercalcemia
+
+Cardiovascular:
+
+* No unstable cardiac disease requiring treatment
+* No congestive heart failure
+* No angina pectoris even if medically controlled
+* No significant arrhythmias
+* No prior myocardial infarction unless ejection fraction at least 50% by MUGA scan or echocardiogram
+
+Neurologic:
+
+* No prior significant neurologic or psychiatric disorders, including psychotic disorders, dementia or seizures that would preclude study
+* No peripheral neuropathy of any origin (alcohol, etc
+  - ) greater than grade 1
+
+Other:
+
+* Fertile patients must use adequate contraception
+* No prior malignancy except basal cell skin cancer or adequately treated carcinoma in situ of the cervix
+* No active uncontrolled infection
+* No other serious illness or medical condition that would preclude study participation
+* No contraindication to corticosteroid use
+
+PRIOR CONCURRENT THERAPY:
+
+Biologic therapy:
+
+* Not specified
+
+Chemotherapy:
+
+* No prior palliative chemotherapy
+* At least 12 months since prior adjuvant or neoadjuvant chemotherapy
+* No prior taxanes
+* Prior fluorouracil allowed in bolus form only
+* Prior cumulative dose of adjuvant or neoadjuvant cisplatin no greater than 300 mg/m2
+
+Endocrine therapy:
+
+* Prior or concurrent prednisone (or equivalent) allowed for prophylaxis, acute hypersensitivity reactions, or chronic therapy (greater than 6 months) at doses no greater than 20 mg
+
+Radiotherapy:
+
+* Not specified
+
+Surgery:
+
+* See Disease Characteristics
+
+Other:
+
+* No other concurrent experimental drugs
+* No other concurrent anticancer therapies
+* At least 30 days since treatment in prior clinical trial
+
+----------------------------------------------------------------------
+
+**NCT05461430** - Mass Response of Tumor Cells as a Biomarker for Rapid Therapy Guidance (TraveraRTGx)
+Phase: Not specified | Status: RECRUITING
+
+Biomarker Criteria:
+  - Proceeding onto therapy for treatment
+6
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - o Subjects with small, asymptomatic CNS metastases that do not require treatment are permitted to enroll
+  - CT-0508 in Combination with Pembrolizumab Substudy Only:
+
+Exclusion Criteria:
+
+* Subjects with severe hypersensitivity (≥Grade 3) to pembrolizumab and/or any of its excipients
+* Subjects with an active autoimmune disease that has required systemic treatment in past 2 years (i
+
+----------------------------------------------------------------------
+
+**NCT00565370** - Capecitabine and Cisplatin (XP)+Sorafenib in Advanced Gastric Cancer (AGC): Sorafenib+XP
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Capecitabine, Cisplatin, Sorafenib
+
+Biomarker Criteria:
+  - 0 mg/dL, transaminases levels \< 3 times the upper normal limit \[5 times for patients with liver metastasis\])
+
+Exclusion Criteria:
+
+* Past or concurrent history of neoplasm other than gastric adenocarcinoma, except for curatively treated non-melanoma skin cancer or in situ carcinoma of the cervix uteri
+* Major surgical procedure, open biopsy, or significant traumatic injury within 28 days prior to study treatment start
+* Presence of central nervous system metastasis
+* Obvious peritoneal seeding or bowel obstruction
+* Evidence of serious gastrointestinal bleeding
+* Peripheral neuropathy (National Cancer Institute Common Terminology Criteria for Adverse Event version 3
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Patients with treated, stable central nervous system (CNS) metastases (including leptomeningeal carcinomatosis) are allowed if there is no evidence of progression for at least 4 weeks after CNS-directed treatment as ascertained by clinical examination and brain imaging
+  - Willingness of men and women of reproductive potential to observe conventional and effective birth control methods with failure rates of \<1% for the duration of treatment and for at least 6 months for women and at least 3 months for men following the last dose of study treatment (this must include a barrier method such as condom or diaphragm with spermicidal gel)
+  - Standard treatment options are described in (Association NHCOTPROCSOOCM,2023):
+
+* Prior systemic standard therapy for patients with MMR-deficient (dMMR)/microsatellite instability-high (MSI-H): pembrolizumab for 1st line therapy, no standard therapy for 2nd and 3rd line therapy
+
+----------------------------------------------------------------------
+
+**NCT02318329** - Open-Label, Dose-Finding Study Evaluating Safety and PK of FPA144 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: FPA144
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Life expectancy of at least 3 months
+* ECOG performance status of 0 to 1
+
+  • In sexually-active patients, willingness to use 2 effective methods of contraception
+* Adequate hematological and organ function, confirmed by lab values
+* Tumor tissue must be available for prospective determination of FGFR2b overexpression
+
+  * Locally recurrent or metastatic disease that has progressed on or following standard treatment, or is not a candidate for standard treatment
+  * Histologically or cytologically confirmed transitional cell carcinoma of the genitourinary tract
+  * Measurable disease as defined by RECIST version 1
+  - 1
+
+Exclusion Criteria:
+
+* Untreated or symptomatic central nervous system (CNS) metastases
+* Impaired cardiac function or clinically significant cardiac disease
+
+  \- Treatment with any anticancer therapy or participation in another therapeutic clinical study with investigational drugs \</=14 days (\</=28 days for patients in Korea) prior to first dose of FPA144
+* Ongoing acute adverse effects from prior anticancer or investigational therapy \> NCI CTCAE Grade 1
+* Retinal disease or a history of retinal disease or detachment
+* Corneal defects, corneal ulcerations, keratitis, keratoconus, history of corneal transplant, or other known abnormalities of the cornea
+* Major surgical procedures are not allowed ≤28 days prior to FPA144 administration
+* Females who are pregnant or breastfeeding; women of childbearing potential must not be considering getting pregnant during the study
+
+  \- Presence of any serious or unstable concomitant systemic disorder incompatible with the clinical study
+* Known allergy or hypersensitivity to components of the FPA144 formulation including polysorbate
+* History of prior malignancy except:
+* a) Curatively treated non-melanoma skin cancer or
+* b) Solid tumor treated curatively more than 5 years previously without evidence of recurrence or
+* c) History of other malignancy that in the Investigator's opinion would not affect the determination of study treatment effect
+* Prior treatment with any selective inhibitor (e
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (3 trials)
+======================================================================
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - * Prior system standard therapy for patients with microsatellite stability (MSS) or microsatellite instability-low (MSI-L)/proficient mismatch repair (pMMR), RAS and BRAF wild-type (WT) should include cetuximab or bevacizumab monotherapy or in combination with FOLFOX/FOLFIRI/CAPEOX, and monotherapy (eg
+  - * Prior system standard therapy for patients with MSS or MSI-L/pMMR, RAS and BRAF mutation: should include bevacizumab monotherapy or in combination with FOLFIRI, and monotherapy (eg
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female or male aged ≥ 18 years on the day of informed consent signing;
+* Has histologically confirmed metastatic melanoma that is treatment naïve or has relapsed after or is refractory to ipilimumab or BRAF inhibitor (if BRAF mutation-positive), OR histologically confirmed metastatic NSCLC that has high programmed death-ligand 1 (PD-L1) expression (tumor proportion score \[TPS\] ≥50%) with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations or histologically confirmed metastatic NSCLC that is PD-L1 positive (TPS ≥1%) and has progressed on or after platinum-containing therapy (subjects with NSCLC harboring EGFR/ALK genomic aberrations must have received an FDA-approved targeted therapy for these aberrations) OR histologically confirmed HNSCC that has relapsed after or is refractory to platinum-containing chemotherapy, OR histologically confirmed cHL that has relapsed after three or more lines of therapy or is refractory to treatment OR histologically confirmed locally advanced or metastatic urothelial carcinoma that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed advanced, PD-L1-positive cervical cancer with disease progression on or after chemotherapy that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed recurrent, locally advanced, or metastatic, squamous cell carcinoma of the esophagus (ESCC) whose tumors express PD-L1 (Combined Positive Score \[CPS\] ≥10), as determined by an FDA-approved test, with disease progression after one or more prior lines of systemic therapy
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: APL-101 Oral Capsules
+
+Biomarker Criteria:
+  - Known actionable mutation/gene rearrangement of EGFR (except for NSCLC subjects in Cohort C and C-2), ALK, ROS1, RET, NTRK, KRAS, and BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (13 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Capecitabine
+
+Biomarker Criteria:
+  - * Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-CTLA-4 antibody, or a VEGFR inhibitor
+
+----------------------------------------------------------------------
+
+**NCT01234324** - ECX + Panitumumab vs. ECX Alone in Locally Advanced Gastric Cancer or Cancer of the Gastroesophageal Junction
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Epirubicin, Cisplatin, Capecitabine, Panitumumab, Epirubicin, Cisplatin, Capecitabine
+
+Biomarker Criteria:
+  - * Prior anti-EGFr antibody therapy (e
+  - cetuximab) or treatment with small molecule EGFr tyrosine kinase inhibitors (e
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Estimated creatinine clearance by the Cockcroft-Gault or estimated glomerular filtration rate (eGFR) of ≥60 mL/min
+   6
+
+----------------------------------------------------------------------
+
+**NCT01512745** - Phase III Study of Apatinib Tablets in the Treatment of Advanced or Metastatic Gastric Cancer
+Phase: PHASE3 | Status: COMPLETED
+Interventions: apatinib, placebo
+
+Biomarker Criteria:
+  - 5 × ULN
+* Abuse of alcohol or drugs
+* Certain possibility of gastric or intestine hemorrhage
+* Less than 4 weeks from the last clinical trial
+* Prior VEGFR inhibitor treatment
+* Disability of serious uncontrolled intercurrence infection Objective evidence of previous or current pulmonary fibrosis history, interstitial pneumonia, Pneumoconiosis, radiation pneumonitis, drug-related pneumonia, Pulmonary function damaged seriously etc
+
+----------------------------------------------------------------------
+
+**NCT04891900** - TQB2450 Plus Anlotinib Combined With Chemotherapy in the Treatment of Gastric or Gastroesophageal Junction Adenocarcinoma
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Interventions: TQB2450/Anlotinib hydrochloride/Oxaliplatin/Capecitabine
+
+Biomarker Criteria:
+  - * Have received PD-1 / PD-L1 antibody, CTLA-4 antibody, or other treatment for PD-1 / PD-L1 and / or VEGFR inhibitors, or have not recovered from adverse events caused by medication more than 4 weeks ago (i
+
+----------------------------------------------------------------------
+
+**NCT01983878** - A Study of Ramucirumab in Treating Japanese Participants With Metastatic Gastric or Gastroesophageal Junction Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Ramucirumab
+
+Biomarker Criteria:
+  - 03, of all clinically significant toxic effects of prior chemotherapy, surgery, radiotherapy, or hormonal therapy
+* Eastern Cooperative Oncology Group performance status score of 0-1
+* Has adequate organ function
+* Must be postmenopausal, surgically sterile, or using effective contraception (hormonal or barrier methods), if sexually active
+* Female participants of childbearing potential must have a negative serum or urine pregnancy test within 7 days prior to enrollment
+
+Exclusion Criteria:
+
+* Documented and/or symptomatic brain or leptomeningeal metastases
+* Bone metastases
+* Experienced Grade 3/4 gastrointestinal (GI) bleeding within 3 months prior to enrollment
+* Experienced any arterial thromboembolic event within 6 months prior to enrollment
+* Ongoing or active significant infection, symptomatic congestive heart failure (CHF), unstable angina pectoris, symptomatic or poorly controlled cardiac arrhythmia, uncontrolled thromboembolic or hemorrhagic disorder, or any other serious uncontrolled medical disorders in the opinion of the investigator
+* Ongoing or active psychiatric illness or social situation that would limit compliance with study requirements
+* Blood pressure in abnormal range despite standard medical management
+* Has a serious or nonhealing wound, ulcer, or bone fracture
+* Received chemotherapy, radiotherapy, immunotherapy, or targeted therapy for gastric cancer
+* Received any investigational therapy within 30 days prior to enrollment
+* Undergone major surgery within 28 days prior to enrollment, or subcutaneous venous access device placement within 7 days prior to enrollment
+* Received prior therapy with an agent that directly inhibits vascular endothelial growth factor (VEGF) or vascular endothelial growth factor receptor 2 (VEGFR-2) activity (including bevacizumab), or any anti-angiogenic agent
+* Receiving chronic therapy with nonsteroidal anti-inflammatory drugs or receiving other antiplatelet agents
+
+----------------------------------------------------------------------
+
+**NCT04276493** - Anti-HER2 Bispecific Antibody Zanidatamab (ZW25) Activity in Combination With Chemotherapy With/Without Tislelizumab
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Zanidatamab, Docetaxel
+
+Biomarker Criteria:
+  - * Have not received previous systemic anticancer therapy for locally advanced unresectable or metastatic disease, including any approved or investigational estimated glomerular filtration rate (EGFR) or anti-HER2 agents or vaccines, cytotoxic chemotherapy or checkpoint inhibitors
+2
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female or male aged ≥ 18 years on the day of informed consent signing;
+* Has histologically confirmed metastatic melanoma that is treatment naïve or has relapsed after or is refractory to ipilimumab or BRAF inhibitor (if BRAF mutation-positive), OR histologically confirmed metastatic NSCLC that has high programmed death-ligand 1 (PD-L1) expression (tumor proportion score \[TPS\] ≥50%) with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations or histologically confirmed metastatic NSCLC that is PD-L1 positive (TPS ≥1%) and has progressed on or after platinum-containing therapy (subjects with NSCLC harboring EGFR/ALK genomic aberrations must have received an FDA-approved targeted therapy for these aberrations) OR histologically confirmed HNSCC that has relapsed after or is refractory to platinum-containing chemotherapy, OR histologically confirmed cHL that has relapsed after three or more lines of therapy or is refractory to treatment OR histologically confirmed locally advanced or metastatic urothelial carcinoma that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed advanced, PD-L1-positive cervical cancer with disease progression on or after chemotherapy that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed recurrent, locally advanced, or metastatic, squamous cell carcinoma of the esophagus (ESCC) whose tumors express PD-L1 (Combined Positive Score \[CPS\] ≥10), as determined by an FDA-approved test, with disease progression after one or more prior lines of systemic therapy
+
+----------------------------------------------------------------------
+
+**NCT03081143** - Ramucirumab Plus FOLFIRI Versus Ramucirumab Plus Paclitaxel in Patients with Advanced or Metastatic Gastric Cancer, Who Failed One Prior Line of Palli
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: FOLFIRI, Ramucirumab
+
+Biomarker Criteria:
+  - Previous exposure to a VEGF or VEGFR inhibitor or any antiangiogenic agent, or prior enrolment in this study
+8
+
+----------------------------------------------------------------------
+
+**NCT00215995** - Cisplatin and Irinotecan Chemotherapy, Followed by ZD 1839 (Iressa) in Patients With Esophageal or Gastric Carcinomas
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Cisplatin, Irinotecan
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment with EGFR-inhibiting agents, chemotherapy, or radiotherapy for esophagogastric carcinomas
+
+----------------------------------------------------------------------
+
+**NCT05122091** - Fruquintinib Plus SOX as Neoadjuvant Therapy for Locally Advanced Gastric Adenocarcinoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Fruquintinib + SOX
+
+Biomarker Criteria:
+  - Received anti-VEGF/VEGFR-targeted drugs and progressed upon these drugs;
+2
+
+----------------------------------------------------------------------
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: APL-101 Oral Capsules
+
+Biomarker Criteria:
+  - 9 cohorts will be enrolled:
+
+   * Cohort A1 / Exon 14 NSCLC MET inhibitor naive in first line: Histologically or cytologically confirmed NSCLC with Exon 14 skipping mutations; all histologies; unresectable or metastatic disease (Stage 3b/4); treatment-naive subjects in first line; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+   * Cohort A2 / Exon 14 NSCLC - MET inhibitor naïve: Histologically or cytologically confirmed NSCLC with Exon 14 skipping mutations; all histologies; unresectable or metastatic disease (Stage 3b/4); pretreated subjects refractory to or intolerant of standard therapies with no more than three lines of prior therapy in the unresectable or metastatic setting; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+   * Cohort B / Exon 14 NSCLC MET inhibitor experienced: ENROLLMENT COMPLETED
+   * Cohort C / MET amplification basket tumor types excluding primary CNS tumors: Any solid tumor type regardless of histology excluding primary CNS tumors, with MET amplification; unresectable or metastatic disease, refractory to or intolerant of standard therapies, or refused standard therapies, or if therapy was unavailable or unfeasible, with no more than 3 prior lines of therapy in the unresectable or metastatic setting; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+   * Cohort C1 / MET amplification and wild-type EGFR NSCLC: NSCLC regardless of histology, harboring MET amplification and wild-type EGFR; unresectable or metastatic disease, previously untreated or treated with no more than 3 prior lines of therapy in the unresectable or metastatic setting; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+   * Cohort C2 / EGFR positive NSCLC with acquired MET amplification (APL-101 Add-on Therapy): Unresectable or metastatic NSCLC regardless of histology, harboring EGFR activating mutations with acquired MET-Amplification as resistance mechanism to the EGFR-I; developed resistance to first-line EGFR-inhibitor therapy after an initial response (documented PR for at least 12 weeks); radiological documentation of disease progression per RECIST on first-line EGFR inhibitor therapy; currently on an EGFR-inhibitor therapy and agrees to receive APL-101 as an add-on therapy during the study; no history of interstitial lung disease (ILD)/pneumonitis, Grade ≥3 liver toxicity or QT prolongation with EGFR-I therapy; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+   * Cohort D / MET fusion basket tumor types excluding primary CNS tumors: any solid tumor type regardless of histology excluding primary CNS tumors; unresectable or metastatic disease, refractory to or intolerant of standard therapies, or refused standard therapies, or if therapy was unavailable or unfeasible, with no more than 3 prior lines of therapy in the unresectable or metastatic setting; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+   * Cohort E / Primary CNS tumors with MET alterations: subjects with primary CNS tumors who meet inclusion criteria of MET dysregulations defined as single or co-occurred MET fusion including PTPRZ1-MET (ZM) fusion, MET Exon 14 skipping mutations, or MET amplification; refractory to or intolerant of standard therapies, or refused standard therapies, or if therapy was unavailable or unfeasible, with no more than 3 prior lines of therapy in the unresectable or metastatic setting; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations; neurological symptoms controlled on a stable/decreasing dose of steroids for at least 2 weeks before C1D1
+   * Cohort F / Basket tumor types harboring wild-type MET with over-expression of HGF and MET: any solid tumor type regardless of histology harboring wild-type MET with overexpression of HGF and MET; Unresectable or metastatic disease, refractory to or intolerant of standard therapies, or refused standard therapies, or if therapy was unavailable or unfeasible, with no more than 3 prior lines of therapy in the unresectable or metastatic setting; not received any MET inhibitor and no known MET kinase inhibitor resistance mutations
+3
+  - Known actionable mutation/gene rearrangement of EGFR (except for NSCLC subjects in Cohort C and C-2), ALK, ROS1, RET, NTRK, KRAS, and BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (40 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Capecitabine
+
+Biomarker Criteria:
+  - * NO previous therapy for advanced/metastatic disease of GC/GEJ (including HER2 inhibitor)
+  - Exclusion Criteria:
+
+* Has known HER2-positive status
+
+----------------------------------------------------------------------
+
+**NCT03504397** - A Study to Compare Zolbetuximab (IMAB362) and Chemotherapy With Placebo and Chemotherapy in Adults With Gastric Cancer.
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: zolbetuximab, placebo
+
+Biomarker Criteria:
+  - * Subject has a HER2-Negative tumor as determined by local or central testing on a gastric or GEJ tumor specimen
+  - (Unique to China: Subject has a known HER2-negative gastric or GEJ tumor
+
+----------------------------------------------------------------------
+
+**NCT06310473** - Neoadjuvant Cadonilimab Plus Chemotherapy for Locally Advanced Esophagogastric Junction and Gastric Cancer Trial
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Cadonilimab, Oxaliplatin
+
+Biomarker Criteria:
+  - Patients who have HER2 positive confiemed with IHC3+ or IHC2+ and FISH positive
+
+----------------------------------------------------------------------
+
+**NCT02494583** - Study of Pembrolizumab (MK-3475) as First-Line Monotherapy and Combination Therapy for Treatment of Advanced Gastric or Gastroesophageal Junction Aden
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Pembrolizumab, Cisplatin
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale within 3 days prior to first dose of study medication
+* Has histologically- or cytologically-confirmed diagnosis of locally advanced unresectable or metastatic gastric or GEJ adenocarcinoma
+* Human epidermal growth factor receptor 2- (HER2/neu-) negative and programmed cell death ligand 1 (PD-L1)-positive
+* Has measurable disease
+* Female participants of childbearing potential must be willing to use adequate contraception or be surgically sterile, or abstain from heterosexual activity for the course of the study through 120 days after the last dose of study medication
+* Male participants of childbearing potential should agree to use an adequate method of contraception starting with the first dose of study medication through 120 days after the last dose of study medication
+* Adequate organ function
+
+Exclusion Criteria:
+
+* Squamous cell or undifferentiated gastric cancer
+* Previous therapy for locally advanced, unresectable or metastatic gastric/GEJ cancer
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+
+----------------------------------------------------------------------
+
+**NCT05970627** - Perioperative Chemotherapy Plus Toripalimab for Epstein-Barr Virus-associated Locally Advanced Gastric or Esophagogastric Junction Adenocarcinoma
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Toripalimab, Oxaliplatin
+
+Biomarker Criteria:
+  - HER2-positive status defined as either IHC score of 3+ or IHC 2+ with amplification proven by fluorescent in situ hybridization (FISH) based on pretreatment endoscopic biopsies
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: CT-0508, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* HER2-positive recurrent or metastatic solid tumors for which there are no available curative treatment options
+  - * Breast cancer and gastric/gastroesophageal junction cancers must have failed approved HER2-targeted agents
+  - * Other HER2-positive tumor types must have failed standard of care therapies, while prior therapy with anti-HER2 drugs is not required
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Standard therapy options are described in (Wang,2024):
+
+* Prior systemic standard therapy for patients with HER2-positive gastric or EGJ cancer should include trastuzumab plus chemotherapy (fluorouracil plus platinum), mono-chemotherapy (eg
+  - * Prior system standard therapy for patients with HER2-negative gastric or EGJ cancer should include fluorouracil plus platinum or in combination with anti-PD-1, mono-chemotherapy (eg
+
+----------------------------------------------------------------------
+
+**NCT06253871** - A Phase 1/1b Study of IAM1363 in HER2 Cancers
+Phase: PHASE1 | Status: RECRUITING
+Interventions: IAM1363
+
+Biomarker Criteria:
+  - Key Inclusion Criteria:
+
+* Age ≥ 18 years
+* Have relapsed/refractory HER2-altered malignancy
+* Have progression of disease after the last systemic therapy, or be intolerant of last systemic therapy
+* Have radiographically measurable disease by RECIST v1
+
+----------------------------------------------------------------------
+
+**NCT03925974** - KN026 in Patients With HER2 Expressing Gastric/Gastroesophageal Junction Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: KN026 10 mg/kg QW, KN026 20 mg/kg Q2W
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Signed inform consent form(ICF)
+* Age ≥ 18 years and ≤ 75 years, male or female
+* Histologically or cytologically documented advanced gastric/gastroesophageal junction cancer HER2 overexpressing: IHC 3+ or IHC 2+ \& ISH+ HER2 expressing: IHC2+ \& ISH- or IHC 1+ \& ISH+
+* Received at least one prior standard therapy
+* At least one evaluable lesion according to Response Evaluation Criteria In Solid Tumors（RECISIT） v 1
+
+----------------------------------------------------------------------
+
+**NCT05702229** - Novel Combinations in Participants With Locally Advanced Unresectable or Metastatic Gastric or Gastroesophageal Junction Adenocarcinoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Rilvegostomig, Volrustomig
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Participants with HER2-positive (3+ by IHC, or 2+ by IHC and positive by in situhybridisation) or indeterminate gastric or GEJ carcinoma
+
+----------------------------------------------------------------------
+
+**NCT06730373** - First-line Treatment With RC48 Plus Sintilimab and S-1 in Advanced Gastric Cancer (RCTS2)
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Disitamab Vedotin, Sintilimab
+
+Biomarker Criteria:
+  - HER2-Positive (IHC3+or IHC2+/FISH+) ;
+4
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: trastuzumab, tipifarnib
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically or cytologically confirmed advanced or metastatic adenocarcinoma
+* Expression of +1 to 3+ HER2/neu on immunohistochemical or immunocytochemistry staining
+* No brain metastases unless all of the following is true:
+
+  * Previously treated
+  * Asymptomatic
+  * Stable dose of decadron
+* No evidence of edema
+
+PATIENT CHARACTERISTICS:
+
+* Age: 18 and over
+* Performance status: ECOG 0-2
+* Life expectancy: At least 12 weeks
+* Absolute granulocyte count at least 1,500/mm3
+* Platelet count at least 100,000/mm3
+* Hemoglobin at least 9
+
+----------------------------------------------------------------------
+
+**NCT05894824** - T-Dxd in Combination With Ramucirumab as HER2 Low Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma
+Phase: PHASE1 | Status: RECRUITING
+Interventions: T-Dxd(Trastuzmab deruxtecan), Ramucirumab
+
+Biomarker Criteria:
+  - Histologically or cytologically proven metastatic or locally advanced HER2 low gastric or GEJ adenocarcinoma: The definition of HER2 low is 1+ by immunohistochemistry (IHC) or 2+ by IHC and without HER2 gene amplification (negative by in situ hybridization\[ISH\])
+
+----------------------------------------------------------------------
+
+**NCT04808791** - iTTo for Treatment Naive Advanced Gastric or Gastroesophageal Junction (GEJ) Adenocarcinoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Irinotecan, Oxaliplatin
+
+Biomarker Criteria:
+  - Patients with unknown Her2/neu status, or negative Her2/neu status based on IHC and/or FISH/CISH (Testing does not need to be done unless it is standard of care at participating centres)
+  - Positive Her2/neu status (NOTE: if this is discovered after patient has already been enrolled on study, patient may continue on study per the discretion of the treating physician
+
+----------------------------------------------------------------------
+
+**NCT06940778** - LIQUID BIOPSY FOCUSING ON CIRCULATING TUMOR CELLS AND CIRCULATING TUMOR DNA AS PRECISION MEDICINE IN GASTROINTESTINAL TUMORS
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Interventions: No Interventions
+
+Biomarker Criteria:
+  - Metastatic disease: if HER2 negative - XELOX or FOLFOX with Nivolumab or pembrolizumab
+  - If HER2 positive XELOX or FOLFOX with trastuzumab + pembrolizumab
+
+----------------------------------------------------------------------
+
+**NCT06881017** - Establishment of Precision Targeted Therapy Strategies for Advanced Gastric Cancer Based on Novel Molecular Subtyping
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Trastuzumab, Adebrelimab
+
+Biomarker Criteria:
+  - Archival or fresh tumor tissue sample available for biomarker testing (HER2, CLDN18
+
+----------------------------------------------------------------------
+
+**NCT06224738** - Human HER2-targeted Macrophages Therapy for HER2-positive Advanced Gastric Cancer With Peritoneal Metastases
+Phase: EARLY_PHASE1 | Status: NOT_YET_RECRUITING
+Interventions: human HER2-targeted CAR-M cells
+
+Biomarker Criteria:
+  - histologically confirmed HER2-positive gastric cancer; HER2-positive is defined as immunohistochemistry (IHC) 3+ or (IHC) 2+ with in situ hybridization (ISH) +
+
+----------------------------------------------------------------------
+
+**NCT00028535** - Interleukin-12, Paclitaxel, and Trastuzumab in Treating Patients With Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: trastuzumab, paclitaxel
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically confirmed HER2/neu-overexpressing (2+ or 3+) malignancy by any standardized assay (fluorescence in-situ hybridization allowed)
+* Measurable or evaluable disease
+* Failed standard curative therapy
+* No brain or CNS metastasis
+* Hormone receptor status:
+
+  * Not specified
+* Male or female
+* Performance status - Karnofsky 70-100%
+* At least 6 months
+* Absolute neutrophil count at least 1,500/mm\^3
+* Hemoglobin at least 8 g/dL (transfusion or epoetin alfa allowed)
+* Platelet count at least 100,000/mm\^3
+* Bilirubin no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT05111626** - Bemarituzumab Plus Chemotherapy and Nivolumab Versus Chemotherapy and Nivolumab for FGFR2b Overexpressed Untreated Advanced Gastric and Gastroesophage
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Bemarituzumab, Nivolumab
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment with any selective inhibitor of the fibroblast growth factor (FGF)-FGFR pathway
+* Known positive human epidermal growth factor receptor 2 (HER2) status
+* Untreated or symptomatic central nervous system disease metastases and leptomeningeal disease
+* Peripheral sensory neuropathy grade 2 or higher
+* Clinically significant cardiac disease
+* Other malignancy within the last 2 years (exceptions for definitively treated disease)
+* Chronic or systemic ophthalmologic disorders
+* Major surgery or other investigational study within 28 days prior to randomization
+* Palliative radiotherapy within 14 days prior to randomization
+* Abnormalities of the cornea that may pose an increased risk of developing a corneal ulcer
+* Active autoimmune disease that has required systemic treatment (except replacement therapy) within the past 2 years or any other diseases requiring immunosuppressive therapy while on study
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: APL-101 Oral Capsules
+
+Biomarker Criteria:
+  - Known actionable mutation/gene rearrangement of EGFR (except for NSCLC subjects in Cohort C and C-2), ALK, ROS1, RET, NTRK, KRAS, and BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (3 trials)
+======================================================================
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Standard treatment options are described in (Association NHCOTPROCSOOCM,2023):
+
+* Prior systemic standard therapy for patients with MMR-deficient (dMMR)/microsatellite instability-high (MSI-H): pembrolizumab for 1st line therapy, no standard therapy for 2nd and 3rd line therapy
+
+----------------------------------------------------------------------
+
+**NCT07007182** - Conversion Therapy Plus Surgery and Radiotherapy for Retroperitoneal Nodal Metastases in Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: SOX regimen, CAPEOX regimen
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+Evidence of visceral or peritoneal metastasis; MSI-H or dMMR subtype; HER2-positive disease (IHC 3+ or IHC 2+ with FISH positive); Prior systemic anti-tumor therapy; Prior malignancy within 3 years (except adequately treated basal cell/squamous cell carcinoma of the skin or in situ carcinoma); Prior PD-1/PD-L1/CTLA-4 therapy; Participation in another interventional trial within 4 weeks; Active autoimmune disease requiring systemic therapy within past 2 years; Uncontrolled infection, hepatitis B, C, or HIV; CNS metastases or carcinomatous meningitis; Uncontrolled cardiovascular disease (unstable angina, recent MI, NYHA III-IV heart failure, QTc ≥480 ms); Interstitial lung disease or uncontrolled pulmonary disease; Uncontrolled diabetes mellitus (FBG \>10 mmol/L); Pregnancy or breastfeeding; Major surgery within 4 weeks prior to randomization; Any other condition that may interfere with protocol compliance or increase risk as judged by the investigator
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR MSI-H or dMMR unresectable or metastatic cancer that has relapsed after prior treatment and has no satisfactory alternative treatment options
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (20 trials)
+======================================================================
+
+**NCT03472365** - A Study of SHR-1210 in Combination With Capecitabine + Oxaliplatin or Apatinib in Treatment of Advanced Gastric Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: SHR-1210, Capecitabine
+
+Biomarker Criteria:
+  - * Has received prior therapy with an anti-PD-1, anti-PD-L1, or anti-CTLA-4 antibody, or a VEGFR inhibitor
+
+----------------------------------------------------------------------
+
+**NCT04882241** - Study of Pembrolizumab (MK-3475) Plus Chemotherapy Versus Placebo Plus Chemotherapy in Participants With Gastric or Gastroesophageal Junction (GEJ) Ad
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Pembrolizumab, Placebo
+
+Biomarker Criteria:
+  - * Has received prior therapy with an anti-programmed cell death protein-1 (anti-PD-1), anti-programmed cell death-ligand 1 (anti-PD-L1), or anti-PD-L2 agent or with an agent directed to another stimulatory or co-inhibitory T-cell receptor (i
+
+----------------------------------------------------------------------
+
+**NCT02494583** - Study of Pembrolizumab (MK-3475) as First-Line Monotherapy and Combination Therapy for Treatment of Advanced Gastric or Gastroesophageal Junction Aden
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Pembrolizumab, Cisplatin
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Performance status of 0 or 1 on the Eastern Cooperative Oncology Group (ECOG) Performance Scale within 3 days prior to first dose of study medication
+* Has histologically- or cytologically-confirmed diagnosis of locally advanced unresectable or metastatic gastric or GEJ adenocarcinoma
+* Human epidermal growth factor receptor 2- (HER2/neu-) negative and programmed cell death ligand 1 (PD-L1)-positive
+* Has measurable disease
+* Female participants of childbearing potential must be willing to use adequate contraception or be surgically sterile, or abstain from heterosexual activity for the course of the study through 120 days after the last dose of study medication
+* Male participants of childbearing potential should agree to use an adequate method of contraception starting with the first dose of study medication through 120 days after the last dose of study medication
+* Adequate organ function
+
+Exclusion Criteria:
+
+* Squamous cell or undifferentiated gastric cancer
+* Previous therapy for locally advanced, unresectable or metastatic gastric/GEJ cancer
+  - * Radiotherapy within 14 days of randomization
+* Known additional malignancy that is progressing or requires active treatment with the exception of basal cell carcinoma of the skin, squamous cell carcinoma of the skin that has undergone potentially curative therapy or in situ cervical cancer
+* Known active central nervous system (CNS) metastases and/or carcinomatous meningitis
+* Active autoimmune disease that has required systemic treatment in past 2 years
+* Diagnosis of immunodeficiency or is receiving chronic systemic steroid therapy (in dosing exceeding 10 mg daily of prednisone equivalent) or any other form of immunosuppressive therapy within 7 days prior the first dose of study medication
+* History of non-infectious pneumonitis that required steroids or current pneumonitis
+* Active infection requiring systemic therapy
+* Pregnant, breastfeeding, or expecting to conceive or father children within the projected duration of the trial, starting with the screening visit through 120 days after the last dose of study medication
+* Prior therapy with an anti-programmed cell death (PD)-1, anti-PD-L1, or anti-PD-L2 agent
+* Known history of human immunodeficiency virus (HIV)
+* Known active Hepatitis B or C
+* Currently participating in and receiving study therapy or has participated in a study of an investigational agent or has used an investigational device within 4 weeks prior to the first dose of study medication
+* Received a live vaccine within 30 days prior to the first dose of study medication
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresectable Solid Tumors
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+
+Biomarker Criteria:
+  - Histologically confirmed unresectable/metastatic tumors:
+
+   EGFR/ALK wild-type adenocarcinoma non-small cell lung cancer (NSCLC) PD-L1+ (CPS≥1) triple-negative breast cancer (TNBC) HER2- gastric/gastroesophageal adenocarcinoma
+4
+  - Progression after PD-1/PD-L1 inhibitor therapy (defined as:
+
+   * ≥2 doses administred
+  - * Progression within 12 weeks of last PD-1/PD-L1 dose
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - , VEGF targeted agents, anti-PD-1 or PD-L1)
+
+----------------------------------------------------------------------
+
+**NCT06881017** - Establishment of Precision Targeted Therapy Strategies for Advanced Gastric Cancer Based on Novel Molecular Subtyping
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Trastuzumab, Adebrelimab
+
+Biomarker Criteria:
+  - 2, and PD-L1 expression);
+6
+
+----------------------------------------------------------------------
+
+**NCT07092449** - Pucotenlimab Combined With Chemotherapy as Perioperative Treatment for Locally Advanced Gastroesophageal Junction Carcinoma
+Phase: NA | Status: NOT_YET_RECRUITING
+Interventions: Neoadjuvant chemo-immunotherapy
+
+Biomarker Criteria:
+  - Having previously received the following therapies: anti-PD-1, anti-PD-L1 or anti-PD-L2 drugs, or drugs targeting another stimulatory or co-inhibitory T-cell receptor (including but not limited to CTLA-4, OX-40, CD137, etc
+
+----------------------------------------------------------------------
+
+**NCT05075993** - Study of LVGN3616 and LVGN6051±LVGN7409 in Combination With Nab-Paclitaxel or Bevacizumab and Cyclophosphamide in Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: LVGN3616 + LVGN6051 + Nab-Paclitaxel, LVGN3616 + LVGN6051 + Bevacizumab + Cyclophosphamide
+
+Biomarker Criteria:
+  - However, prior immunotherapy with anti-PD1/PD-L1 plus a CD137 agonist or a CD40 agonist is not allowed
+
+----------------------------------------------------------------------
+
+**NCT05025033** - Chemotherapy Combined With Apatinib and PD-1 Antibody
+Phase: PHASE2 | Status: COMPLETED
+Interventions: PD-1 antibody, paclitaxel or irinotecan, Apatinib mesylate
+
+Biomarker Criteria:
+  - Have received anti-PD-1 and anti-PD-L1 antibody drug therapy in the past;
+3
+
+----------------------------------------------------------------------
+
+**NCT07007182** - Conversion Therapy Plus Surgery and Radiotherapy for Retroperitoneal Nodal Metastases in Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: SOX regimen, CAPEOX regimen
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+Evidence of visceral or peritoneal metastasis; MSI-H or dMMR subtype; HER2-positive disease (IHC 3+ or IHC 2+ with FISH positive); Prior systemic anti-tumor therapy; Prior malignancy within 3 years (except adequately treated basal cell/squamous cell carcinoma of the skin or in situ carcinoma); Prior PD-1/PD-L1/CTLA-4 therapy; Participation in another interventional trial within 4 weeks; Active autoimmune disease requiring systemic therapy within past 2 years; Uncontrolled infection, hepatitis B, C, or HIV; CNS metastases or carcinomatous meningitis; Uncontrolled cardiovascular disease (unstable angina, recent MI, NYHA III-IV heart failure, QTc ≥480 ms); Interstitial lung disease or uncontrolled pulmonary disease; Uncontrolled diabetes mellitus (FBG \>10 mmol/L); Pregnancy or breastfeeding; Major surgery within 4 weeks prior to randomization; Any other condition that may interfere with protocol compliance or increase risk as judged by the investigator
+
+----------------------------------------------------------------------
+
+**NCT04891900** - TQB2450 Plus Anlotinib Combined With Chemotherapy in the Treatment of Gastric or Gastroesophageal Junction Adenocarcinoma
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Interventions: TQB2450/Anlotinib hydrochloride/Oxaliplatin/Capecitabine
+
+Biomarker Criteria:
+  - * Have received PD-1 / PD-L1 antibody, CTLA-4 antibody, or other treatment for PD-1 / PD-L1 and / or VEGFR inhibitors, or have not recovered from adverse events caused by medication more than 4 weeks ago (i
+
+----------------------------------------------------------------------
+
+**NCT05365581** - A Study of ASP2138 Given by Itself or Given With Other Cancer Treatments in Adults With Stomach Cancer, Gastroesophageal Junction Cancer, or Pancreati
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ASP2138, Pembrolizumab
+
+Biomarker Criteria:
+  - Unique to EU:
+
+* Participant must have a PD-L1 CPS ≥ 1
+
+----------------------------------------------------------------------
+
+**NCT06427252** - The Efficacy and Safety of HIPEC Combined With PD-1 and SOX Chemotherapy for the Translational Treatment of GC or EGJC With PM
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: HIPEC, Systemic therapy
+
+Biomarker Criteria:
+  - , PD-1, PD-L1, CTLA-4 inhibitors, etc;
+21
+
+----------------------------------------------------------------------
+
+**NCT04276493** - Anti-HER2 Bispecific Antibody Zanidatamab (ZW25) Activity in Combination With Chemotherapy With/Without Tislelizumab
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Zanidatamab, Docetaxel
+
+Biomarker Criteria:
+  - Prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2 or any other antibody or drug specifically targeting T-cell co-stimulation or checkpoint pathways
+2
+
+----------------------------------------------------------------------
+
+**NCT06485271** - A Real-world Study of Camrelizumab Alone or in Combination With Apatinib/Chemotherapy for Advanced Gastric Cancer
+Phase: Not specified | Status: RECRUITING
+Interventions: Camrelizumab, apatinib
+
+Biomarker Criteria:
+  - PD-1 monoclonal antibody, PD-L1 monoclonal antibody, CTLA4 monoclonal antibody, etc
+
+----------------------------------------------------------------------
+
+**NCT05028933** - IMC001 for Clinical Research on Advanced Digestive System Malignancies
+Phase: PHASE1 | Status: RECRUITING
+Interventions: EPCAM CAR-T
+
+Biomarker Criteria:
+  - Received anti-PD-1/PD-L1 monoclonal antibody treatment within 4 weeks before apheresis
+
+----------------------------------------------------------------------
+
+**NCT06555471** - A Single-arm, Phase II Exploratory Study of Sintilimab in Combination With Chemoradiotherapy in Elderly Patients With Locally Advanced Gastric Cancer
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Sintilimab, S-1
+
+Biomarker Criteria:
+  - * Malignant disease other than gastric cancer diagnosed within 5 years prior to the first dose (excluding radically treated basal cell carcinoma of the skin, squamous epithelial carcinoma of the skin, and/or radically resected carcinoma in situ);
+* Currently being treated in an interventional clinical study or have been treated with another investigational drug or with an investigational device within 4 weeks prior to the first dose;
+* Prior therapy with anti-PD-1, anti-PD-L1, or anti-PD-L2 drugs or drugs targeting another stimulatory or synergistic inhibitor of T-cell receptors (e
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female or male aged ≥ 18 years on the day of informed consent signing;
+* Has histologically confirmed metastatic melanoma that is treatment naïve or has relapsed after or is refractory to ipilimumab or BRAF inhibitor (if BRAF mutation-positive), OR histologically confirmed metastatic NSCLC that has high programmed death-ligand 1 (PD-L1) expression (tumor proportion score \[TPS\] ≥50%) with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations or histologically confirmed metastatic NSCLC that is PD-L1 positive (TPS ≥1%) and has progressed on or after platinum-containing therapy (subjects with NSCLC harboring EGFR/ALK genomic aberrations must have received an FDA-approved targeted therapy for these aberrations) OR histologically confirmed HNSCC that has relapsed after or is refractory to platinum-containing chemotherapy, OR histologically confirmed cHL that has relapsed after three or more lines of therapy or is refractory to treatment OR histologically confirmed locally advanced or metastatic urothelial carcinoma that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed advanced, PD-L1-positive cervical cancer with disease progression on or after chemotherapy that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed recurrent, locally advanced, or metastatic, squamous cell carcinoma of the esophagus (ESCC) whose tumors express PD-L1 (Combined Positive Score \[CPS\] ≥10), as determined by an FDA-approved test, with disease progression after one or more prior lines of systemic therapy
+  - OR histologically confirmed recurrent, locally advanced, or metastatic Gastric Cancer, with disease progression on or after two or more systemic therapies, including fluoropyrimidine- and platinum-containing chemotherapy and, if appropriate, HER2/neu-targeted therapy, and whose tumors express programmed death-ligand 1 (PD-L1), as determined by an FDA-approved test
+  - , with use of disease-modifying agents, corticosteroids or immunosuppressive drugs);
+* History of non-infectious pneumonitis that required steroids or current pneumonitis;
+* Has an active infection requiring systemic therapy;
+* History or current evidence of any condition, therapy, or laboratory abnormality that might confound the results of the trial, interfere with the subject's participation for the full duration of the trial, or is not in the best interest of the subject to participate, in the opinion of the treating investigator;
+* Known psychiatric or substance abuse disorders that would interfere with cooperation with the requirements of the trial;
+* Is pregnant or breastfeeding, or expecting to conceive a child within the projected duration of the trial, starting with the prescreening or screening visit through 120 days after the last dose of trial treatment;
+* Received prior therapy with an anti-PD-1, anti-PD-L1, or anti-PD-L2 agent;
+* Known history of human immunodeficiency virus;
+* Has known active hepatitis B or hepatitis C;
+* Received a live vaccine within 30 days of planned start of the trial treatment;
+* Unwilling or unable to comply with the trial protocol
+
+----------------------------------------------------------------------
+
+**NCT07033143** - Evaluation of the Efficacy and Safety of Adebrelimab Combined With SOX as Adjuvant Therapy for IIIB and IIIC Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Adebrelimab+SOX
+
+Biomarker Criteria:
+  - There are available tumor tissues for PD-L1 expression analysis
+6
+  - PD-L1 CPS ≥5
+7
+  - The patient's physical condition and visceral functions allow for subsequent adjuvant treatments, including chemotherapy, chemoradiotherapy, and PD-L1 inhibitor therapy
+
+----------------------------------------------------------------------
+
+**NCT06241469** - Efficacy and Safety of Sintilimab Combined With Nab-paclitaxel and Tegio (aTS) as First-line Treatment of Unresectable Locally Advanced, Recurrent or 
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Sintilimab,nab-paclitaxel and tegio
+
+Biomarker Criteria:
+  - Can provide archived or fresh pathological tissues within 6 months from the signing of the informed consent document for PD-L1 testing and obtain test results
+  - Previously exposed to any anti-PD-1 or anti-PD-L1, PD-L2, CD137, CTLA-4 antibody therapy, or any other antibody or drug targeting T cell co stimulation or checkpoint pathways
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT01613950** - PI3K Inhibitor BYL719 in Combination With the HSP90 Inhibitor AUY922 in Patients With Advanced or Metastatic Gastric Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: AUY922, BYL719
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Patients with advanced or metastatic adenocarcinoma of the stomach or gastroesophageal junction;
+* Patients must not have a complete gastrectomy;
+* gastric tumors carrying PIK3CA mutation or amplification, or HER2-overexpression, or both;
+* at least one but no more than three previous lines of treatment for advanced or metastatic disease;
+* Patients with PIK3CA mutated or amplified tumors must have failed at least one line but no more than three lines of standard chemotherapy and/or targeted agents;Patients with HER2 amplified tumor must have failed at least one line, but no more than three lines, with or without anti-HER2 therapy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (1 trials)
+======================================================================
+
+**NCT03175224** - APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Interventions: APL-101 Oral Capsules
+
+Biomarker Criteria:
+  - Known actionable mutation/gene rearrangement of EGFR (except for NSCLC subjects in Cohort C and C-2), ALK, ROS1, RET, NTRK, KRAS, and BRAF
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TMB-H (1 trials)
+======================================================================
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR adult patients with unresectable or metastatic tumor mutational burden-high (TMB-H) \[≥10 mutations/megabase (mut/Mb)\] solid tumors;
+
+* Measurable disease based on Response Evaluation Criteria in Solid Tumors (RECIST) 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (3 trials)
+======================================================================
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: JR8603
+
+Biomarker Criteria:
+  - Standard treatment options are described in (Association NHCOTPROCSOOCM,2023):
+
+* Prior systemic standard therapy for patients with MMR-deficient (dMMR)/microsatellite instability-high (MSI-H): pembrolizumab for 1st line therapy, no standard therapy for 2nd and 3rd line therapy
+
+----------------------------------------------------------------------
+
+**NCT07007182** - Conversion Therapy Plus Surgery and Radiotherapy for Retroperitoneal Nodal Metastases in Gastric Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: SOX regimen, CAPEOX regimen
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+Evidence of visceral or peritoneal metastasis; MSI-H or dMMR subtype; HER2-positive disease (IHC 3+ or IHC 2+ with FISH positive); Prior systemic anti-tumor therapy; Prior malignancy within 3 years (except adequately treated basal cell/squamous cell carcinoma of the skin or in situ carcinoma); Prior PD-1/PD-L1/CTLA-4 therapy; Participation in another interventional trial within 4 weeks; Active autoimmune disease requiring systemic therapy within past 2 years; Uncontrolled infection, hepatitis B, C, or HIV; CNS metastases or carcinomatous meningitis; Uncontrolled cardiovascular disease (unstable angina, recent MI, NYHA III-IV heart failure, QTc ≥480 ms); Interstitial lung disease or uncontrolled pulmonary disease; Uncontrolled diabetes mellitus (FBG \>10 mmol/L); Pregnancy or breastfeeding; Major surgery within 4 weeks prior to randomization; Any other condition that may interfere with protocol compliance or increase risk as judged by the investigator
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR MSI-H or dMMR unresectable or metastatic cancer that has relapsed after prior treatment and has no satisfactory alternative treatment options
+
+----------------------------------------------------------------------
+

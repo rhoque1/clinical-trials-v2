@@ -1,0 +1,1169 @@
+# Enhanced Biomarker-Specific Trials: Melanoma
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 173
+
+
+======================================================================
+## ALK (22 trials)
+======================================================================
+
+**NCT01100528** - Dacarbazine and Recombinant Interferon Alfa-2b in Treating Patients With Primary Uveal Melanoma With Genetic Imbalance
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 38
+Interventions: recombinant interferon alfa-2b, dacarbazine
+Locations: 1 sites
+Primary Outcome: Number of Patients With Disease-free Survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+Locations: 1 sites
+Primary Outcome: Proportion of dose limiting toxicities defined as Radiation Therapy Oncology Group grade 3 central n
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+Locations: 1 sites
+Primary Outcome: Percentage of participants experiencing dose limiting toxicities (DLT) attributed to radiation or co
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 108
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+Locations: 2 sites
+Primary Outcome: Tumor tissue and normal tissue distribution of colloidal gold-bound tumor necrosis factor
+
+----------------------------------------------------------------------
+
+**NCT00118313** - Vaccine Therapy With or Without Imiquimod in Treating Patients Who Have Undergone Surgery for Stage II, Stage III, or St
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: incomplete Freund's adjuvant, multi-epitope melanoma peptide vaccine
+Locations: 1 sites
+Primary Outcome: Safety if less than 33% of patients experience a dose-limiting at day 22
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+**NCT01568996** - Pilot Study Evaluating Sulforaphane in Atypical Nevi-Precursor Lesions
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 17
+Interventions: broccoli sprout extract - sulforaphane (BSE-SFN), broccoli sprout extract - sulforaphane (BSE-SFN)
+Locations: 1 sites
+Primary Outcome: Adverse events associated with oral sulforaphane
+
+----------------------------------------------------------------------
+
+**NCT01983124** - Vemurafenib + Fotemustine to Treat Advanced Melanoma Patients With V600BRAF Mutation Recurred While on Vemurafenib
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 31
+Interventions: Fotemustine + Vemurafenib
+Locations: 2 sites
+Primary Outcome: Progression-free survival
+
+----------------------------------------------------------------------
+
+**NCT00470015** - Vaccine Therapy and GM-CSF With or Without Low-Dose Aldesleukin in Treating Patients With Stage II, Stage III, or Stage 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: MART-1 antigen, IL-2
+Locations: 1 sites
+Primary Outcome: Percent changes in peptide vaccine-specific immune responses (tetramer frequencies) from pretreatmen
+
+----------------------------------------------------------------------
+
+**NCT00005815** - Temozolomide and Thalidomide in Treating Patients With Stage III or Stage IV Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: temozolomide, thalidomide
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 20
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT01748747** - Vaccine Therapy and Resiquimod in Treating Patients With Stage II-IV Melanoma That Has Been Removed By Surgery
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Montanide ISA 51 VG, MART-1 antigen
+Locations: 1 sites
+Primary Outcome: Immune response of each vaccination regimen, defined as a 2-fold or more increase from pre-treatment
+
+----------------------------------------------------------------------
+
+**NCT00002973** - Melphalan and Whole-Body Hyperthermia in Treating Patients With Advanced Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 34
+Interventions: melphalan, hyperthermia treatment
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT04121676** - Anti-CD137 and Anti-CTLA-4 Monoclonal Antibody in Patients With Advanced Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 91
+Interventions: AGEN2373, Botensilimab
+Locations: 12 sites
+Primary Outcome: Occurrence of Dose Limiting Toxicity (DLT)
+
+----------------------------------------------------------------------
+
+**NCT00085306** - Interferon Beta in Treating Patients With Metastatic Cutaneous Melanoma or Ocular Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 21
+Interventions: recombinant interferon beta
+Locations: 1 sites
+Primary Outcome: Objective clinical response rate to IFN-B the maximum tolerated dose as measured by a CTC Grade III 
+
+----------------------------------------------------------------------
+
+**NCT02020707** - Nab-Paclitaxel and Bevacizumab in Treating Patients With Unresectable Stage IV Melanoma or Gynecological Cancers
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 43
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+Locations: 4 sites
+Primary Outcome: Maximum tolerated dose (MTD
+
+----------------------------------------------------------------------
+
+**NCT04160065** - Immunotherapy With IFx-Hu2.0 Vaccine for Advanced Non-melanoma Skin Cancers
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 23
+Interventions: IFx-Hu2.0
+Locations: 4 sites
+Primary Outcome: Number of Grade 3-5, Treatment-Related Adverse Events per CTCAE 5.0
+
+----------------------------------------------------------------------
+
+**NCT00568048** - Temozolomide and Bevacizumab in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 62
+Interventions: bevacizumab, temozolomide
+Locations: 1 sites
+Primary Outcome: Clinical benefit number of patients with complete response [CR], partial response [PR], or stable di
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT05176470** - Neoadj Admin Autologous Tumor Infiltrating Lymphocytes & Pembrolizumab for Treatment of Adv Melanoma Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 2
+Interventions: Cyclophosphamide, Fludarabine
+Locations: 1 sites
+Primary Outcome: Feasibility of neoadjuvant administration of MK-3475 and LN-144/Lifileucel in 3 stage IIIB-D melanom
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (169 trials)
+======================================================================
+
+**NCT01266096** - PET Imaging of Patients With Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGDY Silica Nanomolecular Partic
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 10
+Interventions: PET scan with 124I-cRGDY-PEG-dots
+Locations: 1 sites
+Primary Outcome: Conduct pilot single-dose studies of 124I-cRGDY-PEG-dots†
+
+----------------------------------------------------------------------
+
+**NCT00019383** - Vaccine Therapy in Treating Patients With Recurrent or Refractory Metastatic Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: aldesleukin, incomplete Freund's adjuvant
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT02743819** - Pembrolizumab and Ipilimumab After Prior Immunotherapy for Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 70
+Interventions: Pembrolizumab, Ipilimumab
+Locations: 10 sites
+Primary Outcome: Overall Response Rate (OR) Per irRECIST
+
+----------------------------------------------------------------------
+
+**NCT01100528** - Dacarbazine and Recombinant Interferon Alfa-2b in Treating Patients With Primary Uveal Melanoma With Genetic Imbalance
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 38
+Interventions: recombinant interferon alfa-2b, dacarbazine
+Locations: 1 sites
+Primary Outcome: Number of Patients With Disease-free Survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT02409628** - EktoTherix™ Regenerative Tissue Scaffold for Repair of Surgical Excision Wounds
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 12
+Interventions: EktoTherix
+Locations: 3 sites
+Primary Outcome: Incidence of device related adverse events
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT00429312** - A Study of Recombinant Vaccinia Virus to Treat Malignant Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 10
+Interventions: JX-594
+Locations: 3 sites
+Primary Outcome: Response rate for injected tumor(s)
+
+----------------------------------------------------------------------
+
+**NCT00055562** - Study to Compare the Efficacy and Safety of Two CC-5013 Dose Regimens in Subjects With Metastatic Malignant Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 274
+Interventions: CC 5013
+Locations: 31 sites
+
+----------------------------------------------------------------------
+
+**NCT00431275** - Study to Compare Two Formulations of CP-675,206 Monoclonal Antibody
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 85
+Interventions: CP-675,206, CP-675,206
+Locations: 8 sites
+Primary Outcome: Pharmacokinetics: maximum plasma concentration of CP-675,206
+
+----------------------------------------------------------------------
+
+**NCT01048554** - Temozolomide Plus Bevacizumab in Patients With Metastatic Melanoma Involving the Central Nervous System
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 34
+Interventions: Temozolomide, Bevacizumab
+Locations: 3 sites
+Primary Outcome: Primary Outcome Measures: one-year survival rate
+
+----------------------------------------------------------------------
+
+**NCT02908672** - A Study of Atezolizumab Plus Cobimetinib and Vemurafenib Versus Placebo Plus Cobimetinib and Vemurafenib in Previously U
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 514
+Interventions: Atezolizumab, Atezolizumab Placebo
+Locations: 110 sites
+Primary Outcome: Progression-Free Survival (PFS), as Determined by Investigator Using Response Evaluation Criteria in
+
+----------------------------------------------------------------------
+
+**NCT00288041** - Bortezomib, Paclitaxel, and Carboplatin in Treating Patients With Metastatic Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 36
+Interventions: carboplatin, paclitaxel
+Locations: 1 sites
+Primary Outcome: Confirmed tumor response rate defined as the total number of evaluable patients whose objective tumo
+
+----------------------------------------------------------------------
+
+**NCT03154190** - Health Care Coach Support in Reducing Acute Care Use and Cost in Patients With Cancer
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 128
+Interventions: Best Practice, Laboratory Biomarker Analysis
+Locations: 1 sites
+Primary Outcome: Number of Emergency Department Visits (Chart Review)
+
+----------------------------------------------------------------------
+
+**NCT00942162** - A Study to Test the Benefit of a New Anti-cancer Treatment in Patients With Unresectable Advanced Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 125
+Interventions: Immunotherapeutic GSK2132231A
+Locations: 63 sites
+Primary Outcome: One-year Overall Survival Rate (OSR) Estimated by Complete Case Method
+
+----------------------------------------------------------------------
+
+**NCT01586403** - Transfer of Genetically Engineered Lymphocytes in Melanoma Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 14
+Interventions: Dose 1, Dose 2
+Locations: 1 sites
+Primary Outcome: Find dose of autologous T cell receptor
+
+----------------------------------------------------------------------
+
+**NCT06999980** - A Phase II, Randomised Clinical Trial of Nivolumab and Ipilimumab Combined With Relatlimab for Patients With Resectable 
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 297
+Interventions: Ipilimumab 3mg/kg and nivolumab 1mg/kg, Nivolumab 480mg and relatlimab 160mg and ipilimumab 1mg/kg
+Locations: 1 sites
+Primary Outcome: Pathological response rate
+
+----------------------------------------------------------------------
+
+**NCT02668770** - Ipilimumab (Immunotherapy) and MGN1703 (TLR Agonist) in Patients With Advanced Solid Malignancies
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: MGN1703, Ipilimumab
+Locations: 1 sites
+Primary Outcome: Maximum Tolerated Dose (MTD) of MGN1703 with Ipilimumab
+
+----------------------------------------------------------------------
+
+**NCT06566391** - Ipilimumab and Nivolumab Followed by Adjuvant Nivolumab in Locally Advanced or Limited Metastatic Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 35
+Interventions: Ipilimumab
+Locations: 1 sites
+Primary Outcome: Percentage of pathological complete response (Efficacy)
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastat
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 130
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+Locations: 9 sites
+Primary Outcome: Number of Patients with Dose-limiting Toxicities
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 180
+Interventions: ENV-501
+Locations: 6 sites
+Primary Outcome: Phase 1 (Dose Escalation): Frequency of treatment-emergent adverse events
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (45 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT02908672** - A Study of Atezolizumab Plus Cobimetinib and Vemurafenib Versus Placebo Plus Cobimetinib and Vemurafenib in Previously U
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 514
+Interventions: Atezolizumab, Atezolizumab Placebo
+Locations: 110 sites
+Primary Outcome: Progression-Free Survival (PFS), as Determined by Investigator Using Response Evaluation Criteria in
+
+----------------------------------------------------------------------
+
+**NCT01586403** - Transfer of Genetically Engineered Lymphocytes in Melanoma Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 14
+Interventions: Dose 1, Dose 2
+Locations: 1 sites
+Primary Outcome: Find dose of autologous T cell receptor
+
+----------------------------------------------------------------------
+
+**NCT06566391** - Ipilimumab and Nivolumab Followed by Adjuvant Nivolumab in Locally Advanced or Limited Metastatic Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 35
+Interventions: Ipilimumab
+Locations: 1 sites
+Primary Outcome: Percentage of pathological complete response (Efficacy)
+
+----------------------------------------------------------------------
+
+**NCT06251934** - Real-World Patient Characteristics, Treatment Patterns, and Clinical Outcomes Among Patients With BRAF-Positive Metastat
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 785
+Locations: 1 sites
+Primary Outcome: Mean age of 1L dab/tram-treated BRAF+ MM patients
+
+----------------------------------------------------------------------
+
+**NCT01849666** - A Study of the Effect of Vemurafenib on the Pharmacokinetics of Phenprocoumon in Patients With BRAFV600 Mutation-Positiv
+Phase: PHASE1 | Status: COMPLETED
+Purpose:  | Enrollment: 2
+Interventions: phenprocoumon, vemurafenib
+Locations: 17 sites
+Primary Outcome: Pharmacokinetics of single-dose phenprocoumon under conditions of vemurafenib steady-state exposure:
+
+----------------------------------------------------------------------
+
+**NCT05611229** - Treatment Patterns and Outcomes of Targeted Therapy and Immunotherapy Among BRAF-Positive Melanoma Patients Treated in t
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 1975
+Interventions: Nivolumab, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Proportion of patients receiving TT and IO therapy in the first-, and second-line
+
+----------------------------------------------------------------------
+
+**NCT05954546** - A Study to Compare How Effective is Encorafenib Plus Binimetinib in Real-world and Clinical Trial Settings
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 275
+Interventions: Enco+bini
+Locations: 1 sites
+Primary Outcome: Overall Survival (OS)
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT04996823** - Axitinib + Ipilimumab in Advanced Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Ipilimumab, Axitinib
+Locations: 1 sites
+Primary Outcome: Overall Response Rate
+
+----------------------------------------------------------------------
+
+**NCT01619774** - An Open-Label Phase II Study of the Combination of GSK2118436 and GSK1120212 in Patients With Metastatic Melanoma Which 
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 28
+Interventions: GSK2118436, GSK1120212
+Locations: 1 sites
+Primary Outcome: Overall Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT06651151** - NeoLIPA: Neoadjuvant LTX-315 in Combination with Pembrolizumab in Resectable Stage III/IV Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 27
+Interventions: LTX-315 + pembrolizumab
+Locations: 1 sites
+Primary Outcome: Complete Pathologic Response Rate
+
+----------------------------------------------------------------------
+
+**NCT02120222** - Evaluating SINE KPT-330 in Treating Patients With Melanoma That Cannot Be Removed By Surgery
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 8
+Interventions: selinexor, Correlative studies
+Locations: 1 sites
+Primary Outcome: Incidence of adverse events graded using the National Cancer Institute Common Terminology Criteria f
+
+----------------------------------------------------------------------
+
+**NCT00949702** - A Study of Vemurafenib in Previously Treated Patients With Metastatic Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 132
+Interventions: vemurafenib
+Locations: 15 sites
+Primary Outcome: Best Overall Response (BOR) Assessed by an Independent Review Committee Using Response Evaluation Cr
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 185
+Interventions: LGK974, PDR001
+Locations: 20 sites
+Primary Outcome: Incidence of dose limiting toxicities (DLTs) during the first cycle of LGK974 treatment and during t
+
+----------------------------------------------------------------------
+
+**NCT03595683** - Pembrolizumab and EDP1503 in Advanced Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 8
+Interventions: Pembrolizumab, EDP1503
+Locations: 1 sites
+Primary Outcome: Response rate
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+Locations: 1 sites
+Primary Outcome: Proportion of dose limiting toxicities defined as Radiation Therapy Oncology Group grade 3 central n
+
+----------------------------------------------------------------------
+
+**NCT03340129** - Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 218
+Interventions: Ipilimumab, Nivolumab
+Locations: 10 sites
+Primary Outcome: Neurological specific cause of death
+
+----------------------------------------------------------------------
+
+**NCT03235245** - Immunotherapy With Ipilimumab and Nivolumab Preceded or Not by a Targeted Therapy With Encorafenib and Binimetinib
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 271
+Interventions: Nivolumab + Ipilimumab, Encorafenib + Binimetinib
+Locations: 38 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT03864042** - Pharmacokinetic Drug-drug Interaction Study of Encorafenib and Binimetinib on Probe Drugs in Patients With BRAF V600-mut
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 56
+Interventions: losartan, dextromethorphan
+Locations: 29 sites
+Primary Outcome: Maximum Concentration (Cmax) of Plasma Midazolam on Day -7, Day 1, and Day 14
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (1 trials)
+======================================================================
+
+**NCT04095195** - Registry of Subjects at Risk of Pancreatic Cancer
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 1000
+Interventions: MRCP, Endoultrasonography
+Locations: 4 sites
+Primary Outcome: This clinical study will assess the diagnostic yield of a clinical surveillance program for pancreat
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (1 trials)
+======================================================================
+
+**NCT04095195** - Registry of Subjects at Risk of Pancreatic Cancer
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 1000
+Interventions: MRCP, Endoultrasonography
+Locations: 4 sites
+Primary Outcome: This clinical study will assess the diagnostic yield of a clinical surveillance program for pancreat
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (10 trials)
+======================================================================
+
+**NCT00429312** - A Study of Recombinant Vaccinia Virus to Treat Malignant Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 10
+Interventions: JX-594
+Locations: 3 sites
+Primary Outcome: Response rate for injected tumor(s)
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 180
+Interventions: ENV-501
+Locations: 6 sites
+Primary Outcome: Phase 1 (Dose Escalation): Frequency of treatment-emergent adverse events
+
+----------------------------------------------------------------------
+
+**NCT06359860** - A Study of ST-1898 for Unresectable or Metastatic Melanoma
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 64
+Interventions: ST-1898 tablets
+Locations: 1 sites
+Primary Outcome: Phase Ib Dose Escalation: The Number and frequency of treatment-related adverse events (AEs) and tre
+
+----------------------------------------------------------------------
+
+**NCT06583369** - The Efficacy and Safety of Liangxue Ointment in the Treatment of Hand-foot Syndrome Caused by VEGFR-TKI Drugs
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 220
+Interventions: Liangxue ointment（Traditional Chinese Ointment）, Urea cream
+Locations: 1 sites
+Primary Outcome: 2-week treatment effectiveness
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+Locations: 1 sites
+Primary Outcome: Proportion of dose limiting toxicities defined as Radiation Therapy Oncology Group grade 3 central n
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+Locations: 1 sites
+Primary Outcome: Percentage of participants experiencing dose limiting toxicities (DLT) attributed to radiation or co
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+**NCT04291079** - SRK-181 Alone or in Combination With Anti-PD-(L)1 Antibody Therapy in Patients With Locally Advanced or Metastatic Solid
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 112
+Interventions: SRK-181, anti-PD-(L)1 antibody therapy
+Locations: 22 sites
+Primary Outcome: Safety and tolerability of single agent SRK-181
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT01256359** - Docetaxel With or Without AZD6244 in Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 83
+Interventions: Docetaxel and AZD6244, Docetaxel and placebo
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (1 trials)
+======================================================================
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 146
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+Locations: 8 sites
+Primary Outcome: Number of Subjects With Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (3 trials)
+======================================================================
+
+**NCT02981303** - Study of Imprime PGG and Pembrolizumab in Advanced Melanoma and Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 64
+Interventions: Imprime PGG, Pembrolizumab
+Locations: 10 sites
+Primary Outcome: The Primary Efficacy Endpoint Was ORR, Defined as the Proportion of Subjects Demonstrating CR or PR 
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 146
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+Locations: 8 sites
+Primary Outcome: Number of Subjects With Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (4 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 20
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT05379985** - Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 614
+Interventions: RMC-6236
+Locations: 16 sites
+Primary Outcome: Incidence and severity of treatment-emergent Adverse Events (AEs) and serious AEs, including inciden
+
+----------------------------------------------------------------------
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 146
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+Locations: 8 sites
+Primary Outcome: Number of Subjects With Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (4 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+**NCT03767348** - Study of RP1 Monotherapy and RP1 in Combination With Nivolumab
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 340
+Interventions: RP1, nivolumab
+Locations: 53 sites
+Primary Outcome: Percentage of adverse events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (8 trials)
+======================================================================
+
+**NCT06346067** - A Study to Assess Naporafenib (ERAS-254) Administered With Trametinib in Patients With NRAS-mutant Melanoma (SEACRAFT-2)
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 470
+Interventions: Naporafenib, Dacarbazine
+Locations: 59 sites
+Primary Outcome: Stage 1:To select the optimal dose of naporafenib + trametinib to be studied in Stage 2
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT02120222** - Evaluating SINE KPT-330 in Treating Patients With Melanoma That Cannot Be Removed By Surgery
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 8
+Interventions: selinexor, Correlative studies
+Locations: 1 sites
+Primary Outcome: Incidence of adverse events graded using the National Cancer Institute Common Terminology Criteria f
+
+----------------------------------------------------------------------
+
+**NCT04835805** - A Study to Evaluate the Safety and Activity of Belvarafenib as a Single Agent and in Combination With Either Cobimetinib
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 65
+Interventions: Belvarafenib, Cobimetinib
+Locations: 16 sites
+Primary Outcome: Percentage of Participants With Dose Limiting Toxicity (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 20
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+Locations: 1 sites
+Primary Outcome: Objective response rate
+
+----------------------------------------------------------------------
+
+**NCT05379985** - Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 614
+Interventions: RMC-6236
+Locations: 16 sites
+Primary Outcome: Incidence and severity of treatment-emergent Adverse Events (AEs) and serious AEs, including inciden
+
+----------------------------------------------------------------------
+
+**NCT02645149** - Molecular Profiling and Matched Targeted Therapy for Patients With Metastatic Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: Standard therapy or clinical trial, Matched targeted therapy
+Locations: 2 sites
+Primary Outcome: Type and frequency of genetic aberrations in BRAF/NRAS wild-type metastatic melanoma
+
+----------------------------------------------------------------------
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 146
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+Locations: 8 sites
+Primary Outcome: Number of Subjects With Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PALB2 (1 trials)
+======================================================================
+
+**NCT04095195** - Registry of Subjects at Risk of Pancreatic Cancer
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 1000
+Interventions: MRCP, Endoultrasonography
+Locations: 4 sites
+Primary Outcome: This clinical study will assess the diagnostic yield of a clinical surveillance program for pancreat
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (30 trials)
+======================================================================
+
+**NCT02743819** - Pembrolizumab and Ipilimumab After Prior Immunotherapy for Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 70
+Interventions: Pembrolizumab, Ipilimumab
+Locations: 10 sites
+Primary Outcome: Overall Response Rate (OR) Per irRECIST
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 134
+Interventions: mRNA-2752, Durvalumab
+Locations: 24 sites
+Primary Outcome: Number of Participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT06566391** - Ipilimumab and Nivolumab Followed by Adjuvant Nivolumab in Locally Advanced or Limited Metastatic Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 35
+Interventions: Ipilimumab
+Locations: 1 sites
+Primary Outcome: Percentage of pathological complete response (Efficacy)
+
+----------------------------------------------------------------------
+
+**NCT04996823** - Axitinib + Ipilimumab in Advanced Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Ipilimumab, Axitinib
+Locations: 1 sites
+Primary Outcome: Overall Response Rate
+
+----------------------------------------------------------------------
+
+**NCT06594991** - A Study of Fianlimab, Cemiplimab, and Ipilimumab in People With Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 88
+Interventions: Fianlimab, Cemiplimab
+Locations: 11 sites
+Primary Outcome: Determine best objective response rate (ORR) (cohort A)
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+Locations: 1 sites
+Primary Outcome: Proportion of dose limiting toxicities defined as Radiation Therapy Oncology Group grade 3 central n
+
+----------------------------------------------------------------------
+
+**NCT03340129** - Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 218
+Interventions: Ipilimumab, Nivolumab
+Locations: 10 sites
+Primary Outcome: Neurological specific cause of death
+
+----------------------------------------------------------------------
+
+**NCT03235245** - Immunotherapy With Ipilimumab and Nivolumab Preceded or Not by a Targeted Therapy With Encorafenib and Binimetinib
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 271
+Interventions: Nivolumab + Ipilimumab, Encorafenib + Binimetinib
+Locations: 38 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT04835805** - A Study to Evaluate the Safety and Activity of Belvarafenib as a Single Agent and in Combination With Either Cobimetinib
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 65
+Interventions: Belvarafenib, Cobimetinib
+Locations: 16 sites
+Primary Outcome: Percentage of Participants With Dose Limiting Toxicity (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT02981303** - Study of Imprime PGG and Pembrolizumab in Advanced Melanoma and Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 64
+Interventions: Imprime PGG, Pembrolizumab
+Locations: 10 sites
+Primary Outcome: The Primary Efficacy Endpoint Was ORR, Defined as the Proportion of Subjects Demonstrating CR or PR 
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+**NCT01656642** - A Phase 1b Study of Atezolizumab in Combination With Vemurafenib or Vemurafenib Plus Cobimetinib in Participants With BR
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 67
+Interventions: Atezolizumab, Cobimetinib
+Locations: 8 sites
+Primary Outcome: Percentage of Participants With Dose Limiting Toxicities
+
+----------------------------------------------------------------------
+
+**NCT05078047** - Study Comparing the Standard Administration of IO Versus the Same IO Administered Each 3 Months in Patients in Response 
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 646
+Interventions: Reduced dose intensity of IO
+Locations: 40 sites
+Primary Outcome: Progression-free survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT02631447** - Sequential Combo Immuno and Target Therapy (SECOMBIT) Study
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 251
+Interventions: LGX818, MEK162
+Locations: 30 sites
+Primary Outcome: Overall Survival
+
+----------------------------------------------------------------------
+
+**NCT06060613** - Safety and Efficacy of OBX-115 in Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 52
+Interventions: OBX-115
+Locations: 9 sites
+Primary Outcome: Incidence and nature of dose-limiting toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT05293496** - A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 31
+Interventions: vobramitamab duocarmazine, lorigerlimab
+Locations: 10 sites
+Primary Outcome: Number of participants with adverse events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT05075993** - Study of LVGN3616 and LVGN6051±LVGN7409 in Combination With Nab-Paclitaxel or Bevacizumab and Cyclophosphamide in Metast
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 352
+Interventions: LVGN3616 + LVGN6051 + Nab-Paclitaxel, LVGN3616 + LVGN6051 + Bevacizumab + Cyclophosphamide
+Locations: 1 sites
+Primary Outcome: To establish the maximum tolerated dose (MTD)/recommended.
+
+----------------------------------------------------------------------
+
+**NCT04133948** - Multicenter Phase 1b Trial Testing the Neoadjuvant Combination of Domatinostat, Nivolumab and Ipilimumab in IFN-gamma Si
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Domatinostat, Nivolumab
+Locations: 2 sites
+Primary Outcome: Safety of patients as measured by the adherence to the timelines in the study protocol
+
+----------------------------------------------------------------------
+
+**NCT05704933** - Pilot Study of Nivolumab w/Ipilimumab or Relatlimab in Surgically Resectable Melanoma Brain Metastases
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 1
+Interventions: Nivolumab, Ipilimumab
+Locations: 2 sites
+Primary Outcome: Feasibility: Ability to recruit per treatment arm
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 146
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+Locations: 8 sites
+Primary Outcome: Number of Subjects With Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 146
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+Locations: 8 sites
+Primary Outcome: Number of Subjects With Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TMB-H (1 trials)
+======================================================================
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TP53 (1 trials)
+======================================================================
+
+**NCT02645149** - Molecular Profiling and Matched Targeted Therapy for Patients With Metastatic Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: Standard therapy or clinical trial, Matched targeted therapy
+Locations: 2 sites
+Primary Outcome: Type and frequency of genetic aberrations in BRAF/NRAS wild-type metastatic melanoma
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (3 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+**NCT03767348** - Study of RP1 Monotherapy and RP1 in Combination With Nivolumab
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 340
+Interventions: RP1, nivolumab
+Locations: 53 sites
+Primary Outcome: Percentage of adverse events (AEs)
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: L-NMMA, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD)
+
+----------------------------------------------------------------------
+

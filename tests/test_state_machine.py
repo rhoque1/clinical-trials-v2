@@ -39,23 +39,23 @@ def test_state_machine():
     # Check initial state
     current = sm.get_current_state()
     assert current.name == "state_1", "Initial state should be state_1"
-    print(f"✅ Initial state set correctly: {current.name}")
+    print(f"[OK] Initial state set correctly: {current.name}")
     
     # Execute state with input
     result = sm.execute_current_state("test_input")
     assert result["processed"] == True, "State should process input"
     assert result["input_received"] == "test_input", "Should receive correct input"
-    print(f"✅ State execution successful: {result}")
+    print(f"[OK] State execution successful: {result}")
     
     # Check memory inheritance
     assert "processed" in sm.global_memory, "Global memory should be updated"
-    print(f"✅ Global memory updated: {sm.global_memory}")
+    print(f"[OK] Global memory updated: {sm.global_memory}")
     
     # Check execution history
     assert len(sm.execution_history) == 1, "Should have 1 history entry"
-    print(f"✅ Execution history tracked: {sm.execution_history}")
+    print(f"[OK] Execution history tracked: {sm.execution_history}")
     
-    print("\n✅ All state machine tests passed!")
+    print("\n[OK] All state machine tests passed!")
 
 
 if __name__ == "__main__":

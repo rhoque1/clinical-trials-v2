@@ -1,0 +1,1202 @@
+# Enhanced Biomarker-Specific Trials: Lung Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 174
+
+
+======================================================================
+## ALK (39 trials)
+======================================================================
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 556
+Interventions: Sacituzumab tirumotecan, Docetaxel
+Locations: 192 sites
+Primary Outcome: Progression-free Survival (PFS) of Participants with NSCLC with Epidermal Growth Factor Receptor (EG
+
+----------------------------------------------------------------------
+
+**NCT04395677** - A Study of AB-106 in Subjects With Advanced NSCLC Harboring ROS1 Fusion Gene
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 173
+Interventions: AB-106
+Locations: 1 sites
+Primary Outcome: Best overall response (BOR) by IRC
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT03120572** - Effect of Concurrent Chemoradiation Therapy on Respiratory Muscle Performance, Lung Function and Functional Capacity in 
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 45
+Locations: 1 sites
+Primary Outcome: Change of maximal inspiratory pressure (MIP)
+
+----------------------------------------------------------------------
+
+**NCT06227546** - MGC018 in Patients With Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 9
+Interventions: MGC018
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT06007937** - A Study of Lorlatinib in Combination With Ramucirumab in People With Lung Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 56
+Interventions: Lorlatinib, Ramucirumab
+Locations: 6 sites
+Primary Outcome: Maximum tolerated dose (MTD) (Phase I)
+
+----------------------------------------------------------------------
+
+**NCT06104774** - The Effects of a Family-Centered Tai Chi Exercise on Lung Function and Mental Health of Patients After Thoracoscopic Sur
+Phase: NA | Status: RECRUITING
+Purpose: SUPPORTIVE_CARE | Enrollment: 200
+Interventions: Tai Chi Exercise
+Locations: 1 sites
+Primary Outcome: vital capacity (VC)
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT02666105** - Exemestane in Post-Menopausal Women With NSCLC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 6
+Interventions: Exemestane
+Locations: 18 sites
+Primary Outcome: Disease Response (RECIST)
+
+----------------------------------------------------------------------
+
+**NCT06123754** - Phase III Study of Envafolimab Versus Placebo Plus Chemotherapy in Resectable Stage III NSCLC
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 390
+Interventions: Envalfolimab subcutaneously injected+Platinum-based doublet chemotherapy intravenous injection, placebo subcutaneously injected +Platinum-based doublet chemotherapy intravenous injection
+Locations: 1 sites
+Primary Outcome: MPR by BIPR
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT04880382** - Integrative Analysis of Tumor Microenvironment and Optimization of Immunotherapy Duration in NSCL Cancer Patients
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 80
+Interventions: ICI treatment discontinuation, ICI treatment continuation
+Locations: 5 sites
+Primary Outcome: Assessment of the long-term benefit of PD-1 inhibition in NSCLC patients who experienced a response 
+
+----------------------------------------------------------------------
+
+**NCT03420742** - A Phase 1 Drug-Drug Interaction Study Between Brigatinib and the CYP3A Substrate, Midazolam, in Participants With ALK-Po
+Phase: PHASE1 | Status: COMPLETED
+Purpose: OTHER | Enrollment: 24
+Interventions: Midazolam, Brigatinib
+Locations: 14 sites
+Primary Outcome: Part A, AUC∞: Area Under the Plasma Concentration-time Curve From Time 0 to Infinity for Midazolam
+
+----------------------------------------------------------------------
+
+**NCT02904954** - Durvalumab (MEDI4736) With or Without SBRT in Clinical Stage I, II and IIIA Non-small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 60
+Interventions: Durvalumab, Durvalumab plus SBRT
+Locations: 1 sites
+Primary Outcome: Number of Subjects With Major Pathological Response (MPR)
+
+----------------------------------------------------------------------
+
+**NCT05812534** - Study of Cadonilimab Combined With Bevacizumab and Chemotherapy for Advanced Nonsquamous Non-small Cell Lung Cancer Pati
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 36
+Interventions: Cadonilimab
+Primary Outcome: overall response rate
+
+----------------------------------------------------------------------
+
+**NCT02328105** - LCI-LUN-ABR-001: Carbo With Nab-Paclitaxel in Patients With Advanced NSCL Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 11
+Interventions: Carboplatin, Abraxane
+Locations: 1 sites
+Primary Outcome: Number of Participants With a Response
+
+----------------------------------------------------------------------
+
+**NCT03513666** - A Study of Toripalimab+ Pemetrexed Plus Carboplatin in Patients With EGFR-mutation Positive and T790M Negative After Pro
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Drug intervention
+Locations: 5 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT02599454** - Atezolizumab and Stereotactic Body Radiation Therapy in Treating Patients With Non-small Cell Lung Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Atezolizumab, Stereotactic Body Radiation Therapy
+Locations: 2 sites
+Primary Outcome: Maximum Tolerated Dose
+
+----------------------------------------------------------------------
+
+**NCT06690671** - A Single-Arm, Phase Ⅰb Study of Golidocitinib Combined With Anti-PD-1 for the Treatment of Previously Treated NSCLC
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Golidocitinib in combination with anti-PD-1
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT01048762** - Multidisciplinary Rehabilitation After Cancer Pulmonis Operation
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 78
+Interventions: physical exercise and dyspnoea counseling, home training
+Locations: 1 sites
+Primary Outcome: Changes in selv reported quality of life and physical capacity 4 months after inclusion measured by 
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (167 trials)
+======================================================================
+
+**NCT07105176** - HS-IT101 Injection for Advanced NSCLC
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 12
+Interventions: Cyclophosphamide, Fludarabine
+Locations: 1 sites
+Primary Outcome: Adverse Events (AE)
+
+----------------------------------------------------------------------
+
+**NCT06222489** - Whole Body HER3 Quantification With Radiolabelled Patritumab Deruxtecan (HER3-DXd) PET/CT
+Phase: PHASE2 | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 16
+Interventions: 89Zr-Patritumab deruxtecan
+Locations: 1 sites
+Primary Outcome: The optimal imaging dose patritumab deruxtecan to co-inject with 89Zr-Patritumab deruxtecan (HER3-DX
+
+----------------------------------------------------------------------
+
+**NCT00034879** - Iressa Expanded Access Program (EAP)
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: ZD1839 (Gefitinib)
+Locations: 626 sites
+
+----------------------------------------------------------------------
+
+**NCT04761822** - COVID19 SARS Vaccinations: Systemic Allergic Reactions to SARS-CoV-2 Vaccinations
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 746
+Interventions: Moderna COVID-19 Vaccine, Pfizer-BioNTech COVID-19 Vaccine
+Locations: 29 sites
+Primary Outcome: Proportion of Participants Who Experienced a Systemic Allergic Reaction (CoFAR Grade 2+ Regardless o
+
+----------------------------------------------------------------------
+
+**NCT07166601** - M0324 as Monotherapy and in Combination With Pembrolizumab or Chemotherapy in Participants With Selected Advanced Solid 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 77
+Interventions: M0324, M0324
+Locations: 5 sites
+Primary Outcome: Parts 1 and 2: Number of Participants With Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT00004230** - Captopril in Treating Patients Undergoing Bone Marrow or Stem Cell Transplantation
+Phase: PHASE3 | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 35
+Interventions: captopril, cyclophosphamide
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 556
+Interventions: Sacituzumab tirumotecan, Docetaxel
+Locations: 192 sites
+Primary Outcome: Progression-free Survival (PFS) of Participants with NSCLC with Epidermal Growth Factor Receptor (EG
+
+----------------------------------------------------------------------
+
+**NCT05775939** - PET/CT Imaging to Evaluate Cardiac Radiation Damage in Patients With Lung or Esophageal Cancer, EUCLID Trial
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 20
+Interventions: Fludeoxyglucose F-18, Positron Emission Tomography
+Locations: 1 sites
+Primary Outcome: Change in mean standardized uptake value (SUV) changes in the heart
+
+----------------------------------------------------------------------
+
+**NCT06448312** - A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 406
+Interventions: SKB264, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Progression Free Survival (PFS) assessed by Blinded Independent Central Review (BICR)
+
+----------------------------------------------------------------------
+
+**NCT05795595** - A Safety and Efficacy Study Evaluating CTX131 in Adult Subjects With Relapsed or Refractory Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 250
+Interventions: CTX131
+Locations: 7 sites
+Primary Outcome: Phase 1 (Dose Escalation): Incidence of adverse events
+
+----------------------------------------------------------------------
+
+**NCT04395677** - A Study of AB-106 in Subjects With Advanced NSCLC Harboring ROS1 Fusion Gene
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 173
+Interventions: AB-106
+Locations: 1 sites
+Primary Outcome: Best overall response (BOR) by IRC
+
+----------------------------------------------------------------------
+
+**NCT04207775** - Real World Study in Locally Advanced or Metastatic NSCLC Patients, Progressed From First-line EGFR-TKI Therapy
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 300
+Locations: 16 sites
+Primary Outcome: Physician-reported clinical outcomes, PFS
+
+----------------------------------------------------------------------
+
+**NCT02623712** - The Watch the Spot Trial
+Phase: NA | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 34686
+Interventions: More Frequent Surveillance Strategy, Less Frequent Surveillance Strategy
+Locations: 1 sites
+Primary Outcome: Proportion of cancerous nodules with tumor (T) stage greater than T1a disease by the AJCC staging sy
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: DB-1310, Trastuzumab
+Locations: 21 sites
+Primary Outcome: Phase 1: Percentage of Participants with Dose-Limiting Toxicities (DLTs) as assessed by CTCAE v5.0. 
+
+----------------------------------------------------------------------
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Biopsy Procedure, Biospecimen Collection
+Primary Outcome: Dose-limiting toxicities of combined DS-8201a (trastuzumab deruxtecan [T-DXd]) and sotorasib (AMG-51
+
+----------------------------------------------------------------------
+
+**NCT01060137** - Fentanyl Matrix in Lung Cancer Pain
+Phase: PHASE4 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 268
+Interventions: fentanyl matrix
+Primary Outcome: Patient's satisfaction with pain treatment as measured by 5-point verbal scale
+
+----------------------------------------------------------------------
+
+**NCT03120572** - Effect of Concurrent Chemoradiation Therapy on Respiratory Muscle Performance, Lung Function and Functional Capacity in 
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 45
+Locations: 1 sites
+Primary Outcome: Change of maximal inspiratory pressure (MIP)
+
+----------------------------------------------------------------------
+
+**NCT01954641** - Accountability for Cancer Care Through Undoing Racism and Equity
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 300
+Interventions: ACCURE Navigator, Usual Care by Cancer Center Care Team
+Locations: 2 sites
+Primary Outcome: Lung Cancer - Lung Resection Surgery within 4 months of diagnosis or stereotactic radiation Breast C
+
+----------------------------------------------------------------------
+
+**NCT00533429** - Study of Pemetrexed + Carboplatin + Bevacizumab + Enzastaurin Versus Pemetrexed + Carboplatin + Bevacizumab + Placebo in
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 40
+Interventions: enzastaurin, pemetrexed
+Locations: 12 sites
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (11 trials)
+======================================================================
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 556
+Interventions: Sacituzumab tirumotecan, Docetaxel
+Locations: 192 sites
+Primary Outcome: Progression-free Survival (PFS) of Participants with NSCLC with Epidermal Growth Factor Receptor (EG
+
+----------------------------------------------------------------------
+
+**NCT02124772** - Study to Investigate Safety, Pharmacokinetic (PK), Pharmacodynamic (PD) and Clinical Activity of Trametinib in Subjects 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 139
+Interventions: Trametinib, Dabrafenib
+Locations: 16 sites
+Primary Outcome: Incidence of Treatment Emergent Adverse Events in Subjects Treated With Trametinib Monotherapy
+
+----------------------------------------------------------------------
+
+**NCT03513666** - A Study of Toripalimab+ Pemetrexed Plus Carboplatin in Patients With EGFR-mutation Positive and T790M Negative After Pro
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Drug intervention
+Locations: 5 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT06534762** - Milaberon in Advanced Solid Tumors: an Open, Multicenter Clinical Study
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 260
+Interventions: Mirabegron
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT06161051** - Treatment Patterns and Real-World Clinical Outcomes in Patients With Advanced NSCLC and MET Exon 14 Skipping Mutation in
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 287
+Locations: 1 sites
+Primary Outcome: Time-to-treatment discontinuation (TTD)
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 185
+Interventions: LGK974, PDR001
+Locations: 20 sites
+Primary Outcome: Incidence of dose limiting toxicities (DLTs) during the first cycle of LGK974 treatment and during t
+
+----------------------------------------------------------------------
+
+**NCT06505837** - JS001sc or JS001 Plus Chemotherapy is Indicated for Relapsed or Metastatic First-Line Non-Squamous Non Small Cell Lung C
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 395
+Interventions: JS001sc (360mg Subcutaneous injection) and pemetrexed/platinum-containing chemotherapy, JS001 (240mg intravenous infusion) and pemetrexed/platinum-containing chemotherapy
+Locations: 1 sites
+Primary Outcome: Observed serum Ctrough at Cycle 1
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+Locations: 1 sites
+Primary Outcome: Proportion of dose limiting toxicities defined as Radiation Therapy Oncology Group grade 3 central n
+
+----------------------------------------------------------------------
+
+**NCT06561386** - A Study to Compare the Efficacy of Nivolumab and Relatlimab Plus Chemotherapy vs Pembrolizumab Plus Chemotherapy for Sta
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: Nivolumab, Relatlimab
+Locations: 277 sites
+Primary Outcome: Overall survival (OS) in randomized participants with PD-L1 1% to 49%
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (1 trials)
+======================================================================
+
+**NCT01865045** - Pharmacogenetics Of Vinorelbine In Malignant Pleural Mesothelioma Patients
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 150
+Locations: 1 sites
+Primary Outcome: Expression of TUBB3 and BRCA1 in MPM tumor tissue by immunohistochemistry and RT-PCR.
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (51 trials)
+======================================================================
+
+**NCT06222489** - Whole Body HER3 Quantification With Radiolabelled Patritumab Deruxtecan (HER3-DXd) PET/CT
+Phase: PHASE2 | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 16
+Interventions: 89Zr-Patritumab deruxtecan
+Locations: 1 sites
+Primary Outcome: The optimal imaging dose patritumab deruxtecan to co-inject with 89Zr-Patritumab deruxtecan (HER3-DX
+
+----------------------------------------------------------------------
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 556
+Interventions: Sacituzumab tirumotecan, Docetaxel
+Locations: 192 sites
+Primary Outcome: Progression-free Survival (PFS) of Participants with NSCLC with Epidermal Growth Factor Receptor (EG
+
+----------------------------------------------------------------------
+
+**NCT04207775** - Real World Study in Locally Advanced or Metastatic NSCLC Patients, Progressed From First-line EGFR-TKI Therapy
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 300
+Locations: 16 sites
+Primary Outcome: Physician-reported clinical outcomes, PFS
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT07049237** - Evidence-Based Nursing for Fatigue and Quality of Life in Lung Cancer Chemotherapy
+Phase: NA | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 150
+Interventions: Evidence-Based Nursing Under Quantitative Assessment Strategy (EB-NQAS), Routine Nursing Care
+Locations: 1 sites
+Primary Outcome: Change in Cancer-Related Fatigue (CRF)
+
+----------------------------------------------------------------------
+
+**NCT03417895** - SHR-1210 Combined With Apatinib in Treatment of ED-SCLC After Failure of First Line Standard Therapy
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 59
+Interventions: SHR-1210, Apatinib
+Locations: 2 sites
+Primary Outcome: Adverse Event
+
+----------------------------------------------------------------------
+
+**NCT06227546** - MGC018 in Patients With Relapsed or Refractory Extensive-Stage Small-Cell Lung Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 9
+Interventions: MGC018
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT01514877** - Icotinib Combined With Whole Brain Radiotherapy in Treating Multiple Brain Metastases From Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Icotinib
+Locations: 1 sites
+Primary Outcome: partial response rate of intracranial lesions
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT02666105** - Exemestane in Post-Menopausal Women With NSCLC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 6
+Interventions: Exemestane
+Locations: 18 sites
+Primary Outcome: Disease Response (RECIST)
+
+----------------------------------------------------------------------
+
+**NCT00807066** - Randomized Gefitinib Trial
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 1
+Interventions: Gefitinib, Platinum
+Locations: 1 sites
+Primary Outcome: Quality of life (FACT-L Total Score)
+
+----------------------------------------------------------------------
+
+**NCT00074854** - A Clinical Efficacy Study Of An Oral Tyrosine Kinase Inhibitor Of VEGFR-2 Given In Combination With Chemotherapy
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 87
+Interventions: CP-547,632
+Locations: 20 sites
+Primary Outcome: Statistical estimates used on the Stage 1 data indicated low likely-hood of a positive outcome if th
+
+----------------------------------------------------------------------
+
+**NCT06238882** - Nitroglycerin Plus Radiotherapy Versus Conventional Radiotherapy in Patients With Lung Cancer.
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 74
+Interventions: Nitroglycerin
+Locations: 1 sites
+Primary Outcome: iORR
+
+----------------------------------------------------------------------
+
+**NCT06123754** - Phase III Study of Envafolimab Versus Placebo Plus Chemotherapy in Resectable Stage III NSCLC
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 390
+Interventions: Envalfolimab subcutaneously injected+Platinum-based doublet chemotherapy intravenous injection, placebo subcutaneously injected +Platinum-based doublet chemotherapy intravenous injection
+Locations: 1 sites
+Primary Outcome: MPR by BIPR
+
+----------------------------------------------------------------------
+
+**NCT05967689** - A Study of Zipalertinib in Patients With Advanced Non-Small Cell Lung Cancer With Epidermal Growth Factor Receptor (EGFR
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 224
+Interventions: TAS6417, CYP Cocktail
+Locations: 80 sites
+Primary Outcome: Cohorts 1-4: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT00986674** - Carboplatin and Paclitaxel Combined With Cetuximab and/or IMC-A12 in Patients With Advanced Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 140
+Interventions: cixutumumab, carboplatin
+Locations: 249 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT03433469** - Osimertinib in Treating Participants With Stage I-IIIA EGFR-mutant Non-small Cell Lung Cancer Before Surgery
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Osimertinib, Therapeutic Conventional Surgery
+Locations: 3 sites
+Primary Outcome: Percentage of Participants With a Major Pathological Response (MPR)
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06101394** - Development of a Fluorescent Visualization System for Non-visible Lung Cancer Nodules
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Cetuximab-IRDye800
+Locations: 2 sites
+Primary Outcome: Nodule Detection
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in 
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 180
+Interventions: ENV-501
+Locations: 6 sites
+Primary Outcome: Phase 1 (Dose Escalation): Frequency of treatment-emergent adverse events
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (1 trials)
+======================================================================
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Biopsy Procedure, Biospecimen Collection
+Primary Outcome: Dose-limiting toxicities of combined DS-8201a (trastuzumab deruxtecan [T-DXd]) and sotorasib (AMG-51
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (9 trials)
+======================================================================
+
+**NCT06222489** - Whole Body HER3 Quantification With Radiolabelled Patritumab Deruxtecan (HER3-DXd) PET/CT
+Phase: PHASE2 | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 16
+Interventions: 89Zr-Patritumab deruxtecan
+Locations: 1 sites
+Primary Outcome: The optimal imaging dose patritumab deruxtecan to co-inject with 89Zr-Patritumab deruxtecan (HER3-DX
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: DB-1310, Trastuzumab
+Locations: 21 sites
+Primary Outcome: Phase 1: Percentage of Participants with Dose-Limiting Toxicities (DLTs) as assessed by CTCAE v5.0. 
+
+----------------------------------------------------------------------
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Biopsy Procedure, Biospecimen Collection
+Primary Outcome: Dose-limiting toxicities of combined DS-8201a (trastuzumab deruxtecan [T-DXd]) and sotorasib (AMG-51
+
+----------------------------------------------------------------------
+
+**NCT02827357** - Responses to Chemotherapy of Patients With Non-small Cell Lung Cancer Harboring a Known Somatic Activating HER2 Mutation
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 101
+Interventions: No specific intervention
+Primary Outcome: Overall response rate
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT06101394** - Development of a Fluorescent Visualization System for Non-visible Lung Cancer Nodules
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: Cetuximab-IRDye800
+Locations: 2 sites
+Primary Outcome: Nodule Detection
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+**NCT06253871** - A Phase 1/1b Study of IAM1363 in HER2 Cancers
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 243
+Interventions: IAM1363
+Locations: 12 sites
+Primary Outcome: Incidence and severity of dose limiting toxicities (DLTs) (Part 1 only)
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (5 trials)
+======================================================================
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Biopsy Procedure, Biospecimen Collection
+Primary Outcome: Dose-limiting toxicities of combined DS-8201a (trastuzumab deruxtecan [T-DXd]) and sotorasib (AMG-51
+
+----------------------------------------------------------------------
+
+**NCT01193959** - Pemetrexed in Advanced Non-small Cell Lung Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 33
+Locations: 1 sites
+Primary Outcome: Association of each biomarker with treatment outcome in terms of response rate, time to progression,
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT06161051** - Treatment Patterns and Real-World Clinical Outcomes in Patients With Advanced NSCLC and MET Exon 14 Skipping Mutation in
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 287
+Locations: 1 sites
+Primary Outcome: Time-to-treatment discontinuation (TTD)
+
+----------------------------------------------------------------------
+
+**NCT06333951** - AMG 193 Alone or in Combination With Other Therapies in Subjects With Advanced Thoracic Tumors With Homozygous MTAP-dele
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 500
+Interventions: AMG 193, Carboplatin
+Locations: 80 sites
+Primary Outcome: Number of Participants Experiencing Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (2 trials)
+======================================================================
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 30
+Interventions: IMM-6-415
+Locations: 5 sites
+Primary Outcome: Phase 1/2a: Adverse Events
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (28 trials)
+======================================================================
+
+**NCT06448312** - A Study of SKB264 in Combination With Pembrolizumab Versus Pembrolizumab in Patients With Locally Advanced or Metastatic
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 406
+Interventions: SKB264, Pembrolizumab
+Locations: 1 sites
+Primary Outcome: Progression Free Survival (PFS) assessed by Blinded Independent Central Review (BICR)
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT07012031** - Sotorasib in Combination With Trastuzumab Deruxtecan for the Treatment of Locally Advanced and Metastatic Non-small Cell
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Biopsy Procedure, Biospecimen Collection
+Primary Outcome: Dose-limiting toxicities of combined DS-8201a (trastuzumab deruxtecan [T-DXd]) and sotorasib (AMG-51
+
+----------------------------------------------------------------------
+
+**NCT03417895** - SHR-1210 Combined With Apatinib in Treatment of ED-SCLC After Failure of First Line Standard Therapy
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 59
+Interventions: SHR-1210, Apatinib
+Locations: 2 sites
+Primary Outcome: Adverse Event
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT05718323** - Niraparib Added to Anti-PD-L1 Antibody Maintenance in SLFN11-positive, Extensive-disease SCLC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Niraparib
+Locations: 18 sites
+Primary Outcome: Progression-free survival (PFS) rate at 3 months by investigator assessment (according to RECIST v1.
+
+----------------------------------------------------------------------
+
+**NCT06123754** - Phase III Study of Envafolimab Versus Placebo Plus Chemotherapy in Resectable Stage III NSCLC
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 390
+Interventions: Envalfolimab subcutaneously injected+Platinum-based doublet chemotherapy intravenous injection, placebo subcutaneously injected +Platinum-based doublet chemotherapy intravenous injection
+Locations: 1 sites
+Primary Outcome: MPR by BIPR
+
+----------------------------------------------------------------------
+
+**NCT07191405** - Clinical Study of Chemotherapy and Immunotherapy Combined With Lactobacillus Johnsonii in Patients With Multiple Irresec
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 156
+Interventions: oral Lactobacillus johnsonii (1×10¹¹ CFU, twice daily), Placebo
+Primary Outcome: Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT02904954** - Durvalumab (MEDI4736) With or Without SBRT in Clinical Stage I, II and IIIA Non-small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 60
+Interventions: Durvalumab, Durvalumab plus SBRT
+Locations: 1 sites
+Primary Outcome: Number of Subjects With Major Pathological Response (MPR)
+
+----------------------------------------------------------------------
+
+**NCT05812534** - Study of Cadonilimab Combined With Bevacizumab and Chemotherapy for Advanced Nonsquamous Non-small Cell Lung Cancer Pati
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 36
+Interventions: Cadonilimab
+Primary Outcome: overall response rate
+
+----------------------------------------------------------------------
+
+**NCT02701400** - Tremelimumab and Durvalumab With or Without Radiation Therapy in Patients With Relapsed Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 18
+Interventions: Durvalumab, Hypofractionated Radiation Therapy
+Locations: 2 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT04380636** - Study of Pembrolizumab With Concurrent Chemoradiation Therapy Followed by Pembrolizumab With or Without Olaparib in Stag
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 870
+Interventions: Pembrolizumab, Olaparib
+Locations: 205 sites
+Primary Outcome: Progression-Free Survival (PFS) According to Response Evaluation Criteria in Solid Tumors Version 1.
+
+----------------------------------------------------------------------
+
+**NCT02599454** - Atezolizumab and Stereotactic Body Radiation Therapy in Treating Patients With Non-small Cell Lung Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Atezolizumab, Stereotactic Body Radiation Therapy
+Locations: 2 sites
+Primary Outcome: Maximum Tolerated Dose
+
+----------------------------------------------------------------------
+
+**NCT05005429** - Study of the Efficacy and Safety of the Bintrafusp Alfa in Previously Treated Advanced Malignant Pleural Mesothelioma
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 47
+Interventions: Bintrafusp alfa
+Locations: 15 sites
+Primary Outcome: To evaluate the efficacy of the treatment
+
+----------------------------------------------------------------------
+
+**NCT05091567** - A Phase III, Open-Label Study of Maintenance Lurbinectedin in Combination With Atezolizumab Compared With Atezolizumab i
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 660
+Interventions: Atezolizumab, Lurbinectedin
+Locations: 92 sites
+Primary Outcome: IRF-Assessed Progression-Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT02486718** - Study to Assess Safety and Efficacy of Atezolizumab (MPDL3280A) Compared to Best Supportive Care Following Chemotherapy 
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 1280
+Interventions: Atezolizumab, Cisplatin
+Locations: 153 sites
+Primary Outcome: Disease-Free Survival (DFS) in Intent-to-treat (ITT) Population
+
+----------------------------------------------------------------------
+
+**NCT06029127** - A Study of BGB-A445 in Combination With Other Investigational Agents in Participants With Non-Small Cell Lung Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 35
+Interventions: BGB-A445, Docetaxel
+Locations: 18 sites
+Primary Outcome: Overall Response Rate
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+
+**NCT06944470** - JS207 Combined With Chemotherapy in Subjects With Stage II-III NSCLC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 76
+Interventions: Paclitaxel + Carboplatin/cisplatin for squamous cell carcinoma and pemetrexed + carboplatin/cisplatin for non-squamous cell carcinoma, surgery
+Locations: 1 sites
+Primary Outcome: PCR rate
+
+----------------------------------------------------------------------
+
+**NCT06333951** - AMG 193 Alone or in Combination With Other Therapies in Subjects With Advanced Thoracic Tumors With Homozygous MTAP-dele
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 500
+Interventions: AMG 193, Carboplatin
+Locations: 80 sites
+Primary Outcome: Number of Participants Experiencing Dose Limiting Toxicities (DLT)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT01193959** - Pemetrexed in Advanced Non-small Cell Lung Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 33
+Locations: 1 sites
+Primary Outcome: Association of each biomarker with treatment outcome in terms of response rate, time to progression,
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT02145559** - A Pharmacodynamic Study of Sirolimus and Metformin in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 24
+Interventions: Metformin XR, Delayed Metformin
+Locations: 1 sites
+Primary Outcome: Pharmacodynamic Biomarker p70S6K
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ROS1 (14 trials)
+======================================================================
+
+**NCT06074588** - Sacituzumab Tirumotecan (MK-2870) Versus Chemotherapy in Previously Treated Advanced or Metastatic Nonsquamous Non-small
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 556
+Interventions: Sacituzumab tirumotecan, Docetaxel
+Locations: 192 sites
+Primary Outcome: Progression-free Survival (PFS) of Participants with NSCLC with Epidermal Growth Factor Receptor (EG
+
+----------------------------------------------------------------------
+
+**NCT04395677** - A Study of AB-106 in Subjects With Advanced NSCLC Harboring ROS1 Fusion Gene
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 173
+Interventions: AB-106
+Locations: 1 sites
+Primary Outcome: Best overall response (BOR) by IRC
+
+----------------------------------------------------------------------
+
+**NCT06746870** - A Phase II Clinical Study to Evaluate the Safety, Pharmacokinetic Profile, and Preliminary Efficacy of IMM2510 in Combin
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 148
+Interventions: IMM2510, Chemotherapy (pemetrexed + cisplatin/carboplatin)
+Primary Outcome: To evaluate the preliminary clinical efficacy of IMM2510 for Injection in combination with chemother
+
+----------------------------------------------------------------------
+
+**NCT02666105** - Exemestane in Post-Menopausal Women With NSCLC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 6
+Interventions: Exemestane
+Locations: 18 sites
+Primary Outcome: Disease Response (RECIST)
+
+----------------------------------------------------------------------
+
+**NCT06238882** - Nitroglycerin Plus Radiotherapy Versus Conventional Radiotherapy in Patients With Lung Cancer.
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 74
+Interventions: Nitroglycerin
+Locations: 1 sites
+Primary Outcome: iORR
+
+----------------------------------------------------------------------
+
+**NCT04880382** - Integrative Analysis of Tumor Microenvironment and Optimization of Immunotherapy Duration in NSCL Cancer Patients
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 80
+Interventions: ICI treatment discontinuation, ICI treatment continuation
+Locations: 5 sites
+Primary Outcome: Assessment of the long-term benefit of PD-1 inhibition in NSCLC patients who experienced a response 
+
+----------------------------------------------------------------------
+
+**NCT03420742** - A Phase 1 Drug-Drug Interaction Study Between Brigatinib and the CYP3A Substrate, Midazolam, in Participants With ALK-Po
+Phase: PHASE1 | Status: COMPLETED
+Purpose: OTHER | Enrollment: 24
+Interventions: Midazolam, Brigatinib
+Locations: 14 sites
+Primary Outcome: Part A, AUC∞: Area Under the Plasma Concentration-time Curve From Time 0 to Infinity for Midazolam
+
+----------------------------------------------------------------------
+
+**NCT03513666** - A Study of Toripalimab+ Pemetrexed Plus Carboplatin in Patients With EGFR-mutation Positive and T790M Negative After Pro
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Drug intervention
+Locations: 5 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT06690671** - A Single-Arm, Phase Ⅰb Study of Golidocitinib Combined With Anti-PD-1 for the Treatment of Previously Treated NSCLC
+Phase: PHASE1 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Golidocitinib in combination with anti-PD-1
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT03836066** - Atezolizumab Plus Bevacizumab in First Line NSCLC Patients
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 41
+Interventions: Atezolizumab-Bevacizumab
+Locations: 25 sites
+Primary Outcome: Efficacy of Atezolizumab in combination with Bevacizumab
+
+----------------------------------------------------------------------
+
+**NCT06161051** - Treatment Patterns and Real-World Clinical Outcomes in Patients With Advanced NSCLC and MET Exon 14 Skipping Mutation in
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 287
+Locations: 1 sites
+Primary Outcome: Time-to-treatment discontinuation (TTD)
+
+----------------------------------------------------------------------
+
+**NCT07017829** - GT103 in Combination With Pembrolizumab for the Treatment of Advanced or Metastatic STK11 Mutant Non-Small Cell Lung Can
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Anti-CFH Monoclonal Antibody GT103, Biopsy Procedure
+Locations: 1 sites
+Primary Outcome: Progression-free survival
+
+----------------------------------------------------------------------
+
+**NCT06944470** - JS207 Combined With Chemotherapy in Subjects With Stage II-III NSCLC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 76
+Interventions: Paclitaxel + Carboplatin/cisplatin for squamous cell carcinoma and pemetrexed + carboplatin/cisplatin for non-squamous cell carcinoma, surgery
+Locations: 1 sites
+Primary Outcome: PCR rate
+
+----------------------------------------------------------------------
+
+**NCT06505837** - JS001sc or JS001 Plus Chemotherapy is Indicated for Relapsed or Metastatic First-Line Non-Squamous Non Small Cell Lung C
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 395
+Interventions: JS001sc (360mg Subcutaneous injection) and pemetrexed/platinum-containing chemotherapy, JS001 (240mg intravenous infusion) and pemetrexed/platinum-containing chemotherapy
+Locations: 1 sites
+Primary Outcome: Observed serum Ctrough at Cycle 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (2 trials)
+======================================================================
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Fecal Microbiota Transplant (FMT)
+Locations: 1 sites
+Primary Outcome: Safety evaluation of Fecal Microbiota Transplant (FMT) in advanced cancer patients
+
+----------------------------------------------------------------------
+

@@ -21,7 +21,7 @@ async def test_llm_state_execution():
     # Wrap with LLM agent
     agent = StateMachineAgent(profiler, model="gpt-4o")
     
-    print(f"\n📋 Current State: {profiler.get_current_state().name}")
+    print(f"\n[LIST] Current State: {profiler.get_current_state().name}")
     print(f"📝 Instruction Preview:")
     instruction = agent.get_current_instruction()
     print(f"   {instruction[:150]}...")
@@ -38,28 +38,28 @@ async def test_llm_state_execution():
     try:
         result = await agent.execute_state(sample_input)
         
-        print(f"\n✅ State Executed Successfully!")
+        print(f"\n[OK] State Executed Successfully!")
         print(f"   State: {result['state']}")
         print(f"   LLM Response: {result['llm_response'][:200]}...")
         print(f"   Next State: {result['next_state']}")
         
         # Check that memory was updated
         if 'demographics' in profiler.global_memory:
-            print(f"\n✅ Global Memory Updated!")
+            print(f"\n[OK] Global Memory Updated!")
             print(f"   Memory keys: {list(profiler.global_memory.keys())}")
         
         # Check state transition
         current = profiler.get_current_state()
         if current and current.name == 'extract_diagnoses':
-            print(f"\n✅ State Transition Successful!")
+            print(f"\n[OK] State Transition Successful!")
             print(f"   Now at: {current.name}")
         
         print("\n" + "=" * 60)
-        print("✅ LLM STATE INTEGRATION TEST PASSED!")
+        print("[OK] LLM STATE INTEGRATION TEST PASSED!")
         return True
         
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n[X] Error: {e}")
         import traceback
         print(traceback.format_exc())
         return False
@@ -68,4 +68,4 @@ async def test_llm_state_execution():
 if __name__ == "__main__":
     success = asyncio.run(test_llm_state_execution())
     if not success:
-        print("\n⚠️  Test failed - check your API key and connection")
+        print("\n[!]  Test failed - check your API key and connection")

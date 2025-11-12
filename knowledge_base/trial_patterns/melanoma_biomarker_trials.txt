@@ -1,0 +1,1833 @@
+# Biomarker-Specific Trials: Melanoma
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 155
+
+
+======================================================================
+## ALK (21 trials)
+======================================================================
+
+**NCT01100528** - Dacarbazine and Recombinant Interferon Alfa-2b in Treating Patients With Primary Uveal Melanoma With Genetic Imbalance
+Phase: PHASE2 | Status: COMPLETED
+Interventions: recombinant interferon alfa-2b, dacarbazine
+
+Biomarker Criteria:
+  - 5 x upper limit of normal
+* Alkaline phosphatase ≤ 1
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Be willing and able to provide written informed consent/assent for the trial
+* Eastern Cooperative Oncology Group (ECOG) performance scale (PS) of 0-1; Karnofsky performance status ≥ 70%
+* Patients must have histological diagnosis of melanoma or non-small cell lung cancer (biopsy will be done per standard of care, if needed to prove metastatic melanoma and/or NSCLC as well as for clinically relevant mutation analysis); additional biopsy will be per standard of care
+* Patients can be treated either in first line or in the refractory setting; programmed death-ligand 1 (PD-L1) positivity is not required for enrollment
+* All melanoma patients may be tested for proto-oncogene B-Raf (BRAF) as part of routine standard of care, but is not a requirement for the trial; all NSCLC patients may be tested for with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) as part of standard of care, but is not a requirement of the trial
+* Having gotten prior programmed cell death protein 1 (PD1) therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors \[BRAFi\], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+* Patient must be asymptomatic at time of getting SRS (day 0) on trial; prednisone \< 10 mg/day for at least 7 days prior to treatment is allowed
+* Patients with ocular, mucosal and unknown primary melanoma will also be eligible
+* Patients with 1-10 untreated brain metastases at time of initial brain metastases diagnosis (surgery to one of the brain lesions and/or biopsy of a lesion for diagnostic purposes and/or for standard of care purposes is acceptable)
+* Largest brain metastases volume measures less than 14
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+
+Biomarker Criteria:
+  - Aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase (ALP) \< 3 x ULN (or \< 5 x ULN for subjects with liver involvement) ii
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+
+Biomarker Criteria:
+  - 5 mg/dL
+* ALT and AST ≤ 3 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3 times ULN
+* Hemoglobin ≥ 9
+
+----------------------------------------------------------------------
+
+**NCT00118313** - Vaccine Therapy With or Without Imiquimod in Treating Patients Who Have Undergone Surgery for Stage II, Stage III, or Stage IV Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: incomplete Freund's adjuvant, multi-epitope melanoma peptide vaccine
+
+Biomarker Criteria:
+  - 5 times ULN
+* Alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patient has a histologically confirmed diagnosis of any of the following locally advanced or metastatic solid tumors: melanoma, pleural mesothelioma, renal cell carcinoma, MSI-high or mismatch repair-deficient colorectal cancer, hepatocellular carcinoma, and non-small cell lung cancer with no EGFR or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, or tumor types for which the combination of ipilimumab and nivolumab has been FDA approved
+
+----------------------------------------------------------------------
+
+**NCT01568996** - Pilot Study Evaluating Sulforaphane in Atypical Nevi-Precursor Lesions
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: broccoli sprout extract - sulforaphane (BSE-SFN), broccoli sprout extract - sulforaphane (BSE-SFN)
+
+Biomarker Criteria:
+  - * CBC including diff \& platelets - without clinically significant abnormalities
+* CMP (Na, K, Cl, CO2, glucose, BUN, creatinine, calcium, total protein, albumin, AST, ALT, ALK phos, total bilirubin) - within 2x ULN
+
+Exclusion Criteria:
+
+N/A
+
+----------------------------------------------------------------------
+
+**NCT01983124** - Vemurafenib + Fotemustine to Treat Advanced Melanoma Patients With V600BRAF Mutation Recurred While on Vemurafenib
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Fotemustine + Vemurafenib
+
+Biomarker Criteria:
+  - 5 x ULN, Aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase (ALP) \<2
+
+----------------------------------------------------------------------
+
+**NCT00470015** - Vaccine Therapy and GM-CSF With or Without Low-Dose Aldesleukin in Treating Patients With Stage II, Stage III, or Stage IV Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MART-1 antigen, IL-2
+
+Biomarker Criteria:
+  - DISEASE CHARACTERISTICS:
+
+* Histologically confirmed melanoma
+
+  * Stage II-IV disease
+* Completely resected disease
+* No known standard therapy that is potentially curative or proven capable of extending life expectancy exists
+* HLA-A2 positive
+
+PATIENT CHARACTERISTICS:
+
+* ECOG performance status 0-2
+* Life expectancy ≥ 12 weeks
+* ANC ≥ 1,500/mm³
+* Hemoglobin \> 10 g/dL
+* Platelet count ≥ 50,000/mm³
+* AST ≤ 3 times upper limit of normal (ULN)
+* Alkaline phosphatase ≤ 3 times ULN
+* Not pregnant or nursing
+* Negative pregnancy test
+* Fertile patients must use effective contraception
+* No uncontrolled or current infection
+* No known allergy to vaccine or immunoadjuvant components
+* No known immune deficiency
+
+PRIOR CONCURRENT THERAPY:
+
+* No chemotherapy within the past 4 weeks and recovered
+* No biologic therapy within the past 4 weeks
+* No radiation therapy within the past 4 weeks
+
+----------------------------------------------------------------------
+
+**NCT00005815** - Temozolomide and Thalidomide in Treating Patients With Stage III or Stage IV Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: temozolomide, thalidomide
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN)
+* SGOT/SGPT no greater than 3 times ULN
+* Alkaline phosphatase no greater than 3 times ULN
+
+Renal:
+
+* Creatinine no greater than 1
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+
+Biomarker Criteria:
+  - 5 x HGH, with the following exception:
+   * Patients with known Gilbert's disease or liver metastases: serum bilirubin level ≤ 3 x IUH
+   * AST, ALT, and alkaline phosphate ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT01748747** - Vaccine Therapy and Resiquimod in Treating Patients With Stage II-IV Melanoma That Has Been Removed By Surgery
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: Montanide ISA 51 VG, MART-1 antigen
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Central pathology review submission; this review for MART-1 positivity is mandatory prior to registration to confirm eligibility
+* Human leukocyte antigen (HLA)-A2-positive
+* Histologic proof of stage II, III or IV melanoma that has been completely resected with no current evidence of disease, as demonstrated by imaging within 2 months (stage III or stage IV; must be computed tomography \[CT\], magnetic resonance imaging \[MRI\], or positron emission tomography \[PET\]/CT) or 6 months (stage II; may be chest x-ray, CT, MRI, or PET/CT)
+* Absolute neutrophil count (ANC) \>= 1500 mL
+* Hemoglobin (Hgb) \> 10 g/dL
+* Platelets (PLT) \>= 50,000 mL
+* Aspartate aminotransferase (AST) =\< 3 x upper limit of normal (ULN)
+* Alkaline phosphatase =\< 3 x ULN
+* Ability to provide informed consent
+* Willingness to return to Mayo Clinic Rochester for follow-up
+* Life expectancy \>= 12 weeks
+* Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1 or 2
+* For women of childbearing potential, a negative serum pregnancy test =\< 7 days prior to registration
+* Willingness to provide mandatory blood samples for correlative research
+
+Exclusion Criteria:
+
+* Uncontrolled or current infection
+* Known standard therapy for the patient's disease that is potentially curative or proven capable of extending life expectancy
+* Known allergy to vaccine or adjuvant components
+* Any of the following prior therapies with interval since most recent treatment:
+
+  * Chemotherapy =\< 4 weeks prior to registration
+  * Biologic therapy or immunotherapy =\< 4 weeks prior to registration
+  * Radiation therapy =\< 4 weeks prior to registration
+* Failure to fully recover from side effects of prior chemotherapy or surgery
+* Any of the following, as this regimen may be harmful to a developing fetus or nursing child:
+
+  * Pregnant women
+  * Nursing women
+  * Women of childbearing potential or their sexual partners who are unwilling to employ adequate contraception (condoms, diaphragm, birth control pills, injections, intrauterine device \[IUD\], surgical sterilization, subcutaneous implants, or abstinence, etc
+
+----------------------------------------------------------------------
+
+**NCT00002973** - Melphalan and Whole-Body Hyperthermia in Treating Patients With Advanced Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: melphalan, hyperthermia treatment
+
+Biomarker Criteria:
+  - 5 mg/dL Alkaline phosphatase no greater than 3 times normal SGOT no greater than 3 times normal Protein no less than 15% below lower limit of normal Renal: BUN less than 30 mg/dL Creatinine less than 1
+
+----------------------------------------------------------------------
+
+**NCT04121676** - Anti-CD137 and Anti-CTLA-4 Monoclonal Antibody in Patients With Advanced Cancer
+Phase: PHASE1 | Status: COMPLETED
+Interventions: AGEN2373, Botensilimab
+
+Biomarker Criteria:
+  - 5 × ULN, albumin ≥ 3 g/dL, and alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT00085306** - Interferon Beta in Treating Patients With Metastatic Cutaneous Melanoma or Ocular Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: recombinant interferon beta
+
+Biomarker Criteria:
+  - 0 times normal
+* Alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT02020707** - Nab-Paclitaxel and Bevacizumab in Treating Patients With Unresectable Stage IV Melanoma or Gynecological Cancers
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Bevacizumab, Laboratory Biomarker Analysis
+
+Biomarker Criteria:
+  - 5 x ULN (obtained =\< 14 days prior to registration)
+* Alkaline phosphatase =\< 2
+
+----------------------------------------------------------------------
+
+**NCT04160065** - Immunotherapy With IFx-Hu2.0 Vaccine for Advanced Non-melanoma Skin Cancers
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IFx-Hu2.0
+
+Biomarker Criteria:
+  - 5 3 x baseline if baseline was abnormal
+    * Alkaline Phosphatase (ALP) \< 1 - 2
+
+----------------------------------------------------------------------
+
+**NCT00568048** - Temozolomide and Bevacizumab in Treating Patients With Stage IV Melanoma That Cannot Be Removed By Surgery
+Phase: PHASE2 | Status: COMPLETED
+Interventions: bevacizumab, temozolomide
+
+Biomarker Criteria:
+  - 5 times upper limit of normal (ULN)
+* ALT and alkaline phosphatase ≤ 2
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female or male aged ≥ 18 years on the day of informed consent signing;
+* Has histologically confirmed metastatic melanoma that is treatment naïve or has relapsed after or is refractory to ipilimumab or BRAF inhibitor (if BRAF mutation-positive), OR histologically confirmed metastatic NSCLC that has high programmed death-ligand 1 (PD-L1) expression (tumor proportion score \[TPS\] ≥50%) with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations or histologically confirmed metastatic NSCLC that is PD-L1 positive (TPS ≥1%) and has progressed on or after platinum-containing therapy (subjects with NSCLC harboring EGFR/ALK genomic aberrations must have received an FDA-approved targeted therapy for these aberrations) OR histologically confirmed HNSCC that has relapsed after or is refractory to platinum-containing chemotherapy, OR histologically confirmed cHL that has relapsed after three or more lines of therapy or is refractory to treatment OR histologically confirmed locally advanced or metastatic urothelial carcinoma that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed advanced, PD-L1-positive cervical cancer with disease progression on or after chemotherapy that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed recurrent, locally advanced, or metastatic, squamous cell carcinoma of the esophagus (ESCC) whose tumors express PD-L1 (Combined Positive Score \[CPS\] ≥10), as determined by an FDA-approved test, with disease progression after one or more prior lines of systemic therapy
+
+----------------------------------------------------------------------
+
+**NCT05176470** - Neoadj Admin Autologous Tumor Infiltrating Lymphocytes & Pembrolizumab for Treatment of Adv Melanoma Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Cyclophosphamide, Fludarabine
+
+Biomarker Criteria:
+  - , tracheostomy), a 6- minute walk test may be used to assess pulmonary function
+  - * Patients who are unable to walk a distance of at least 80% predicted for age and sex or demonstrates evidence of hypoxia at any point during the test (SpO2 \< 90%) are excluded
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (145 trials)
+======================================================================
+
+**NCT02743819** - Pembrolizumab and Ipilimumab After Prior Immunotherapy for Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Pembrolizumab, Ipilimumab
+
+Biomarker Criteria:
+  - Have experienced disease progression or stable disease lasting at least 24 weeks during treatment with an anti-PD1/L1 antibody as the treatment regimen immediately prior to accrual to this study or disease progression within 6 months of adjuvant anti-PD1 antibody
+  - Demonstrate adequate organ function as defined below, all screening labs should be performed within 10 days of treatment initiation
+  - Has received study therapy (including investigational device) as part of a clinical trial within 4 weeks of the first dose of treatment, with the exclusion of an anti-PD1/L1 antibody given as either a single agent or non-CTLA-4 antibody containing combination
+
+----------------------------------------------------------------------
+
+**NCT02409628** - EktoTherix™ Regenerative Tissue Scaffold for Repair of Surgical Excision Wounds
+Phase: NA | Status: COMPLETED
+Interventions: EktoTherix
+
+Biomarker Criteria:
+  - warfarin and other anticoagulants, steroids, NSAIDs and immunosuppressants)
+* Has the excised wound been entirely treated by primary closure
+* Does the patient have a history of any significant cardiac, pulmonary, renal, hepatic, neurological and/ or immune dysfunction that may affect wound healing
+* Does the patient know of any allergy to any of the device materials to be used in the trial
+* Does the patient have a known history of poor compliance with medical treatment
+* Has the patient participated in this trial previously and healed or been withdrawn
+* Is the patient currently participating in any other clinical trial
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - 1 or Cheson 2016 criteria
+* Dose Escalation/Confirmation:
+
+  o Has disease progression after adequate standard of care therapies for metastatic disease that are known to confer clinical benefit, is intolerant to treatment, or refuses standard treatment (no limit to prior lines of therapy)
+* Dose Expansion:
+
+  * Group 1 Triple negative breast cancer: Must have objective evidence of disease progression during or following at least one prior line of therapy for metastatic or locally advanced disease
+  - * Has a tumor lesion amenable to biopsy and must be willing to provide the baseline and on-treatment tumor biopsy samples if medically feasible
+  - * Has a body weight of \>30 kilograms (kg)
+* Adequate hematological and biological function
+* Has evidence of post-menopausal status or negative urinary or serum pregnancy test for female pre-menopausal participants
+* Treatment Arm B and Arm C: Clinical euthyroid status
+
+----------------------------------------------------------------------
+
+**NCT00429312** - A Study of Recombinant Vaccinia Virus to Treat Malignant Melanoma
+Phase: PHASE1 | Status: COMPLETED
+Interventions: JX-594
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically-confirmed, Stage 3 or Stage 4 malignant melanoma
+* At least one tumor mass measurable by CT/MRI and/or physical examination that can be injected by direct visualization or by ultrasound-guidance
+* Anticipated survival of at least 16 weeks
+* Cancer is not surgically resectable for cure
+* KPS score of ≥ 70 (refer to APPENDIX E: KARNOFSKY PERFORMANCE STATUS (KPS))
+* Age ≥18 years
+* Men and women of reproductive potential must be willing to follow accepted birth control methods during treatment and for 3 months after the last treatment with JX-594
+* The ability to understand and willingness to sign an Institutional Review Board (IRB)/Independent Ethics Committee (IEC)-approved written informed consent form
+* Able to comply with study procedures and follow-up examinations
+* Adequate liver function: Total bilirubin ≤ 2
+  - carotid artery)
+* Pregnant or nursing an infant
+* Known infection with HIV
+* Systemic corticosteroid or other immunosuppressive medication use within 4 weeks of first treatment with JX-594
+* Clinically significant active infection or uncontrolled medical condition (e
+  - pulmonary, neurological, cardiovascular, gastrointestinal, genitourinary) considered high risk for investigational new drug treatment Significant immunodeficiency due to underlying illness and/or medication (e
+
+----------------------------------------------------------------------
+
+**NCT00055562** - Study to Compare the Efficacy and Safety of Two CC-5013 Dose Regimens in Subjects With Metastatic Malignant Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: CC 5013
+
+Biomarker Criteria:
+  - * Patients with active brain disease, or newly diagnosed brain metastases, within 4 weeks prior to the start of study treatment are excluded
+
+----------------------------------------------------------------------
+
+**NCT00431275** - Study to Compare Two Formulations of CP-675,206 Monoclonal Antibody
+Phase: PHASE1 | Status: COMPLETED
+Interventions: CP-675,206, CP-675,206
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Stage III or Stage IV melanoma
+* No evidence of disease following resection of melanoma lesions
+* Recovered from all prior surgical or adjuvant treatment-related toxicities
+
+Exclusion Criteria:
+
+* History of chronic inflammatory or autoimmune disease
+* History of inflammatory bowel disease
+
+----------------------------------------------------------------------
+
+**NCT01048554** - Temozolomide Plus Bevacizumab in Patients With Metastatic Melanoma Involving the Central Nervous System
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Temozolomide, Bevacizumab
+
+Biomarker Criteria:
+  - Treatment with bevacizumab may not be initiated until 4 weeks after surgical resection or radiation therapy completion
+  - Previous temozolomide treatment given on a different schedule is allowed, as long as it had not been given in combination with VEGF-targeting drugs
+  - Because there is an unknown but potential risk for adverse events in nursing infants secondary to treatment of the mother with bevacizumab, breastfeeding should be discontinued if the mother is treated with bevacizumab
+
+----------------------------------------------------------------------
+
+**NCT02908672** - A Study of Atezolizumab Plus Cobimetinib and Vemurafenib Versus Placebo Plus Cobimetinib and Vemurafenib in Previously Untreated BRAFv600 Mutation-Pos
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Atezolizumab, Atezolizumab Placebo
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Females of child bearing potential and males with female partners must and use of contraceptive methods with a failure rate of less than or equal to (\</=)1% per year is required during treatment and for 6 months post treatment
+  - Males should not expose pregnant partners to sperm and refrain from donating sperm for 6 months post treatment
+  - Women must refrain from donating eggs during this same period
+* Histologically confirmed Stage IV (metastatic) or unresectable Stage IIIc (locally advanced) melanoma
+* Naive to prior systemic anti-cancer therapy for melanoma (example: chemotherapy, hormonal therapy, targeted therapy, immunotherapy, or other biologic therapies) except adjuvant treatment with interferon (IFN), interleukin (IL)-2, or vaccine therapies or herbal therapies
+* Documentation of BRAFv600 mutation-positive status in melanoma tumor tissue (archival or newly obtained) through use of a clinical mutation test approved by the local health authority
+* Eastern Cooperative Oncology Group Performance (ECOG) Status of 0 or 1
+* Measurable disease according to RECIST v1
+
+----------------------------------------------------------------------
+
+**NCT00288041** - Bortezomib, Paclitaxel, and Carboplatin in Treating Patients With Metastatic Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: carboplatin, paclitaxel
+
+Biomarker Criteria:
+  - 5 times ULN
+* ECOG performance status (PS) 0, 1, or 2 (Karnofsky PS \>= 60%)
+* Life expectancy by physician estimate \> 12 weeks
+* Not pregnant or nursing
+* Fertile patients must use effective contraception during and for 6 months after completion of study treatment
+* Negative pregnancy test
+* No history of allergic reactions attributed to compounds of similar chemical or biologic composition to bortezomib
+* No peripheral neuropathy \>= grade 2
+* Manifestations of stage IV disease (e
+
+----------------------------------------------------------------------
+
+**NCT00942162** - A Study to Test the Benefit of a New Anti-cancer Treatment in Patients With Unresectable Advanced Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Immunotherapeutic GSK2132231A
+
+Biomarker Criteria:
+  - * Patients with regional or distant cutaneous, subcutaneous or lymph-node metastasis can be included in the study, provided the disease is not amenable to curative treatment with surgery
+  - * Adequate bone-marrow reserve, adequate renal function and adequate hepatic function as assessed by standard laboratory criteria
+* If the patient is female, she must be of non-childbearing potential, or if she is of childbearing potential, she must practice adequate contraception for at least 30 days prior to registration in the trial, have a negative pregnancy test and continue such precautions during the entire study treatment period and for 2 months after completion of the injection series
+  - * The patient has at any time received any systemic anticancer treatment
+
+----------------------------------------------------------------------
+
+**NCT01586403** - Transfer of Genetically Engineered Lymphocytes in Melanoma Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Dose 1, Dose 2
+
+Biomarker Criteria:
+  - * Patients that have undergone treatment with anti-CTLA-4 (Cytotoxic T-Lymphocyte Antigen 4) antibody must have at least 3 months from last dose of CTLA-4 antibody before they can be enrolled into this study
+  - * Patients whose BRAF V600E mutation status is unknown, have the BRAF V600E mutation and are responding to Vemurafenib therapy, or have the BRAF V600E mutation and have not been offered the option of receiving Vemurafenib therapy for the treatment of their melanoma
+  - * Patients should not have any evidence of active or uncontrolled infection requiring treatment with antibiotics
+
+----------------------------------------------------------------------
+
+**NCT06999980** - A Phase II, Randomised Clinical Trial of Nivolumab and Ipilimumab Combined With Relatlimab for Patients With Resectable Advanced Melanoma Identified a
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Interventions: Ipilimumab 3mg/kg and nivolumab 1mg/kg, Nivolumab 480mg and relatlimab 160mg and ipilimumab 1mg/kg
+
+Biomarker Criteria:
+  - Women of child bearing potential (WOCBP) must agree to avoid pregnancy or breast feeding for the duration of study treatment
+  - No prior systemic treatment for cutaneous melanoma
+* d
+  - No prior treatment with CTLA-4 or LAG-3 inhibitors
+
+----------------------------------------------------------------------
+
+**NCT02668770** - Ipilimumab (Immunotherapy) and MGN1703 (TLR Agonist) in Patients With Advanced Solid Malignancies
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: MGN1703, Ipilimumab
+
+Biomarker Criteria:
+  - There is no limit on the number of prior treatment regimens
+  - Known human immunodeficiency virus (HIV)-positive and on highly active antiretroviral therapy (HAART), and/or Hepatitis B or C on treatment
+  - Radiation therapy within 4 weeks of study enrollment (exception is radiotherapy expansion arm which requires radiation treatment within 2 week period)
+
+----------------------------------------------------------------------
+
+**NCT06566391** - Ipilimumab and Nivolumab Followed by Adjuvant Nivolumab in Locally Advanced or Limited Metastatic Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Ipilimumab
+
+Biomarker Criteria:
+  - Patients must be willing and able to comply with scheduled visits, treatment schedule, laboratory tests and all protocol procedures
+  - Patients who have been previously treated in the adjuvant setting for melanoma will be eligible for treatment after a 28 day washout period
+  - Patients with vitiligo, type I diabetes mellitus, residual hypothyroidism due to autoimmune condition only requiring hormone replacement, psoriasis not requiring systemic treatment, or conditions not expected to recur in the absence of an external trigger are permitted to enroll
+
+----------------------------------------------------------------------
+
+**NCT05215574** - Study of NGM831 as Monotherapy and in Combination With Pembrolizumab or Pembrolizumab and NGM438 in Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: NGM831, NGM831 plus pembrolizumab (KEYTRUDA®)
+
+Biomarker Criteria:
+  - Exclusion Criteria:
+
+* Prior treatment targeting ILT3
+  - * Prior treatment targeting LAIR1
+
+----------------------------------------------------------------------
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in Patients With HER3-Expressing 
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ENV-501
+
+Biomarker Criteria:
+  - * Willingness and ability to comply with scheduled visits, treatment plan, laboratory tests, and other study procedures
+  - Exclusion Criteria:
+
+* Any of the following treatment interventions within the specified time frame prior to study drug administration at study start:
+
+  1
+  - Treatment with investigational drugs within 21 days
+
+----------------------------------------------------------------------
+
+**NCT06359860** - A Study of ST-1898 for Unresectable or Metastatic Melanoma
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ST-1898 tablets
+
+Biomarker Criteria:
+  - Eligible male and female subjects with fertility activity or their sexual partners must use effective contraception during study period and though 90 days after last study treatment
+  - Women of child-bearing age must have a negative serum pregnancy test within 7 days before first study treatment
+
+Exclusion Criteria
+
+1
+
+----------------------------------------------------------------------
+
+**NCT06583369** - The Efficacy and Safety of Liangxue Ointment in the Treatment of Hand-foot Syndrome Caused by VEGFR-TKI Drugs
+Phase: NA | Status: RECRUITING
+Interventions: Liangxue ointment（Traditional Chinese Ointment）, Urea cream
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* ≥18 years old, both men and women are welcome;
+* Patients with pathologically confirmed malignant tumors;
+* Receive treatment with VEGFR-TKI drugs;
+* Hand-foot syndrome associated with VEGFR-TKI drugs is judged by the researcher;
+* No skin lesions on hands and feet before receiving VEGFR-TKI drug treatment;
+* No allergies to the traditional Chinese medicine components of the trial drug;
+* Be conscious, have language expression or reading skills, and can communicate normally;
+* Estimated survival time ≥3 months;
+* ECOG score ≤ 2;
+* Ability to comply with the trial protocol, as judged by the investigator;
+* Women of childbearing potential must have a negative serum pregnancy test within 7 days before the first dose of the trial drug; men of reproductive potential or women with the possibility of pregnancy must use highly effective contraceptive methods (such as oral contraceptives, oral contraceptives, Intrauterine device, libido control or barrier method combined with spermicide) and continue contraception for 6 months after the end of treatment;
+* Voluntarily participate in this clinical trial, understand the research procedures and be able to sign the written informed consent form
+  - Exclusion Criteria:
+
+* Those with skin ulcers on hands and feet;
+* Known allergy to ingredients of Liangxue Ointment;
+* Have used other targeted drugs and chemotherapy drugs that cause HFS within 4 weeks;
+* Those who have skin lesions on their hands and feet before treatment with VEGFR-TKI drugs or those who have a history of skin diseases;
+* Use of medications within 2 weeks that may affect study results (topical antibiotics, topical steroids, and other topical treatments);
+* With serious accompanying diseases, such as severe hypertension, diabetes, thyroid disease, heart disease, and mental illness;
+* Poor compliance and refusal to cooperate with follow-up visits;
+* Other reasons lead the researcher to believe that they are not suitable to participate in this study
+
+----------------------------------------------------------------------
+
+**NCT06251934** - Real-World Patient Characteristics, Treatment Patterns, and Clinical Outcomes Among Patients With BRAF-Positive Metastatic Melanoma
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - Inclusion criteria:
+
+* Diagnosis of melanoma (ICD-9 172x \& ICD-10 C43 or D03x)
+* ≥2 documented clinical encounters on different days in the Flatiron network on or after 01 January 2011
+* Pathologic unresectable stage III or IV at initial diagnosis after 01 January 2011, or earlier stage disease accompanied by development of a first locoregional recurrence after 01 January 2011
+* Diagnosis of MM after 01 January 2011
+* Evidence of a BRAF-positive result at any point in time
+* Treatment with one of the following 1L therapies on or after 01 January 2014:
+
+  * IO (nivolumab, pembrolizumab, or ipilimumab + nivolumab)
+  * TT (dab/tram)
+* At least 18 years of age at the time of initiation of 1L therapy
+* At least 6-months of continuous follow-up from the time of initiation of 1L therapy
+
+Exclusion Criteria:
+
+* Lacking relevant unstructured documents (i
+  - , information such as free text from a physician note or pathology report that is captured systematically during the data abstraction process) in the Flatiron Health database
+* Evidence of non-skin melanoma (ocular, subungual, mucosal, palmar, plantar)
+* Documented receipt of a clinical study drug, defined as any uncancelled order, administration, or oral episode for a clinical study drug for cancer at any time prior to or during 1L treatment
+* Presence of leptomeningeal disease (ICD-9 198
+
+----------------------------------------------------------------------
+
+**NCT01849666** - A Study of the Effect of Vemurafenib on the Pharmacokinetics of Phenprocoumon in Patients With BRAFV600 Mutation-Positive Metastatic Malignancy
+Phase: PHASE1 | Status: COMPLETED
+Interventions: phenprocoumon, vemurafenib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Adult patients, 18-70 years of age
+* Patients with either unresectable Stage IIIc or IV BRAFV600 mutation-positive metastatic melanoma or other malignant BRAFV600 mutation-positive tumor type and who have no acceptable standard treatment options
+* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2
+* Full recovery from any major surgery or significant traumatic injury at least 14 days prior to the first dose of study treatment
+* Adequate hematologic and end organ function
+* Female patients of childbearing potential and male patients with female partners of childbearing potential must agree to use 2 effective methods of contraception as defined by protocol during the course of the study and for at least 6 months after completion of study treatment
+
+Exclusion Criteria:
+
+* Prior treatment with vemurafenib or other BRAF inhibitor within 42 days of Day 1
+* Prior anti-cancer therapy within 28 days (6 weeks for nitrosureas or mitocyn C, or 14 days for hormonal therapy or kinase inhibitors) before the first dose of study treatment Day 1
+* Palliative radiotherapy within 2 weeks prior to first dose of study treatment Day 1
+* Experimental therapy within 4 weeks prior to first dose of study treatment Day 1
+* History of clinically significant cardiac or pulmonary dysfunction, including current uncontrolled Grade \>/=2 hypertension or unstable angina
+* Current Grade \>/=2 dyspnea or hypoxia or need for oxygen supplementation
+* History of myocardial infarction within 6 months prior to first dose of study treatment
+* Active central nervous system lesions (i
+  - patients with radiographically unstable, symptomatic lesions)
+* History of bleeding or coagulation disorders
+* Allergy or hypersensitivity to vemurafenib or phenprocoumon formulations
+* History of malabsorption or other condition that would interfere with the enteral absorption of study treatment
+* History of clinically significant liver disease (including cirrhosis), current alcohol abuse, or active hepatitis B or hepatitis C virus infection
+* Human immunodeficiency virus (HIV) infection requiring antiretroviral treatment, or AIDS-related illness
+* Pregnant or lactating women
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (43 trials)
+======================================================================
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - * Dose Exploration:
+
+  o Newly diagnosed resectable, BRAF wild-type, Stage IIIB/C/D and Stage IV cutaneous melanoma with clinically evident lymph node involvement in the neoadjuvant setting
+
+----------------------------------------------------------------------
+
+**NCT02908672** - A Study of Atezolizumab Plus Cobimetinib and Vemurafenib Versus Placebo Plus Cobimetinib and Vemurafenib in Previously Untreated BRAFv600 Mutation-Pos
+Phase: PHASE3 | Status: COMPLETED
+Interventions: Atezolizumab, Atezolizumab Placebo
+
+Biomarker Criteria:
+  - Women must refrain from donating eggs during this same period
+* Histologically confirmed Stage IV (metastatic) or unresectable Stage IIIc (locally advanced) melanoma
+* Naive to prior systemic anti-cancer therapy for melanoma (example: chemotherapy, hormonal therapy, targeted therapy, immunotherapy, or other biologic therapies) except adjuvant treatment with interferon (IFN), interleukin (IL)-2, or vaccine therapies or herbal therapies
+* Documentation of BRAFv600 mutation-positive status in melanoma tumor tissue (archival or newly obtained) through use of a clinical mutation test approved by the local health authority
+* Eastern Cooperative Oncology Group Performance (ECOG) Status of 0 or 1
+* Measurable disease according to RECIST v1
+  - 5\*upper limit of normal (ULN) within 28 days prior to initiation of study treatment
+* For participants receiving therapeutic anticoagulation: stable anticoagulant regimen and stable INR during the 28 days immediately preceding initiation of study treatment
+
+Exclusion Criteria:
+
+Cancer-Related Exclusion Criteria:
+
+* Major surgical procedure within 4 weeks prior study treatment initiation
+* Traumatic injury or palliative radiotherapy within 2 weeks prior study treatment initiation
+* Active malignancy (other than BRAFv600 mutation-positive melanoma) or malignancy within 3 years prior to screening are excluded, with the exception of resected melanoma, resected basal cell carcinoma (BCC), resected cutaneous squamous cell carcinoma (SCC), resected carcinoma in situ of the cervix, resected carcinoma in situ of the breast, in situ prostate cancer, limited-stage bladder cancer, or any other curatively treated malignancies from which the participant has been disease-free for at least 3 years
+
+Ocular Exclusion Criteria:
+
+* History of or evidence of retinal pathology on ophthalmologic examination that is considered a risk factor for neurosensory retinal detachment, central serous chorioretinopathy, retinal vein occlusion (RVO), or neovascular macular degeneration
+
+Cardiac Exclusion Criteria:
+
+* History of clinically significant cardiac dysfunction
+* Left ventricular ejection fraction (LVEF) below the institutional lower limit of normal or below 50%
+
+Central Nervous System (CNS) Exclusion Criteria:
+
+* Untreated or actively progressing CNS lesions (carcinomatous meningitis)
+* History of metastases to brain stem, midbrain, pons, or medulla, or within 10 millimeter (mm) of the optic apparatus (optic nerves and chiasm); or leptomeningeal metastatic disease; or intracranial hemorrhage
+
+Additional Exclusion Criteria:
+
+* Uncontrolled diabetes or symptomatic hyperglycemia
+* Current severe, uncontrolled systemic disease (including, but not limited to, clinically significant cardiovascular, pulmonary, or renal disease) other than cancer
+* History of malabsorption or other clinically significant metabolic dysfunction
+* Pregnant or breastfeeding, or intending to become pregnant during the study
+* Prior allogeneic stem cell or solid organ transplantation
+* History of idiopathic pulmonary fibrosis, organizing pneumonia (example: bronchiolitis obliterans), drug-induced pneumonitis, or idiopathic pneumonitis, or evidence of active pneumonitis on screening chest computed tomography (CT) scan
+* Active or history of autoimmune disease or immune deficiency
+* Known clinically significant liver disease, inherited liver disease and active viral disease
+* Active tuberculosis
+* Treatment with therapeutic oral or intravenous (IV) antibiotics; or with a live, attenuated vaccine; or systemic immunosuppressive medication
+* Known hypersensitivity to biopharmaceutical agents produced in Chinese hamster ovary cells or any component of the atezolizumab, cobimetinib, or vemurafenib formulations
+* Any grade \>/=3 hemorrhage or bleeding event within 4 weeks prior to initiation of study treatment
+* History of stroke, reversible ischemic neurological defect, or transient ischemic attack within 6 months prior to initiation of study treatment
+
+----------------------------------------------------------------------
+
+**NCT01586403** - Transfer of Genetically Engineered Lymphocytes in Melanoma Patients
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Dose 1, Dose 2
+
+Biomarker Criteria:
+  - * The patients BRAF mutation status at position 600 must be known prior to enrollment
+  - * Patients whose BRAF V600E mutation status is unknown, have the BRAF V600E mutation and are responding to Vemurafenib therapy, or have the BRAF V600E mutation and have not been offered the option of receiving Vemurafenib therapy for the treatment of their melanoma
+
+----------------------------------------------------------------------
+
+**NCT06566391** - Ipilimumab and Nivolumab Followed by Adjuvant Nivolumab in Locally Advanced or Limited Metastatic Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Ipilimumab
+
+Biomarker Criteria:
+  - Known BRAF V600 mutation status as determined by local institutional standard
+  - All BRAF statuses (BRAF wild type or BRAF 600 mutation positive) are eligible
+
+----------------------------------------------------------------------
+
+**NCT06251934** - Real-World Patient Characteristics, Treatment Patterns, and Clinical Outcomes Among Patients With BRAF-Positive Metastatic Melanoma
+Phase: Not specified | Status: COMPLETED
+
+Biomarker Criteria:
+  - Inclusion criteria:
+
+* Diagnosis of melanoma (ICD-9 172x \& ICD-10 C43 or D03x)
+* ≥2 documented clinical encounters on different days in the Flatiron network on or after 01 January 2011
+* Pathologic unresectable stage III or IV at initial diagnosis after 01 January 2011, or earlier stage disease accompanied by development of a first locoregional recurrence after 01 January 2011
+* Diagnosis of MM after 01 January 2011
+* Evidence of a BRAF-positive result at any point in time
+* Treatment with one of the following 1L therapies on or after 01 January 2014:
+
+  * IO (nivolumab, pembrolizumab, or ipilimumab + nivolumab)
+  * TT (dab/tram)
+* At least 18 years of age at the time of initiation of 1L therapy
+* At least 6-months of continuous follow-up from the time of initiation of 1L therapy
+
+Exclusion Criteria:
+
+* Lacking relevant unstructured documents (i
+
+----------------------------------------------------------------------
+
+**NCT01849666** - A Study of the Effect of Vemurafenib on the Pharmacokinetics of Phenprocoumon in Patients With BRAFV600 Mutation-Positive Metastatic Malignancy
+Phase: PHASE1 | Status: COMPLETED
+Interventions: phenprocoumon, vemurafenib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Adult patients, 18-70 years of age
+* Patients with either unresectable Stage IIIc or IV BRAFV600 mutation-positive metastatic melanoma or other malignant BRAFV600 mutation-positive tumor type and who have no acceptable standard treatment options
+* Eastern Cooperative Oncology Group (ECOG) performance status 0 to 2
+* Full recovery from any major surgery or significant traumatic injury at least 14 days prior to the first dose of study treatment
+* Adequate hematologic and end organ function
+* Female patients of childbearing potential and male patients with female partners of childbearing potential must agree to use 2 effective methods of contraception as defined by protocol during the course of the study and for at least 6 months after completion of study treatment
+
+Exclusion Criteria:
+
+* Prior treatment with vemurafenib or other BRAF inhibitor within 42 days of Day 1
+* Prior anti-cancer therapy within 28 days (6 weeks for nitrosureas or mitocyn C, or 14 days for hormonal therapy or kinase inhibitors) before the first dose of study treatment Day 1
+* Palliative radiotherapy within 2 weeks prior to first dose of study treatment Day 1
+* Experimental therapy within 4 weeks prior to first dose of study treatment Day 1
+* History of clinically significant cardiac or pulmonary dysfunction, including current uncontrolled Grade \>/=2 hypertension or unstable angina
+* Current Grade \>/=2 dyspnea or hypoxia or need for oxygen supplementation
+* History of myocardial infarction within 6 months prior to first dose of study treatment
+* Active central nervous system lesions (i
+
+----------------------------------------------------------------------
+
+**NCT05611229** - Treatment Patterns and Outcomes of Targeted Therapy and Immunotherapy Among BRAF-Positive Melanoma Patients Treated in the Adjuvant Setting and Among 
+Phase: Not specified | Status: COMPLETED
+Interventions: Nivolumab, Pembrolizumab
+
+Biomarker Criteria:
+  - x)
+* Pathologic stage III on or after 2011
+* Evidence of resection
+* Adjuvant treatment with IO (nivo, pembro) or TT (dab+tram) on or after 1/1/2014 and prior to 8/31/2020
+* At least 6 months of follow-up time (until death, end of data cut-off, loss-of-follow-up, or progressed to stage IV diagnosis) from the initiation of therapy
+* Evidence of a BRAF+ result ≤30 days after therapy initiation in the adjuvant setting
+* At least 18 years of age at the time of initiation of treatment
+* No documented receipt of a clinical trial treatment for cancer at any time on or after January 1, 2014
+
+Population 2 (patients with LTB treated in the metastatic setting)
+
+* Diagnosis of melanoma (ICD-9 172
+  - x)
+* Pathologic stage IV at initial diagnosis on or after 1/1/2011, or earlier stage disease accompanied by development of a first locoregional recurrence on or after 1/1/2011
+* 1L treatment with IO (ipi, nivo, pembro, ipi+nivo) or TT (dab+tram, vemu+cobi, enco+bini) on or after 1/1/2014 and prior to 5/31/2020
+* At least 6 months of follow-up time (until death, loss of follow-up, or end of data cut-off) from the initiation of therapy
+* Evidence of a BRAF+ result ≤30 days after 1L therapy initiation
+* LTB, defined as having \<3 involved organ sites and normal LDH test (less than upper limit of normal) at the time of receiving MM diagnosis
+* At least 18 years of age at the time of initiation of 1L treatment
+* No documented receipt of a clinical trial treatment for cancer at any time on or after 1/1/2014
+
+Exclusion Criteria:
+
+None
+
+----------------------------------------------------------------------
+
+**NCT05954546** - A Study to Compare How Effective is Encorafenib Plus Binimetinib in Real-world and Clinical Trial Settings
+Phase: Not specified | Status: COMPLETED
+Interventions: Enco+bini
+
+Biomarker Criteria:
+  - * Confirmed BRAF V600E/V600K activating mutation reported in the data based on laboratory or genetic analysis results
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+  - A prior genomics report from archival tissues or liquid biopsy demonstrating mutation is acceptable
+* Part 2: Histologically or cytologically confirmed diagnosis of one of the following locally advanced unresectable or metastatic solid tumor malignancies: pancreatic adenocarcinoma, RASmut melanoma, Class I BRAFmut melanoma, RASmut NSCLC, other RASmut GI cancers (aside from CRC) or any other RAFmut solid tumor as documented by genomic analysis
+
+----------------------------------------------------------------------
+
+**NCT04996823** - Axitinib + Ipilimumab in Advanced Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Ipilimumab, Axitinib
+
+Biomarker Criteria:
+  - 1 criteria
+* Documented disease refractory or intolerant to anti-PD-1/PD-L1 inhibitor treatment: in the metastatic setting or in the adjuvant setting if relapse on or within 6 months from end of anti-PD-1 treatment
+* If BRAFV600-mutant melanoma, patients may have had prior BRAF/MEK inhibitor therapy, or intolerance to these drugs
+* No limit to prior lines of treatment but prior ipilimumab not permitted
+* Prior treatment-related toxicity resolved to ≤ Grade 2 or baseline
+* Participants with a prior or concurrent malignancy whose natural history or treatment (in the opinion of the treating physician) does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial
+
+----------------------------------------------------------------------
+
+**NCT01619774** - An Open-Label Phase II Study of the Combination of GSK2118436 and GSK1120212 in Patients With Metastatic Melanoma Which is Refractory or Resistant to 
+Phase: PHASE2 | Status: COMPLETED
+Interventions: GSK2118436, GSK1120212
+
+Biomarker Criteria:
+  - BRAF mutation-positive melanoma (i
+  - Patients must have tumor lesions which is refractory or resistant to a selective BRAF inhibitor (RO5185426 or GSK2118436)
+  - Patients must not have previously received a selective BRAF inhibitor (RO5185426, GSK2118436) and a selective MEK inhibitor (AZD6244, GSK1120212) concurrently
+
+----------------------------------------------------------------------
+
+**NCT06651151** - NeoLIPA: Neoadjuvant LTX-315 in Combination with Pembrolizumab in Resectable Stage III/IV Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: LTX-315 + pembrolizumab
+
+Biomarker Criteria:
+  - dabrafenib + trametinib or radiotherapy), and regional therapy such as ECT or ILP is permitted (≥ 12 weeks prior to enrollment)
+
+----------------------------------------------------------------------
+
+**NCT02120222** - Evaluating SINE KPT-330 in Treating Patients With Melanoma That Cannot Be Removed By Surgery
+Phase: PHASE1 | Status: COMPLETED
+Interventions: selinexor, Correlative studies
+
+Biomarker Criteria:
+  - interleukin 2) and a BRAF and/or MEK inhibitor (if tumor contains the V600E or V600K mutation) for 628 metastatic disease
+  - If patient did not receive such agents, rationale for not treating the patients with the 629 agent must be cleared with the study PI (ie no V600e/k BRAF mutation or patient with autoimmunity, thus 630 not eligible for biologic therapy)
+
+----------------------------------------------------------------------
+
+**NCT00949702** - A Study of Vemurafenib in Previously Treated Patients With Metastatic Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: vemurafenib
+
+Biomarker Criteria:
+  - )
+* BRAF V600E positive mutation (by Roche CoDx BRAF mutation assay)
+* measurable disease by RECIST criteria
+* negative pregnancy test and, for fertile men and women, effective contraception during treatment and for 6 months after completion
+
+Exclusion Criteria:
+
+* active CNS metastases on CT/MRI within 28 days prior to enrollment
+* history of or known carcinomatous meningitis
+* previous treatment with BRAF (sorafenib allowed) or MEK inhibitor
+* cardiac dysrhythmias \>2 NCI CTCAE or treatment with drugs with dysrhythmic potential
+* uncontrolled hypertension(\>150/100mmHg) despite optimal medical therapy
+* infectious disease including HIV, HBV and HCV
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Interventions: LGK974, PDR001
+
+Biomarker Criteria:
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with BRAF V600 inhibitor, with or without a MEK inhibitor
+  - Patients with BRAF V600-mutant melanoma must have also received and been failed by prior systemic therapy with a BRAF V600 inhibitor, with or without a MEK inhibitor
+
+----------------------------------------------------------------------
+
+**NCT03595683** - Pembrolizumab and EDP1503 in Advanced Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Pembrolizumab, EDP1503
+
+Biomarker Criteria:
+  - * Adjuvant therapy with BRAF-MEK, PD1 or CTLA4 based therapy is allowed
+  - Prior adjuvant BRAF-MEK therapy will fulfill treatment requirement in the metastatic setting
+  - \]
+
+Exclusion Criteria:
+
+* For cohort 2: Has BRAF mutant disease but has not yet received treatment with RAF/MEK inhibitors
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Be willing and able to provide written informed consent/assent for the trial
+* Eastern Cooperative Oncology Group (ECOG) performance scale (PS) of 0-1; Karnofsky performance status ≥ 70%
+* Patients must have histological diagnosis of melanoma or non-small cell lung cancer (biopsy will be done per standard of care, if needed to prove metastatic melanoma and/or NSCLC as well as for clinically relevant mutation analysis); additional biopsy will be per standard of care
+* Patients can be treated either in first line or in the refractory setting; programmed death-ligand 1 (PD-L1) positivity is not required for enrollment
+* All melanoma patients may be tested for proto-oncogene B-Raf (BRAF) as part of routine standard of care, but is not a requirement for the trial; all NSCLC patients may be tested for with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) as part of standard of care, but is not a requirement of the trial
+* Having gotten prior programmed cell death protein 1 (PD1) therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors \[BRAFi\], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+* Patient must be asymptomatic at time of getting SRS (day 0) on trial; prednisone \< 10 mg/day for at least 7 days prior to treatment is allowed
+* Patients with ocular, mucosal and unknown primary melanoma will also be eligible
+* Patients with 1-10 untreated brain metastases at time of initial brain metastases diagnosis (surgery to one of the brain lesions and/or biopsy of a lesion for diagnostic purposes and/or for standard of care purposes is acceptable)
+* Largest brain metastases volume measures less than 14
+
+----------------------------------------------------------------------
+
+**NCT03340129** - Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Ipilimumab, Nivolumab
+
+Biomarker Criteria:
+  - The BRAF mutation status must be available prior to randomisation
+  - The presenting diagnosis of brain metastases at the time of enrolment in this study must have occurred a minimum of 6 months after stopping neoadjuvant or adjuvant systemic therapy (prior anti PD1, anti PD-L1, anti CTLA-4, BRAF / MEK inhibitors or clinical trial agents) are acceptable in the setting of neoadjuvant or adjuvant treatment
+8
+
+----------------------------------------------------------------------
+
+**NCT03235245** - Immunotherapy With Ipilimumab and Nivolumab Preceded or Not by a Targeted Therapy With Encorafenib and Binimetinib
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab + Ipilimumab, Encorafenib + Binimetinib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically or cytologically confirmed unresectable stage III or IV cutaneous or mucosal melanoma
+* Presence of BRAF V600E or V600K mutation in tumor tissue prior to enrolment as per local assessment
+* Tumor tissue from an unresectable or metastatic site of disease must be provided for biomarker analyses
+  - * Any prior treatment for advanced disease including treatment with an anti-Programmed Death receptor-1 (PD-1), anti-Programmed Death-1 ligand-1 (PD-L1), anti-PD-L2, anti-cytotoxic T lymphocyte associated antigen-4 (anti-CTLA-4) antibody, anti-LAG-3, anti-TIM-3, anti-IDO, etc or BRAF or MEK inhibitors
+
+----------------------------------------------------------------------
+
+**NCT03864042** - Pharmacokinetic Drug-drug Interaction Study of Encorafenib and Binimetinib on Probe Drugs in Patients With BRAF V600-mutant Melanoma or Other Advanced
+Phase: PHASE1 | Status: COMPLETED
+Interventions: losartan, dextromethorphan
+
+Biomarker Criteria:
+  - Key Inclusion Criteria - Patients must meet all of the inclusion criteria to be eligible for enrollment into the study:
+
+* Histologically confirmed diagnosis of locally advanced, unresectable or metastatic cutaneous melanoma or unknown primary melanoma American Joint Committee on Cancer (AJCC) Stage IIIB, IIIC or IV; or other BRAF V600-mutant advanced solid tumors
+* Presence of BRAF V600E and/or V600K mutation in tumor tissue prior to enrollment, as determined using a local test;
+* Evidence of measurable or non-measurable lesions
+* Patient with unresectable locally advanced or metastatic melanoma who has received no prior treatment or progressed on or after prior systemic therapy; Note: Prior therapy with a BRAF proto-oncogene serine-threonine protein kinase (BRAF) inhibitor and/or a mitogen-activated protein (MAP) kinase (MEK) inhibitor is permitted except in the regimen immediately prior to study entry
+* Patient with other (non-melanoma) BRAF V600E and/or V600K -mutant advanced solid tumors who has progressed on standard therapy or for whom there are no available standard therapies; Note: Prior therapy with a BRAF inhibitor and/or a MEK inhibitor is permitted except in the regimen immediately prior to study entry
+* Eastern Cooperative Oncology Group (ECOG) performance status (PS) of 0 or 1
+* Adequate bone marrow, hepatic and renal function as specified in the protocol
+* ARM 1 ONLY: Non-smoker who has not used nicotine containing products for at least 3 months prior to the first dose
+  - * Discontinuation of prior BRAF and/or MEK inhibitor treatment due to left ventricular dysfunction, pneumonitis/interstitial lung disease, or retinal vein occlusion;
+* ARM 1 ONLY: Positive urine cotinine test at screening
+* ARM 3 ONLY:
+
+  * History of psychosis, depression or mania;
+  * History of angioedema;
+  * History of mitral valve prolapse;
+  * History of left ventricular hypertrophy;
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (1 trials)
+======================================================================
+
+**NCT04095195** - Registry of Subjects at Risk of Pancreatic Cancer
+Phase: Not specified | Status: RECRUITING
+Interventions: MRCP, Endoultrasonography
+
+Biomarker Criteria:
+  - Inclusion Criteria to enter the registry:
+
+* individuals with at least two relatives suffering from pancreatic cancer, with at least 1 first-degree and until the third-degree
+* subjects with known genetic mutation of BRCA2, BRCA1, p16, PALB2 with at least 1 first- or 2nd-degree relative suffering from pancreatic cancer
+* subjects suffering from FAMMM Syndrome
+* subjects suffering from Peutz-Jeghers Syndrome
+* subjects suffering from PRSS-1- or CFTR- or SPINK-1- related pancreatitis
+* subjects suffering from Lynch syndrome with at least 1 first- or 2nd-degree relative suffering from pancreatic cancer
+
+Inclusion criteria to join the "radiologic follow-up":
+
+* 45 years or 10 years younger than the youngest index case of pancreatic cancer in the family for familial cases
+* 40 years or 5 years younger than the youngest index case of pancreatic cancer for subjects suffering from hereditary/genetic pancreatitis, Lynch syndrome, or carrying a known BRCA 1/2, PALB2, p16 genetic mutation with familiarity for pancreatic cancer
+* 30 years for subjects suffering from FAMMM, Peutz-Jeghers syndrome
+
+Exclusion Criteria:
+
+\- pregnancy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (1 trials)
+======================================================================
+
+**NCT04095195** - Registry of Subjects at Risk of Pancreatic Cancer
+Phase: Not specified | Status: RECRUITING
+Interventions: MRCP, Endoultrasonography
+
+Biomarker Criteria:
+  - Inclusion Criteria to enter the registry:
+
+* individuals with at least two relatives suffering from pancreatic cancer, with at least 1 first-degree and until the third-degree
+* subjects with known genetic mutation of BRCA2, BRCA1, p16, PALB2 with at least 1 first- or 2nd-degree relative suffering from pancreatic cancer
+* subjects suffering from FAMMM Syndrome
+* subjects suffering from Peutz-Jeghers Syndrome
+* subjects suffering from PRSS-1- or CFTR- or SPINK-1- related pancreatitis
+* subjects suffering from Lynch syndrome with at least 1 first- or 2nd-degree relative suffering from pancreatic cancer
+
+Inclusion criteria to join the "radiologic follow-up":
+
+* 45 years or 10 years younger than the youngest index case of pancreatic cancer in the family for familial cases
+* 40 years or 5 years younger than the youngest index case of pancreatic cancer for subjects suffering from hereditary/genetic pancreatitis, Lynch syndrome, or carrying a known BRCA 1/2, PALB2, p16 genetic mutation with familiarity for pancreatic cancer
+* 30 years for subjects suffering from FAMMM, Peutz-Jeghers syndrome
+
+Exclusion Criteria:
+
+\- pregnancy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (8 trials)
+======================================================================
+
+**NCT06956690** - A Phase 1/2 Clinical Trial to Assess the Safety, Tolerability, Pharmacokinetics and Preliminary Efficacy of HMBD-501 in Patients With HER3-Expressing 
+Phase: PHASE1 | Status: RECRUITING
+Interventions: ENV-501
+
+Biomarker Criteria:
+  - Locally advanced or metastatic mutated EGFR (mEGFR) NSCLC (HER3+)
+  3
+
+----------------------------------------------------------------------
+
+**NCT06583369** - The Efficacy and Safety of Liangxue Ointment in the Treatment of Hand-foot Syndrome Caused by VEGFR-TKI Drugs
+Phase: NA | Status: RECRUITING
+Interventions: Liangxue ointment（Traditional Chinese Ointment）, Urea cream
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* ≥18 years old, both men and women are welcome;
+* Patients with pathologically confirmed malignant tumors;
+* Receive treatment with VEGFR-TKI drugs;
+* Hand-foot syndrome associated with VEGFR-TKI drugs is judged by the researcher;
+* No skin lesions on hands and feet before receiving VEGFR-TKI drug treatment;
+* No allergies to the traditional Chinese medicine components of the trial drug;
+* Be conscious, have language expression or reading skills, and can communicate normally;
+* Estimated survival time ≥3 months;
+* ECOG score ≤ 2;
+* Ability to comply with the trial protocol, as judged by the investigator;
+* Women of childbearing potential must have a negative serum pregnancy test within 7 days before the first dose of the trial drug; men of reproductive potential or women with the possibility of pregnancy must use highly effective contraceptive methods (such as oral contraceptives, oral contraceptives, Intrauterine device, libido control or barrier method combined with spermicide) and continue contraception for 6 months after the end of treatment;
+* Voluntarily participate in this clinical trial, understand the research procedures and be able to sign the written informed consent form
+  - Exclusion Criteria:
+
+* Those with skin ulcers on hands and feet;
+* Known allergy to ingredients of Liangxue Ointment;
+* Have used other targeted drugs and chemotherapy drugs that cause HFS within 4 weeks;
+* Those who have skin lesions on their hands and feet before treatment with VEGFR-TKI drugs or those who have a history of skin diseases;
+* Use of medications within 2 weeks that may affect study results (topical antibiotics, topical steroids, and other topical treatments);
+* With serious accompanying diseases, such as severe hypertension, diabetes, thyroid disease, heart disease, and mental illness;
+* Poor compliance and refusal to cooperate with follow-up visits;
+* Other reasons lead the researcher to believe that they are not suitable to participate in this study
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Be willing and able to provide written informed consent/assent for the trial
+* Eastern Cooperative Oncology Group (ECOG) performance scale (PS) of 0-1; Karnofsky performance status ≥ 70%
+* Patients must have histological diagnosis of melanoma or non-small cell lung cancer (biopsy will be done per standard of care, if needed to prove metastatic melanoma and/or NSCLC as well as for clinically relevant mutation analysis); additional biopsy will be per standard of care
+* Patients can be treated either in first line or in the refractory setting; programmed death-ligand 1 (PD-L1) positivity is not required for enrollment
+* All melanoma patients may be tested for proto-oncogene B-Raf (BRAF) as part of routine standard of care, but is not a requirement for the trial; all NSCLC patients may be tested for with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) as part of standard of care, but is not a requirement of the trial
+* Having gotten prior programmed cell death protein 1 (PD1) therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors \[BRAFi\], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+* Patient must be asymptomatic at time of getting SRS (day 0) on trial; prednisone \< 10 mg/day for at least 7 days prior to treatment is allowed
+* Patients with ocular, mucosal and unknown primary melanoma will also be eligible
+* Patients with 1-10 untreated brain metastases at time of initial brain metastases diagnosis (surgery to one of the brain lesions and/or biopsy of a lesion for diagnostic purposes and/or for standard of care purposes is acceptable)
+* Largest brain metastases volume measures less than 14
+
+----------------------------------------------------------------------
+
+**NCT06814496** - Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Tarlatamab, Concurrent Radiation Therapy
+
+Biomarker Criteria:
+  - Estimated glomerular filtration rate (eGFR) based on Modification of Diet in Renal Disease (MDRD) calculation \> 30 mL/min/1
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patient has a histologically confirmed diagnosis of any of the following locally advanced or metastatic solid tumors: melanoma, pleural mesothelioma, renal cell carcinoma, MSI-high or mismatch repair-deficient colorectal cancer, hepatocellular carcinoma, and non-small cell lung cancer with no EGFR or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, or tumor types for which the combination of ipilimumab and nivolumab has been FDA approved
+  - Renal function with either an eCrCL ≥ 60 mL/min (modified Cockcroft-Gault) or eGFR ≥ 60 mL/min/1
+
+----------------------------------------------------------------------
+
+**NCT04291079** - SRK-181 Alone or in Combination With Anti-PD-(L)1 Antibody Therapy in Patients With Locally Advanced or Metastatic Solid Tumors (DRAGON)
+Phase: PHASE1 | Status: COMPLETED
+Interventions: SRK-181, anti-PD-(L)1 antibody therapy
+
+Biomarker Criteria:
+  - , anaplastic lymphoma kinase, EGFR) must have progressed on an approved therapy for these aberrations or did not tolerate an approved therapy for these aberrations, or were not considered suitable candidates/ were otherwise ineligible for an approved therapy for these aberrations
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Female or male aged ≥ 18 years on the day of informed consent signing;
+* Has histologically confirmed metastatic melanoma that is treatment naïve or has relapsed after or is refractory to ipilimumab or BRAF inhibitor (if BRAF mutation-positive), OR histologically confirmed metastatic NSCLC that has high programmed death-ligand 1 (PD-L1) expression (tumor proportion score \[TPS\] ≥50%) with no epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations or histologically confirmed metastatic NSCLC that is PD-L1 positive (TPS ≥1%) and has progressed on or after platinum-containing therapy (subjects with NSCLC harboring EGFR/ALK genomic aberrations must have received an FDA-approved targeted therapy for these aberrations) OR histologically confirmed HNSCC that has relapsed after or is refractory to platinum-containing chemotherapy, OR histologically confirmed cHL that has relapsed after three or more lines of therapy or is refractory to treatment OR histologically confirmed locally advanced or metastatic urothelial carcinoma that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed advanced, PD-L1-positive cervical cancer with disease progression on or after chemotherapy that is not eligible for platinum-containing chemotherapy or that has relapsed after or is refractory to platinum-containing chemotherapy OR histologically confirmed recurrent, locally advanced, or metastatic, squamous cell carcinoma of the esophagus (ESCC) whose tumors express PD-L1 (Combined Positive Score \[CPS\] ≥10), as determined by an FDA-approved test, with disease progression after one or more prior lines of systemic therapy
+
+----------------------------------------------------------------------
+
+**NCT01256359** - Docetaxel With or Without AZD6244 in Melanoma
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Docetaxel and AZD6244, Docetaxel and placebo
+
+Biomarker Criteria:
+  - * Previous treatment with EGFR, ras, raf or MEK inhibitors
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ERBB2 (1 trials)
+======================================================================
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Subject with advanced solid tumors for which there is no approved therapy:
+
+  * Advanced solid tumor with diagnosed alteration in one or more of the following genes (PTEN, BRAF, KRAS, NRAS, PI3KCA, ErbB1, ErbB2, MET, RET, c-KIT, GNAQ, GNA11 and/or
+  * A histologically or cytologically confirmed diagnosis of one of the following solid tumors: pancreatic, thyroid, colorectal, non-small cell lung, endometrial, renal, breast, ovarian carcinoma and melanoma
+* Subject with archived tumor tissue available for transfer to the Sponsor
+* Subject enrolled at lower dose level cohorts and MTD expansion cohorts must have tumor available for biopsy and agree to pre-treatment and on-treatment tumor biopsies
+* Subject has measurable or evaluable disease by response evaluation criteria in solid tumors (RECIST) v1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (3 trials)
+======================================================================
+
+**NCT02981303** - Study of Imprime PGG and Pembrolizumab in Advanced Melanoma and Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Imprime PGG, Pembrolizumab
+
+Biomarker Criteria:
+  - TNBC is defined as negative immunohistochemistry (IHC) assays for Estrogen Receptor (ER), and Progesterone Receptor (PR), and HER2 negative (IHC 0 or 1+, or 2+ by IHC confirmed negative by FISH)
+5
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR histologically confirmed recurrent, locally advanced, or metastatic Gastric Cancer, with disease progression on or after two or more systemic therapies, including fluoropyrimidine- and platinum-containing chemotherapy and, if appropriate, HER2/neu-targeted therapy, and whose tumors express programmed death-ligand 1 (PD-L1), as determined by an FDA-approved test
+
+----------------------------------------------------------------------
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+
+Biomarker Criteria:
+  - 1
+* Subject is aged greater than or equal to (\>=) 18 years
+* Subjects enrolled in disease specific expansion cohorts must fulfill all the inclusion/exclusion criteria listed above with the following restriction to the Inclusion Criterion number 1:
+
+  * Relapsed or refractory Kirsten rat sarcoma viral oncogene homolog (KRAS) or neuroblastoma RAS viral oncogene homolog (NRAS) mutated metastatic non-small cell lung cancer (NSCLC) with no approved therapies, or
+  * Relapsed or refractory metastatic triple negative breast cancer defined as estrogen, progesterone and HER2 negative carcinoma of the breast with no approved therapies, or
+  * Relapsed or refractory metastatic colorectal cancer (CRC) with dual KRAS and PIK3CA mutation with no approved therapies, or
+  * BRAF V600E/K mutated unresectable or metastatic melanoma after progression on B-Raf proto-oncogene, serine/threonine kinase (BRAF) inhibitors
+* Other protocol-defined inclusion criteria could apply
+
+Exclusion Criteria:
+
+* Subject has been previously treated with a PI3K inhibitor or a MEK inhibitor and taken off treatment due to treatment related adverse events
+* Subject has received:
+* Chemotherapy, immunotherapy, hormonal therapy, biologic therapy, or any other anti-cancer therapy within 28 days of trial drug treatment
+* Any investigational agent within 28 days of trial drug treatment
+* Extensive prior radiotherapy on more than 30% bone marrow reserves, or prior bone marrow/stem cell transplantation
+* Subject has not recovered from toxicity due to prior therapy
+* Subject has poor organ and marrow function as defined in the protocol
+* Subject has a history of central nervous system metastases, unless subject has been previously treated for CNS metastases
+* Subject has a history of difficulty swallowing, malabsorption or other chronic gastrointestinal disease
+* Subject has a history of recent major surgery or trauma within the last 28 days
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (4 trials)
+======================================================================
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+  - A prior genomics report from archival tissues or liquid biopsy demonstrating mutation is acceptable
+* Participants must have received at least 1 line of systemic standard-of-care treatment for their advanced or metastatic disease and in the assessment of the Investigator, would be unlikely to tolerate or derive clinically meaningful benefit from other treatment options
+* Participants previously treated with codon-specific inhibitors of KRAS (including investigational agents) are eligible
+* KRASG12C mutant participants must have received prior treatment with a KRASG12C inhibitor for any approved indication
+* Radiologic evidence of measurable disease (i
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+
+Biomarker Criteria:
+  - Must have documented RAS (KRAS, HRAS, NRAS) mutation identified within the last 5 years by a local test on tumor tissue
+
+----------------------------------------------------------------------
+
+**NCT05379985** - Study of RMC-6236 in Patients With Advanced Solid Tumors Harboring Specific Mutations in RAS
+Phase: PHASE1 | Status: RECRUITING
+Interventions: RMC-6236
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Histologically confirmed advanced solid tumor with specific KRAS G12 mutations (dose escalation) or RAS mutations (dose optimization/expansion) identified through deoxyribonucleic acid (DNA) sequencing
+
+----------------------------------------------------------------------
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Subject with advanced solid tumors for which there is no approved therapy:
+
+  * Advanced solid tumor with diagnosed alteration in one or more of the following genes (PTEN, BRAF, KRAS, NRAS, PI3KCA, ErbB1, ErbB2, MET, RET, c-KIT, GNAQ, GNA11 and/or
+  * A histologically or cytologically confirmed diagnosis of one of the following solid tumors: pancreatic, thyroid, colorectal, non-small cell lung, endometrial, renal, breast, ovarian carcinoma and melanoma
+* Subject with archived tumor tissue available for transfer to the Sponsor
+* Subject enrolled at lower dose level cohorts and MTD expansion cohorts must have tumor available for biopsy and agree to pre-treatment and on-treatment tumor biopsies
+* Subject has measurable or evaluable disease by response evaluation criteria in solid tumors (RECIST) v1
+  - 1
+* Subject is aged greater than or equal to (\>=) 18 years
+* Subjects enrolled in disease specific expansion cohorts must fulfill all the inclusion/exclusion criteria listed above with the following restriction to the Inclusion Criterion number 1:
+
+  * Relapsed or refractory Kirsten rat sarcoma viral oncogene homolog (KRAS) or neuroblastoma RAS viral oncogene homolog (NRAS) mutated metastatic non-small cell lung cancer (NSCLC) with no approved therapies, or
+  * Relapsed or refractory metastatic triple negative breast cancer defined as estrogen, progesterone and HER2 negative carcinoma of the breast with no approved therapies, or
+  * Relapsed or refractory metastatic colorectal cancer (CRC) with dual KRAS and PIK3CA mutation with no approved therapies, or
+  * BRAF V600E/K mutated unresectable or metastatic melanoma after progression on B-Raf proto-oncogene, serine/threonine kinase (BRAF) inhibitors
+* Other protocol-defined inclusion criteria could apply
+
+Exclusion Criteria:
+
+* Subject has been previously treated with a PI3K inhibitor or a MEK inhibitor and taken off treatment due to treatment related adverse events
+* Subject has received:
+* Chemotherapy, immunotherapy, hormonal therapy, biologic therapy, or any other anti-cancer therapy within 28 days of trial drug treatment
+* Any investigational agent within 28 days of trial drug treatment
+* Extensive prior radiotherapy on more than 30% bone marrow reserves, or prior bone marrow/stem cell transplantation
+* Subject has not recovered from toxicity due to prior therapy
+* Subject has poor organ and marrow function as defined in the protocol
+* Subject has a history of central nervous system metastases, unless subject has been previously treated for CNS metastases
+* Subject has a history of difficulty swallowing, malabsorption or other chronic gastrointestinal disease
+* Subject has a history of recent major surgery or trauma within the last 28 days
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (4 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - Malignant melanoma, NSCLC and MSI-H/dMMR solid cancers: Prior response to ICI is allowed only if PD under ICI has been documented \<9 months before enrolment and without subsequent lines of anti-cancer therapy
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patient has a histologically confirmed diagnosis of any of the following locally advanced or metastatic solid tumors: melanoma, pleural mesothelioma, renal cell carcinoma, MSI-high or mismatch repair-deficient colorectal cancer, hepatocellular carcinoma, and non-small cell lung cancer with no EGFR or anaplastic lymphoma kinase (ALK) genomic tumor aberrations, or tumor types for which the combination of ipilimumab and nivolumab has been FDA approved
+
+----------------------------------------------------------------------
+
+**NCT03767348** - Study of RP1 Monotherapy and RP1 in Combination With Nivolumab
+Phase: PHASE2 | Status: RECRUITING
+Interventions: RP1, nivolumab
+
+Biomarker Criteria:
+  - 1 criteria
+* Subjects with MSI-H or dMMR tumors: has diagnosis of MSI-H or metatstatic dMMR tumor (according to protocol definition) who has progressed on prior anti-PD1/PD-L1 therapy
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR MSI-H or dMMR unresectable or metastatic cancer that has relapsed after prior treatment and has no satisfactory alternative treatment options
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (5 trials)
+======================================================================
+
+**NCT06346067** - A Study to Assess Naporafenib (ERAS-254) Administered With Trametinib in Patients With NRAS-mutant Melanoma (SEACRAFT-2)
+Phase: PHASE3 | Status: RECRUITING
+Interventions: Naporafenib, Dacarbazine
+
+Biomarker Criteria:
+  - Documentation of an NRAS mutation (tumor tissue or blood) prior to first dose of study drug(s) as determined locally with an analytically validated assay in a certified testing laboratory
+
+----------------------------------------------------------------------
+
+**NCT06208124** - A Study of IMM-6-415 in RAS/RAF Mutant Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: IMM-6-415
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Age ≥18 years
+* Life expectancy \>16 weeks
+* Part 1: Histologically or cytologically confirmed diagnosis of a locally advanced unresectable or metastatic solid tumor malignancy harboring RAS (NRAS, KRAS, or HRAS)- or RAF- (ARAF, BRAF, RAF1) activating mutations, as documented by genomic analysis
+
+----------------------------------------------------------------------
+
+**NCT04835805** - A Study to Evaluate the Safety and Activity of Belvarafenib as a Single Agent and in Combination With Either Cobimetinib or Cobimetinib Plus Nivolumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Belvarafenib, Cobimetinib
+
+Biomarker Criteria:
+  - Patients must have progressed disease at study entry
+* Documentation of NRAS mutation-positive within 5 years prior to screening
+* Tumor specimen availability
+* Adequate hematologic and end-organ function
+* Measurable disease per RECIST v1
+
+----------------------------------------------------------------------
+
+**NCT06229340** - Leflunomide or Combination of MEK Inhibitor and Hydroxychloroquine for Refractory Patients With RAS Mutations
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Leflunomide, The combination of MEK inhibitor + hydroxychloroquine( plaquenil) ± bevacizumab
+
+Biomarker Criteria:
+  - Must have documented RAS (KRAS, HRAS, NRAS) mutation identified within the last 5 years by a local test on tumor tissue
+
+----------------------------------------------------------------------
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Subject with advanced solid tumors for which there is no approved therapy:
+
+  * Advanced solid tumor with diagnosed alteration in one or more of the following genes (PTEN, BRAF, KRAS, NRAS, PI3KCA, ErbB1, ErbB2, MET, RET, c-KIT, GNAQ, GNA11 and/or
+  * A histologically or cytologically confirmed diagnosis of one of the following solid tumors: pancreatic, thyroid, colorectal, non-small cell lung, endometrial, renal, breast, ovarian carcinoma and melanoma
+* Subject with archived tumor tissue available for transfer to the Sponsor
+* Subject enrolled at lower dose level cohorts and MTD expansion cohorts must have tumor available for biopsy and agree to pre-treatment and on-treatment tumor biopsies
+* Subject has measurable or evaluable disease by response evaluation criteria in solid tumors (RECIST) v1
+  - 1
+* Subject is aged greater than or equal to (\>=) 18 years
+* Subjects enrolled in disease specific expansion cohorts must fulfill all the inclusion/exclusion criteria listed above with the following restriction to the Inclusion Criterion number 1:
+
+  * Relapsed or refractory Kirsten rat sarcoma viral oncogene homolog (KRAS) or neuroblastoma RAS viral oncogene homolog (NRAS) mutated metastatic non-small cell lung cancer (NSCLC) with no approved therapies, or
+  * Relapsed or refractory metastatic triple negative breast cancer defined as estrogen, progesterone and HER2 negative carcinoma of the breast with no approved therapies, or
+  * Relapsed or refractory metastatic colorectal cancer (CRC) with dual KRAS and PIK3CA mutation with no approved therapies, or
+  * BRAF V600E/K mutated unresectable or metastatic melanoma after progression on B-Raf proto-oncogene, serine/threonine kinase (BRAF) inhibitors
+* Other protocol-defined inclusion criteria could apply
+
+Exclusion Criteria:
+
+* Subject has been previously treated with a PI3K inhibitor or a MEK inhibitor and taken off treatment due to treatment related adverse events
+* Subject has received:
+* Chemotherapy, immunotherapy, hormonal therapy, biologic therapy, or any other anti-cancer therapy within 28 days of trial drug treatment
+* Any investigational agent within 28 days of trial drug treatment
+* Extensive prior radiotherapy on more than 30% bone marrow reserves, or prior bone marrow/stem cell transplantation
+* Subject has not recovered from toxicity due to prior therapy
+* Subject has poor organ and marrow function as defined in the protocol
+* Subject has a history of central nervous system metastases, unless subject has been previously treated for CNS metastases
+* Subject has a history of difficulty swallowing, malabsorption or other chronic gastrointestinal disease
+* Subject has a history of recent major surgery or trauma within the last 28 days
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PALB2 (1 trials)
+======================================================================
+
+**NCT04095195** - Registry of Subjects at Risk of Pancreatic Cancer
+Phase: Not specified | Status: RECRUITING
+Interventions: MRCP, Endoultrasonography
+
+Biomarker Criteria:
+  - Inclusion Criteria to enter the registry:
+
+* individuals with at least two relatives suffering from pancreatic cancer, with at least 1 first-degree and until the third-degree
+* subjects with known genetic mutation of BRCA2, BRCA1, p16, PALB2 with at least 1 first- or 2nd-degree relative suffering from pancreatic cancer
+* subjects suffering from FAMMM Syndrome
+* subjects suffering from Peutz-Jeghers Syndrome
+* subjects suffering from PRSS-1- or CFTR- or SPINK-1- related pancreatitis
+* subjects suffering from Lynch syndrome with at least 1 first- or 2nd-degree relative suffering from pancreatic cancer
+
+Inclusion criteria to join the "radiologic follow-up":
+
+* 45 years or 10 years younger than the youngest index case of pancreatic cancer in the family for familial cases
+* 40 years or 5 years younger than the youngest index case of pancreatic cancer for subjects suffering from hereditary/genetic pancreatitis, Lynch syndrome, or carrying a known BRCA 1/2, PALB2, p16 genetic mutation with familiarity for pancreatic cancer
+* 30 years for subjects suffering from FAMMM, Peutz-Jeghers syndrome
+
+Exclusion Criteria:
+
+\- pregnancy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (29 trials)
+======================================================================
+
+**NCT02743819** - Pembrolizumab and Ipilimumab After Prior Immunotherapy for Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Pembrolizumab, Ipilimumab
+
+Biomarker Criteria:
+  - Has had a prior anti-cancer monoclonal antibody (mAb) within 4 weeks prior to study Day 1 (excluding commercial or investigational anti-PD1 or anti-PD-L1 antibodies as single agents) or who has not recovered (i
+
+----------------------------------------------------------------------
+
+**NCT03739931** - Dose Escalation Study of mRNA-2752 for Intratumoral Injection to Participants in Advanced Malignancies
+Phase: PHASE1 | Status: COMPLETED
+Interventions: mRNA-2752, Durvalumab
+
+Biomarker Criteria:
+  - Enrollment to Stage 3 of this cohort will include participants who have previously progressed on prior immune checkpoint blockade or participants with programmed death-ligand 1 (PD-L1) negative tumor based on archival tissue (if available)
+  - * Group 4 Urothelial cancer, first line: Must be cisplatin ineligible and PD-L1 negative
+  * Group 5 Urothelial cancer: Must have objective evidence of disease progression during or following platinum-containing chemotherapy
+  * Group 6 Cutaneous melanoma: Must be refractory to immune checkpoint blockade in the primary or secondary acquired resistance setting
+
+----------------------------------------------------------------------
+
+**NCT06566391** - Ipilimumab and Nivolumab Followed by Adjuvant Nivolumab in Locally Advanced or Limited Metastatic Melanoma
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Ipilimumab
+
+Biomarker Criteria:
+  - Prior treatment with an anti-PD-1, anti-PD-L1 or anti-CTLA-4 antibody
+
+----------------------------------------------------------------------
+
+**NCT04996823** - Axitinib + Ipilimumab in Advanced Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Ipilimumab, Axitinib
+
+Biomarker Criteria:
+  - 1 criteria
+* Documented disease refractory or intolerant to anti-PD-1/PD-L1 inhibitor treatment: in the metastatic setting or in the adjuvant setting if relapse on or within 6 months from end of anti-PD-1 treatment
+* If BRAFV600-mutant melanoma, patients may have had prior BRAF/MEK inhibitor therapy, or intolerance to these drugs
+* No limit to prior lines of treatment but prior ipilimumab not permitted
+* Prior treatment-related toxicity resolved to ≤ Grade 2 or baseline
+* Participants with a prior or concurrent malignancy whose natural history or treatment (in the opinion of the treating physician) does not have the potential to interfere with the safety or efficacy assessment of the investigational regimen are eligible for this trial
+
+----------------------------------------------------------------------
+
+**NCT06594991** - A Study of Fianlimab, Cemiplimab, and Ipilimumab in People With Melanoma
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Fianlimab, Cemiplimab
+
+Biomarker Criteria:
+  - * Patient must have a histologically confirmed diagnosis of locally advanced unresectable stage III/IV or metastatic stage IV cutaneous or mucosal melanoma that has progressed on PD-1/PD-L1 therapy:
+
+  o For Cohort A, the patient's melanoma must have progressed on prior PD-1 monotherapy
+  * For Cohort B, the patient's melanoma must have progressed on prior combination PD-1 + LAG-3 blockade
+  * Note: Intervening lines of targeted therapy, chemotherapy, bispecific (e
+
+----------------------------------------------------------------------
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - PD-L1 positivity is required for subjects with HNSCC (\>20% combined positive score) and NSCLC (\>20% PD-L1 expression)
+5
+  - Progressive disease, as considered by the treating physician, on therapy with PD1/PD-L1 blockers and/or CTLA4-blockers and/or LAG-3 blockers, or combinations regimes comprising any of these agents
+
+----------------------------------------------------------------------
+
+**NCT02858869** - Pembrolizumab and Stereotactic Radiosurgery for Melanoma or Non-Small Cell Lung Cancer Brain Metastases
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Pembrolizumab, Stereotactic Radiosurgery
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Be willing and able to provide written informed consent/assent for the trial
+* Eastern Cooperative Oncology Group (ECOG) performance scale (PS) of 0-1; Karnofsky performance status ≥ 70%
+* Patients must have histological diagnosis of melanoma or non-small cell lung cancer (biopsy will be done per standard of care, if needed to prove metastatic melanoma and/or NSCLC as well as for clinically relevant mutation analysis); additional biopsy will be per standard of care
+* Patients can be treated either in first line or in the refractory setting; programmed death-ligand 1 (PD-L1) positivity is not required for enrollment
+* All melanoma patients may be tested for proto-oncogene B-Raf (BRAF) as part of routine standard of care, but is not a requirement for the trial; all NSCLC patients may be tested for with epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK) as part of standard of care, but is not a requirement of the trial
+* Having gotten prior programmed cell death protein 1 (PD1) therapy is allowed for, especially if they have previously progressed on it; progression may include extra-cranial as well as intra-cranial progression; after progressing on PD1 therapy, intervening chemotherapy and/or targeted therapy (BRAF inhibitors \[BRAFi\], etc) is allowed; if they are on intervening chemotherapy and/or targeted therapy (BRAFi, etc), they have to have progression intra-cranially and/or extra-cranially and must be off intervening therapy for at least 2 weeks
+* Patient must be asymptomatic at time of getting SRS (day 0) on trial; prednisone \< 10 mg/day for at least 7 days prior to treatment is allowed
+* Patients with ocular, mucosal and unknown primary melanoma will also be eligible
+* Patients with 1-10 untreated brain metastases at time of initial brain metastases diagnosis (surgery to one of the brain lesions and/or biopsy of a lesion for diagnostic purposes and/or for standard of care purposes is acceptable)
+* Largest brain metastases volume measures less than 14
+
+----------------------------------------------------------------------
+
+**NCT03340129** - Anti-PD 1 Brain Collaboration + Radiotherapy Extension (ABC-X Study)
+Phase: PHASE2 | Status: RECRUITING
+Interventions: Ipilimumab, Nivolumab
+
+Biomarker Criteria:
+  - The presenting diagnosis of brain metastases at the time of enrolment in this study must have occurred a minimum of 6 months after stopping neoadjuvant or adjuvant systemic therapy (prior anti PD1, anti PD-L1, anti CTLA-4, BRAF / MEK inhibitors or clinical trial agents) are acceptable in the setting of neoadjuvant or adjuvant treatment
+8
+
+----------------------------------------------------------------------
+
+**NCT03235245** - Immunotherapy With Ipilimumab and Nivolumab Preceded or Not by a Targeted Therapy With Encorafenib and Binimetinib
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Nivolumab + Ipilimumab, Encorafenib + Binimetinib
+
+Biomarker Criteria:
+  - * Any prior treatment for advanced disease including treatment with an anti-Programmed Death receptor-1 (PD-1), anti-Programmed Death-1 ligand-1 (PD-L1), anti-PD-L2, anti-cytotoxic T lymphocyte associated antigen-4 (anti-CTLA-4) antibody, anti-LAG-3, anti-TIM-3, anti-IDO, etc or BRAF or MEK inhibitors
+
+----------------------------------------------------------------------
+
+**NCT04835805** - A Study to Evaluate the Safety and Activity of Belvarafenib as a Single Agent and in Combination With Either Cobimetinib or Cobimetinib Plus Nivolumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Belvarafenib, Cobimetinib
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* ECOG Performance Status of 0 or 1
+* Histologically confirmed, metastatic (recurrent or de novo Stage IV) or unresectable locally advanced (Stage III) cutaneous melanoma, that has progressed on or after treatment with anti-PD-1 or anti-PD-L1 therapy
+  - Treatment with anti-PD-1/PD-L1 in the adjuvant setting is acceptable
+
+----------------------------------------------------------------------
+
+**NCT02981303** - Study of Imprime PGG and Pembrolizumab in Advanced Melanoma and Triple Negative Breast Cancer
+Phase: PHASE2 | Status: COMPLETED
+Interventions: Imprime PGG, Pembrolizumab
+
+Biomarker Criteria:
+  - For Melanoma Subjects: Have histologically or cytologically confirmed diagnosis of unresectable Stage III or metastatic (Stage IV) melanoma not amenable to local therapy, and irrespective of PD-L1 status
+4
+  - For TNBC Subjects: Have histologically or cytologically confirmed diagnosis of metastatic (Stage IV) TNBC, and irrespective of PD-L1 status
+  - Have documented objective radiographic or clinical disease progression after PD-1/PD-L1 +/- anti-CTLA-4 inhibitor therapy (melanoma) or after at least 1 line of chemotherapy for metastatic disease (TNBC)
+6
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Interventions: Alintegimod, Ipilimumab
+
+Biomarker Criteria:
+  - Patients may have received treatment with anti PD-1/PD-L1
+
+----------------------------------------------------------------------
+
+**NCT01656642** - A Phase 1b Study of Atezolizumab in Combination With Vemurafenib or Vemurafenib Plus Cobimetinib in Participants With BRAFV600-Mutation Positive Metas
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Atezolizumab, Cobimetinib
+
+Biomarker Criteria:
+  - 1
+* For women of childbearing potential, agreement to remain abstinent (refrain from heterosexual intercourse) or use two effective forms of contraceptive methods including at least one that results in a failure rate of less than (\<) 1 percent (%) per year during the treatment period and for at least 6 months after the last dose of study drug
+* For men, agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures, and agreement to refrain from donating sperm
+* Agreement to mandatory archival tissue or fresh biopsy
+* Agreement to the collection of serial fresh lesion samples (required, if feasible, for entry into Escalation Cohorts 4 and Expansion Cohorts A \& B and optional, but encouraged in Escalation Cohorts 2 \& 3 and Expansion Cohort C)
+
+Exclusion Criteria:
+
+* Receipt of prior systemic anti-cancer therapy for unresectable, locally advanced or metastatic melanoma
+* Receipt of prior immunomodulatory agents, including programmed death-1 or PD-L1 targeted therapy or cytotoxic T-lymphocyte-associated antigen 4 targeted therapy including ipilimumab (this exclusion criterion does not apply to participants enrolled in Expansion Cohort A)
+* Receipt of prior mitogen-activated protein kinase inhibitor pathway agents including mitogen-activated protein kinase inhibitor and BRAF kinase inhibitor
+* Major surgical procedure within 28 days prior to Day 1 or anticipation of need for a major surgical procedure during the course of the study
+* Radiotherapy less than or equal to (\<=) 7 days prior to Day 1
+* Adverse events from prior anti-cancer therapy that have not resolved to Grade \<= 1 except for alopecia
+* Any active malignancy (other than BRAF-mutated melanoma) or a previous malignancy within the past 3 years
+* For participants to be enrolled into the vemurafenib+cobimetinib+ atezolizumab cohorts: history of or evidence of retinal pathology on ophthalmologic examination that is considered a risk factor for neurosensory retinal detachment/central serous chorioretinopathy, retinal vein occlusion, or neovascular macular degeneration
+* Pregnant or breastfeeding women
+* Intake of St
+
+----------------------------------------------------------------------
+
+**NCT02631447** - Sequential Combo Immuno and Target Therapy (SECOMBIT) Study
+Phase: PHASE2 | Status: COMPLETED
+Interventions: LGX818, MEK162
+
+Biomarker Criteria:
+  - Prior treatment for stage III (unresectable) or stage IV melanoma with an anti-Programmed Death receptor-1 (PD-1), anti-Programmed Death-1 ligand-1 (PD-L1), anti-PD-L2, or anti-cytotoxic T lymphocyte associated antigen-4 (anti-CTLA-4) antibody;
+5
+
+----------------------------------------------------------------------
+
+**NCT06060613** - Safety and Efficacy of OBX-115 in Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Interventions: OBX-115
+
+Biomarker Criteria:
+  - Melanoma participant experienced documented radiographic disease progression after systemic therapy containing a programmed cell death protein 1 (PD-1)/programmed death ligand 1 (PD-L1) blocking antibody
+  - Neoadjuvant/Adjuvant treatment will not be considered a prior line of systemic therapy unless the participant progressed during or within the 12 weeks after the last dose of the adjuvant PD-1/PD-L1 blocking antibody
+
+----------------------------------------------------------------------
+
+**NCT05293496** - A Study of MGC018 in Combination With MGD019 in Participants With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: vobramitamab duocarmazine, lorigerlimab
+
+Biomarker Criteria:
+  - * Participants who have a history of severe adverse events (AEs) from immune checkpoint inhibitors (anti-PD-1, anti-PD-L1, or CTLA-4 inhibitors)
+
+----------------------------------------------------------------------
+
+**NCT05075993** - Study of LVGN3616 and LVGN6051±LVGN7409 in Combination With Nab-Paclitaxel or Bevacizumab and Cyclophosphamide in Metastatic Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: LVGN3616 + LVGN6051 + Nab-Paclitaxel, LVGN3616 + LVGN6051 + Bevacizumab + Cyclophosphamide
+
+Biomarker Criteria:
+  - However, prior immunotherapy with anti-PD1/PD-L1 plus a CD137 agonist or a CD40 agonist is not allowed
+
+----------------------------------------------------------------------
+
+**NCT04133948** - Multicenter Phase 1b Trial Testing the Neoadjuvant Combination of Domatinostat, Nivolumab and Ipilimumab in IFN-gamma Signature-low and IFN-gamma Sign
+Phase: PHASE1 | Status: COMPLETED
+Interventions: Domatinostat, Nivolumab
+
+Biomarker Criteria:
+  - * Prior CTLA-4 or PD-1/PD-L1 targeting immunotherapy
+
+----------------------------------------------------------------------
+
+**NCT05704933** - Pilot Study of Nivolumab w/Ipilimumab or Relatlimab in Surgically Resectable Melanoma Brain Metastases
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Interventions: Nivolumab, Ipilimumab
+
+Biomarker Criteria:
+  - * Patients treated with prior monotherapy with PD-1/PD-L1 are permitted
+  - , anti-CTLA-4 or anti- PD-1/PD-L1 treatment or any other antibody or drug specifically targeting T-cell co-stimulation or immune checkpoint pathways) except those that are unlikely to re-occur with standard countermeasures (i
+  - * Has received prior therapy with an anti-PD-1, anti-PD-L1, anti-PD-L2, or anti-LAG-3 agent within 6 months prior to day 1 of treatment on study
+
+----------------------------------------------------------------------
+
+**NCT04096638** - Safety and Efficacy of SB 11285 Alone and in Combination With Atezolizumab in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: SB 11285, Atezolizumab
+
+Biomarker Criteria:
+  - Note: Tumor types of primary interest in Part 1 Dose Escalation include tumors which are relapsed or refractory after anti PD-1/PD-L1 therapy (include but not limited to malignant melanoma, HNSCC, renal cell carcinoma, hepatocellular carcinoma, Merkel cell carcinoma, urothelial, non-small cell lung cancer, gastric carcinoma, ovarian carcinoma, endometrial, TNBC, cervical cancer, and colorectal carcinoma)
+3
+  - Cohort A (Melanoma): Patients with advanced or metastatic melanoma who have progressed following treatment with an anti-PD-1 or anti-PD-L1 antibody
+  - Cohort B (Head and Neck): Patient has anti-PD-1/PD-L1 refractory metastatic or recurrent HNSCC of the oral cavity, oropharynx, hypopharynx, or larynx
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PIK3CA (1 trials)
+======================================================================
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+
+Biomarker Criteria:
+  - 1
+* Subject is aged greater than or equal to (\>=) 18 years
+* Subjects enrolled in disease specific expansion cohorts must fulfill all the inclusion/exclusion criteria listed above with the following restriction to the Inclusion Criterion number 1:
+
+  * Relapsed or refractory Kirsten rat sarcoma viral oncogene homolog (KRAS) or neuroblastoma RAS viral oncogene homolog (NRAS) mutated metastatic non-small cell lung cancer (NSCLC) with no approved therapies, or
+  * Relapsed or refractory metastatic triple negative breast cancer defined as estrogen, progesterone and HER2 negative carcinoma of the breast with no approved therapies, or
+  * Relapsed or refractory metastatic colorectal cancer (CRC) with dual KRAS and PIK3CA mutation with no approved therapies, or
+  * BRAF V600E/K mutated unresectable or metastatic melanoma after progression on B-Raf proto-oncogene, serine/threonine kinase (BRAF) inhibitors
+* Other protocol-defined inclusion criteria could apply
+
+Exclusion Criteria:
+
+* Subject has been previously treated with a PI3K inhibitor or a MEK inhibitor and taken off treatment due to treatment related adverse events
+* Subject has received:
+* Chemotherapy, immunotherapy, hormonal therapy, biologic therapy, or any other anti-cancer therapy within 28 days of trial drug treatment
+* Any investigational agent within 28 days of trial drug treatment
+* Extensive prior radiotherapy on more than 30% bone marrow reserves, or prior bone marrow/stem cell transplantation
+* Subject has not recovered from toxicity due to prior therapy
+* Subject has poor organ and marrow function as defined in the protocol
+* Subject has a history of central nervous system metastases, unless subject has been previously treated for CNS metastases
+* Subject has a history of difficulty swallowing, malabsorption or other chronic gastrointestinal disease
+* Subject has a history of recent major surgery or trauma within the last 28 days
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT01390818** - Trial of MEK Inhibitor and PI3K/mTOR Inhibitor in Subjects With Locally Advanced or Metastatic Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Interventions: MSC1936369B (pimasertib), SAR245409 (PI3K and mTOR inhibitor)
+
+Biomarker Criteria:
+  - Inclusion Criteria:
+
+* Subject with advanced solid tumors for which there is no approved therapy:
+
+  * Advanced solid tumor with diagnosed alteration in one or more of the following genes (PTEN, BRAF, KRAS, NRAS, PI3KCA, ErbB1, ErbB2, MET, RET, c-KIT, GNAQ, GNA11 and/or
+  * A histologically or cytologically confirmed diagnosis of one of the following solid tumors: pancreatic, thyroid, colorectal, non-small cell lung, endometrial, renal, breast, ovarian carcinoma and melanoma
+* Subject with archived tumor tissue available for transfer to the Sponsor
+* Subject enrolled at lower dose level cohorts and MTD expansion cohorts must have tumor available for biopsy and agree to pre-treatment and on-treatment tumor biopsies
+* Subject has measurable or evaluable disease by response evaluation criteria in solid tumors (RECIST) v1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TMB-H (1 trials)
+======================================================================
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR adult patients with unresectable or metastatic tumor mutational burden-high (TMB-H) \[≥10 mutations/megabase (mut/Mb)\] solid tumors;
+
+* Measurable disease based on Response Evaluation Criteria in Solid Tumors (RECIST) 1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (3 trials)
+======================================================================
+
+**NCT05286294** - Microbiota Transplant to Cancer Patients Who Have Failed Immunotherapy Using Faeces From Clinical Responders
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Interventions: Fecal Microbiota Transplant (FMT)
+
+Biomarker Criteria:
+  - Malignant melanoma, NSCLC and MSI-H/dMMR solid cancers: Prior response to ICI is allowed only if PD under ICI has been documented \<9 months before enrolment and without subsequent lines of anti-cancer therapy
+
+----------------------------------------------------------------------
+
+**NCT03767348** - Study of RP1 Monotherapy and RP1 in Combination With Nivolumab
+Phase: PHASE2 | Status: RECRUITING
+Interventions: RP1, nivolumab
+
+Biomarker Criteria:
+  - 1 criteria
+* Subjects with MSI-H or dMMR tumors: has diagnosis of MSI-H or metatstatic dMMR tumor (according to protocol definition) who has progressed on prior anti-PD1/PD-L1 therapy
+
+----------------------------------------------------------------------
+
+**NCT03236935** - Phase Ib of L-NMMA and Pembrolizumab
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Interventions: L-NMMA, Pembrolizumab
+
+Biomarker Criteria:
+  - OR MSI-H or dMMR unresectable or metastatic cancer that has relapsed after prior treatment and has no satisfactory alternative treatment options
+
+----------------------------------------------------------------------
+

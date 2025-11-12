@@ -21,7 +21,7 @@ async def inspect_results():
     print("="*80)
     
     # Inspect State 1 output: Structured criteria
-    print("\n📋 STATE 1 - STRUCTURED CRITERIA (Sample):")
+    print("\n[LIST] STATE 1 - STRUCTURED CRITERIA (Sample):")
     structured_criteria = sm.global_memory.get("structured_criteria", {})
     sample_trial = list(structured_criteria.keys())[0] if structured_criteria else None
     if sample_trial:
@@ -45,7 +45,7 @@ async def inspect_results():
         print(json.dumps(top_scorer[1], indent=2))
     
     # Inspect State 4 output: Eligibility assessments
-    print("\n⚖️ STATE 4 - ELIGIBILITY ASSESSMENT (Top match):")
+    print("\n⚖ STATE 4 - ELIGIBILITY ASSESSMENT (Top match):")
     eligibility = sm.global_memory.get("eligibility_assessments", {})
     if eligibility:
         top_match = list(eligibility.items())[0]

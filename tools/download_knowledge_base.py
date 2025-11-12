@@ -48,16 +48,16 @@ class KnowledgeBaseDownloader:
                     filename = self.guidelines_dir / f"nci_pdq_{cancer}.html"
                     filename.write_text(response.text, encoding='utf-8')
                     downloaded.append(str(filename))
-                    print(f"  ✓ Downloaded: {cancer}")
+                    print(f"  [+] Downloaded: {cancer}")
                 else:
-                    print(f"  ✗ Failed: {cancer} (status {response.status_code})")
+                    print(f"  [-] Failed: {cancer} (status {response.status_code})")
                 
                 time.sleep(1)  # Be respectful of NCI servers
                 
             except Exception as e:
-                print(f"  ✗ Error downloading {cancer}: {str(e)}")
+                print(f"  [-] Error downloading {cancer}: {str(e)}")
         
-        print(f"\n✅ Downloaded {len(downloaded)} NCI PDQ summaries")
+        print(f"\n[OK] Downloaded {len(downloaded)} NCI PDQ summaries")
         return downloaded
     
     def create_biomarker_guide(self) -> str:
@@ -114,7 +114,7 @@ class KnowledgeBaseDownloader:
 ## PD-L1 Expression (Immunotherapy Biomarker)
 
 ### Tumor Proportion Score (TPS):
-- **≥50%**: High expression
+- **>=50%**: High expression
   - First-line pembrolizumab monotherapy approved (NSCLC)
   - Strong predictor of response
   
@@ -127,8 +127,8 @@ class KnowledgeBaseDownloader:
 
 ### Combined Positive Score (CPS):
 - Used in gastric, cervical, HNSCC
-- CPS ≥10: Pembrolizumab approved
-- CPS ≥1: Consider combination therapy
+- CPS >=10: Pembrolizumab approved
+- CPS >=1: Consider combination therapy
 
 ---
 
@@ -224,7 +224,7 @@ class KnowledgeBaseDownloader:
 
 ## Tumor Mutational Burden (TMB)
 
-### TMB-High (≥10 mutations/Mb):
+### TMB-High (>=10 mutations/Mb):
 - Pembrolizumab approved (tumor-agnostic)
 - Predictor of immunotherapy response
 - Independent of PD-L1
@@ -253,7 +253,7 @@ class KnowledgeBaseDownloader:
         
         filename = self.biomarker_dir / "biomarker_interpretation_guide.md"
         filename.write_text(biomarker_content, encoding='utf-8')
-        print(f"✅ Created biomarker guide: {filename}")
+        print(f"[OK] Created biomarker guide: {filename}")
         
         return str(filename)
     
@@ -304,9 +304,9 @@ class KnowledgeBaseDownloader:
 
 ### PD-1 Inhibitors:
 - **Pembrolizumab** (Keytruda):
-  - NSCLC (PD-L1 ≥1%), melanoma, HNSCC
+  - NSCLC (PD-L1 >=1%), melanoma, HNSCC
   - MSI-H/dMMR (tumor-agnostic)
-  - TMB-H ≥10 mut/Mb (tumor-agnostic)
+  - TMB-H >=10 mut/Mb (tumor-agnostic)
   
 - **Nivolumab** (Opdivo):
   - Melanoma, NSCLC, RCC, Hodgkin, HNSCC
@@ -358,7 +358,7 @@ class KnowledgeBaseDownloader:
         
         filename = self.drug_labels_dir / "fda_oncology_drugs.md"
         filename.write_text(drug_content, encoding='utf-8')
-        print(f"✅ Created drug reference: {filename}")
+        print(f"[OK] Created drug reference: {filename}")
         
         return str(filename)
     
@@ -382,7 +382,7 @@ class KnowledgeBaseDownloader:
         results["drug_reference"] = self.create_fda_drug_reference()
         
         print("\n" + "="*60)
-        print("✅ KNOWLEDGE BASE DOWNLOAD COMPLETE!")
+        print("[OK] KNOWLEDGE BASE DOWNLOAD COMPLETE!")
         print("="*60)
         print(f"Total files: {len(results['nci_pdq']) + 2}")
         print(f"  - NCI PDQ Summaries: {len(results['nci_pdq'])}")

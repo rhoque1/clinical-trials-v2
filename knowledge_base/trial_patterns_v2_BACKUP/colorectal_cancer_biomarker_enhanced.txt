@@ -1,0 +1,1249 @@
+# Enhanced Biomarker-Specific Trials: Colorectal Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 144
+
+
+======================================================================
+## ALK (21 trials)
+======================================================================
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT00149396** - Safety & Efficacy of NV1020 in Colorectal Cancer Metastatic to the Liver
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 32
+Interventions: NV1020
+Locations: 5 sites
+Primary Outcome: Incidence of Adverse Events and Dose Limiting Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT02191969** - Physical Activity Intervention for Older Patients During Chemotherapy for Colorectal Cancer
+Phase: NA | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 36
+Interventions: Walk With Ease
+Locations: 1 sites
+Primary Outcome: To measure the change in fatigue after three months between the intervention and control arm
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1912
+Interventions: Signatera test, mFOLFOX6 3-6 month
+Locations: 1021 sites
+Primary Outcome: ctDNA positive status (TTPos)
+
+----------------------------------------------------------------------
+
+**NCT00230646** - Promoting Physical Activity After Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose:  | Enrollment: 46
+Interventions: Exercise counseling
+Locations: 1 sites
+Primary Outcome: Minutes of moderate-intensity physical activity (PA) at 3 months among 134 sedentary patients who ha
+
+----------------------------------------------------------------------
+
+**NCT03569761** - A Culturally-adapted Colorectal Cancer Screening Decision Aid Designed for American Indians
+Phase: NA | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 128
+Interventions: Colorectal Cancer Screening Decision Aid, Control Group
+Locations: 1 sites
+Primary Outcome: CRC screening intentions
+
+----------------------------------------------------------------------
+
+**NCT03152370** - Preoperative Radiotherapy and E7046 in Rectum Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 29
+Interventions: E7046, Long Course Chemoradiotherapy (LCRT)
+Locations: 5 sites
+Primary Outcome: Determination of maximum tolerated dose (MTD) in combination with pre-operative chemoradiotherapy
+
+----------------------------------------------------------------------
+
+**NCT02086656** - PERIOPERATIVE TREATMENT WITH COI-B (CAPECITABINE, OXALIPLATIN, IRINOTECAN AND BEVACIZUMAB) OF HIGH RISK OR BORDERLINE RE
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 46
+Interventions: capecitabine, oxaliplatin, irinotecan and bevacizumab
+Locations: 1 sites
+Primary Outcome: Pathological response rate
+
+----------------------------------------------------------------------
+
+**NCT00972881** - Capecitabine, Irinotecan Hydrochloride, Cetuximab, and Radiation Therapy in Treating Patients Undergoing Surgery for Loc
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 82
+Interventions: cetuximab, capecitabine
+Locations: 5 sites
+Primary Outcome: Histologically confirmed R0 resection rate
+
+----------------------------------------------------------------------
+
+**NCT01187901** - A Clinical Trial of COX and EGFR Inhibition in Familial Polyposis Patients
+Phase: PHASE2 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 92
+Interventions: Erlotinib, Sulindac
+Locations: 1 sites
+Primary Outcome: Change in Duodenal Polyp Burden From Baseline to 6 Months
+
+----------------------------------------------------------------------
+
+**NCT06876961** - Effect of Arm Cycling Exercise on Pulmonary Functions After Colectomy In Elderly
+Phase: NA | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 60
+Interventions: Arm cycling exercise, The traditional physical therapy program
+Locations: 1 sites
+Primary Outcome: Assessing the change of forced vital capacity using spirometry
+
+----------------------------------------------------------------------
+
+**NCT06930586** - Prognostic Value of Neurometabolic Networks in CRC (PVNM-CRC)
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 213
+Locations: 1 sites
+Primary Outcome: Area under curve (AUC)
+
+----------------------------------------------------------------------
+
+**NCT06857773** - Induction Treatment for Initially Unresectable Colorectal Liver Metastases: Combined Hepatic Arterial Infusion Pump Ther
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 306
+Interventions: Intra arterial infusion Floxuridine (FUDR) combined with systemic therapy, Hepatic arterial infusion pump (HAIP)
+Locations: 1 sites
+Primary Outcome: Overall survival
+
+----------------------------------------------------------------------
+
+**NCT00599924** - Study Of Sunitinib Plus FOLFOX In Patients With Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 53
+Interventions: sunitinib + FOLFOX, sunitinib + FOLFOX
+Locations: 3 sites
+Primary Outcome: Number of Subjects With Adverse Events (AEs) and Serious Adverse Events (SAEs)
+
+----------------------------------------------------------------------
+
+**NCT01878422** - Sequential Treatment Strategy for Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 376
+Interventions: Arm A: FOLFIRI or FOLFOX + Bevacizumab, Arm B: FOLFIRI or FOLFOX
+Locations: 23 sites
+Primary Outcome: Progression Free Survival (PFS) of first and second line treatment strategy
+
+----------------------------------------------------------------------
+
+**NCT00242788** - IRESSA™ In Combo With Xeloda™ in Advanced Colorectal Cancer Patients After 1st-Line Chemo Failure
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 40
+Interventions: Gefitinib and capecitabine
+Locations: 6 sites
+Primary Outcome: Objective tumour response (CR and PR) at study closure based on the RECIST
+
+----------------------------------------------------------------------
+
+**NCT06107920** - Neoadjuvant Chemotherapy for Obstructive Colon cancER First Treated by cOlostomy
+Phase: PHASE3 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 232
+Interventions: Neoadjuvant chemotherapy
+Primary Outcome: the success of a full curative therapeutic
+
+----------------------------------------------------------------------
+
+**NCT02944188** - Laparoscopic Versus Open Right Hemicolectomy Within ERAS in Right-sided Colon Cancer
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 602
+Interventions: Laparoscopic right hemicolectomy plus ERAS, Open right hemicolectomy plus ERAS
+Locations: 1 sites
+Primary Outcome: incidence of postoperative complications
+
+----------------------------------------------------------------------
+
+**NCT00436410** - Tumor Necrosis Factor in Patients Undergoing Surgery for Primary Cancer or Metastatic Cancer
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 108
+Interventions: colloidal gold-bound tumor necrosis factor, electron microscopy
+Locations: 2 sites
+Primary Outcome: Tumor tissue and normal tissue distribution of colloidal gold-bound tumor necrosis factor
+
+----------------------------------------------------------------------
+
+**NCT01298570** - Regorafenib+FOLFIRI Versus Placebo+FOLFIRI as 2nd Line Tx in Metastatic Colorectal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 181
+Interventions: Regorafenib (BAY 73-4506), FOLFIRI
+Locations: 24 sites
+Primary Outcome: Progression Free Survival (PFS)
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (139 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 700
+Interventions: Atezolizumab, Biospecimen Collection
+Locations: 1052 sites
+Primary Outcome: Disease free survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Rego+Tori+Cele
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT00002527** - Aspirin in Treating Patients With Colorectal Cancer That Has Been Surgically Removed
+Phase: PHASE3 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 635
+Interventions: aspirin, placebo
+Locations: 42 sites
+Primary Outcome: Reduction in size of tumors
+
+----------------------------------------------------------------------
+
+**NCT06120127** - Postoperative Chemotherapy With/Without Radiotherapy and Immunotherapy for Colorectal Liver Metastases With High Risk of
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 80
+Interventions: SBRT, Chemotherapy
+Locations: 1 sites
+Primary Outcome: Progression free survival
+
+----------------------------------------------------------------------
+
+**NCT01972373** - Visualization of Rectal Cancer During Endoscopy, Using a Fluorescent Tracer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 30
+Interventions: Bevacizumab-IRDye800CW, NIR fluorescence endoscopy
+Locations: 1 sites
+Primary Outcome: Sensitivity of the marker bevacizumab-IRDye800CW
+
+----------------------------------------------------------------------
+
+**NCT06452745** - Early Diagnosis of Colorectal Cancer Based on a Non-invasive Metabolomics Profile
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 2000
+Interventions: Colonoscopy, Urine and FOBT collection
+Locations: 2 sites
+Primary Outcome: Colonoscopy results
+
+----------------------------------------------------------------------
+
+**NCT05457075** - Immune Checkpoints in Predicting Response to Neoadjuvant Therapy in Rectal Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 38
+Interventions: Immune checkpoint measure
+Locations: 1 sites
+Primary Outcome: Soluble immune checkpoints
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: Cetuximab and irinotecan
+Locations: 1 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT05485077** - A Prospective Cohort Study on Colorectal Cancer Screening in Community Population
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 18000
+Locations: 1 sites
+Primary Outcome: Sensitivity and specificity of polygene methylation detection in colorectal cancer
+
+----------------------------------------------------------------------
+
+**NCT04965870** - A Study of Trifluridine/ Tipiracil in Chemorefractory mCRC in Greece
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 200
+Interventions: Trifluridine/Tipiracil
+Locations: 8 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Nivolumab
+Locations: 8 sites
+Primary Outcome: Primary Objective
+
+----------------------------------------------------------------------
+
+**NCT05806931** - Sequential TAS-OX Alternating With TAS-IRI Plus Bevacizumab for Late-Line Metastatic Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: TAS-102, oxaliplatin, irinotecan with bevacizumab
+Locations: 9 sites
+Primary Outcome: Disease control rate (DCR):
+
+----------------------------------------------------------------------
+
+**NCT06940102** - Real-World Study on Nano-Crystalline Megestrol Acetate for Cachexia in TKI-Treated Advanced Digestive Tumors
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 120
+Interventions: Nano-crystalline Megestrol Acetate Oral Suspension, TKI-Based Therapy
+Locations: 2 sites
+Primary Outcome: Appetite improvement level
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT06339346** - Analysis of Histopathological Factors Predictive of Lymph Node Involvement and Management Practices in pT1 Colorectal Ca
+Phase: Not specified | Status: ACTIVE_NOT_RECRUITING
+Purpose:  | Enrollment: 400
+Locations: 1 sites
+Primary Outcome: Analysis of lymph node invasion rates as a function of tumor characteristics
+
+----------------------------------------------------------------------
+
+**NCT04678583** - Anatomical Resection of Liver MetAstases iN patIents With RAS-mutated Colorectal Cancer
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Resection of colorectal liver metastases
+Locations: 37 sites
+Primary Outcome: Intrahepatic disease-free survival (iDFS)
+
+----------------------------------------------------------------------
+
+**NCT05336539** - A Community Population Screening Cohort Study Based on Polygene Methylation Detection for Colorectal Cancer in Yangzhou
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 80000
+Locations: 2 sites
+Primary Outcome: Evaluation of polygenic methylation detection in colorectal cancer
+
+----------------------------------------------------------------------
+
+**NCT04696757** - Non-OpeRative MANagement of Rectal Cancer Patients
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 18
+Interventions: Capecitabine
+Locations: 1 sites
+Primary Outcome: DFS
+
+----------------------------------------------------------------------
+
+**NCT05572801** - NOAC9 - Circulating Tumor DNA Guided Follow-Up in Anal Cancer
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 400
+Interventions: AMR B: HPV positive ctDNA guided imaging in follow-up
+Locations: 13 sites
+Primary Outcome: Disease free survival
+
+----------------------------------------------------------------------
+
+**NCT04223102** - Microbiome and Rectal Cancer
+Phase: NA | Status: ACTIVE_NOT_RECRUITING
+Purpose: BASIC_SCIENCE | Enrollment: 40
+Interventions: Tissue collection
+Locations: 3 sites
+Primary Outcome: 16s rRNA gene sequencing to study bacterial phylogeny and taxonomy
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (14 trials)
+======================================================================
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Rego+Tori+Cele
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: Cetuximab and irinotecan
+Locations: 1 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF 
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 748
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+Locations: 92 sites
+Primary Outcome: Progression Free Survival (PFS) assessed by IRC
+
+----------------------------------------------------------------------
+
+**NCT04923620** - Neoadjuvant Cetuximab + Chemotherapy Combined With Short-course Radiotherapy
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 51
+Interventions: cetuximab+mFOLFOX6, short-course radiotherapy
+Locations: 1 sites
+Primary Outcome: Pathological response rate
+
+----------------------------------------------------------------------
+
+**NCT00853931** - Biomarker - Panitumumab Response With KRAS Wild Type MCC
+Phase: NA | Status: COMPLETED
+Purpose:  | Enrollment: 52
+Interventions: Panitumumab
+Locations: 3 sites
+Primary Outcome: Response rate
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT07116577** - Radiotherapy Combined QL1706, TAS-102 and Bevacizumab in mCRC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Palliative radiotherapy, Iparomlimab and tuvonralimab
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT06534762** - Milaberon in Advanced Solid Tumors: an Open, Multicenter Clinical Study
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 260
+Interventions: Mirabegron
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT01351103** - A Study of LGK974 in Patients With Malignancies Dependent on Wnt Ligands
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 185
+Interventions: LGK974, PDR001
+Locations: 20 sites
+Primary Outcome: Incidence of dose limiting toxicities (DLTs) during the first cycle of LGK974 treatment and during t
+
+----------------------------------------------------------------------
+
+**NCT06857773** - Induction Treatment for Initially Unresectable Colorectal Liver Metastases: Combined Hepatic Arterial Infusion Pump Ther
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 306
+Interventions: Intra arterial infusion Floxuridine (FUDR) combined with systemic therapy, Hepatic arterial infusion pump (HAIP)
+Locations: 1 sites
+Primary Outcome: Overall survival
+
+----------------------------------------------------------------------
+
+**NCT06640166** - Encorafenib + Cetuximab Beyond Progression in Combination With FOLFIRI in Patients With BRAF V600E Mutated Metastatic Co
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: encorafenib + cetuximab + FOLFIRI
+Locations: 3 sites
+Primary Outcome: 6-month Progression Free Survival rate
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced o
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Cetuximab, Irinotecan Hydrochloride
+Locations: 798 sites
+Primary Outcome: Progression-free Survival(PFS)
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (21 trials)
+======================================================================
+
+**NCT05806931** - Sequential TAS-OX Alternating With TAS-IRI Plus Bevacizumab for Late-Line Metastatic Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 50
+Interventions: TAS-102, oxaliplatin, irinotecan with bevacizumab
+Locations: 9 sites
+Primary Outcome: Disease control rate (DCR):
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT02028442** - Phase I / II Study of Enadenotucirev by Sub-acute Fractionated IV Dosing in Cancer Patients
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 61
+Interventions: Enadenotucirev
+Locations: 6 sites
+Primary Outcome: Phase 1 - Maximum Tolerated Dose
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF 
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 748
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+Locations: 92 sites
+Primary Outcome: Progression Free Survival (PFS) assessed by IRC
+
+----------------------------------------------------------------------
+
+**NCT00422773** - Safety of Cetuximab and Oxaliplatin/5-FU/FA/Irinotecan in First-Line Treatment of Metastatic Colorectal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 21
+Interventions: Cetuximab
+Locations: 3 sites
+Primary Outcome: To assess a maximal tolerable dose and the safety of a chemotherapy-combination of cetuximab, irinot
+
+----------------------------------------------------------------------
+
+**NCT01596790** - COLOSPOT Study : Assessment by EPISPOT of Circulating Tumor Cells in Patients With Metastatic Colorectal Cancer
+Phase: NA | Status: COMPLETED
+Purpose: OTHER | Enrollment: 168
+Interventions: Blood analysis by EPISPOT and Cellsearch
+Locations: 1 sites
+Primary Outcome: Predictive value of the CTC on the Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT00853931** - Biomarker - Panitumumab Response With KRAS Wild Type MCC
+Phase: NA | Status: COMPLETED
+Purpose:  | Enrollment: 52
+Interventions: Panitumumab
+Locations: 3 sites
+Primary Outcome: Response rate
+
+----------------------------------------------------------------------
+
+**NCT02186236** - Detection of Oncogenic Tumor Mutations in the Urine and Blood of Lung and Colorectal Cancer Patients
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 84
+Locations: 6 sites
+Primary Outcome: EGFR detection in urinary cell free DNA [cfDNA]
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT01187901** - A Clinical Trial of COX and EGFR Inhibition in Familial Polyposis Patients
+Phase: PHASE2 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 92
+Interventions: Erlotinib, Sulindac
+Locations: 1 sites
+Primary Outcome: Change in Duodenal Polyp Burden From Baseline to 6 Months
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT01023737** - Hydroxychloroquine + Vorinostat in Advanced Solid Tumors
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 72
+Interventions: Hydroxychloroquine, Vorinostat
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) of Hydroxychloroquine (HCQ) in combination with Vorinostat in patients 
+
+----------------------------------------------------------------------
+
+**NCT06857773** - Induction Treatment for Initially Unresectable Colorectal Liver Metastases: Combined Hepatic Arterial Infusion Pump Ther
+Phase: PHASE3 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 306
+Interventions: Intra arterial infusion Floxuridine (FUDR) combined with systemic therapy, Hepatic arterial infusion pump (HAIP)
+Locations: 1 sites
+Primary Outcome: Overall survival
+
+----------------------------------------------------------------------
+
+**NCT06640166** - Encorafenib + Cetuximab Beyond Progression in Combination With FOLFIRI in Patients With BRAF V600E Mutated Metastatic Co
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 25
+Interventions: encorafenib + cetuximab + FOLFIRI
+Locations: 3 sites
+Primary Outcome: 6-month Progression Free Survival rate
+
+----------------------------------------------------------------------
+
+**NCT01878422** - Sequential Treatment Strategy for Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 376
+Interventions: Arm A: FOLFIRI or FOLFOX + Bevacizumab, Arm B: FOLFIRI or FOLFOX
+Locations: 23 sites
+Primary Outcome: Progression Free Survival (PFS) of first and second line treatment strategy
+
+----------------------------------------------------------------------
+
+**NCT00543842** - Bevacizumab, Erlotinib, and Capecitabine for Locally Advanced Rectal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 19
+Interventions: Bevacizumab, Capecitabine
+Locations: 1 sites
+Primary Outcome: Maximal tolerated dose (MTD)
+
+----------------------------------------------------------------------
+
+**NCT04166383** - VB-111 in Combination With Nivolumab in People With Metastatic Colorectal Cancer (mCRC)
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 14
+Interventions: Vascular Biogenics (VB)-111, Nivolumab
+Locations: 1 sites
+Primary Outcome: Number of Participants With Grade 1, Grade 2, Grade 3, Grade 4, and/or Grade 5 Adverse Events That A
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced o
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Cetuximab, Irinotecan Hydrochloride
+Locations: 798 sites
+Primary Outcome: Progression-free Survival(PFS)
+
+----------------------------------------------------------------------
+
+**NCT01051596** - A Study of ABT-888 in Combination With Temozolomide for Colorectal Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 75
+Interventions: Temozolomide, ABT-888
+Locations: 1 sites
+Primary Outcome: Percent of Patients With Disease Control
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (7 trials)
+======================================================================
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT06253871** - A Phase 1/1b Study of IAM1363 in HER2 Cancers
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 243
+Interventions: IAM1363
+Locations: 12 sites
+Primary Outcome: Incidence and severity of dose limiting toxicities (DLTs) (Part 1 only)
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 318
+Interventions: HS-10502
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) of HS-10502（Stage 1）
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced o
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Cetuximab, Irinotecan Hydrochloride
+Locations: 798 sites
+Primary Outcome: Progression-free Survival(PFS)
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 24
+Interventions: trastuzumab, tipifarnib
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (13 trials)
+======================================================================
+
+**NCT04678583** - Anatomical Resection of Liver MetAstases iN patIents With RAS-mutated Colorectal Cancer
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Resection of colorectal liver metastases
+Locations: 37 sites
+Primary Outcome: Intrahepatic disease-free survival (iDFS)
+
+----------------------------------------------------------------------
+
+**NCT05217069** - FOLFIRI + Cetuximab + Avelumab RAS Wild-type CRC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 57
+Interventions: 5-FU, Folinic Acid
+Locations: 1 sites
+Primary Outcome: Progression free survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT04923620** - Neoadjuvant Cetuximab + Chemotherapy Combined With Short-course Radiotherapy
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 51
+Interventions: cetuximab+mFOLFOX6, short-course radiotherapy
+Locations: 1 sites
+Primary Outcome: Pathological response rate
+
+----------------------------------------------------------------------
+
+**NCT00853931** - Biomarker - Panitumumab Response With KRAS Wild Type MCC
+Phase: NA | Status: COMPLETED
+Purpose:  | Enrollment: 52
+Interventions: Panitumumab
+Locations: 3 sites
+Primary Outcome: Response rate
+
+----------------------------------------------------------------------
+
+**NCT07116577** - Radiotherapy Combined QL1706, TAS-102 and Bevacizumab in mCRC
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 37
+Interventions: Palliative radiotherapy, Iparomlimab and tuvonralimab
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT01791361** - Medical Records Review to Describe the Patterns of KRAS Testing and Vectibix Use in Europe
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 439
+Interventions: Other
+Locations: 84 sites
+Primary Outcome: The prevalence of KRAS testing and impact of the KRAS test results on patterns of Vectibix use in pa
+
+----------------------------------------------------------------------
+
+**NCT01229813** - Avastin and Chemotherapy Followed by a KRAS Stratified Randomization to Maintenance Treatment for First Line Treatment o
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 233
+Interventions: bevacizumab, erlotinib, bevacizumab
+Locations: 12 sites
+Primary Outcome: To demonstrate that maintenance treatment with bevacizumab + erlotinib following first line chemo- a
+
+----------------------------------------------------------------------
+
+**NCT01878422** - Sequential Treatment Strategy for Metastatic Colorectal Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 376
+Interventions: Arm A: FOLFIRI or FOLFOX + Bevacizumab, Arm B: FOLFIRI or FOLFOX
+Locations: 23 sites
+Primary Outcome: Progression Free Survival (PFS) of first and second line treatment strategy
+
+----------------------------------------------------------------------
+
+**NCT04166383** - VB-111 in Combination With Nivolumab in People With Metastatic Colorectal Cancer (mCRC)
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 14
+Interventions: Vascular Biogenics (VB)-111, Nivolumab
+Locations: 1 sites
+Primary Outcome: Number of Participants With Grade 1, Grade 2, Grade 3, Grade 4, and/or Grade 5 Adverse Events That A
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced o
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Cetuximab, Irinotecan Hydrochloride
+Locations: 798 sites
+Primary Outcome: Progression-free Survival(PFS)
+
+----------------------------------------------------------------------
+
+**NCT06179160** - A Study to Evaluate INCB161734 in Participants With Advanced or Metastatic Solid Tumors With KRAS G12D Mutation
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 710
+Interventions: INCB161734, Cetuximab
+Locations: 34 sites
+Primary Outcome: Number of participants with Dose Limiting Toxicities (DLTs)
+
+----------------------------------------------------------------------
+
+**NCT01274624** - Study of REOLYSIN® in Combination With FOLFIRI and Bevacizumab in FOLFIRI Naive Patients With KRAS Mutant Metastatic Col
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 36
+Interventions: REOLYSIN®, Irinotecan
+Locations: 2 sites
+Primary Outcome: Dose limiting toxicity to define maximum tolerated dose and recommended Phase 2 dose
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (13 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 700
+Interventions: Atezolizumab, Biospecimen Collection
+Locations: 1052 sites
+Primary Outcome: Disease free survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Rego+Tori+Cele
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: Cetuximab and irinotecan
+Locations: 1 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF 
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 748
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+Locations: 92 sites
+Primary Outcome: Progression Free Survival (PFS) assessed by IRC
+
+----------------------------------------------------------------------
+
+**NCT05217069** - FOLFIRI + Cetuximab + Avelumab RAS Wild-type CRC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 57
+Interventions: 5-FU, Folinic Acid
+Locations: 1 sites
+Primary Outcome: Progression free survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1912
+Interventions: Signatera test, mFOLFOX6 3-6 month
+Locations: 1021 sites
+Primary Outcome: ctDNA positive status (TTPos)
+
+----------------------------------------------------------------------
+
+**NCT06205836** - Cemiplimab With or Without Fianlimab to Treat Older Patients With Localized or Locally Advanced MSI-H Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 33
+Interventions: Cemiplimab, Fianlimab
+Locations: 1 sites
+Primary Outcome: Complete Response Rate
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT03667170** - KN035 for dMMR/MSI-H Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 200
+Interventions: KN035
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT04166383** - VB-111 in Combination With Nivolumab in People With Metastatic Colorectal Cancer (mCRC)
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 14
+Interventions: Vascular Biogenics (VB)-111, Nivolumab
+Locations: 1 sites
+Primary Outcome: Number of Participants With Grade 1, Grade 2, Grade 3, Grade 4, and/or Grade 5 Adverse Events That A
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (5 trials)
+======================================================================
+
+**NCT04678583** - Anatomical Resection of Liver MetAstases iN patIents With RAS-mutated Colorectal Cancer
+Phase: NA | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Resection of colorectal liver metastases
+Locations: 37 sites
+Primary Outcome: Intrahepatic disease-free survival (iDFS)
+
+----------------------------------------------------------------------
+
+**NCT05217069** - FOLFIRI + Cetuximab + Avelumab RAS Wild-type CRC
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 57
+Interventions: 5-FU, Folinic Acid
+Locations: 1 sites
+Primary Outcome: Progression free survival (PFS)
+
+----------------------------------------------------------------------
+
+**NCT04923620** - Neoadjuvant Cetuximab + Chemotherapy Combined With Short-course Radiotherapy
+Phase: Not specified | Status: RECRUITING
+Purpose:  | Enrollment: 51
+Interventions: cetuximab+mFOLFOX6, short-course radiotherapy
+Locations: 1 sites
+Primary Outcome: Pathological response rate
+
+----------------------------------------------------------------------
+
+**NCT03365882** - S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced o
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 240
+Interventions: Cetuximab, Irinotecan Hydrochloride
+Locations: 798 sites
+Primary Outcome: Progression-free Survival(PFS)
+
+----------------------------------------------------------------------
+
+**NCT06206096** - PD-1 Antibody Plus Bevacizumab and CAPOX as First-line Treatment for RAS-mut MSS mCRC
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 40
+Interventions: oxaliplatin+capecitabine+bevacizumab+PD-1 antibody
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (11 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 700
+Interventions: Atezolizumab, Biospecimen Collection
+Locations: 1052 sites
+Primary Outcome: Disease free survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Rego+Tori+Cele
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT06120127** - Postoperative Chemotherapy With/Without Radiotherapy and Immunotherapy for Colorectal Liver Metastases With High Risk of
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 80
+Interventions: SBRT, Chemotherapy
+Locations: 1 sites
+Primary Outcome: Progression free survival
+
+----------------------------------------------------------------------
+
+**NCT05457075** - Immune Checkpoints in Predicting Response to Neoadjuvant Therapy in Rectal Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 38
+Interventions: Immune checkpoint measure
+Locations: 1 sites
+Primary Outcome: Soluble immune checkpoints
+
+----------------------------------------------------------------------
+
+**NCT06638931** - Agnostic Therapy in Rare Solid Tumors
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 28
+Interventions: Nivolumab
+Locations: 8 sites
+Primary Outcome: Primary Objective
+
+----------------------------------------------------------------------
+
+**NCT02992912** - Atezolizumab With Stereotactic Ablative Radiotherapy in Patients With Metastatic Tumours
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Anti-PD-L1 antibody atezolizumab, SABR
+Locations: 1 sites
+Primary Outcome: Progression Free Survival
+
+----------------------------------------------------------------------
+
+**NCT06205836** - Cemiplimab With or Without Fianlimab to Treat Older Patients With Localized or Locally Advanced MSI-H Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 33
+Interventions: Cemiplimab, Fianlimab
+Locations: 1 sites
+Primary Outcome: Complete Response Rate
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT03095781** - Pembrolizumab and XL888 in Patients With Advanced Gastrointestinal Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 49
+Interventions: XL888, Pembrolizumab
+Locations: 3 sites
+Primary Outcome: Recommended phase II dose of the combination of XL888 and pembrolizumab as assessed by National Canc
+
+----------------------------------------------------------------------
+
+**NCT04540159** - Immune Checkpoints in Intraabdominal Ascites Fluid
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 50
+Interventions: Flow-cytometric analysis
+Locations: 1 sites
+Primary Outcome: Immune Checkpoint levels
+
+----------------------------------------------------------------------
+
+**NCT06362369** - A Study of Oral 7HP349 (Alintegimod) in Combination With Ipilimumab Followed by Nivolumab Monotherapy
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 126
+Interventions: Alintegimod, Ipilimumab
+Locations: 4 sites
+Primary Outcome: Number of participants treated with Alintegimod monotherapy with treatment related adverse events as
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (1 trials)
+======================================================================
+
+**NCT00853931** - Biomarker - Panitumumab Response With KRAS Wild Type MCC
+Phase: NA | Status: COMPLETED
+Purpose:  | Enrollment: 52
+Interventions: Panitumumab
+Locations: 3 sites
+Primary Outcome: Response rate
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (9 trials)
+======================================================================
+
+**NCT02912559** - Combination Chemotherapy With or Without Atezolizumab in Treating Patients With Stage III Colon Cancer and Deficient DNA
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 700
+Interventions: Atezolizumab, Biospecimen Collection
+Locations: 1052 sites
+Primary Outcome: Disease free survival (DFS)
+
+----------------------------------------------------------------------
+
+**NCT05933980** - Toripalimab,Celecoxib and Regorafenib in the Treatment of Refractory Advanced Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 44
+Interventions: Rego+Tori+Cele
+Locations: 1 sites
+Primary Outcome: ORR
+
+----------------------------------------------------------------------
+
+**NCT05962502** - Cetuximab Plus Irinotecan in Patients With NeoRAS Wild-type Metastatic Colorectal Cancer In Third-line Therapy
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 54
+Interventions: Cetuximab and irinotecan
+Locations: 1 sites
+Primary Outcome: Objective response rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT04854668** - A Study of Anlotinib Hydrochloride Capsule Combined With Chemotherapy as First-line Treatment in Subjects With RAS/BRAF 
+Phase: PHASE3 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 748
+Interventions: Anlotinib hydrochloride capsule, Bevacizumab
+Locations: 92 sites
+Primary Outcome: Progression Free Survival (PFS) assessed by IRC
+
+----------------------------------------------------------------------
+
+**NCT05174169** - Colon Adjuvant Chemotherapy Based on Evaluation of Residual Disease
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1912
+Interventions: Signatera test, mFOLFOX6 3-6 month
+Locations: 1021 sites
+Primary Outcome: ctDNA positive status (TTPos)
+
+----------------------------------------------------------------------
+
+**NCT06205836** - Cemiplimab With or Without Fianlimab to Treat Older Patients With Localized or Locally Advanced MSI-H Colorectal Cancer
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 33
+Interventions: Cemiplimab, Fianlimab
+Locations: 1 sites
+Primary Outcome: Complete Response Rate
+
+----------------------------------------------------------------------
+
+**NCT06783569** - A First-in-Human Escalation and Expansion Study of Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 94
+Interventions: JR8603
+Locations: 2 sites
+Primary Outcome: Adverse Events (Including Serious Adverse Events)
+
+----------------------------------------------------------------------
+
+**NCT05029882** - Study to Assess Adverse Events and Change in Disease Activity in Adult Participants With Advanced Solid Tumors Receiving
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 520
+Interventions: ABBV-400, Trifluridine/Tipiracil
+Locations: 82 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+
+**NCT03667170** - KN035 for dMMR/MSI-H Advanced Solid Tumors
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 200
+Interventions: KN035
+Locations: 1 sites
+Primary Outcome: Objective Response Rate (ORR)
+
+----------------------------------------------------------------------
+

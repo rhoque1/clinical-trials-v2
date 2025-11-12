@@ -44,38 +44,45 @@ class ClinicalRAG:
         
     def load_and_chunk_documents(self) -> List[Document]:
         """
-        Load all PDFs from knowledge base and chunk them
+        Load all PDFs and TXT files from knowledge base and chunk them
         Returns list of Document objects with metadata
         """
         print("\n" + "="*70)
         print("📚 LOADING AND CHUNKING CLINICAL DOCUMENTS")
         print("="*70)
-        
+
         all_documents = []
-        
+
         # Define document categories
         categories = {
             "treatment_guideline": self.knowledge_base_dir / "guidelines",
             "drug_label": self.knowledge_base_dir / "drug_labels",
-            "biomarker_guide": self.knowledge_base_dir / "biomarker_guides"
+            "biomarker_guide": self.knowledge_base_dir / "biomarker_guides",
+            "trial_pattern": self.knowledge_base_dir / "trial_patterns_v2"  # ENHANCED v2.0
         }
-        
+
         for category, directory in categories.items():
             if not directory.exists():
-                print(f"⚠️  Directory not found: {directory}")
+                print(f"[!]  Directory not found: {directory}")
                 continue
-                
+
+            # Load PDF files
             pdf_files = list(directory.glob("*.pdf"))
-            print(f"\n📂 Processing {category.replace('_', ' ').title()}: {len(pdf_files)} files")
-            
+            # Load TXT files (NEW)
+            txt_files = list(directory.glob("*.txt"))
+
+            total_files = len(pdf_files) + len(txt_files)
+            print(f"\n📂 Processing {category.replace('_', ' ').title()}: {total_files} files ({len(pdf_files)} PDFs, {len(txt_files)} TXT)")
+
+            # Process PDF files
             for pdf_path in pdf_files:
                 try:
                     print(f"  Loading: {pdf_path.name}...", end=" ")
-                    
+
                     # Load PDF
                     loader = PyPDFLoader(str(pdf_path))
                     pages = loader.load()
-                    
+
                     # Add metadata
                     for page in pages:
                         page.metadata.update({
@@ -83,15 +90,40 @@ class ClinicalRAG:
                             "category": category,
                             "file_path": str(pdf_path)
                         })
-                    
+
                     all_documents.extend(pages)
-                    print(f"✓ {len(pages)} pages")
-                    
+                    print(f"[+] {len(pages)} pages")
+
                 except Exception as e:
-                    print(f"✗ Error: {str(e)[:50]}")
-        
-        print(f"\n✅ Total pages loaded: {len(all_documents)}")
-        
+                    print(f"[-] Error: {str(e)[:50]}")
+
+            # Process TXT files (NEW)
+            for txt_path in txt_files:
+                try:
+                    print(f"  Loading: {txt_path.name}...", end=" ")
+
+                    # Read text file
+                    with open(txt_path, 'r', encoding='utf-8') as f:
+                        content = f.read()
+
+                    # Create Document object
+                    doc = Document(
+                        page_content=content,
+                        metadata={
+                            "source": txt_path.name,
+                            "category": category,
+                            "file_path": str(txt_path)
+                        }
+                    )
+
+                    all_documents.append(doc)
+                    print(f"[+] {len(content)} chars")
+
+                except Exception as e:
+                    print(f"[-] Error: {str(e)[:50]}")
+
+        print(f"\n[OK] Total documents loaded: {len(all_documents)}")
+
         # Chunk documents
         print("\n🔪 Chunking documents...")
         text_splitter = RecursiveCharacterTextSplitter(
@@ -99,10 +131,10 @@ class ClinicalRAG:
             chunk_overlap=200,  # Overlap to preserve context
             separators=["\n\n", "\n", ". ", " ", ""]
         )
-        
+
         chunks = text_splitter.split_documents(all_documents)
-        print(f"✅ Created {len(chunks)} chunks")
-        
+        print(f"[OK] Created {len(chunks)} chunks")
+
         return chunks
     
     def build_vectorstore(self, force_rebuild: bool = False) -> FAISS:
@@ -114,14 +146,14 @@ class ClinicalRAG:
         
         # Check if vectorstore already exists
         if vectorstore_file.exists() and not force_rebuild:
-            print("\n📦 Loading existing vectorstore...")
+            print("\n[BOX] Loading existing vectorstore...")
             self.vectorstore = FAISS.load_local(
                 str(self.vectorstore_path),
                 self.embeddings,
                 index_name="clinical_guidelines",
                 allow_dangerous_deserialization=True
             )
-            print("✅ Vectorstore loaded")
+            print("[OK] Vectorstore loaded")
             return self.vectorstore
         
         # Build new vectorstore
@@ -137,12 +169,12 @@ class ClinicalRAG:
         self.vectorstore = FAISS.from_documents(chunks, self.embeddings)
         
         # Save to disk
-        print("\n💾 Saving vectorstore to disk...")
+        print("\n[DISK] Saving vectorstore to disk...")
         self.vectorstore.save_local(
             str(self.vectorstore_path),
             index_name="clinical_guidelines"
         )
-        print(f"✅ Vectorstore saved to: {self.vectorstore_path}")
+        print(f"[OK] Vectorstore saved to: {self.vectorstore_path}")
         
         return self.vectorstore
     
@@ -218,7 +250,7 @@ def test_rag_system():
     ]
     
     print("\n" + "="*70)
-    print("🔍 TESTING RETRIEVAL")
+    print("[SEARCH] TESTING RETRIEVAL")
     print("="*70)
     
     for query in test_queries:
@@ -234,7 +266,7 @@ def test_rag_system():
             print(f"    Content preview: {result['content'][:150]}...")
     
     print("\n" + "="*70)
-    print("✅ RAG SYSTEM TEST COMPLETE")
+    print("[OK] RAG SYSTEM TEST COMPLETE")
     print("="*70)
 
 

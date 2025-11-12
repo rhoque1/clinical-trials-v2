@@ -1,6 +1,6 @@
 """
 Test script for Complete Pipeline (Phase 4)
-Tests end-to-end: PDF → Patient Profile → Trial Discovery → Eligibility Analysis
+Tests end-to-end: PDF -> Patient Profile -> Trial Discovery -> Eligibility Analysis
 """
 
 import sys
@@ -27,12 +27,12 @@ async def run_complete_pipeline():
     
     # Check if PDF exists
     if not os.path.exists(pdf_path):
-        print(f"\n❌ ERROR: PDF not found at {pdf_path}")
+        print(f"\n[X] ERROR: PDF not found at {pdf_path}")
         print("Please ensure tap.pdf is in the project root directory")
         return
     
-    print(f"\n✓ Found PDF: {pdf_path}")
-    print(f"✓ Mode: AUTO (complete automation)")
+    print(f"\n[+] Found PDF: {pdf_path}")
+    print(f"[+] Mode: AUTO (complete automation)")
     print("\nStarting pipeline execution...\n")
     
     # Run the complete workflow
@@ -40,7 +40,7 @@ async def run_complete_pipeline():
     
     # Check if successful
     if not results.get("success"):
-        print(f"\n❌ Pipeline failed: {results.get('error', 'Unknown error')}")
+        print(f"\n[X] Pipeline failed: {results.get('error', 'Unknown error')}")
         return
     
     # Display detailed results
@@ -54,7 +54,7 @@ async def run_complete_pipeline():
     diagnoses = patient_profile.get('diagnoses', {})
     biomarkers = patient_profile.get('biomarkers', {})
     
-    print("\n📋 PHASE 1 - PATIENT PROFILE:")
+    print("\n[LIST] PHASE 1 - PATIENT PROFILE:")
     print(f"  Age: {demographics.get('age')} years")
     print(f"  Sex: {demographics.get('sex')}")
     # Handle diagnoses (string format from extraction)
@@ -88,7 +88,7 @@ async def run_complete_pipeline():
     trial_discovery = results.get('trial_discovery', {})
     ranked_trials = trial_discovery.get('ranked_trials', [])
     
-    print(f"\n🔍 PHASE 2 - TRIAL DISCOVERY:")
+    print(f"\n[SEARCH] PHASE 2 - TRIAL DISCOVERY:")
     print(f"  Total trials found: {trial_discovery.get('total_found', 0)}")
     print(f"  Trials ranked: {len(ranked_trials)}")
     print(f"  Top match score: {trial_discovery.get('top_score', 0)}")
@@ -104,8 +104,8 @@ async def run_complete_pipeline():
     knowledge_enhancement = results.get('knowledge_enhancement', {})
     enhanced_trials = knowledge_enhancement.get('ranked_trials', [])
     
-    print(f"\n🧠 PHASE 2.5 - KNOWLEDGE-ENHANCED RANKING (RAG):")
-    print(f"  Knowledge enhancement: {'✓ Applied' if knowledge_enhancement.get('knowledge_enhanced') else '✗ Not applied'}")
+    print(f"\n[BRAIN] PHASE 2.5 - KNOWLEDGE-ENHANCED RANKING (RAG):")
+    print(f"  Knowledge enhancement: {'[+] Applied' if knowledge_enhancement.get('knowledge_enhanced') else '[-] Not applied'}")
     print(f"  Trials enhanced: {knowledge_enhancement.get('enhancement_count', 0)}")
     
     if enhanced_trials:
@@ -134,7 +134,7 @@ async def run_complete_pipeline():
     top_matches = eligibility_analysis.get('top_matches', [])
     summary = eligibility_analysis.get('summary', '')
     
-    print(f"\n⚖️ PHASE 3 - ELIGIBILITY ANALYSIS:")
+    print(f"\n⚖ PHASE 3 - ELIGIBILITY ANALYSIS:")
     print(f"  Top recommendations: {len(top_matches)}")
     
     if top_matches:
@@ -150,25 +150,25 @@ async def run_complete_pipeline():
             
             strengths = match.get('strengths', [])
             if strengths:
-                print(f"\n    ✓ Strengths ({len(strengths)}):")
+                print(f"\n    [+] Strengths ({len(strengths)}):")
                 for strength in strengths:
                     print(f"      • {strength}")
             
             concerns = match.get('concerns', [])
             if concerns:
-                print(f"\n    ⚠️ Concerns ({len(concerns)}):")
+                print(f"\n    [!] Concerns ({len(concerns)}):")
                 for concern in concerns:
                     print(f"      • {concern}")
             
             required_actions = match.get('required_actions', [])
             if required_actions:
-                print(f"\n    📋 Required Actions ({len(required_actions)}):")
+                print(f"\n    [LIST] Required Actions ({len(required_actions)}):")
                 for action in required_actions:
                     print(f"      • {action}")
             
             next_steps = match.get('next_steps', '')
             if next_steps:
-                print(f"\n    ➡️ Next Steps:")
+                print(f"\n    ➡ Next Steps:")
                 print(f"      {next_steps}")
     
     if summary:
@@ -177,18 +177,18 @@ async def run_complete_pipeline():
     
     # Execution metrics
     execution_time = results.get('execution_time_seconds', 0)
-    print(f"\n⏱️ EXECUTION METRICS:")
+    print(f"\n⏱ EXECUTION METRICS:")
     print(f"  Total time: {execution_time:.1f} seconds ({execution_time/60:.2f} minutes)")
     print(f"  Timestamp: {results.get('timestamp', 'Unknown')}")
     
     # Success message
     print("\n" + "="*80)
-    print("✅ COMPLETE PIPELINE TEST PASSED")
+    print("[OK] COMPLETE PIPELINE TEST PASSED")
     print("="*80)
     print("\nAll three phases executed successfully:")
-    print("  ✓ Phase 1: Patient Profile Extracted")
-    print("  ✓ Phase 2: Trials Discovered and Ranked")
-    print("  ✓ Phase 3: Eligibility Analyzed and Recommendations Generated")
+    print("  [+] Phase 1: Patient Profile Extracted")
+    print("  [+] Phase 2: Trials Discovered and Ranked")
+    print("  [+] Phase 3: Eligibility Analyzed and Recommendations Generated")
     print(f"\nResults saved to JSON file in output/ directory")
 
 
@@ -202,14 +202,14 @@ async def run_quick_test():
     pdf_path = "tccr.pdf"
     
     if not os.path.exists(pdf_path):
-        print(f"\n❌ ERROR: PDF not found at {pdf_path}")
+        print(f"\n[X] ERROR: PDF not found at {pdf_path}")
         return
     
     print("\nRunning Phase 1 only (Patient Profiling)...\n")
     result = await engine.run_patient_profiling(pdf_path)
     
     if result.get("success"):
-        print("\n✅ Phase 1 test passed!")
+        print("\n[OK] Phase 1 test passed!")
         
         # Handle diagnoses (could be string or dict)
         diagnoses = result.get('diagnoses', '')
@@ -227,7 +227,7 @@ async def run_quick_test():
         
         print(f"   Search terms: {len(result.get('search_terms', []))} generated")
     else:
-        print(f"\n❌ Phase 1 test failed: {result.get('error', 'Unknown')}")
+        print(f"\n[X] Phase 1 test failed: {result.get('error', 'Unknown')}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,628 @@
+# Enhanced Biomarker-Specific Trials: Prostate Cancer
+# Generated: 2025-11-06
+# Trials with Biomarker Requirements: 165
+
+
+======================================================================
+## ALK (15 trials)
+======================================================================
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Zanzalintinib
+Primary Outcome: Radiographic progression free survival (rPFS)
+
+----------------------------------------------------------------------
+
+**NCT05110495** - IGF Inhibition With Xentuzumab Prior to Radical Prostatectomy
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Xentuzumab
+Locations: 1 sites
+Primary Outcome: Percentage Change of Phospho-IGF-1R Positive Tumour Cells Following Treatment With Xentuzumab
+
+----------------------------------------------------------------------
+
+**NCT01051570** - Carboplatin, Everolimus, and Prednisone in Treating Patients With Metastatic Prostate Cancer That Progressed After Docet
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 26
+Interventions: carboplatin, RAD 001
+Locations: 4 sites
+Primary Outcome: Time to Progression (TTP)
+
+----------------------------------------------------------------------
+
+**NCT00147212** - ET 743 (Yondelis) in Men With Advanced Prostate Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 50
+Interventions: ET 743
+Locations: 2 sites
+Primary Outcome: The Number of Men With Advanced Prostate Cancer Treated With Trabectedin Who Have a PSA Response
+
+----------------------------------------------------------------------
+
+**NCT00888654** - Diindolylmethane in Treating Patients With Stage I or Stage II Prostate Cancer Undergoing Radical Prostatectomy
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 41
+Interventions: B-Dim, Radical Prosatectomy
+Locations: 2 sites
+Primary Outcome: Mean Level of Diindolylmethane in Prostate Tissue After Treatment
+
+----------------------------------------------------------------------
+
+**NCT00694551** - PSMA and TARP Peptide Vaccine With Poly IC-LC Adjuvant in HLA-A2 (+) Patients With Elevated PSA After Initial Definitive
+Phase: NA | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 29
+Interventions: Peptide Vaccine, Poly IC-LC
+Locations: 2 sites
+Primary Outcome: Occurrence of Related Adverse Events - Grade 3 or Higher
+
+----------------------------------------------------------------------
+
+**NCT06826768** - A Ph Ib Study of REGN5678 Plus Cemiplimab in Patients With mCRPC
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 60
+Interventions: REGN5678, Cemiplimab
+Locations: 1 sites
+Primary Outcome: Safety and Adverse Events (AEs
+
+----------------------------------------------------------------------
+
+**NCT02799602** - Darolutamide in Addition to Standard Androgen Deprivation Therapy and Docetaxel in Metastatic Hormone-Sensitive Prostate
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 1306
+Interventions: BAY1841788 / darolutamide (ODM-201), Standard ADT (androgen deprivation therapy)
+Locations: 300 sites
+Primary Outcome: OS From Date of Randomization Until Death From Any Cause - Number of Events
+
+----------------------------------------------------------------------
+
+**NCT07074405** - Acceptability of Artificial Intelligence in the Diagnosis of Prostate Cancer
+Phase: NA | Status: RECRUITING
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 50
+Interventions: Questionnaire and Physical Exam
+Locations: 1 sites
+Primary Outcome: Perceived Benefits of using AI in the diagnosis of prostate cancer
+
+----------------------------------------------------------------------
+
+**NCT00078923** - Soy Isoflavones in Treating Patients Who Are Undergoing Radical Prostatectomy for Stage I or Stage II Adenocarcinoma of 
+Phase: PHASE2 | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 32
+Interventions: soy isoflavones, neoadjuvant therapy
+Locations: 1 sites
+Primary Outcome: Oxidative DNA damage as measured by 5-hydroxymethyluridine level
+
+----------------------------------------------------------------------
+
+**NCT06237179** - Behavioral Exercise Training to Reduce Cardiovascular Disease Risk
+Phase: PHASE1 | Status: RECRUITING
+Purpose: SUPPORTIVE_CARE | Enrollment: 60
+Interventions: Exercise Training Intervention, Healthy Living Education
+Locations: 2 sites
+Primary Outcome: Change from baseline in maximal exercise capacity (VO2 peak) at 12 weeks
+
+----------------------------------------------------------------------
+
+**NCT05195190** - Validity, Reliability and Minimum Detectable Changes of 2-Minute Walk , Timed Up and Go, Sit and Stand Test in Patients 
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 80
+Interventions: Clinical test
+Locations: 1 sites
+Primary Outcome: 2 minute walk test -2MWT
+
+----------------------------------------------------------------------
+
+**NCT02923180** - Neoadjuvant Enoblituzumab (MGA271) in Men With Localized Intermediate and High-Risk Prostate Cancer
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 33
+Interventions: Enoblituzumab
+Locations: 1 sites
+Primary Outcome: Number of Participants With Treatment-related Adverse Events
+
+----------------------------------------------------------------------
+
+**NCT00005627** - Estramustine, Docetaxel, and Carboplatin in Treating Patients With Prostate Cancer That Has Not Responded to Hormone The
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 0
+Interventions: carboplatin, docetaxel
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+**NCT04852224** - Strength, Aging, and Memory in Prostate Cancer
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 20
+Locations: 1 sites
+Primary Outcome: Change in inhibitory control
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## ATM (162 trials)
+======================================================================
+
+**NCT04063566** - ReIMAGINE Prostate Cancer Screening
+Phase: NA | Status: COMPLETED
+Purpose: SCREENING | Enrollment: 309
+Interventions: Magnetic Resonance Imaging (MRI), Prostate-specific antigen (PSA) test
+Locations: 1 sites
+Primary Outcome: The acceptance rate of an invitation for a screening prostate MRI in men who have not had a prostate
+
+----------------------------------------------------------------------
+
+**NCT00121212** - Positron Emission Tomography in Prostate Cancer
+Phase: NA | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 179
+Interventions: carbon-11 acetate PET scan
+Locations: 1 sites
+Primary Outcome: Determine the role of AC-PET in changing initial patient management
+
+----------------------------------------------------------------------
+
+**NCT00003394** - Combination Chemotherapy in Treating Patients With Advanced Prostate Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 18
+Interventions: carboplatin, endocrine-modulating drug therapy
+Locations: 1 sites
+
+----------------------------------------------------------------------
+
+**NCT01744366** - One Month Degarelix/Comparator Treatment for Prostate Cancer in Chinese Population
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 285
+Interventions: Degarelix, Goserelin
+Locations: 29 sites
+Primary Outcome: Cumulative probability of testosterone at castrate level (≤0.5 ng/mL)
+
+----------------------------------------------------------------------
+
+**NCT06250751** - Behavioral Exercise TRaining for Men Undergoing Androgen Depr Therapy for Prostate Ca
+Phase: NA | Status: COMPLETED
+Purpose: SUPPORTIVE_CARE | Enrollment: 27
+Interventions: Behavioral Exercise Training (BET) intervention
+Locations: 1 sites
+Primary Outcome: Feasibility of trial by assessing the recruitment rate
+
+----------------------------------------------------------------------
+
+**NCT00316927** - Dexamethasone, Aspirin, and Diethylstilbestrol in Treating Patients With Locally Advanced or Metastatic Prostate Cancer
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 260
+Interventions: acetylsalicylic acid, dexamethasone
+Locations: 15 sites
+Primary Outcome: Prostate-specific antigen (PSA) response
+
+----------------------------------------------------------------------
+
+**NCT03721029** - Intraoperative Nerve Monitoring During Robotic-assisted Radical Prostatectomy
+Phase: NA | Status: COMPLETED
+Purpose: PREVENTION | Enrollment: 100
+Interventions: Intraoperative nerve monitoring,, standard of care robotic-assisted radical prostatectomy
+Locations: 1 sites
+Primary Outcome: Return of continence following robotic-assisted radical prostatectomy
+
+----------------------------------------------------------------------
+
+**NCT05832086** - Intermittent Fasting Using a Fasting-Mimicking Diet to Improve Prostate Cancer Control and Metabolic Outcomes
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 138
+Interventions: Fasting Mimicking Diet (FMD), Standard Anti-Cancer Diet
+Locations: 3 sites
+Primary Outcome: Response to cancer treatment
+
+----------------------------------------------------------------------
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: DB-1310, Trastuzumab
+Locations: 21 sites
+Primary Outcome: Phase 1: Percentage of Participants with Dose-Limiting Toxicities (DLTs) as assessed by CTCAE v5.0. 
+
+----------------------------------------------------------------------
+
+**NCT07149831** - A Clinical Trial Evaluating the Safety and Tolerability, Biodistribution and Radiation Dosimetry, and Pharmacokinetics o
+Phase: PHASE1 | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 6
+Interventions: Flotufolastat F-18 Injection
+Locations: 1 sites
+Primary Outcome: To evaluate the biodistribution of Flotufolastat F-18 Injection after a single bolus intravenous inj
+
+----------------------------------------------------------------------
+
+**NCT01148069** - Surgery Combined With Intensity Modulated Radiation Therapy - Image-Guided Radiation Therapy (IMRT-IGRT) in Locally-adva
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 63
+Interventions: Surgery combined with IMRT-IGRT
+Locations: 2 sites
+Primary Outcome: Rate of bladder and/or rectal grade ≥2 toxicity (late toxicity)
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT00252941** - Prophylactic Urethral Stenting With Memokath After Prostate Implantation for Prostate Adenocarcinoma
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 20
+Interventions: Memokath 028SW Urethral Stent
+Locations: 1 sites
+Primary Outcome: Morbidities assessed on RTOG Morbidity Scale weekly for 12 weeks after PI then biweekly for next 12 
+
+----------------------------------------------------------------------
+
+**NCT02061345** - PET Imaging in MCI Following ADT for PCa
+Phase: Not specified | Status: COMPLETED
+Purpose:  | Enrollment: 11
+Locations: 1 sites
+Primary Outcome: PET Biomarker Uptake
+
+----------------------------------------------------------------------
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Zanzalintinib
+Primary Outcome: Radiographic progression free survival (rPFS)
+
+----------------------------------------------------------------------
+
+**NCT01812902** - Prospective Study Comparing Extended With Limited Pelvic Lymphadenectomy in Intermediate and High Risk Prostate Cancer P
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 260
+Interventions: Radical Prostatectomy
+Locations: 1 sites
+Primary Outcome: Biochemical relapse-free survival
+
+----------------------------------------------------------------------
+
+**NCT05110495** - IGF Inhibition With Xentuzumab Prior to Radical Prostatectomy
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Xentuzumab
+Locations: 1 sites
+Primary Outcome: Percentage Change of Phospho-IGF-1R Positive Tumour Cells Following Treatment With Xentuzumab
+
+----------------------------------------------------------------------
+
+**NCT00171639** - The Use of Zoledronic Acid in Men on Androgen Deprivation Therapy for Prostate Cancer With Preexisting Osteoporosis
+Phase: PHASE3 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 28
+Interventions: zoledronic acid
+Locations: 7 sites
+Primary Outcome: Percent change in bone mineral density of the lumbar spine (L2-L4) at 6 and 12 months.
+
+----------------------------------------------------------------------
+
+**NCT03154190** - Health Care Coach Support in Reducing Acute Care Use and Cost in Patients With Cancer
+Phase: NA | Status: COMPLETED
+Purpose: HEALTH_SERVICES_RESEARCH | Enrollment: 128
+Interventions: Best Practice, Laboratory Biomarker Analysis
+Locations: 1 sites
+Primary Outcome: Number of Emergency Department Visits (Chart Review)
+
+----------------------------------------------------------------------
+
+**NCT05603559** - 177Lu-P17-087/177Lu-P17-088 in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: EARLY_PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: 1.1 GBq (30 mCi) of 177Lu-P17-087, 1.1 GBq (30 mCi) of 177Lu-P17-088
+Locations: 1 sites
+Primary Outcome: Dosimetry of normal organs and tumors
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRAF (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA1 (3 trials)
+======================================================================
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 13
+Interventions: Rucaparib, Copanlisib
+Locations: 2 sites
+Primary Outcome: Maximum Tolerated Dose
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+**NCT06212583** - High-Risk Metachronous Oligometastatic Prostate Cancer Trial
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 88
+Interventions: niraparib/abiraterone acetate, Stereotactic ablative radiation therapy (SABR)
+Locations: 1 sites
+Primary Outcome: PSA (Prostate Specific Antigen) evaluation at the 18-month progression of both treatment arms
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## BRCA2 (2 trials)
+======================================================================
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 13
+Interventions: Rucaparib, Copanlisib
+Locations: 2 sites
+Primary Outcome: Maximum Tolerated Dose
+
+----------------------------------------------------------------------
+
+**NCT01339650** - Study of ABT-767 in Subjects With Breast Cancer 1 and Breast Cancer 2 (BRCA 1 and BRCA 2) Mutations and Solid Tumors or 
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 93
+Interventions: ABT-767
+Locations: 3 sites
+Primary Outcome: Pharmacokinetic profile
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## EGFR (5 trials)
+======================================================================
+
+**NCT05110495** - IGF Inhibition With Xentuzumab Prior to Radical Prostatectomy
+Phase: EARLY_PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 27
+Interventions: Xentuzumab
+Locations: 1 sites
+Primary Outcome: Percentage Change of Phospho-IGF-1R Positive Tumour Cells Following Treatment With Xentuzumab
+
+----------------------------------------------------------------------
+
+**NCT05899361** - A Novel Imaging Protocol in Use to Identify Lymph Nodes and Organs of Interest
+Phase: NA | Status: RECRUITING
+Purpose: DIAGNOSTIC | Enrollment: 10
+Interventions: Electromagnetic Guided Laparoscopy, Ultrasound
+Locations: 1 sites
+Primary Outcome: Laparoscope Images
+
+----------------------------------------------------------------------
+
+**NCT00706628** - A Multi-centre 3-arm Randomised Phase II Trial of BIBF 1120 Versus BIBW 2992 Versus Sequential Administration of BIBF 11
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 87
+Interventions: BIBF 1120, BIBW 2992
+Locations: 9 sites
+Primary Outcome: Progression Free Rate (PFR) at 12 Weeks
+
+----------------------------------------------------------------------
+
+**NCT04887935** - Neoadjuvant SGLT2 Inhibition in Localized Prostate Cancer
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 24
+Interventions: Dapagliflozin
+Locations: 1 sites
+Primary Outcome: Frequency and severity of toxicities related to dapagliflozin as measured by CTCAE v 5.0
+
+----------------------------------------------------------------------
+
+**NCT02142608** - A Pilot Trial Using BR55 Ultrasound Contrast Agent in the Assessment of Prostate Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: DIAGNOSTIC | Enrollment: 19
+Interventions: BR55
+Locations: 2 sites
+Primary Outcome: Number of Lesions With Gleason Score ≥ 7 Identified by Ultrasound Molecular Imaging
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## HER2 (5 trials)
+======================================================================
+
+**NCT05785741** - A Study of DB-1310 in Advanced/Metastatic Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 1000
+Interventions: DB-1310, Trastuzumab
+Locations: 21 sites
+Primary Outcome: Phase 1: Percentage of Participants with Dose-Limiting Toxicities (DLTs) as assessed by CTCAE v5.0. 
+
+----------------------------------------------------------------------
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+**NCT04660929** - CAR-macrophages for the Treatment of HER2 Overexpressing Solid Tumors
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 48
+Interventions: CT-0508, Pembrolizumab
+Locations: 7 sites
+Primary Outcome: Assess the safety and tolerability of CT-0508 by estimating the frequency and severity of adverse ev
+
+----------------------------------------------------------------------
+
+**NCT05740956** - A Study of Hansoh (HS)-10502 in Patients With Advanced Solid Tumors
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 318
+Interventions: HS-10502
+Locations: 1 sites
+Primary Outcome: Maximum tolerated dose (MTD) of HS-10502（Stage 1）
+
+----------------------------------------------------------------------
+
+**NCT00005842** - Trastuzumab Plus R115777 in Treating Patients With Advanced or Metastatic Cancer
+Phase: PHASE1 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 24
+Interventions: trastuzumab, tipifarnib
+Locations: 2 sites
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## KRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## MSI-H (1 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 170
+Interventions: vudalimab
+Locations: 17 sites
+Primary Outcome: PSA50 is the primary endpoint for the mCRPC cohort. Objective Response Rate (ORR) as assessed by Res
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## NRAS (1 trials)
+======================================================================
+
+**NCT07038369** - A Phase 1 Study of ATV-1601 in Patients With Advanced Cancer That Have AKT1 E17K Mutations
+Phase: PHASE1 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 134
+Interventions: ATV-1601, ATV-1601 + Fulvestrant
+Locations: 6 sites
+Primary Outcome: Expansion: Maximum and minimum plasma concentration
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PALB2 (2 trials)
+======================================================================
+
+**NCT04253262** - A Study of Copanlisib Combined With Rucaparib in Patients With Metastatic Castration-resistant Prostate Cancer
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 13
+Interventions: Rucaparib, Copanlisib
+Locations: 2 sites
+Primary Outcome: Maximum Tolerated Dose
+
+----------------------------------------------------------------------
+
+**NCT06212583** - High-Risk Metachronous Oligometastatic Prostate Cancer Trial
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 88
+Interventions: niraparib/abiraterone acetate, Stereotactic ablative radiation therapy (SABR)
+Locations: 1 sites
+Primary Outcome: PSA (Prostate Specific Antigen) evaluation at the 18-month progression of both treatment arms
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PD-L1 (1 trials)
+======================================================================
+
+**NCT02788773** - Durvalumab With or Without Tremelimumab in Metastatic Castration Resistant Prostate Cancer
+Phase: PHASE2 | Status: COMPLETED
+Purpose: TREATMENT | Enrollment: 52
+Interventions: Durvalumab, Tremelimumab
+Locations: 11 sites
+Primary Outcome: Objective Response Rate Measured by RECIST 1.1
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## PTEN (2 trials)
+======================================================================
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Zanzalintinib
+Primary Outcome: Radiographic progression free survival (rPFS)
+
+----------------------------------------------------------------------
+
+**NCT01823562** - Aborption and Metabolism of Lyophilized Black Raspberry Food Products in Men With Prostate Cancer Undergoing Surgery
+Phase: PHASE1 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 56
+Interventions: lyophilized black raspberry confection, laboratory biomarker analysis
+Locations: 1 sites
+Primary Outcome: Adverse events assessed using the National Cancer Institute (NCI) Common Terminology Criteria for Ad
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## TP53 (2 trials)
+======================================================================
+
+**NCT07218666** - Zanzalintinib in Men With Aggressive Variant Prostate Cancer
+Phase: PHASE2 | Status: NOT_YET_RECRUITING
+Purpose: TREATMENT | Enrollment: 30
+Interventions: Zanzalintinib
+Primary Outcome: Radiographic progression free survival (rPFS)
+
+----------------------------------------------------------------------
+
+**NCT06212583** - High-Risk Metachronous Oligometastatic Prostate Cancer Trial
+Phase: PHASE2 | Status: RECRUITING
+Purpose: TREATMENT | Enrollment: 88
+Interventions: niraparib/abiraterone acetate, Stereotactic ablative radiation therapy (SABR)
+Locations: 1 sites
+Primary Outcome: PSA (Prostate Specific Antigen) evaluation at the 18-month progression of both treatment arms
+
+----------------------------------------------------------------------
+
+
+======================================================================
+## dMMR (1 trials)
+======================================================================
+
+**NCT05032040** - A Study of XmAb20717 (Vudalimab)in Patients With Selected Advanced Gynecologic and Genitourinary Malignancies
+Phase: PHASE2 | Status: ACTIVE_NOT_RECRUITING
+Purpose: TREATMENT | Enrollment: 170
+Interventions: vudalimab
+Locations: 17 sites
+Primary Outcome: PSA50 is the primary endpoint for the mCRPC cohort. Objective Response Rate (ORR) as assessed by Res
+
+----------------------------------------------------------------------
+

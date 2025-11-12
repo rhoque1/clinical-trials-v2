@@ -17,12 +17,12 @@ def test_basic_search():
     
     if result.get("status") == "success":
         trials = result.get("data", [])
-        print(f"✅ Success! Found {len(trials)} trials")
+        print(f"[OK] Success! Found {len(trials)} trials")
         if trials:
             print(f"   First trial: {trials[0]['nct_id']} - {trials[0]['title'][:60]}...")
         return True
     else:
-        print(f"❌ Error: {result.get('title', 'Unknown error')}")
+        print(f"[X] Error: {result.get('title', 'Unknown error')}")
         return False
 
 if __name__ == "__main__":
